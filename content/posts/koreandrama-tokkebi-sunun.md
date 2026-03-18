@@ -51,26 +51,9 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2020/12/제목을-입력�
  
  
 
-この投稿をInstagramで見る
-
- 
-
- 
- 
- 
-
- 
- 
-
- 
- 
- 
-
- 
- 
-
- 
-[서울패션직업전문학교(@sfc7553820)がシェアした投稿](https://www.instagram.com/p/CISUG0pAg9_/?utm_source=ig_embed&utm_campaign=loading)
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CISUG0pAg9_/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
+<a href="https://www.instagram.com/p/CISUG0pAg9_/">この投稿をInstagramで見る</a>
+</blockquote>
 
 [quads id=14]
 
@@ -95,26 +78,9 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2020/12/제목을-입력�
  
  
 
-この投稿をInstagramで見る
-
- 
-
- 
- 
- 
-
- 
- 
-
- 
- 
- 
-
- 
- 
-
- 
-[류희태(@ryu.hite)がシェアした投稿](https://www.instagram.com/p/Bb0whV9AsMs/?utm_source=ig_embed&utm_campaign=loading)
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/Bb0whV9AsMs/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
+<a href="https://www.instagram.com/p/Bb0whV9AsMs/">この投稿をInstagramで見る</a>
+</blockquote>
 
 ## 3．수능（スヌン）当日は国中が受験生を応援！パトカーで受験会場までエスコート？！
 
@@ -141,26 +107,9 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2020/12/제목을-입력�
  
  
 
-この投稿をInstagramで見る
-
- 
-
- 
- 
- 
-
- 
- 
-
- 
- 
- 
-
- 
- 
-
- 
-[soon(@soonstargram_)がシェアした投稿](https://www.instagram.com/p/Bb0K401DvSS/?utm_source=ig_embed&utm_campaign=loading)
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/Bb0K401DvSS/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
+<a href="https://www.instagram.com/p/Bb0K401DvSS/">この投稿をInstagramで見る</a>
+</blockquote>
 
 [quads id=14]
 
@@ -198,26 +147,9 @@ https://lalalakorea.com/korean-study-oneplusone/
  
  
 
-この投稿をInstagramで見る
-
- 
-
- 
- 
- 
-
- 
- 
-
- 
- 
- 
-
- 
- 
-
- 
-[의정부속눈썹연장.펌 만족도 1위 전문▫️어나더305(@ano.ther305)がシェアした投稿](https://www.instagram.com/p/CWcQrH5vkyR/?utm_source=ig_embed&utm_campaign=loading)
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CWcQrH5vkyR/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
+<a href="https://www.instagram.com/p/CWcQrH5vkyR/">この投稿をInstagramで見る</a>
+</blockquote>
 
 ### 4-2．これからは教室じゃなくて映画館へGO！
 
@@ -233,26 +165,9 @@ https://lalalakorea.com/korean-study-oneplusone/
  
  
 
-この投稿をInstagramで見る
-
- 
-
- 
- 
- 
-
- 
- 
-
- 
- 
- 
-
- 
- 
-
- 
-[메가박스_부산울산경남(@megabox_buk)がシェアした投稿](https://www.instagram.com/p/CWgDzcGvpTK/?utm_source=ig_embed&utm_campaign=loading)
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CWgDzcGvpTK/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
+<a href="https://www.instagram.com/p/CWgDzcGvpTK/">この投稿をInstagramで見る</a>
+</blockquote>
 
 ### 4-3．友達や好きな人を誘って…遊園地に遊びに行こう！
 
@@ -268,26 +183,9 @@ https://lalalakorea.com/korean-study-oneplusone/
  
  
 
-この投稿をInstagramで見る
-
- 
-
- 
- 
- 
-
- 
- 
-
- 
- 
- 
-
- 
- 
-
- 
-[에버랜드(withEverland)(@witheverland)がシェアした投稿](https://www.instagram.com/p/CWaVoDOpZ-g/?utm_source=ig_embed&utm_campaign=loading)
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CWaVoDOpZ-g/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
+<a href="https://www.instagram.com/p/CWaVoDOpZ-g/">この投稿をInstagramで見る</a>
+</blockquote>
 
 ### 4-4．受験票を持って美味しいものを食べに行こう！
 
@@ -303,26 +201,9 @@ https://lalalakorea.com/korean-study-oneplusone/
  
  
 
-この投稿をInstagramで見る
-
- 
-
- 
- 
- 
-
- 
- 
-
- 
- 
- 
-
- 
- 
-
- 
-[애슐리 공식 계정(@your_ashley)がシェアした投稿](https://www.instagram.com/p/CWUphn4sQiY/?utm_source=ig_embed&utm_campaign=loading)
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CWUphn4sQiY/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
+<a href="https://www.instagram.com/p/CWUphn4sQiY/">この投稿をInstagramで見る</a>
+</blockquote>
 
 ## 韓国ドラマ【トッケビ】にも登場！大学入試、수능（スヌン）の受験票で割引！
 

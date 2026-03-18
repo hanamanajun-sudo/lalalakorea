@@ -54,26 +54,9 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2022/01/제목을-입력�
  
  
 
-この投稿をInstagramで見る
-
- 
-
- 
- 
- 
-
- 
- 
-
- 
- 
- 
-
- 
- 
-
- 
-[최유빈(@u_bnna)がシェアした投稿](https://www.instagram.com/p/CZJ79hwpg1_/?utm_source=ig_embed&utm_campaign=loading)
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CZJ79hwpg1_/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
+<a href="https://www.instagram.com/p/CZJ79hwpg1_/">この投稿をInstagramで見る</a>
+</blockquote>
 
  
 **男子のパンツ**も日本とはかなり違って**韓国ではスキニーのように細くタイトに履く**のが定番!
@@ -91,26 +74,9 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2022/01/제목을-입력�
  
  
 
-この投稿をInstagramで見る
-
- 
-
- 
- 
- 
-
- 
- 
-
- 
- 
- 
-
- 
- 
-
- 
-[희중(@hyiju_03)がシェアした投稿](https://www.instagram.com/p/CYZQycuPlOd/?utm_source=ig_embed&utm_campaign=loading)
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CYZQycuPlOd/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
+<a href="https://www.instagram.com/p/CYZQycuPlOd/">この投稿をInstagramで見る</a>
+</blockquote>
 
 [quads id=14]
 
@@ -141,26 +107,9 @@ https://lalalakorea.com/korean-graduation
  
  
 
-この投稿をInstagramで見る
-
- 
-
- 
- 
- 
-
- 
- 
-
- 
- 
- 
-
- 
- 
-
- 
-[교복스타그램 공식계정(@uniform__stagram__)がシェアした投稿](https://www.instagram.com/p/CUWvPPAprdQ/?utm_source=ig_embed&utm_campaign=loading)
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CUWvPPAprdQ/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
+<a href="https://www.instagram.com/p/CUWvPPAprdQ/">この投稿をInstagramで見る</a>
+</blockquote>
 
  
 冬場の**セーターやベストもは短めタイト**が韓国スタイル。
@@ -178,26 +127,9 @@ https://lalalakorea.com/korean-graduation
  
  
 
-この投稿をInstagramで見る
-
- 
-
- 
- 
- 
-
- 
- 
-
- 
- 
- 
-
- 
- 
-
- 
-[장시아(@jangsia3)がシェアした投稿](https://www.instagram.com/p/CZLxhcRJsHO/?utm_source=ig_embed&utm_campaign=loading)
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CZLxhcRJsHO/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
+<a href="https://www.instagram.com/p/CZLxhcRJsHO/">この投稿をInstagramで見る</a>
+</blockquote>
 
  
 
@@ -214,26 +146,9 @@ https://lalalakorea.com/korean-graduation
  
  
 
-この投稿をInstagramで見る
-
- 
-
- 
- 
- 
-
- 
- 
-
- 
- 
- 
-
- 
- 
-
- 
-[혜은(@h._.rlo)がシェアした投稿](https://www.instagram.com/p/CVkIvIPhzwc/?utm_source=ig_embed&utm_campaign=loading)
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CVkIvIPhzwc/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
+<a href="https://www.instagram.com/p/CVkIvIPhzwc/">この投稿をInstagramで見る</a>
+</blockquote>
 
  
 
@@ -304,26 +219,9 @@ K-POPアイドルを目指す子や、舞台やダンスの道を極めたい志
  
  
 
-この投稿をInstagramで見る
-
- 
-
- 
- 
- 
-
- 
- 
-
- 
- 
- 
-
- 
- 
-
- 
-[김주은⚜️juaena(@juaena_1012)がシェアした投稿](https://www.instagram.com/p/CVnOjQpJfdn/?utm_source=ig_embed&utm_campaign=loading)
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CVnOjQpJfdn/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
+<a href="https://www.instagram.com/p/CVnOjQpJfdn/">この投稿をInstagramで見る</a>
+</blockquote>
 
   
 **「私が3年間ダンスを一生懸命踊り、入試の準備を一生懸命したと“証明"する方法は合格しかなくてこの4ヶ月間めちゃめちゃ不安でした。」**
@@ -383,26 +281,9 @@ https://lalalakorea.com/bts-newword-armyforever/
  
  
 
-この投稿をInstagramで見る
-
- 
-
- 
- 
- 
-
- 
- 
-
- 
- 
- 
-
- 
- 
-
- 
-[서준형(@grooveee_bear)がシェアした投稿](https://www.instagram.com/p/CWnVrNclHwH/?utm_source=ig_embed&utm_campaign=loading)
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CWnVrNclHwH/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
+<a href="https://www.instagram.com/p/CWnVrNclHwH/">この投稿をInstagramで見る</a>
+</blockquote>
 
  
 
@@ -457,26 +338,9 @@ https://lalalakorea.com/bts-newword-armyforever/
  
  
 
-この投稿をInstagramで見る
-
- 
-
- 
- 
- 
-
- 
- 
-
- 
- 
- 
-
- 
- 
-
- 
-[ACOPIA(@acopia_star)がシェアした投稿](https://www.instagram.com/p/CIz7fN8H2z0/?utm_source=ig_embed&utm_campaign=loading)
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CIz7fN8H2z0/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
+<a href="https://www.instagram.com/p/CIz7fN8H2z0/">この投稿をInstagramで見る</a>
+</blockquote>
 
 ### BTSジョングクとおそろい!ジョングク出身校の制服(正規品)が買える場所は？
 
@@ -499,26 +363,9 @@ https://lalalakorea.com/bts-newword-armyforever/
  
  
 
-この投稿をInstagramで見る
-
- 
-
- 
- 
- 
-
- 
- 
-
- 
- 
- 
-
- 
- 
-
- 
-[ACOPIA(@acopia_star)がシェアした投稿](https://www.instagram.com/p/CYvq7K-PAA2/?utm_source=ig_embed&utm_campaign=loading)
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CYvq7K-PAA2/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
+<a href="https://www.instagram.com/p/CYvq7K-PAA2/">この投稿をInstagramで見る</a>
+</blockquote>
 
 ### BTSジョングクの出身高校のリアルな様子がわかるハッシュタグは?
 

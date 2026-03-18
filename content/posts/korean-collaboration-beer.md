@@ -39,26 +39,9 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2022/01/썸네일-001.png
  
  
 
-この投稿をInstagramで見る
-
- 
-
- 
- 
- 
-
- 
- 
-
- 
- 
- 
-
- 
- 
-
- 
-[배달의민족(@baemin_official)がシェアした投稿](https://www.instagram.com/p/CVhrkVtPywe/?utm_source=ig_embed&utm_campaign=loading)
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CVhrkVtPywe/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
+<a href="https://www.instagram.com/p/CVhrkVtPywe/">この投稿をInstagramで見る</a>
+</blockquote>
 
  
 
@@ -77,26 +60,9 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2022/01/썸네일-001.png
  
  
 
-この投稿をInstagramで見る
-
- 
-
- 
- 
- 
-
- 
- 
-
- 
- 
- 
-
- 
- 
-
- 
-[세븐일레븐 공식 인스타그램(@7elevenkorea)がシェアした投稿](https://www.instagram.com/p/CV2aAdsrjjd/?utm_source=ig_embed&utm_campaign=loading)
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CV2aAdsrjjd/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
+<a href="https://www.instagram.com/p/CV2aAdsrjjd/">この投稿をInstagramで見る</a>
+</blockquote>
 
 [quads id=14]
 
@@ -143,26 +109,9 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2022/01/썸네일-001.png
  
  
 
-この投稿をInstagramで見る
-
- 
-
- 
- 
- 
-
- 
- 
-
- 
- 
- 
-
- 
- 
-
- 
-[MUZIKTIGER(@muziktiger)がシェアした投稿](https://www.instagram.com/p/B-PCiI8JKKa/?utm_source=ig_embed&utm_campaign=loading)
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/B-PCiI8JKKa/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
+<a href="https://www.instagram.com/p/B-PCiI8JKKa/">この投稿をInstagramで見る</a>
+</blockquote>
 
 『뚱랑이(ットゥンナンイ)』とは?
 
@@ -191,26 +140,9 @@ OFFの時は一日の終わりを爽やかに
  
  
 
-この投稿をInstagramで見る
-
- 
-
- 
- 
- 
-
- 
- 
-
- 
- 
- 
-
- 
- 
-
- 
-[세븐일레븐 공식 인스타그램(@7elevenkorea)がシェアした投稿](https://www.instagram.com/p/CYbLsBBlMaW/?utm_source=ig_embed&utm_campaign=loading)
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CYbLsBBlMaW/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
+<a href="https://www.instagram.com/p/CYbLsBBlMaW/">この投稿をInstagramで見る</a>
+</blockquote>
 
 [quads id=14]
 
@@ -269,26 +201,9 @@ OFFの時は一日の終わりを爽やかに
  
  
 
-この投稿をInstagramで見る
-
- 
-
- 
- 
- 
-
- 
- 
-
- 
- 
- 
-
- 
- 
-
- 
-[[CU 편의점 공식 인스타그램](@cu_official)がシェアした投稿](https://www.instagram.com/p/CVkXNbAPgeE/?utm_source=ig_embed&utm_campaign=loading)
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CVkXNbAPgeE/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
+<a href="https://www.instagram.com/p/CVkXNbAPgeE/">この投稿をInstagramで見る</a>
+</blockquote>
 
 **オススメ記事**
 
@@ -315,26 +230,9 @@ https://lalalakorea.com/korean-hashtag-konstagram/
  
  
 
-この投稿をInstagramで見る
-
- 
-
- 
- 
- 
-
- 
- 
-
- 
- 
- 
-
- 
- 
-
- 
-[뷰리뷰 먹스타그램(@vu_review)がシェアした投稿](https://www.instagram.com/p/CCbDxVRFmdi/?utm_source=ig_embed&utm_campaign=loading)
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CCbDxVRFmdi/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
+<a href="https://www.instagram.com/p/CCbDxVRFmdi/">この投稿をInstagramで見る</a>
+</blockquote>
 
 その元祖、**韓国の『ハニーバターチップ』とコンビニ「GS25」がコラボ**したビールが登場。
 
@@ -351,26 +249,9 @@ https://lalalakorea.com/korean-hashtag-konstagram/
  
  
 
-この投稿をInstagramで見る
-
- 
-
- 
- 
- 
-
- 
- 
-
- 
- 
- 
-
- 
- 
-
- 
-[Lifestyle Platform. GS25(@gs25_official)がシェアした投稿](https://www.instagram.com/p/CYV7UNYjNIF/?utm_source=ig_embed&utm_campaign=loading)
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CYV7UNYjNIF/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
+<a href="https://www.instagram.com/p/CYV7UNYjNIF/">この投稿をInstagramで見る</a>
+</blockquote>
 
 ## 5．BTSと韓国ビール Kloud(クラウド)がコラボ！
 
@@ -387,26 +268,9 @@ https://lalalakorea.com/korean-hashtag-konstagram/
  
  
 
-この投稿をInstagramで見る
-
- 
-
- 
- 
- 
-
- 
- 
-
- 
- 
- 
-
- 
- 
-
- 
-[클라우드 오리지널(@kloudbeer)がシェアした投稿](https://www.instagram.com/p/COkOHzPh7lX/?utm_source=ig_embed&utm_campaign=loading)
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/COkOHzPh7lX/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
+<a href="https://www.instagram.com/p/COkOHzPh7lX/">この投稿をInstagramで見る</a>
+</blockquote>
 
  
 記念インタビューはこちら。
@@ -422,26 +286,9 @@ https://lalalakorea.com/korean-hashtag-konstagram/
  
  
 
-この投稿をInstagramで見る
-
- 
-
- 
- 
- 
-
- 
- 
-
- 
- 
- 
-
- 
- 
-
- 
-[클라우드 오리지널(@kloudbeer)がシェアした投稿](https://www.instagram.com/p/CN_2NvXjxzu/?utm_source=ig_embed&utm_campaign=loading)
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CN_2NvXjxzu/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
+<a href="https://www.instagram.com/p/CN_2NvXjxzu/">この投稿をInstagramで見る</a>
+</blockquote>
 
 ### BTSとコラボKloud(クラウド)ビールはどこで売っている？日本での購入方法は？
 

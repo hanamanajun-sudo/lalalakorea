@@ -26,26 +26,9 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2020/02/제목을-입력�
  
  
 
-この投稿をInstagramで見る
-
- 
-
- 
- 
- 
-
- 
- 
-
- 
- 
- 
-
- 
- 
-
- 
-[JOO(@jooyoung.ko)がシェアした投稿](https://www.instagram.com/p/B8g_xyTl1CT/?utm_source=ig_embed&utm_campaign=loading)
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/B8g_xyTl1CT/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
+<a href="https://www.instagram.com/p/B8g_xyTl1CT/">この投稿をInstagramで見る</a>
+</blockquote>
 
 使われるのは「辛ラーメン」で知られる韓国企業「農心」の商品。ジャージャー麺の「チャパゲッティ」、うどん風の「ノグリ」の麺と粉末スープをまぜて作ります。
 

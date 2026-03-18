@@ -52,26 +52,9 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2022/01/썸네일-009.png
  
  
 
-この投稿をInstagramで見る
-
- 
-
- 
- 
- 
-
- 
- 
-
- 
- 
- 
-
- 
- 
-
- 
-[리쿠(의영)❤(@rikunim)がシェアした投稿](https://www.instagram.com/p/CWU-avUFMQD/?utm_source=ig_embed&utm_campaign=loading)
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CWU-avUFMQD/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
+<a href="https://www.instagram.com/p/CWU-avUFMQD/">この投稿をInstagramで見る</a>
+</blockquote>
 
 [quads id=14]
 
@@ -136,26 +119,9 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2022/01/썸네일-009.png
  
  
 
-この投稿をInstagramで見る
-
- 
-
- 
- 
- 
-
- 
- 
-
- 
- 
- 
-
- 
- 
-
- 
-[지밍🍑(@jimingchu_u)がシェアした投稿](https://www.instagram.com/p/CXbAwuupeaE/?utm_source=ig_embed&utm_campaign=loading)
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CXbAwuupeaE/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
+<a href="https://www.instagram.com/p/CXbAwuupeaE/">この投稿をInstagramで見る</a>
+</blockquote>
 
 ### 3-2．見るだけで癒やされる♡クッション
 
@@ -172,26 +138,9 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2022/01/썸네일-009.png
  
  
 
-この投稿をInstagramで見る
-
- 
-
- 
- 
- 
-
- 
- 
-
- 
- 
- 
-
- 
- 
-
- 
-[식탐츄츄(@podoangel)がシェアした投稿](https://www.instagram.com/p/CVWZNgvvCW-/?utm_source=ig_embed&utm_campaign=loading)
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CVWZNgvvCW-/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
+<a href="https://www.instagram.com/p/CVWZNgvvCW-/">この投稿をInstagramで見る</a>
+</blockquote>
 
 [quads id=14]
 
@@ -210,26 +159,9 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2022/01/썸네일-009.png
  
  
 
-この投稿をInstagramで見る
-
- 
-
- 
- 
- 
-
- 
- 
-
- 
- 
- 
-
- 
- 
-
- 
-[최뮤즈(@choi.muse)がシェアした投稿](https://www.instagram.com/p/CW93HVBPg47/?utm_source=ig_embed&utm_campaign=loading)
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CW93HVBPg47/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
+<a href="https://www.instagram.com/p/CW93HVBPg47/">この投稿をInstagramで見る</a>
+</blockquote>
 
 ## 4．「MUZIK TIGER」(ムジークタイガー）のコラボ商品が続々登場！
 
@@ -250,26 +182,9 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2022/01/썸네일-009.png
  
  
 
-この投稿をInstagramで見る
-
- 
-
- 
- 
- 
-
- 
- 
-
- 
- 
- 
-
- 
- 
-
- 
-[에뛰드 ETUDE official(@etudeofficial)がシェアした投稿](https://www.instagram.com/p/CX-G0egv_ZQ/?utm_source=ig_embed&utm_campaign=loading)
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CX-G0egv_ZQ/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
+<a href="https://www.instagram.com/p/CX-G0egv_ZQ/">この投稿をInstagramで見る</a>
+</blockquote>
 
 日本でも**オンラインショップで買える**ので気になる方は覗いてみては?
 

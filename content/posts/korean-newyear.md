@@ -89,26 +89,9 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/12/새해인사-001.
  
  
 
-この投稿をInstagramで見る
-
- 
-
- 
- 
- 
-
- 
- 
-
- 
- 
- 
-
- 
- 
-
- 
-[funlife(@bio_kor)がシェアした投稿](https://www.instagram.com/p/B7vJe5oHZzz/?utm_source=ig_embed&utm_campaign=loading)
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/B7vJe5oHZzz/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
+<a href="https://www.instagram.com/p/B7vJe5oHZzz/">この投稿をInstagramで見る</a>
+</blockquote>
 
 ### ソルラルの風物詩、帰省ラッシュ
 
@@ -147,26 +130,9 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/12/새해인사-001.
  
  
 
-この投稿をInstagramで見る
-
- 
-
- 
- 
- 
-
- 
- 
-
- 
- 
- 
-
- 
- 
-
- 
-[아브컬렉션 AAV(@aav_chloelee)がシェアした投稿](https://www.instagram.com/p/CLIxLSvpjts/?utm_source=ig_embed&utm_campaign=loading)
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CLIxLSvpjts/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
+<a href="https://www.instagram.com/p/CLIxLSvpjts/">この投稿をInstagramで見る</a>
+</blockquote>
 
  
 
@@ -187,26 +153,9 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/12/새해인사-001.
  
  
 
-この投稿をInstagramで見る
-
- 
-
- 
- 
- 
-
- 
- 
-
- 
- 
- 
-
- 
- 
-
- 
-[베틀한복/한복/한복드레스/한복촬영/혼주한복/하객한복(@official_bettlekangnam_)がシェアした投稿](https://www.instagram.com/p/CX7OuT1hrf2/?utm_source=ig_embed&utm_campaign=loading)
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CX7OuT1hrf2/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
+<a href="https://www.instagram.com/p/CX7OuT1hrf2/">この投稿をInstagramで見る</a>
+</blockquote>
 
 ### 韓国のお年玉、세뱃돈（セベットン）の平均額は？
 
@@ -241,26 +190,9 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/12/새해인사-001.
  
  
 
-この投稿をInstagramで見る
-
- 
-
- 
- 
- 
-
- 
- 
-
- 
- 
- 
-
- 
- 
-
- 
-[은지네 집밥 ❤ 홈쿡 / 집밥 /밑반찬(@eunji_kkkkkkkk)がシェアした投稿](https://www.instagram.com/p/CX7-t8pPvL_/?utm_source=ig_embed&utm_campaign=loading)
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CX7-t8pPvL_/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
+<a href="https://www.instagram.com/p/CX7-t8pPvL_/">この投稿をInstagramで見る</a>
+</blockquote>
 
 ### ソルラルにする伝統的な遊びは？〜ユンノリ、ペンイチギ〜
 
@@ -326,26 +258,9 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/12/새해인사-001.
  
  
 
-この投稿をInstagramで見る
-
- 
-
- 
- 
- 
-
- 
- 
-
- 
- 
- 
-
- 
- 
-
- 
-[@sua_playがシェアした投稿](https://www.instagram.com/p/CT3issxFP5u/?utm_source=ig_embed&utm_campaign=loading)
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CT3issxFP5u/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
+<a href="https://www.instagram.com/p/CT3issxFP5u/">この投稿をInstagramで見る</a>
+</blockquote>
 
  
 

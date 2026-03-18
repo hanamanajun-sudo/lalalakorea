@@ -62,26 +62,9 @@ SNSで**勉強専用のアカウント**を作って、更新することでモ�
  
  
 
-この投稿をInstagramで見る
-
- 
-
- 
- 
- 
-
- 
- 
-
- 
- 
- 
-
- 
- 
-
- 
-[보노 / ぼの(@bono_1014)がシェアした投稿](https://www.instagram.com/p/CYLjI3Cp5lA/?utm_source=ig_embed&utm_campaign=loading)
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CYLjI3Cp5lA/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
+<a href="https://www.instagram.com/p/CYLjI3Cp5lA/">この投稿をInstagramで見る</a>
+</blockquote>
 
 [quads id=14]
 
@@ -116,26 +99,9 @@ SNSで**勉強専用のアカウント**を作って、更新することでモ�
  
  
 
-この投稿をInstagramで見る
-
- 
-
- 
- 
- 
-
- 
- 
-
- 
- 
- 
-
- 
- 
-
- 
-[연(@ye.xxy_0)がシェアした投稿](https://www.instagram.com/p/CYLkuv5huXZ/?utm_source=ig_embed&utm_campaign=loading)
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CYLkuv5huXZ/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
+<a href="https://www.instagram.com/p/CYLkuv5huXZ/">この投稿をInstagramで見る</a>
+</blockquote>
 
 ### ・韓国の高校生の日常、야자（ヤジャ）とは
 
@@ -162,26 +128,9 @@ SNSで**勉強専用のアカウント**を作って、更新することでモ�
  
  
 
-この投稿をInstagramで見る
-
- 
-
- 
- 
- 
-
- 
- 
-
- 
- 
- 
-
- 
- 
-
- 
-[청춘을 즐겨라(@cheongjeul)がシェアした投稿](https://www.instagram.com/p/CV-Dv7OspKx/?utm_source=ig_embed&utm_campaign=loading)
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CV-Dv7OspKx/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
+<a href="https://www.instagram.com/p/CV-Dv7OspKx/">この投稿をInstagramで見る</a>
+</blockquote>
 
 [quads id=14]
 
@@ -215,26 +164,9 @@ Check
  
  
 
-この投稿をInstagramで見る
-
- 
-
- 
- 
- 
-
- 
- 
-
- 
- 
- 
-
- 
- 
-
- 
-[별하(@uxxrnxm_)がシェアした投稿](https://www.instagram.com/p/CYQHxEeB21S/?utm_source=ig_embed&utm_campaign=loading)
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CYQHxEeB21S/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
+<a href="https://www.instagram.com/p/CYQHxEeB21S/">この投稿をInstagramで見る</a>
+</blockquote>
 
 ### ・韓国語インスタグラムのハッシュタグ「#공부일기（コンブイルギ）」はどういう意味？
 
@@ -261,26 +193,9 @@ Check
  
  
 
-この投稿をInstagramで見る
-
- 
-
- 
- 
- 
-
- 
- 
-
- 
- 
- 
-
- 
- 
-
- 
-[공시생 융이ᦂ(@yoong__o_ob)がシェアした投稿](https://www.instagram.com/p/CYEqBkGBLMy/?utm_source=ig_embed&utm_campaign=loading)
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CYEqBkGBLMy/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
+<a href="https://www.instagram.com/p/CYEqBkGBLMy/">この投稿をInstagramで見る</a>
+</blockquote>
 
 [quads id=14]
 
@@ -311,26 +226,9 @@ Check
  
  
 
-この投稿をInstagramで見る
-
- 
-
- 
- 
- 
-
- 
- 
-
- 
- 
- 
-
- 
- 
-
- 
-[재수생의 기록 (03년)(@seoul_uv_23)がシェアした投稿](https://www.instagram.com/p/CYMRN6NhsfV/?utm_source=ig_embed&utm_campaign=loading)
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CYMRN6NhsfV/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
+<a href="https://www.instagram.com/p/CYMRN6NhsfV/">この投稿をInstagramで見る</a>
+</blockquote>
 
 ### 韓国語インスタグラムのハッシュタグ「#한국어공부중（ハングゴコンブチュン）」はどういう意味？
 
@@ -358,25 +256,8 @@ Check
  
  
 
-この投稿をInstagramで見る
-
- 
-
- 
- 
- 
-
- 
- 
-
- 
- 
- 
-
- 
- 
-
- 
-[べんきょうちゃんꕀ🧸🎄(@benkyo__chan)がシェアした投稿](https://www.instagram.com/p/CYQFLBEhSRG/?utm_source=ig_embed&utm_campaign=loading)
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CYQFLBEhSRG/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
+<a href="https://www.instagram.com/p/CYQFLBEhSRG/">この投稿をInstagramで見る</a>
+</blockquote>
 
 よかったらみなさんも今回ご紹介したハッシュタグで一度検索してみてくださいね。

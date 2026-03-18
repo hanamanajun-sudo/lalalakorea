@@ -82,26 +82,9 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2022/07/제목을-입력�
  
  
 
-この投稿をInstagramで見る
-
- 
-
- 
- 
- 
-
- 
- 
-
- 
- 
- 
-
- 
- 
-
- 
-[꿀팁정보특공대(@good_honeytip)がシェアした投稿](https://www.instagram.com/p/CYpx4WDNPyj/?utm_source=ig_embed&utm_campaign=loading)
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CYpx4WDNPyj/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
+<a href="https://www.instagram.com/p/CYpx4WDNPyj/">この投稿をInstagramで見る</a>
+</blockquote>
 
  
 
@@ -436,26 +419,9 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2022/07/제목을-입력�
  
  
 
-この投稿をInstagramで見る
-
- 
-
- 
- 
- 
-
- 
- 
-
- 
- 
- 
-
- 
- 
-
- 
-[인사이트 북스(@insight_books)がシェアした投稿](https://www.instagram.com/p/Cce723zBhka/?utm_source=ig_embed&utm_campaign=loading)
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/Cce723zBhka/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
+<a href="https://www.instagram.com/p/Cce723zBhka/">この投稿をInstagramで見る</a>
+</blockquote>
 
  
 

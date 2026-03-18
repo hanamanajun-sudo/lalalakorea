@@ -39,25 +39,9 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2019/12/제목을-입력�
  
  
 
-この投稿をInstagramで見る
-
- 
-
- 
- 
- 
-
- 
- 
-
- 
- 
- 
-
- 
- 
-
-[JTBC <아는형님> 공식계정(@jtbcbros)がシェアした投稿](https://www.instagram.com/p/B5upIo7gvLL/?utm_source=ig_embed&utm_campaign=loading)
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/B5upIo7gvLL/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
+<a href="https://www.instagram.com/p/B5upIo7gvLL/">この投稿をInstagramで見る</a>
+</blockquote>
 
 [quads id=14]
 

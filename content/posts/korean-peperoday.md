@@ -43,26 +43,9 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2020/11/제목을-입력�
  
  
 
-この投稿をInstagramで見る
-
- 
-
- 
- 
- 
-
- 
- 
-
- 
- 
- 
-
- 
- 
-
- 
-[덕천속눈썹 부산속눈썹 연아이래쉬❣(@eyelash_yeon)がシェアした投稿](https://www.instagram.com/p/CWIoNieBko4/?utm_source=ig_embed&utm_campaign=loading)
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CWIoNieBko4/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
+<a href="https://www.instagram.com/p/CWIoNieBko4/">この投稿をInstagramで見る</a>
+</blockquote>
 
 「ペペロデー」は1994年、釜山(プサン)に住む女子高生が数字の1がペペロの形に似ていることから、**「お互いペペロみたいにスマートですらっとしたスタイルになろうね!」**と、**1が4つ並ぶ11月11日にペペロをプレゼント**しあったことが始まりだそう。
 
@@ -87,26 +70,9 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2020/11/제목을-입력�
  
  
 
-この投稿をInstagramで見る
-
- 
-
- 
- 
- 
-
- 
- 
-
- 
- 
- 
-
- 
- 
-
- 
-[부산언니(@busanunnie)がシェアした投稿](https://www.instagram.com/p/CWAC0gZB-gT/?utm_source=ig_embed&utm_campaign=loading)
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CWAC0gZB-gT/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
+<a href="https://www.instagram.com/p/CWAC0gZB-gT/">この投稿をInstagramで見る</a>
+</blockquote>
 
 [quads id=14]
 

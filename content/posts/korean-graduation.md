@@ -49,26 +49,9 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2022/02/제목을-입력�
  
  
 
-この投稿をInstagramで見る
-
- 
-
- 
- 
- 
-
- 
- 
-
- 
- 
- 
-
- 
- 
-
- 
-[손현지(@hyonzzi_)がシェアした投稿](https://www.instagram.com/p/CS1bWuxhzcz/?utm_source=ig_embed&utm_campaign=loading)
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CS1bWuxhzcz/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
+<a href="https://www.instagram.com/p/CS1bWuxhzcz/">この投稿をInstagramで見る</a>
+</blockquote>
 
 ## 大学の卒業アルバムがお見合い写真に？！
 
@@ -99,26 +82,9 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2022/02/제목을-입력�
  
  
 
-この投稿をInstagramで見る
-
- 
-
- 
- 
- 
-
- 
- 
-
- 
- 
- 
-
- 
- 
-
- 
-[서예린(@s_ye.rin)がシェアした投稿](https://www.instagram.com/p/CLsqEQDlFn4/?utm_source=ig_embed&utm_campaign=loading)
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CLsqEQDlFn4/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
+<a href="https://www.instagram.com/p/CLsqEQDlFn4/">この投稿をInstagramで見る</a>
+</blockquote>
 
  
 
@@ -143,26 +109,9 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2022/02/제목을-입력�
  
  
 
-この投稿をInstagramで見る
-
- 
-
- 
- 
- 
-
- 
- 
-
- 
- 
- 
-
- 
- 
-
- 
-[도지원(@do__jiwon)がシェアした投稿](https://www.instagram.com/p/CLt__yFM91i/?utm_source=ig_embed&utm_campaign=loading)
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CLt__yFM91i/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
+<a href="https://www.instagram.com/p/CLt__yFM91i/">この投稿をInstagramで見る</a>
+</blockquote>
 
  
 
@@ -181,26 +130,9 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2022/02/제목을-입력�
  
  
 
-この投稿をInstagramで見る
-
- 
-
- 
- 
- 
-
- 
- 
-
- 
- 
- 
-
- 
- 
-
- 
-[지유니🧚🏻(@yunnyjyoo)がシェアした投稿](https://www.instagram.com/p/CXi3SDVpCWV/?utm_source=ig_embed&utm_campaign=loading)
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CXi3SDVpCWV/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
+<a href="https://www.instagram.com/p/CXi3SDVpCWV/">この投稿をInstagramで見る</a>
+</blockquote>
 
  
 
@@ -217,26 +149,9 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2022/02/제목을-입력�
  
  
 
-この投稿をInstagramで見る
-
- 
-
- 
- 
- 
-
- 
- 
-
- 
- 
- 
-
- 
- 
-
- 
-[전주한옥마을한복대여 전주경성의복 이리오너라(@lree_oneora)がシェアした投稿](https://www.instagram.com/p/CP2b826l7LJ/?utm_source=ig_embed&utm_campaign=loading)
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CP2b826l7LJ/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
+<a href="https://www.instagram.com/p/CP2b826l7LJ/">この投稿をInstagramで見る</a>
+</blockquote>
 
 ## 韓国の卒業式のビッグイベント！空に向かって一斉に帽子投げ
 
@@ -261,26 +176,9 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2022/02/제목을-입력�
  
  
 
-この投稿をInstagramで見る
-
- 
-
- 
- 
- 
-
- 
- 
-
- 
- 
- 
-
- 
- 
-
- 
-[예솔(@yyesolll)がシェアした投稿](https://www.instagram.com/p/CSyyHj6HwIe/?utm_source=ig_embed&utm_campaign=loading)
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CSyyHj6HwIe/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
+<a href="https://www.instagram.com/p/CSyyHj6HwIe/">この投稿をInstagramで見る</a>
+</blockquote>
 
  
 **韓国の中学・高校では卒業式に小麦粉をかけあう文化が消えた?**
@@ -304,26 +202,9 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2022/02/제목을-입력�
  
  
 
-この投稿をInstagramで見る
-
- 
-
- 
- 
- 
-
- 
- 
-
- 
- 
- 
-
- 
- 
-
- 
-[한태령(@_.hx._r_)がシェアした投稿](https://www.instagram.com/p/CYp20bJvZ2g/?utm_source=ig_embed&utm_campaign=loading)
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CYp20bJvZ2g/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
+<a href="https://www.instagram.com/p/CYp20bJvZ2g/">この投稿をInstagramで見る</a>
+</blockquote>
 
 ### 韓国の中学・高校では卒業式に小麦粉をかけあう文化が消えた？
 

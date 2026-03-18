@@ -23,25 +23,9 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2019/12/제목을-입력�
  
  
 
-この投稿をInstagramで見る
-
- 
-
- 
- 
- 
-
- 
- 
-
- 
- 
- 
-
- 
- 
-
-[JTBC <아는형님> 공식계정(@jtbcbros)がシェアした投稿](https://www.instagram.com/p/B5upIo7gvLL/?utm_source=ig_embed&utm_campaign=loading)
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/B5upIo7gvLL/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
+<a href="https://www.instagram.com/p/B5upIo7gvLL/">この投稿をInstagramで見る</a>
+</blockquote>
 
 ゲーム**「고요 속에 외침（静けさの中の叫び）」**に挑戦。
 
@@ -63,25 +47,9 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2019/12/제목을-입력�
  
  
 
-この投稿をInstagramで見る
-
- 
-
- 
- 
- 
-
- 
- 
-
- 
- 
- 
-
- 
- 
-
-[JTBC <아는형님> 공식계정(@jtbcbros)がシェアした投稿](https://www.instagram.com/p/B52icsuAC-Z/?utm_source=ig_embed&utm_campaign=loading)
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/B52icsuAC-Z/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
+<a href="https://www.instagram.com/p/B52icsuAC-Z/">この投稿をInstagramで見る</a>
+</blockquote>
 
 [quads id=14]
 
@@ -223,25 +191,9 @@ https://lalalakorea.com/korean-study-happek/
  
  
 
-この投稿をInstagramで見る
-
- 
-
- 
- 
- 
-
- 
- 
-
- 
- 
- 
-
- 
- 
-
-[JTBC <아는형님> 공식계정(@jtbcbros)がシェアした投稿](https://www.instagram.com/p/B52icsuAC-Z/?utm_source=ig_embed&utm_campaign=loading)
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/B52icsuAC-Z/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
+<a href="https://www.instagram.com/p/B52icsuAC-Z/">この投稿をInstagramで見る</a>
+</blockquote>
 
 ## 4．プラスアップ単語　「패딩（ぺディン）・팬티（ペンティ）・안에（アネ）」
 

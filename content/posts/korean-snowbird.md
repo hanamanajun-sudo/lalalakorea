@@ -37,26 +37,9 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/01/제목을-입력�
  
  
 
-この投稿をInstagramで見る
-
- 
-
- 
- 
- 
-
- 
- 
-
- 
- 
- 
-
- 
- 
-
- 
-[@strawberry_min809がシェアした投稿](https://www.instagram.com/p/CXnrTfPFB3v/?utm_source=ig_embed&utm_campaign=loading)
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CXnrTfPFB3v/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
+<a href="https://www.instagram.com/p/CXnrTfPFB3v/">この投稿をInstagramで見る</a>
+</blockquote>
 
 ##  
 
@@ -86,26 +69,9 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/01/제목을-입력�
  
  
 
-この投稿をInstagramで見る
-
- 
-
- 
- 
- 
-
- 
- 
-
- 
- 
- 
-
- 
- 
-
- 
-[cpbcFM 행복을 여는 아침(@cpbc_happymorning)がシェアした投稿](https://www.instagram.com/p/CXsWGawpOs8/?utm_source=ig_embed&utm_campaign=loading)
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CXsWGawpOs8/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
+<a href="https://www.instagram.com/p/CXsWGawpOs8/">この投稿をInstagramで見る</a>
+</blockquote>
 
 [quads id=14]
 
@@ -172,23 +138,6 @@ https://lalalakorea.com/korean-movie-oasis/
  
  
 
-この投稿をInstagramで見る
-
- 
-
- 
- 
- 
-
- 
- 
-
- 
- 
- 
-
- 
- 
-
- 
-[20대 뭐 하지?(@all.about.20s)がシェアした投稿](https://www.instagram.com/p/CXvhHyqv4LI/?utm_source=ig_embed&utm_campaign=loading)
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CXvhHyqv4LI/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
+<a href="https://www.instagram.com/p/CXvhHyqv4LI/">この投稿をInstagramで見る</a>
+</blockquote>

@@ -284,26 +284,9 @@ https://lalalakorea.com/korean-newyear/
  
  
 
-この投稿をInstagramで見る
-
- 
-
- 
- 
- 
-
- 
- 
-
- 
- 
- 
-
- 
- 
-
- 
-[Jungkook(@abcdefghi__lmnopqrstuvwxyz)がシェアした投稿](https://www.instagram.com/p/CYJqH4dvDCk/?utm_source=ig_embed&utm_campaign=loading)
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CYJqH4dvDCk/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
+<a href="https://www.instagram.com/p/CYJqH4dvDCk/">この投稿をInstagramで見る</a>
+</blockquote>
 
 [quads id=14]
 
