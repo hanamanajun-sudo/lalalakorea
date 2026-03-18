@@ -1,0 +1,36 @@
+backend:
+  name: github
+  repo: hanamanajun-sudo/lalalakorea
+  branch: main
+
+media_folder: public/images/uploads
+public_folder: /images/uploads
+
+locale: ja
+
+collections:
+  - name: posts
+    label: ブログ記事
+    folder: content/posts
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: タイトル, name: title, widget: string }
+      - { label: スラッグ (URL), name: slug, widget: string }
+      - { label: 公開日, name: date, widget: datetime, format: YYYY-MM-DD }
+      - label: カテゴリ
+        name: categories
+        widget: select
+        multiple: true
+        options:
+          - 韓国語
+          - 韓国グルメ
+          - 韓国エンタメ
+          - 韓国コスメ
+          - 韓国旅行
+          - 韓国の文化
+          - 韓国ホットイシュー
+          - ハッシュタグ
+          - 未分類
+      - { label: 概要 (SEO用), name: excerpt, widget: text, required: false }
+      - { label: 本文, name: body, widget: markdown }
