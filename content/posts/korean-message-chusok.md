@@ -4,6 +4,7 @@ slug: "korean-message-chusok"
 date: "2021-09-09"
 categories: ["韓国の文化"]
 excerpt: ""
+thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/09/IMG_20210911_135815_403.jpg"
 ---
 
 **2021.9.19追記しました。**

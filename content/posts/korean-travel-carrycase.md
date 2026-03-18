@@ -4,6 +4,7 @@ slug: "korean-travel-carrycase"
 date: "2021-11-24"
 categories: ["韓国語"]
 excerpt: ""
+thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/11/카톡-한국어-1-010.png"
 ---
 
 ## 空港で預けた手荷物が出てこない！こんな時、韓国語で何と言う？

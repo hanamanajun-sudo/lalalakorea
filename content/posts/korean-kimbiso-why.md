@@ -4,6 +4,7 @@ slug: "korean-kimbiso-why"
 date: "2020-11-17"
 categories: ["韓国語"]
 excerpt: ""
+thumbnail: "https://lalalakorea.com/wp-content/uploads/2020/11/제목을-입력해주세요_-004-2.png"
 ---
 
 ## 韓国語で『왜（ウェ）』の意味は？よく使うフレーズをマスターしよう！

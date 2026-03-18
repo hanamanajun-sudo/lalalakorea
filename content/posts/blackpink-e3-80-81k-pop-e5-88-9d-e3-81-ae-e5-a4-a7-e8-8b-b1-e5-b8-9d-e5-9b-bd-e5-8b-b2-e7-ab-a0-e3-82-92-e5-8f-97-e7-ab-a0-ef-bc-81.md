@@ -4,6 +4,7 @@ slug: "blackpink-e3-80-81k-pop-e5-88-9d-e3-81-ae-e5-a4-a7-e8-8b-b1-e5-b8-9d-e5-9
 date: "2023-11-26"
 categories: ["韓国エンタメ", "韓国ホットイシュー"]
 excerpt: ""
+thumbnail: "https://lalalakorea.com/wp-content/uploads/2023/11/パステル　白　はてなブログ　旅行　ブログ　アイキャッチ画像.png"
 ---
 
 ## BLACKPINK、K-POP初の大英帝国勲章を受章！気候変動に対するメッセージが評価

@@ -4,6 +4,7 @@ slug: "koreandrama-netflix-squid1"
 date: "2021-09-25"
 categories: ["韓国語"]
 excerpt: ""
+thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/09/제목을-입력해주세요_-022-1.png"
 ---
 
 QUESTION

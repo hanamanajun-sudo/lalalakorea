@@ -4,6 +4,7 @@ slug: "yuns-kitchen-1"
 date: "2021-09-18"
 categories: ["韓国語"]
 excerpt: ""
+thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/09/제목을-입력해주세요_-005-1.png"
 ---
 
 QUESTION

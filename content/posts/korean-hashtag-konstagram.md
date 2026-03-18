@@ -4,6 +4,7 @@ slug: "korean-hashtag-konstagram"
 date: "2022-01-03"
 categories: ["ハッシュタグ"]
 excerpt: ""
+thumbnail: "https://lalalakorea.com/wp-content/uploads/2022/01/썸네일-006.png"
 ---
 
 ## 韓国の「#勉強垢！」ハッシュタグ「#공스타그램（コンスタグラム）」の意味は？

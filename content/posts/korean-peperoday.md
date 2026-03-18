@@ -4,6 +4,7 @@ slug: "korean-peperoday"
 date: "2020-11-10"
 categories: ["韓国の文化"]
 excerpt: ""
+thumbnail: "https://lalalakorea.com/wp-content/uploads/2020/11/제목을-입력해주세요_-007-1.png"
 ---
 
 ## 韓国の빼빼로데이（ペペロデー）って？BTSジミン、ペペロデーにファンサービス

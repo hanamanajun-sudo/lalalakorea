@@ -4,6 +4,7 @@ slug: "korean-study-happek"
 date: "2019-12-20"
 categories: ["韓国語"]
 excerpt: ""
+thumbnail: "https://lalalakorea.com/wp-content/uploads/2019/12/제목을-입력해주세요_-007.png"
 ---
 
 ## １．ホッカイロは韓国語でなんという？〜EXOに学ぶ韓国語〜

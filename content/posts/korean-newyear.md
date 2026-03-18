@@ -4,6 +4,7 @@ slug: "korean-newyear"
 date: "2021-12-27"
 categories: ["韓国の文化"]
 excerpt: ""
+thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/12/새해인사-001.png"
 ---
 
 ## 韓国のお正月はいつ？旧正月ソルラル（설날）って？

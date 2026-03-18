@@ -4,6 +4,7 @@ slug: "bts-newword-armyforever"
 date: "2022-01-04"
 categories: ["韓国語"]
 excerpt: ""
+thumbnail: "https://lalalakorea.com/wp-content/uploads/2022/01/썸네일-012.png"
 ---
 
 ## BTSジョングクが作ったArmy（アーミィ）との合言葉「아포방포(アポバンポ)」、「아무행알（アムヘンアル）」の意味は？

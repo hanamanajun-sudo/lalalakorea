@@ -4,6 +4,7 @@ slug: "hashtag-valentines-day"
 date: "2022-01-23"
 categories: ["ハッシュタグ"]
 excerpt: ""
+thumbnail: "https://lalalakorea.com/wp-content/uploads/2022/01/제목을-입력해주세요_-006-1.png"
 ---
 
 ## 韓国のバレンタインのリアル、流行りがわかるハッシュタグは？

@@ -4,6 +4,7 @@ slug: "koreandramafightformyway"
 date: "2020-11-26"
 categories: ["韓国エンタメ"]
 excerpt: ""
+thumbnail: "https://lalalakorea.com/wp-content/uploads/2020/11/썸네일-014.png"
 ---
 
 # 韓国ドラマ【サム・マイウェイ】パク・ソジュンのぶりっ子演技～韓国語『 똑땅해（ットクタンヘ）』の意味は？～

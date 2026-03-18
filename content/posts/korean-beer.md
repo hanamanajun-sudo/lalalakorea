@@ -4,6 +4,7 @@ slug: "korean-beer"
 date: "2020-11-10"
 categories: ["韓国語"]
 excerpt: ""
+thumbnail: "https://lalalakorea.com/wp-content/uploads/2020/11/제목을-입력해주세요_-022.png"
 ---
 
 # 韓国語で「ビール」はなんていう？～グルメ韓国語シリーズ～「맥주（メクチュ）」

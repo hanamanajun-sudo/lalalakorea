@@ -4,6 +4,7 @@ slug: "jonggajib-budechige"
 date: "2020-02-26"
 categories: ["韓国グルメ"]
 excerpt: ""
+thumbnail: "https://lalalakorea.com/wp-content/uploads/2020/02/제목을-입력해주세요_-020.png"
 ---
 
 ## 1．韓国鍋『チョンガチプ プデチゲ』の発祥は軍隊？

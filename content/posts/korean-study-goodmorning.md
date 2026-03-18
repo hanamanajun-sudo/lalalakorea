@@ -4,6 +4,7 @@ slug: "korean-study-goodmorning"
 date: "2021-10-07"
 categories: ["未分類"]
 excerpt: ""
+thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/10/010.png"
 ---
 
 ## 1．韓国語で朝の挨拶「おはよう」はなんという？

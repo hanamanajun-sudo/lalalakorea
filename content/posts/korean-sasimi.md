@@ -4,6 +4,7 @@ slug: "korean-sasimi"
 date: "2020-11-12"
 categories: ["韓国グルメ"]
 excerpt: ""
+thumbnail: "https://lalalakorea.com/wp-content/uploads/2020/11/썸네일-007.png"
 ---
 
 # 韓国のお刺身『회（フェ）』

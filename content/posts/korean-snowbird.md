@@ -4,6 +4,7 @@ slug: "korean-snowbird"
 date: "2021-01-10"
 categories: ["韓国の文化"]
 excerpt: ""
+thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/01/제목을-입력해주세요_-005.png"
 ---
 
 ## 韓国で人気の雪アヒル…BTSのRMが作ったDTSって？

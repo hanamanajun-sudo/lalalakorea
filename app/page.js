@@ -33,6 +33,11 @@ export default function Home() {
           <div className="posts-grid">
             {posts.map(post => (
               <Link key={post.slug} href={`/${post.slug}`} className="post-card">
+                {post.thumbnail && (
+                  <div className="post-card-img">
+                    <img src={post.thumbnail} alt={post.title} loading="lazy" />
+                  </div>
+                )}
                 <div className="post-card-body">
                   {post.categories.length > 0 && (
                     <div className="post-cats">

@@ -4,6 +4,7 @@ slug: "korean-zodiac"
 date: "2021-12-30"
 categories: ["韓国語"]
 excerpt: ""
+thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/12/001-1.png"
 ---
 
 ## 1.韓国語임인년（イミンニョン）の意味は？〜韓国語で干支はなんという？〜

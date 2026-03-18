@@ -4,6 +4,7 @@ slug: "korean-study-oneplusone"
 date: "2021-10-19"
 categories: ["韓国語"]
 excerpt: ""
+thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/10/제목을-입력해주세요_-001-3.png"
 ---
 
 ## 韓国語「1+1（ワンプラスワン）」の読み方は？意味は？

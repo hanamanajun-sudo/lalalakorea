@@ -4,6 +4,7 @@ slug: "korean-movie-oasis"
 date: "2021-10-10"
 categories: ["韓国エンタメ"]
 excerpt: ""
+thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/10/제목을-입력해주세요_-004-1.png"
 ---
 
 ## 菅田将暉・仲野太賀絶賛！韓国映画「オアシス」はどんな映画？

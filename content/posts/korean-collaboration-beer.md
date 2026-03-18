@@ -4,6 +4,7 @@ slug: "korean-collaboration-beer"
 date: "2022-01-13"
 categories: ["韓国グルメ"]
 excerpt: ""
+thumbnail: "https://lalalakorea.com/wp-content/uploads/2022/01/썸네일-001.png"
 ---
 
 ## ハニバター、プルダックポックンミョン…BTSまで！韓国のコラボビールが続々登場！

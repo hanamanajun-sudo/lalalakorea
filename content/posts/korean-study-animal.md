@@ -4,6 +4,7 @@ slug: "korean-study-animal"
 date: "2019-12-26"
 categories: ["韓国語"]
 excerpt: ""
+thumbnail: "https://lalalakorea.com/wp-content/uploads/2019/12/제목을-입력해주세요_-013.png"
 ---
 
 ## 1．韓国語「동물（トンムル）」の意味は？～EXOに学ぶ韓国語～

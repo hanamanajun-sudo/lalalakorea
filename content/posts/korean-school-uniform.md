@@ -4,6 +4,7 @@ slug: "korean-school-uniform"
 date: "2022-01-30"
 categories: ["韓国の文化"]
 excerpt: ""
+thumbnail: "https://lalalakorea.com/wp-content/uploads/2022/01/제목을-입력해주세요_-009-3.png"
 ---
 
 ## 韓国の高校の制服のリアル！流行りの着こなし＆BTSの出身高校の制服は？

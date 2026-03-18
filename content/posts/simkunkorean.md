@@ -4,6 +4,7 @@ slug: "simkunkorean"
 date: "2022-07-04"
 categories: ["韓国語"]
 excerpt: ""
+thumbnail: "https://lalalakorea.com/wp-content/uploads/2022/07/제목을-입력해주세요_-007-3.png"
 ---
 
 # 魔法の韓国語ボックス【キュンとする韓国語フレーズ】

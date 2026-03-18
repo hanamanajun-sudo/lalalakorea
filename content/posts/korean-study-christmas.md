@@ -4,6 +4,7 @@ slug: "korean-study-christmas"
 date: "2019-12-23"
 categories: ["韓国の文化"]
 excerpt: ""
+thumbnail: "https://lalalakorea.com/wp-content/uploads/2019/12/SNSでアイドルに韓国語でメッセージを...-1.png"
 ---
 
 ★2021.12.20　クリスマスメッセージ【2021ver】の記事アップしました。

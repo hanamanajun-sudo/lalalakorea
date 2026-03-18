@@ -4,6 +4,7 @@ slug: "christmas-message2"
 date: "2021-12-19"
 categories: ["韓国語"]
 excerpt: ""
+thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/12/제목을-입력해주세요_-011.png"
 ---
 
 ## クリスマスにおすすめの韓国語メッセージ９選

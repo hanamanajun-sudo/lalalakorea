@@ -4,6 +4,7 @@ slug: "korean-suwon-city"
 date: "2022-02-07"
 categories: ["韓国旅行"]
 excerpt: ""
+thumbnail: "https://lalalakorea.com/wp-content/uploads/2022/02/제목을-입력해주세요_-001-1.png"
 ---
 
 ## ソウルのベッドタウン、韓国の（スウォン）市ってどんなところ？出身の芸能人は？

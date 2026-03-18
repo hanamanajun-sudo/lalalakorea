@@ -4,6 +4,7 @@ slug: "korea-expression-of-gratitude-presents"
 date: "2021-09-12"
 categories: ["韓国の文化"]
 excerpt: ""
+thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/09/제목을-입력해주세요_-009-2.png"
 ---
 
 QUESTION

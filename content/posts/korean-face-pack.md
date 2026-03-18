@@ -4,6 +4,7 @@ slug: "korean-face-pack"
 date: "2021-08-31"
 categories: ["韓国コスメ"]
 excerpt: ""
+thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/08/썸네일-009-1.png"
 ---
 
 QUESTION

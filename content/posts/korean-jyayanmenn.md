@@ -4,6 +4,7 @@ slug: "korean-jyayanmenn"
 date: "2019-11-24"
 categories: ["韓国グルメ"]
 excerpt: ""
+thumbnail: "https://lalalakorea.com/wp-content/uploads/2019/11/썸네일-015.png"
 ---
 
 ## 1.韓国人の出前文化はハンパない⁉
