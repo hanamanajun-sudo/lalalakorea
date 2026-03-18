@@ -72,7 +72,9 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/10/010.png"
 
 動画を見て発音を確認して一緒に練習してみよう!
 
-[su_youtube url='https://youtu.be/x7bZUrCuL0s']
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:24px 0;">
+<iframe src="https://www.youtube.com/embed/x7bZUrCuL0s" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy"></iframe>
+</div>
 
 カカオトークの内容について解説していくよ！
 

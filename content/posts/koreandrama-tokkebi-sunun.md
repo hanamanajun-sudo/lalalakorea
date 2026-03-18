@@ -225,4 +225,6 @@ https://lalalakorea.com/korean-study-oneplusone/
 
 今回の記事を読んで、もう一度ドラマを見返してみるのもいいかも?
 
-[su_youtube url="https://youtu.be/o_VeUdFpO8s"]
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:24px 0;">
+<iframe src="https://www.youtube.com/embed/o_VeUdFpO8s" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy"></iframe>
+</div>

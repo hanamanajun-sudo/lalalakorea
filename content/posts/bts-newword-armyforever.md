@@ -188,7 +188,9 @@ Check
 J-HOPEにも**「もともとは아무행알なんだよ」**と得意げに意味を説明していて、アーミーに自分の思いがちゃんと届いていて、さらにファンたちがそのお返しの造語を贈ってくれたことを喜んでいました。
  
  
-[su_youtube url="https://youtu.be/7EXs0VHpcRA"]
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:24px 0;">
+<iframe src="https://www.youtube.com/embed/7EXs0VHpcRA" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy"></iframe>
+</div>
 
 
 ### 3-3.ファンからジョングクへのメッセージ②「정무행알（チョンムヘンアル）」

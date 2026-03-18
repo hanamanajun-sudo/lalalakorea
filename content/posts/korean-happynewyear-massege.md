@@ -101,7 +101,9 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/12/제목을-입력�
 
 **発音の確認はこちらから↓**
 
-[su_youtube url="https://youtu.be/ZYYi4qNfDMA"]
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:24px 0;">
+<iframe src="https://www.youtube.com/embed/ZYYi4qNfDMA" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy"></iframe>
+</div>
  
  
 [友達に送るオススメの新年(ソルラル)の韓国語メッセージ２選](https://lalalakorea.com/korean-happynewyear-massege/2/)
@@ -141,7 +143,9 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/12/제목을-입력�
 
 **発音の確認はこちらから↓**
 
-[su_youtube url="https://youtu.be/ZYYi4qNfDMA"]
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:24px 0;">
+<iframe src="https://www.youtube.com/embed/ZYYi4qNfDMA" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy"></iframe>
+</div>
 
 
 ### 新年にもっと仲良くなりたい友達に送るメッセージ
@@ -226,7 +230,9 @@ https://lalalakorea.com/korean-newyear/
 
 **発音の確認はこちらから↓**
 
-[su_youtube url="https://youtu.be/ZYYi4qNfDMA"]
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:24px 0;">
+<iframe src="https://www.youtube.com/embed/ZYYi4qNfDMA" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy"></iframe>
+</div>
  
  
 [BTSの新年挨拶のメッセージ](https://lalalakorea.com/korean-happynewyear-massege/4/)
@@ -408,7 +414,9 @@ Vのソルラルメッセージ
 
 韓国の童謡で、**韓国人なら誰でも知っている歌**だそうです。
 
-[su_youtube url="https://youtu.be/ctmsSXY2zs8"]
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:24px 0;">
+<iframe src="https://www.youtube.com/embed/ctmsSXY2zs8" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy"></iframe>
+</div>
 
 ### BTSジミンのソルラル（旧正月）挨拶メッセージ
 

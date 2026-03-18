@@ -527,7 +527,9 @@ WWW.QOO10.JP
 **J-HOPE**と**ジョングク**が実際にこの泥マスクを使用し、話題を集めています。
 
 「日常と休息、その間」というコンセプトで制作され、森の中でゆったりとリラックスと過ごすメンバーの様子を見ることができるバラエティ番組**「In the SOOP BTS ver.**」。
-[su_youtube url="https://youtu.be/2bF4ZEQeI_Y"]
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:24px 0;">
+<iframe src="https://www.youtube.com/embed/2bF4ZEQeI_Y" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy"></iframe>
+</div>
 番組中、**J-HOPE**が水分補給に効果的な**グリーンの泥マスク**を使用。
 **「もちもちする。落ち着いた感じがする、悪くないね」**と好評。
 一方、**ジョングク**は**ホワイトの泥マスク**を使用。

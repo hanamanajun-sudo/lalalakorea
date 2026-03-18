@@ -348,7 +348,9 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/11/카톡-한국어-
 
 **機会があったら遊びに来てくださいね。**
 
-[su_youtube url='https://youtu.be/eBPJ9cDOsQI']
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:24px 0;">
+<iframe src="https://www.youtube.com/embed/eBPJ9cDOsQI" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy"></iframe>
+</div>
 
 ### 韓国語で「手荷物」はなんという？〜トラベル韓国語〜
 

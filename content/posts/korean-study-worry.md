@@ -45,7 +45,9 @@ QUESTION
 
 (コクチョンヘジュォソ コマウォヨ)
 
-[su_youtube url='https://youtu.be/YWeI97Hdq54']
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:24px 0;">
+<iframe src="https://www.youtube.com/embed/YWeI97Hdq54" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy"></iframe>
+</div>
 
  
 
@@ -59,7 +61,9 @@ QUESTION
 
 (コクチョンヘジュォソ コマウォ)
 
-[su_youtube url='https://youtu.be/A7ndt5O3_-8']
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:24px 0;">
+<iframe src="https://www.youtube.com/embed/A7ndt5O3_-8" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy"></iframe>
+</div>
 
  
 
@@ -75,7 +79,9 @@ QUESTION
 
 (コクチョンハジマヨ)
 
-[su_youtube url='https://youtu.be/pMpCgvp5vng']
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:24px 0;">
+<iframe src="https://www.youtube.com/embed/pMpCgvp5vng" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy"></iframe>
+</div>
 
  
 
@@ -87,7 +93,9 @@ QUESTION
 
 **걱정하지마. **(コクチョンハジマ)
 
-[su_youtube url='https://youtu.be/7rBCs-8croU']
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:24px 0;">
+<iframe src="https://www.youtube.com/embed/7rBCs-8croU" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy"></iframe>
+</div>
 
  
 
@@ -103,7 +111,9 @@ QUESTION
 
  
 
-[su_youtube url='https://youtu.be/oM9JldfcFFw']
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:24px 0;">
+<iframe src="https://www.youtube.com/embed/oM9JldfcFFw" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy"></iframe>
+</div>
 
 いかがでしたか?
 

@@ -39,7 +39,9 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2019/12/제목을-입력�
 
 ## 動画をみたい方はこちらから↓
 
-[su_youtube url="https://youtu.be/OeCVlZKOqTI?t=67"]
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:24px 0;">
+<iframe src="https://www.youtube.com/embed/OeCVlZKOqTI" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy"></iframe>
+</div>
 
  
 
@@ -61,4 +63,6 @@ https://lalalakorea.com/koreandrama-tokkebi-sunun/
 
 今回は公式チャンネルにアップされた심쿵シーンをご紹介。
 
-[su_youtube url="https://youtu.be/AUH30lpx0uU"]
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:24px 0;">
+<iframe src="https://www.youtube.com/embed/AUH30lpx0uU" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy"></iframe>
+</div>

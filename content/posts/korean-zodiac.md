@@ -149,7 +149,9 @@ https://lalalakorea.com/korean-study-oneplusone/
 
 ![](https://lalalakorea.com/wp-content/uploads/2021/12/002-2.png)
 
-[su_youtube url="https://youtu.be/X9kjHzYbIdI"]
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:24px 0;">
+<iframe src="https://www.youtube.com/embed/X9kjHzYbIdI" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy"></iframe>
+</div>
 
 
 ### ねずみ（子）年は韓国語でなんという？

@@ -95,7 +95,9 @@ QUESTION
 
 ### 動画でチェック
 
-[su_youtube url='https://youtu.be/aplVlNEUfgk']
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:24px 0;">
+<iframe src="https://www.youtube.com/embed/aplVlNEUfgk" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy"></iframe>
+</div>
 
 ##  
 
@@ -133,7 +135,9 @@ QUESTION
 
 ### 動画でチェック
 
-[su_youtube url='https://youtu.be/2QZ1mRaq0tA']
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:24px 0;">
+<iframe src="https://www.youtube.com/embed/2QZ1mRaq0tA" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy"></iframe>
+</div>
 
 ##  
 

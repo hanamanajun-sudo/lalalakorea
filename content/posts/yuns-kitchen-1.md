@@ -87,7 +87,7 @@ K-POPがきっかけで韓国にドはマリ!最終的には韓国で働いて�
 
 ### 番組出演シーンをチェック
 
-[su_youtube url=''https://youtu.be/g3bHVic2_Rg]
+
 
  
 
@@ -117,7 +117,9 @@ K-POPがきっかけで韓国にドはマリ!最終的には韓国で働いて�
 
 ### 番組出演シーンをチェック
 
-[su_youtube url='https://www.youtube.com/watch?v=w0F-HYC23s4']
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:24px 0;">
+<iframe src="https://www.youtube.com/embed/w0F-HYC23s4" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy"></iframe>
+</div>
 
 ## オススメ関連記事
 

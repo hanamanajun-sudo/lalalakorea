@@ -216,7 +216,9 @@ View this post on Instagram
 
 ### 動画で発音をチェック！
 
-[su_youtube url="https://youtu.be/VG1quyDplTc"]
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:24px 0;">
+<iframe src="https://www.youtube.com/embed/VG1quyDplTc" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy"></iframe>
+</div>
 
  
 
@@ -241,4 +243,6 @@ View this post on Instagram
 
 ### 動画で発音をチェック！
 
-[su_youtube url='https://youtu.be/9W03GrEjHSg']
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:24px 0;">
+<iframe src="https://www.youtube.com/embed/9W03GrEjHSg" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy"></iframe>
+</div>
