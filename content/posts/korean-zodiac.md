@@ -99,7 +99,6 @@ https://lalalakorea.com/korean-happynewyear-massege/
 
 https://lalalakorea.com/korean-study-oneplusone/
 
-[quads id=14]
 
 ## 4.韓国の干支は日本と違う動物がいる？
 
@@ -152,7 +151,6 @@ https://lalalakorea.com/korean-study-oneplusone/
 
 [su_youtube url="https://youtu.be/X9kjHzYbIdI"]
 
-[quads id=14]
 
 ### ねずみ（子）年は韓国語でなんという？
 

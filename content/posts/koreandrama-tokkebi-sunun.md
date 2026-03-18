@@ -55,7 +55,6 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2020/12/제목을-입력�
 <a href="https://www.instagram.com/p/CISUG0pAg9_/">この投稿をInstagramで見る</a>
 </blockquote>
 
-[quads id=14]
 
 ## 2．合言葉は「수능대박（スヌンテバク）」！家族、後輩が応援団に！
 
@@ -111,7 +110,6 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2020/12/제목을-입력�
 <a href="https://www.instagram.com/p/Bb0K401DvSS/">この投稿をInstagramで見る</a>
 </blockquote>
 
-[quads id=14]
 
 遅刻しそうな受験生を会場まで送り届けるために白バイは待機している場所。
 

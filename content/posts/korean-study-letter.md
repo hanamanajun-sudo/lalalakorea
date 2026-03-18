@@ -51,7 +51,6 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2019/12/제목을-입력�
 <a href="https://www.instagram.com/p/B52icsuAC-Z/">この投稿をInstagramで見る</a>
 </blockquote>
 
-[quads id=14]
 
 ##  
 
@@ -129,7 +128,6 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2019/12/제목을-입력�
 
 耐えるベクヒョン。。
 
-[quads id=14]
 
 ##  
 
@@ -247,7 +245,6 @@ https://lalalakorea.com/korean-study-happek/
 
 「。。。괜찮아?（ケンチャナ）。。。大丈夫？」
 
-[quads id=14]
 
 ![](https://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191219-132022_YouTube-1024x498.jpg)
 

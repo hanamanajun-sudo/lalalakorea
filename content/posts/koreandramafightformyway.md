@@ -22,7 +22,6 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2020/11/썸네일-014.png
 
 ![](https://lalalakorea.com/wp-content/uploads/2020/11/サム・マイウェイ_1.png)
 
-[quads id=14]
 
  
 

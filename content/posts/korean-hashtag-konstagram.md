@@ -66,7 +66,6 @@ SNSで**勉強専用のアカウント**を作って、更新することでモ�
 <a href="https://www.instagram.com/p/CYLjI3Cp5lA/">この投稿をInstagramで見る</a>
 </blockquote>
 
-[quads id=14]
 
 **オススメ記事**
 
@@ -132,7 +131,6 @@ SNSで**勉強専用のアカウント**を作って、更新することでモ�
 <a href="https://www.instagram.com/p/CV-Dv7OspKx/">この投稿をInstagramで見る</a>
 </blockquote>
 
-[quads id=14]
 
 ## ３．他にもオススメ勉強関連の韓国語ハッシュタグ
 
@@ -197,7 +195,6 @@ Check
 <a href="https://www.instagram.com/p/CYEqBkGBLMy/">この投稿をInstagramで見る</a>
 </blockquote>
 
-[quads id=14]
 
 ### ・韓国語インスタグラムのハッシュタグ「#공부시간 （コンブシガン）」はどういう意味？
 

@@ -102,7 +102,6 @@ https://lalalakorea.com/korean-school-uniform/
 <a href="https://www.instagram.com/p/CYJqH4dvDCk/">この投稿をInstagramで見る</a>
 </blockquote>
 
-[quads id=14]
 
 **オススメ関連記事**
 
@@ -191,7 +190,6 @@ J-HOPEにも**「もともとは아무행알なんだよ」**と得意げに意�
  
 [su_youtube url="https://youtu.be/7EXs0VHpcRA"]
 
-[quads id=14]
 
 ### 3-3.ファンからジョングクへのメッセージ②「정무행알（チョンムヘンアル）」
 

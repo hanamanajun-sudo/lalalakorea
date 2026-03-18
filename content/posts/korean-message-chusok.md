@@ -120,7 +120,6 @@ Instagram에서 이 게시물 보기
  
 [joon(@hill999)님의 공유 게시물](https://www.instagram.com/p/BoDsbbABrUo/?utm_source=ig_embed&utm_campaign=loading)
 
-[quads id=14]
 
 ### 職場の上司や目上の人にオススメの秋夕メッセージ①
 
@@ -279,7 +278,6 @@ Instagram에서 이 게시물 보기
  
 [캘리쏘허니(@calli_sohoney)님의 공유 게시물](https://www.instagram.com/p/CE9GbInll3j/?utm_source=ig_embed&utm_campaign=loading)
 
-[quads id=14]
 
 ### 親しい友達にオススメ秋夕(チュソク)メッセージ①
 

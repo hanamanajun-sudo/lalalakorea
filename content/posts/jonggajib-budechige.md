@@ -59,7 +59,6 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2020/02/제목을-입력�
 
 日本向けの製品も開発して、最近はスーパーでもチョンガチプのキムチを見かけますよね。
 
-[quads id=14]
 
 ## 3．お手軽プデチゲの作り方
 

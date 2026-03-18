@@ -53,7 +53,6 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2019/12/SNSでアイド�
 
 [su_youtube url="https://youtu.be/lIYjaiwdMAs"]
 
-[quads id=14]
 
  
 
@@ -113,7 +112,7 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2019/12/SNSでアイド�
 
 ♥ 반짝이는 크리스마스의 불빛처럼 행복으로 반짝이는 행복한 크리스마스 되세요!
 
-　　　　キラキラ輝くクリスマスの光のように幸せなクリスマスになりますように！![](https://lalalakorea.com/wp-content/uploads/2019/12/제목을-입력해주세요._1-4.png)[quads id=14]
+　　　　キラキラ輝くクリスマスの光のように幸せなクリスマスになりますように！![](https://lalalakorea.com/wp-content/uploads/2019/12/제목을-입력해주세요._1-4.png)
 
 ### ６：簡潔！だけどちょっとおしゃれな韓国語クリスマスメッセージ Ver②
 
@@ -139,7 +138,7 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2019/12/SNSでアイド�
 
 　　　　私のクリスマスの願いはこのメッセージを受け取るあなたが幸せなクリスマスを過ごすことです。
 
-　　　　クリスマス、そしてよいお年を。[quads id=14]
+　　　　クリスマス、そしてよいお年を。
 
 ### ９：丁寧・ビジネスでも使用可★年末の挨拶もかねた韓国語クリスマスメッセージ　Ver①
 

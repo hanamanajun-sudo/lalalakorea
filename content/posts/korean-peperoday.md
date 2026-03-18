@@ -74,7 +74,6 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2020/11/제목을-입력�
 <a href="https://www.instagram.com/p/CWAC0gZB-gT/">この投稿をInstagramで見る</a>
 </blockquote>
 
-[quads id=14]
 
 ## 3．ポッキーだけじゃない！インスタ映え☆ペペロン
 
@@ -181,7 +180,6 @@ https://lalalakorea.com/bts-newword-armyforever/
 
 — 방탄소년단 (@BTS_twt) [November 11, 2016](https://twitter.com/BTS_twt/status/797000058776342529?ref_src=twsrc%5Etfw)
 
-[quads id=14]
 
 Check
 

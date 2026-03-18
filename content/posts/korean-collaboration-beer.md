@@ -64,7 +64,6 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2022/01/썸네일-001.png
 <a href="https://www.instagram.com/p/CV2aAdsrjjd/">この投稿をInstagramで見る</a>
 </blockquote>
 
-[quads id=14]
 
  
 
@@ -144,7 +143,6 @@ OFFの時は一日の終わりを爽やかに
 <a href="https://www.instagram.com/p/CYbLsBBlMaW/">この投稿をInstagramで見る</a>
 </blockquote>
 
-[quads id=14]
 
 ### 3．プルダックポックンミョンのコラボビール『プルダックビール』がCUから登場
 

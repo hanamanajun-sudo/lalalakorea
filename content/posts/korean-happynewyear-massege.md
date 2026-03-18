@@ -83,7 +83,6 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/12/제목을-입력�
   
 *新年も幸せで愛に満ち溢れた一年をお過ごしください。*
 
-[quads id=14]
 
 ### 家族とソルラルを過ごす人へのオススメのメッセージ
 
@@ -144,7 +143,6 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/12/제목을-입력�
 
 [su_youtube url="https://youtu.be/ZYYi4qNfDMA"]
 
-[quads id=14]
 
 ### 新年にもっと仲良くなりたい友達に送るメッセージ
 
@@ -210,7 +208,6 @@ https://lalalakorea.com/korean-newyear/
  
 *新年には笑顔になることがいつもそばに満ち溢れていますように。*
 
-[quads id=14]
 
 ### 応援している気持ちがストレートに伝わるメッセージ
 
@@ -288,7 +285,6 @@ https://lalalakorea.com/korean-newyear/
 <a href="https://www.instagram.com/p/CYJqH4dvDCk/">この投稿をInstagramで見る</a>
 </blockquote>
 
-[quads id=14]
 
 ## BTSのソルラル（旧正月）挨拶メッセージ
 

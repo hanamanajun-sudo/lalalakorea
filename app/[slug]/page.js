@@ -1,6 +1,7 @@
 import { getPostBySlug, getAllPosts } from '../../lib/posts';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
+import InstagramEmbed from './InstagramEmbed';
 
 export async function generateStaticParams() {
   const posts = getAllPosts();
@@ -19,6 +20,8 @@ export async function generateMetadata({ params }) {
 export default async function PostPage({ params }) {
   const post = await getPostBySlug(params.slug);
   if (!post) notFound();
+
+  const hasInstagram = post.content.includes('instagram-media');
 
   return (
     <article className="post-page">
@@ -39,6 +42,7 @@ export default async function PostPage({ params }) {
         className="post-content"
         dangerouslySetInnerHTML={{ __html: post.content }}
       />
+      {hasInstagram && <InstagramEmbed />}
     </article>
   );
 }

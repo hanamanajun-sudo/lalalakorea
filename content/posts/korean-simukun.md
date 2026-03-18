@@ -51,7 +51,7 @@ https://lalalakorea.com/korean-movie-oasis/
 
 https://lalalakorea.com/koreandrama-tokkebi-sunun/
 
-## [quads id=14]
+## 
 
 ## ３．韓国語ドラマ「トッケビ」シムクン（심쿵）シーン
 

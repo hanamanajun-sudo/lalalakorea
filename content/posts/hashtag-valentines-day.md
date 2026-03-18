@@ -62,7 +62,6 @@ Check
 <a href="https://www.instagram.com/p/CYtY8wkB1m8/">この投稿をInstagramで見る</a>
 </blockquote>
 
-[quads id=14]
 
 ## 2．韓国ではバレンタインはコンビニが熱い！店頭にバレンタインコーナーが出現
 
@@ -102,7 +101,6 @@ Check
 <a href="https://www.instagram.com/p/CKyLVDHrs30/">この投稿をInstagramで見る</a>
 </blockquote>
 
-[quads id=14]
 
 ## 3．韓国のバレンタインのプレゼントは見た目重視でサイズもビッグサイズ！
 
@@ -185,7 +183,6 @@ Check
 <a href="https://www.instagram.com/p/B8iQSMgpViU/">この投稿をInstagramで見る</a>
 </blockquote>
 
-[quads id=14]
 
 **オススメ記事**
 
@@ -258,7 +255,6 @@ Check
 <a href="https://www.instagram.com/p/CLQbdAmjPz7/">この投稿をInstagramで見る</a>
 </blockquote>
 
-[quads id=14]
 
 ## 5．義理チョコには絶対NG！韓国のバレンタインデー手作りチョコの常識
 
@@ -370,7 +366,6 @@ Check
 <a href="https://www.instagram.com/p/CZC4dJ_Bb1a/">この投稿をInstagramで見る</a>
 </blockquote>
 
-[quads id=14]
 
 ## 7．バレンタインデーは男性側のデートプランのセンスが問われるビッグイベント！
 

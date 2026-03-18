@@ -183,7 +183,6 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2022/02/제목을-입력�
  
 **韓国の中学・高校では卒業式に小麦粉をかけあう文化が消えた?**
 
-[quads id=14]
 
 ## 韓国の中学・高校の卒業式はどんな感じ？
 
@@ -223,7 +222,6 @@ https://lalalakorea.com/korean-school-uniform/
  
 **韓国語で送る卒業のお祝いメッセージおすすめ4選**
 
-[quads id=14]
 
 ## 韓国語で送る卒業のお祝いメッセージおすすめ4選（コピペOK）
 

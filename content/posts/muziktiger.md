@@ -56,7 +56,6 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2022/01/썸네일-009.png
 <a href="https://www.instagram.com/p/CWU-avUFMQD/">この投稿をInstagramで見る</a>
 </blockquote>
 
-[quads id=14]
 
 ## 2．「MUZIK TIGER」(ムジークタイガー）の人気キャラクター『뚱랑이（ットゥンナンイ）』
 
@@ -142,7 +141,6 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2022/01/썸네일-009.png
 <a href="https://www.instagram.com/p/CVWZNgvvCW-/">この投稿をInstagramで見る</a>
 </blockquote>
 
-[quads id=14]
 
 ### 3-3．ステッカー・ステーショナリー
 

@@ -43,7 +43,6 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2019/12/제목을-입력�
 <a href="https://www.instagram.com/p/B5upIo7gvLL/">この投稿をInstagramで見る</a>
 </blockquote>
 
-[quads id=14]
 
  
 
@@ -131,7 +130,6 @@ https://lalalakorea.com/korean-hashtag-konstagram/
 
 カイ「동물 할 때（?）독무할 때!!（トンムラルッテ　トムハルッテ）動物をするとき（？）ソロダンスの時！！」
 
-[quads id=14]
 
 ![](https://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191222-002359.png)
 

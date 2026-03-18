@@ -78,7 +78,6 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2022/01/제목을-입력�
 <a href="https://www.instagram.com/p/CYZQycuPlOd/">この投稿をInstagramで見る</a>
 </blockquote>
 
-[quads id=14]
 
  
 
@@ -228,7 +227,6 @@ K-POPアイドルを目指す子や、舞台やダンスの道を極めたい志
 
 この文章からも**ソウル公演芸術高等学校の入試の競争がいかに熾烈か**がわかりますね。
 
-[quads id=14]
 
 ### ソウル公演芸術高等学校の出身者は？
 

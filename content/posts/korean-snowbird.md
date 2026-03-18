@@ -73,7 +73,6 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/01/제목을-입력�
 <a href="https://www.instagram.com/p/CXsWGawpOs8/">この投稿をInstagramで見る</a>
 </blockquote>
 
-[quads id=14]
 
  
 

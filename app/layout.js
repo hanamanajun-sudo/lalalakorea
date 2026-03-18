@@ -32,7 +32,6 @@ export default function RootLayout({ children }) {
           </div>
         </header>
         <main>{children}</main>
-        <script async src="https://www.instagram.com/embed.js"></script>
         <footer className="site-footer">
           <div className="container">
             <p>© 2026 LalaLaKorea. All rights reserved.</p>

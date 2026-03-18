@@ -67,7 +67,6 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2022/02/제목을-입력�
 <a href="https://www.instagram.com/p/CTZb-k9JbkT/">この投稿をInstagramで見る</a>
 </blockquote>
 
-[quads id=14]
 
 ## 観光客用じゃない！現地韓国人に人気の水原市のスポット＆グルメ
 
@@ -153,7 +152,6 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2022/02/제목을-입력�
 <a href="https://www.instagram.com/p/CNkF16Nl3pl/">この投稿をInstagramで見る</a>
 </blockquote>
 
-[quads id=14]
 
 ### 地元メディアでも有名『연포갈비（ヨンポカルビ）』
 
@@ -178,7 +176,6 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2022/02/제목을-입력�
 
 [**韓国人に愛されるおつまみ（おやつ）！韓国式のソーセージ、『スンデ』**](https://lalalakorea.com/korean-suwon-city/2/)
 
-[quads id=14]
 
 ## 韓国人に愛されるおつまみ（おやつ）！韓国式のソーセージ、『スンデ』
 
@@ -231,7 +228,6 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2022/02/제목을-입력�
 <a href="https://www.instagram.com/p/CYoHeemPMCN/">この投稿をInstagramで見る</a>
 </blockquote>
 
-[quads id=14]
 
 ### スンデタウンに行ったら『スンデホルモン炒め』は外せない！
 
@@ -262,7 +258,6 @@ https://lalalakorea.com/korean-collaboration-beer/
 
 [**水原（スウォン）市出身の芸能人は？**](https://lalalakorea.com/korean-suwon-city/3/)
 
-[quads id=14]
 
 ## 水原（スウォン）市出身の芸能人は？
 
@@ -309,7 +304,7 @@ https://lalalakorea.com/korean-collaboration-beer/
 <a href="https://www.instagram.com/p/CUaHZL3livc/">この投稿をInstagramで見る</a>
 </blockquote>
 
-[quads id=14]
+
  
 
 #### Apink　ユン・ボミ（윤보미）

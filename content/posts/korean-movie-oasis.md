@@ -57,7 +57,6 @@ View this post on Instagram
  
 [@bluman_tw님의 공유 게시물](https://www.instagram.com/p/CMaEIBClK8a/?utm_source=ig_embed&utm_campaign=loading)
 
-[quads id=14]
 
 ### １-１．韓国映画「オアシス」はどんな映画？あらすじは？主演俳優は？
 
@@ -123,7 +122,6 @@ View this post on Instagram
  
 [@movie_duck_님의 공유 게시물](https://www.instagram.com/p/CUlicyVvw7v/?utm_source=ig_embed&utm_campaign=loading)
 
-[quads id=14]
 
 ### ２-１．ムン・ソリさんの経歴
 

@@ -21,7 +21,6 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2020/11/제목을-입력�
 
 ![](https://lalalakorea.com/wp-content/uploads/2020/11/1_1.png)
 
-[quads id=14]
 
  
 
@@ -59,7 +58,6 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2020/11/제목을-입력�
 
 ビール
 
-[quads id=14]
 
 ## ワンポイント
 
