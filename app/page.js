@@ -19,11 +19,11 @@ export default function Home() {
 
       <div className="category-filter">
         <div className="container">
-          <a href="/" className="cat-btn active">すべて</a>
+          <Link href="/" className="cat-btn active">すべて</Link>
           {categories.map(cat => (
-            <a key={cat} href={`/category/${encodeURIComponent(cat)}`} className="cat-btn">
+            <Link key={cat} href={`/category/${encodeURIComponent(cat)}`} className="cat-btn">
               {cat}
-            </a>
+            </Link>
           ))}
         </div>
       </div>

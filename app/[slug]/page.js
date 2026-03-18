@@ -1,4 +1,5 @@
 import { getPostBySlug, getAllPosts } from '../../lib/posts';
+import Link from 'next/link';
 import { notFound } from 'next/navigation';
 
 export async function generateStaticParams() {
@@ -25,9 +26,9 @@ export default async function PostPage({ params }) {
         {post.categories.length > 0 && (
           <div className="cats">
             {post.categories.map(cat => (
-              <a key={cat} href={`/category/${encodeURIComponent(cat)}`} className="cat">
+              <Link key={cat} href={`/category/${encodeURIComponent(cat)}`} className="cat">
                 {cat}
-              </a>
+              </Link>
             ))}
           </div>
         )}

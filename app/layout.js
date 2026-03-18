@@ -1,4 +1,5 @@
 import './globals.css';
+import Link from 'next/link';
 
 export const metadata = {
   title: 'LalaLaKorea – 韓国語・韓国文化をもっと楽しく',
@@ -21,16 +22,17 @@ export default function RootLayout({ children }) {
               <span className="logo-korea">KOREA</span>
             </a>
             <nav className="nav">
-              <a href="/">ホーム</a>
-              <a href="/category/韓国語">韓国語</a>
-              <a href="/category/韓国グルメ">グルメ</a>
-              <a href="/category/韓国エンタメ">エンタメ</a>
-              <a href="/category/韓国旅行">旅行</a>
-              <a href="/category/韓国コスメ">コスメ</a>
+                <Link href="/">ホーム</Link>
+              <Link href="/category/%E9%9F%93%E5%9B%BD%E8%AA%9E">韓国語</Link>
+              <Link href="/category/%E9%9F%93%E5%9B%BD%E3%82%B0%E3%83%AB%E3%83%A1">グルメ</Link>
+              <Link href="/category/%E9%9F%93%E5%9B%BD%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%A1">エンタメ</Link>
+              <Link href="/category/%E9%9F%93%E5%9B%BD%E6%97%85%E8%A1%8C">旅行</Link>
+              <Link href="/category/%E9%9F%93%E5%9B%BD%E3%82%B3%E3%82%B9%E3%83%A1">コスメ</Link>
             </nav>
           </div>
         </header>
         <main>{children}</main>
+        <script async src="https://www.instagram.com/embed.js"></script>
         <footer className="site-footer">
           <div className="container">
             <p>© 2026 LalaLaKorea. All rights reserved.</p>

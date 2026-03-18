@@ -4,7 +4,7 @@ import { notFound } from 'next/navigation';
 
 export async function generateStaticParams() {
   const cats = getAllCategories();
-  return cats.map(c => ({ name: encodeURIComponent(c) }));
+  return cats.map(c => ({ name: c }));
 }
 
 export default function CategoryPage({ params }) {
@@ -23,12 +23,11 @@ export default function CategoryPage({ params }) {
 
       <div className="category-filter">
         <div className="container">
-          <a href="/" className="cat-btn">すべて</a>
+          <Link href="/" className="cat-btn">すべて</Link>
           {categories.map(cat => (
-            <a key={cat} href={`/category/${encodeURIComponent(cat)}`}
-              className={`cat-btn${cat === name ? ' active' : ''}`}>
+            <Link key={cat} href={`/category/${encodeURIComponent(cat)}`} className={`cat-btn${cat === name ? ' active' : ''}`}>
               {cat}
-            </a>
+            </Link>
           ))}
         </div>
       </div>
