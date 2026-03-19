@@ -2,9 +2,11 @@ backend:
   name: github
   repo: hanamanajun-sudo/lalalakorea
   branch: main
+  base_url: https://lalalakorea.com
+  auth_endpoint: api/auth
 
-media_folder: public/images/uploads
-public_folder: /images/uploads
+media_folder: public/wp-content/uploads
+public_folder: /wp-content/uploads
 
 locale: ja
 
@@ -16,7 +18,6 @@ collections:
     slug: "{{slug}}"
     fields:
       - { label: タイトル, name: title, widget: string }
-      - { label: スラッグ (URL), name: slug, widget: string }
       - { label: 公開日, name: date, widget: datetime, format: YYYY-MM-DD }
       - label: カテゴリ
         name: categories
@@ -32,5 +33,6 @@ collections:
           - 韓国ホットイシュー
           - ハッシュタグ
           - 未分類
+      - { label: サムネイル, name: thumbnail, widget: image, required: false }
       - { label: 概要 (SEO用), name: excerpt, widget: text, required: false }
       - { label: 本文, name: body, widget: markdown }
