@@ -9,6 +9,7 @@ const NAV = [
   { href: '/category/%E9%9F%93%E5%9B%BD%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%A1', label: 'エンタメ' },
   { href: '/category/%E9%9F%93%E5%9B%BD%E6%97%85%E8%A1%8C', label: '旅行' },
   { href: '/category/%E9%9F%93%E5%9B%BD%E3%82%B3%E3%82%B9%E3%83%A1', label: 'コスメ' },
+  { href: '/about', label: 'About' },
 ];
 
 export default function MobileMenu() {
