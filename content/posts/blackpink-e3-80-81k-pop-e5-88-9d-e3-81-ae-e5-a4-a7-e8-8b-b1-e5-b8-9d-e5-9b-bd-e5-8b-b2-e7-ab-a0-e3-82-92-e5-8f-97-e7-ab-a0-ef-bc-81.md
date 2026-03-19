@@ -9,19 +9,23 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2023/11/パステル　�
 
 ## BLACKPINK、K-POP初の大英帝国勲章を受章！気候変動に対するメッセージが評価
 
-![](https://lalalakorea.com/wp-content/uploads/2021/11/135882.jpg)    
-
-ミオ
-韓国ドラマとK-POP が大好きなミオです!
-악어오빠 、今日はどんなニュースを教えてくれるの?
-
-![](https://lalalakorea.com/wp-content/uploads/2021/10/제목을-입력해주세요_-002.png)    
-
-악어오빠
-こんにちは!
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/11/135882.jpg" alt="ミオ">
+<div class="chat-bubble-wrap">
+<div class="chat-name">ミオ</div>
+<div class="chat-bubble">韓国ドラマとK-POP が大好きなミオです!
+악어오빠 、今日はどんなニュースを教えてくれるの?</div>
+</div>
+</div>
+<div class="chat-msg chat-right">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/10/제목을-입력해주세요_-002.png" alt="악어오빠">
+<div class="chat-bubble-wrap">
+<div class="chat-name">악어오빠</div>
+<div class="chat-bubble">こんにちは!
 みんなに韓国語と韓国文化を好きになってもらいたいアゴオッパです。
-今回はBLACKPINKについてのニュースを紹介するよ。
-
+今回はBLACKPINKについてのニュースを紹介するよ。</div>
+</div>
+</div>
 ### BLACKPINKがK-POP初の大英帝国勲章を受章!
 
 K-POPのガールズグループである**ブラックピンク**が、**英国の最高勲章である大英帝国勲章**を受けました。
@@ -56,14 +60,19 @@ K-POPのガールズグループである**ブラックピンク**が、**英国
 
 ### BLACKPINKの再契約はどうなる？
 
-![](https://lalalakorea.com/wp-content/uploads/2021/10/제목을-입력해주세요_-002.png)    
-
-악어오빠
-BLACKPINKは2016年にデビューして以来、世界的な人気を誇っているグループ。
+<div class="chat-msg chat-right">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/10/제목을-입력해주세요_-002.png" alt="악어오빠">
+<div class="chat-bubble-wrap">
+<div class="chat-name">악어오빠</div>
+<div class="chat-bubble">BLACKPINKは2016年にデビューして以来、世界的な人気を誇っているグループ。
 所属事務所であるY**Gエンターテインメントとの契約期間は今年で終了する**と見られおり、ファンたちはグループの再契約に向けた期待を高めています。
-**まだ正式な発表はない**ので、これからの動向に注目デスね!
-
-![](https://lalalakorea.com/wp-content/uploads/2021/11/135882.jpg)    
-
-ミオ
-BLACKPINK、私も大好きなグループなので、再契約してこれからも活動を続けてほしいです~!
+**まだ正式な発表はない**ので、これからの動向に注目デスね!</div>
+</div>
+</div>
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/11/135882.jpg" alt="ミオ">
+<div class="chat-bubble-wrap">
+<div class="chat-name">ミオ</div>
+<div class="chat-bubble">BLACKPINK、私も大好きなグループなので、再契約してこれからも活動を続けてほしいです~!</div>
+</div>
+</div>

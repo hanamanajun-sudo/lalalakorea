@@ -7,26 +7,28 @@ excerpt: ""
 thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/09/제목을-입력해주세요_-003-2.png"
 ---
 
-QUESTION
-「梨泰院クラス」を見てからパク・ソジュンさんにハマってます!
-ドラマでみる姿はすごくカッコいいですが、実際はどんな性格なのか知りたいです。
-
-![](https://lalalakorea.com/wp-content/uploads/2021/08/1270157-150x150.jpg)   
-
-ハル
-パク・ソジュンさん、最近日本でも人気ですよね。
-パク・ソジュンさんの「ユン食堂2」で見せる魅力的な性格については[**パク・ソジュンは超優秀なアルバイト**](https://lalalakorea.com/yuns-kitchen-1/)で一度ご紹介しましたね。
-
-![](https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg)       
-
-きなこ
-今回はどんな場面を紹介してくれるんですか?
-
-![](https://lalalakorea.com/wp-content/uploads/2021/08/245689-231x300.jpg)       
-
-ジュン
-
-前回はパク・ソジュンさんの真面目さと仕事熱心ぶりを紹介しました。
+<div class="chat-question">「梨泰院クラス」を見てからパク・ソジュンさんにハマってます!
+ドラマでみる姿はすごくカッコいいですが、実際はどんな性格なのか知りたいです。</div>
+<div class="chat-msg chat-right">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1270157-150x150.jpg" alt="ハル">
+<div class="chat-bubble-wrap">
+<div class="chat-name">ハル</div>
+<div class="chat-bubble">パク・ソジュンさん、最近日本でも人気ですよね。
+パク・ソジュンさんの「ユン食堂2」で見せる魅力的な性格については[**パク・ソジュンは超優秀なアルバイト**](https://lalalakorea.com/yuns-kitchen-1/)で一度ご紹介しましたね。</div>
+</div>
+</div>
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg" alt="きなこ">
+<div class="chat-bubble-wrap">
+<div class="chat-name">きなこ</div>
+<div class="chat-bubble">今回はどんな場面を紹介してくれるんですか?</div>
+</div>
+</div>
+<div class="chat-msg chat-right">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/245689-231x300.jpg" alt="ジュン">
+<div class="chat-bubble-wrap">
+<div class="chat-name">ジュン</div>
+<div class="chat-bubble">前回はパク・ソジュンさんの真面目さと仕事熱心ぶりを紹介しました。
 今回はパク・ソジュンさんの優しさと男気が見られる場面を紹介します。
 
  	- **ヌナがエプロンをつけるのをさりげなく手伝う優しさ
@@ -34,13 +36,16 @@ QUESTION
 
  	- **社長につまみ食いが発覚…!皆を代表して一人謝る男気**
 
-この記事は**【3分】**でサッと読めます
-
-![](https://lalalakorea.com/wp-content/uploads/2021/08/1270157-150x150.jpg)       
-
-ハル
-「ユン食堂2」に出てくる韓国語も一緒に紹介しますので、楽しく勉強してみてくださいね。
-
+この記事は**【3分】**でサッと読めます</div>
+</div>
+</div>
+<div class="chat-msg chat-right">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1270157-150x150.jpg" alt="ハル">
+<div class="chat-bubble-wrap">
+<div class="chat-name">ハル</div>
+<div class="chat-bubble">「ユン食堂2」に出てくる韓国語も一緒に紹介しますので、楽しく勉強してみてくださいね。</div>
+</div>
+</div>
 ## 1．ヌナがエプロンをつけるのをさりげなく手伝う優しさ
 
 エプロンを上手くつけられない先輩のチョン・ユミさんがエプロンをつけるのを手伝って上手な付け方を教えてあげる優しさ!ファンが見たらキュン死すること間違いなし!

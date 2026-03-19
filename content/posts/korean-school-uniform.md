@@ -9,16 +9,19 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2022/01/제목을-입력�
 
 ## 韓国の高校の制服のリアル！流行りの着こなし＆BTSの出身高校の制服は？
 
-![](https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg) 
-
-きなこ
-韓国のドラマで見かける**韓国の高校の制服**がかわいくて気になっています!
-**韓国の制服**について教えてください。
-
-![](https://lalalakorea.com/wp-content/uploads/2022/01/002.png) 
-
-악어오빠
-韓国の制服も日本と同じように夏服と冬服と夏服があるんダ。
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg" alt="きなこ">
+<div class="chat-bubble-wrap">
+<div class="chat-name">きなこ</div>
+<div class="chat-bubble">韓国のドラマで見かける**韓国の高校の制服**がかわいくて気になっています!
+**韓国の制服**について教えてください。</div>
+</div>
+</div>
+<div class="chat-msg chat-right">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2022/01/002.png" alt="악어오빠">
+<div class="chat-bubble-wrap">
+<div class="chat-name">악어오빠</div>
+<div class="chat-bubble">韓国の制服も日本と同じように夏服と冬服と夏服があるんダ。
 今回のオススメトピックはこんな感じダヨ。
      
 
@@ -26,15 +29,18 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2022/01/제목을-입력�
  
 **【2】韓国アイドルや俳優の出身校の制服は？**
  
-**【3】BTSジョングク出身校の制服が買える場所は？**
-
+**【3】BTSジョングク出身校の制服が買える場所は？**</div>
+</div>
+</div>
 ## 韓国の高校の制服の流行りの着こなしは？
 
-![](https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg) 
-
-きなこ
-韓国ドラマをみてると、日本と制服が全然違う感じがするんですけど、**実際の韓国の高校生の制服の着こなし**はどんな感じ?
-
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg" alt="きなこ">
+<div class="chat-bubble-wrap">
+<div class="chat-name">きなこ</div>
+<div class="chat-bubble">韓国ドラマをみてると、日本と制服が全然違う感じがするんですけど、**実際の韓国の高校生の制服の着こなし**はどんな感じ?</div>
+</div>
+</div>
 ### 韓国の女子高生がかわいくて大人っぽい秘訣はコレ！韓国の制服の着こなし「タイト」！
 
 **韓国の制服**は女子も男子も**「タイト」**が**可愛い、かっこいい**んです!

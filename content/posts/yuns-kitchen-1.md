@@ -7,47 +7,53 @@ excerpt: ""
 thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/09/제목을-입력해주세요_-005-1.png"
 ---
 
-QUESTION
-「梨泰院クラス」を見てから**パク・ソジュンさ**んにハマってます!
-ドラマでみる姿はすごくカッコいいですが、**実際はどんな性格なのか**知りたいです。
-
-![](https://lalalakorea.com/wp-content/uploads/2021/08/1270157-150x150.jpg)    
-
-ハル
-K-POPがきっかけで韓国にドはマリ!最終的には韓国で働いているときに出会った韓国人と結婚🖤
+<div class="chat-question">「梨泰院クラス」を見てから**パク・ソジュンさ**んにハマってます!
+ドラマでみる姿はすごくカッコいいですが、**実際はどんな性格なのか**知りたいです。</div>
+<div class="chat-msg chat-right">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1270157-150x150.jpg" alt="ハル">
+<div class="chat-bubble-wrap">
+<div class="chat-name">ハル</div>
+<div class="chat-bubble">K-POPがきっかけで韓国にドはマリ!最終的には韓国で働いているときに出会った韓国人と結婚🖤
 今は小学生の娘と夫と日本在住のハルです。
 パク・ソジュンさん、最近日本でも人気ですよね。
-私の周りでも**パク・ソジュンさんのファンが増えた**気がします。
-
-![](https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg)    
-
-きなこ
-最近韓国ドラマを通じて韓国について勉強中の韓国초보(チョボ/初心者)。
+私の周りでも**パク・ソジュンさんのファンが増えた**気がします。</div>
+</div>
+</div>
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg" alt="きなこ">
+<div class="chat-bubble-wrap">
+<div class="chat-name">きなこ</div>
+<div class="chat-bubble">最近韓国ドラマを通じて韓国について勉強中の韓国초보(チョボ/初心者)。
 最近はBTSのテテが気になっている、きなこです!
 私も「梨泰院クラス」見て好きになって、「キム秘書はいったい、なぜ?」も見ました!
 **パク・ソジュンさんって実際はどんな人柄**なのかな?
-**バラエティ**とか出てたりするんですか?
-
-![](https://lalalakorea.com/wp-content/uploads/2021/08/245689-231x300.jpg)    
-
-ジュン
-안녕하세요!
+**バラエティ**とか出てたりするんですか?</div>
+</div>
+</div>
+<div class="chat-msg chat-right">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/245689-231x300.jpg" alt="ジュン">
+<div class="chat-bubble-wrap">
+<div class="chat-name">ジュン</div>
+<div class="chat-bubble">안녕하세요!
 ハルの夫、ジュンです。
 **パク・ソジュンさんはバラエティ番組にも出ていた**ことありますよ。
 ボクのオススメは**「ユン食堂」**シリーズ。
-**芸能人が期間限定で食堂を運営するバラエティ**なんだけど、パク・ソジュンさんはシリーズ2から出演していて、**真面目さ、優しさ満点の姿でさらにファンを増やした**よ。
-
-![](https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg)    
-
-きなこ
-そうなんですか?
-**パク・ソジュンさんのどんな所が真面目で優しいって評判になったのか**、知りたいです!
-
-![](https://lalalakorea.com/wp-content/uploads/2021/08/245689-231x300.jpg)    
-
-ジュン
-
-パク・ソジュンさんは**「ユン食堂2」でアルバイトとして新しく加入**して、**スペインのガラチコでの韓国食堂**で大活躍しました。
+**芸能人が期間限定で食堂を運営するバラエティ**なんだけど、パク・ソジュンさんはシリーズ2から出演していて、**真面目さ、優しさ満点の姿でさらにファンを増やした**よ。</div>
+</div>
+</div>
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg" alt="きなこ">
+<div class="chat-bubble-wrap">
+<div class="chat-name">きなこ</div>
+<div class="chat-bubble">そうなんですか?
+**パク・ソジュンさんのどんな所が真面目で優しいって評判になったのか**、知りたいです!</div>
+</div>
+</div>
+<div class="chat-msg chat-right">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/245689-231x300.jpg" alt="ジュン">
+<div class="chat-bubble-wrap">
+<div class="chat-name">ジュン</div>
+<div class="chat-bubble">パク・ソジュンさんは**「ユン食堂2」でアルバイトとして新しく加入**して、**スペインのガラチコでの韓国食堂**で大活躍しました。
 **男のボクから見てもいい男だな〜と思う人柄の良さ**が色んな場面に現れていましたよ。
 今回はその中からこんなシーンをご紹介します。
 
@@ -56,13 +62,16 @@ K-POPがきっかけで韓国にドはマリ!最終的には韓国で働いて�
 
  	- **グラスのわずかな曇りも見逃さない!完璧なアルバイトぶり**
 
-この記事は**【3分】**でサッと読めます。
-
-![](https://lalalakorea.com/wp-content/uploads/2021/08/1270157-150x150.jpg)    
-
-ハル
-**「ユン食堂2」に出てくる韓国語も一緒に紹介**しますので、楽しく勉強してみてくださいね。
-
+この記事は**【3分】**でサッと読めます。</div>
+</div>
+</div>
+<div class="chat-msg chat-right">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1270157-150x150.jpg" alt="ハル">
+<div class="chat-bubble-wrap">
+<div class="chat-name">ハル</div>
+<div class="chat-bubble">**「ユン食堂2」に出てくる韓国語も一緒に紹介**しますので、楽しく勉強してみてくださいね。</div>
+</div>
+</div>
 ## 1．市場調査では超優秀なアシスタントに
 
 ガラチコでの周辺のお店の状況やお客さんの様子をみよう、と**開業前に市場調査**に来た一行。

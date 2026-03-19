@@ -9,16 +9,19 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2020/11/제목을-입력�
 
 ## 韓国語で『왜（ウェ）』の意味は？よく使うフレーズをマスターしよう！
 
-![](https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg)  
-
-きなこ
-韓国ドラマでよく**「ウェ?」**っていう言葉がよく聞こえるんですけど…
-どういう意味か教えて下さい!
-
-![](https://lalalakorea.com/wp-content/uploads/2022/01/002.png)  
-
-악어오빠
-**韓国語『왜(ウェ)』**は、英語の**「why?」**に当たる言葉で、**「왜(ウェ)?」**だけでも、**「なんで?どうして?」**という意味でよく使うんだヨ。
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg" alt="きなこ">
+<div class="chat-bubble-wrap">
+<div class="chat-name">きなこ</div>
+<div class="chat-bubble">韓国ドラマでよく**「ウェ?」**っていう言葉がよく聞こえるんですけど…
+どういう意味か教えて下さい!</div>
+</div>
+</div>
+<div class="chat-msg chat-right">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2022/01/002.png" alt="악어오빠">
+<div class="chat-bubble-wrap">
+<div class="chat-name">악어오빠</div>
+<div class="chat-bubble">**韓国語『왜(ウェ)』**は、英語の**「why?」**に当たる言葉で、**「왜(ウェ)?」**だけでも、**「なんで?どうして?」**という意味でよく使うんだヨ。
 
 Check
 
@@ -27,8 +30,9 @@ Check
 **왜**
  
 
-**なんで?/なぜ?/どうして?**
-
+**なんで?/なぜ?/どうして?**</div>
+</div>
+</div>
 ## １．会話によく出てくる！韓国語『왜（ウェ）』を使った表現
 
 それ以外に韓国語では**「なんで〜なの?」**という形の疑問詞としてよく使われます。

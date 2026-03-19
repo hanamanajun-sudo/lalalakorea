@@ -9,28 +9,34 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2022/01/썸네일-009.png
 
 ## 韓国で10代、20代に大人気の「MUZIK TIGER」(ムジークタイガー）って？
 
-![](https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg)
-
-きなこ
-韓国のインスタで**虎のイラストの小物**を見かけて気になっています。
-最近**韓国で人気**なんですか?
-
-![](https://lalalakorea.com/wp-content/uploads/2022/01/001.png)
-
-악어오빠
-アンニョン!
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg" alt="きなこ">
+<div class="chat-bubble-wrap">
+<div class="chat-name">きなこ</div>
+<div class="chat-bubble">韓国のインスタで**虎のイラストの小物**を見かけて気になっています。
+最近**韓国で人気**なんですか?</div>
+</div>
+</div>
+<div class="chat-msg chat-right">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2022/01/001.png" alt="악어오빠">
+<div class="chat-bubble-wrap">
+<div class="chat-name">악어오빠</div>
+<div class="chat-bubble">アンニョン!
 韓国語と韓国文化を皆に教えるのが大好きなアゴオッパだよ。
 実は最近韓国で大ヒットしている**トラのキャラクターで有名なブランド**があるんだ。
 今年は寅年ってこともあってさらに人気が爆発するんじゃないかな?と思っているよ。
-**日本でも人気で入手困難なブランド**だから要チェックだね!
-
-![](https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg)     
-
-きなこ
-そうなの?
+**日本でも人気で入手困難なブランド**だから要チェックだね!</div>
+</div>
+</div>
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg" alt="きなこ">
+<div class="chat-bubble-wrap">
+<div class="chat-name">きなこ</div>
+<div class="chat-bubble">そうなの?
 韓国好き女子としては外せない情報ですね!
-教えて、アゴオッパ!
-
+教えて、アゴオッパ!</div>
+</div>
+</div>
 ## 1．韓国インスタで話題沸騰の人気ブランド、「MUZIK TIGER」(ムジークタイガー）って？
 
 最近韓国のインスタでよく見かけるトラのキャラクター。

@@ -9,26 +9,32 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2022/01/썸네일-012.png
 
 ## BTSジョングクが作ったArmy（アーミィ）との合言葉「아포방포(アポバンポ)」、「아무행알（アムヘンアル）」の意味は？
 
-![](https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg)  
-
-きなこ
-**BTSのジョングク**がInstagramに新年の挨拶アップした新年の挨拶のフレーズ**「아포방포」**ってどういう意味か教えて下さい!
-
-![](https://lalalakorea.com/wp-content/uploads/2022/01/제목을-입력해주세요_-003-1.png)  
-
-악어오빠
-アンニョン!
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg" alt="きなこ">
+<div class="chat-bubble-wrap">
+<div class="chat-name">きなこ</div>
+<div class="chat-bubble">**BTSのジョングク**がInstagramに新年の挨拶アップした新年の挨拶のフレーズ**「아포방포」**ってどういう意味か教えて下さい!</div>
+</div>
+</div>
+<div class="chat-msg chat-right">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2022/01/제목을-입력해주세요_-003-1.png" alt="악어오빠">
+<div class="chat-bubble-wrap">
+<div class="chat-name">악어오빠</div>
+<div class="chat-bubble">アンニョン!
 韓国語と韓国文化を皆に教えるのが大好きな**アゴオッパ**だよ。
 **世界的なスターのBTS**。
 そのメンバーの**ジョングク**が使った**「아포방포」**がどういう意味なのか気になるよね。
-実はこの言葉、**ジョングクがファンのために作った造語**なんだ。
-
-![](https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg)  
-
-きなこ
-え?そうなんですか?
-どういう意味なんですか、教えて〜!
-
+実はこの言葉、**ジョングクがファンのために作った造語**なんだ。</div>
+</div>
+</div>
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg" alt="きなこ">
+<div class="chat-bubble-wrap">
+<div class="chat-name">きなこ</div>
+<div class="chat-bubble">え?そうなんですか?
+どういう意味なんですか、教えて〜!</div>
+</div>
+</div>
 ## 【1】BTSジョングクが作った新語①「아포반포(アポバンポ)」の意味は？
 
 BTSの末っ子メンバー、**ジョングク**。

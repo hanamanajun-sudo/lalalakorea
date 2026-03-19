@@ -9,25 +9,31 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2020/12/제목을-입력�
 
 ## 韓国語수능（スヌン）ってどういう意味？
 
-![](https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg)   
-
-きなこ
-韓国の高校生のInstagramで**수능**って言葉を見かけるんですが、どういう意味ですか?
-
-![](https://lalalakorea.com/wp-content/uploads/2020/12/제목을-입력해주세요_-006.png)   
-
-악어오빠
-アンニョン!
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg" alt="きなこ">
+<div class="chat-bubble-wrap">
+<div class="chat-name">きなこ</div>
+<div class="chat-bubble">韓国の高校生のInstagramで**수능**って言葉を見かけるんですが、どういう意味ですか?</div>
+</div>
+</div>
+<div class="chat-msg chat-right">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2020/12/제목을-입력해주세요_-006.png" alt="악어오빠">
+<div class="chat-bubble-wrap">
+<div class="chat-name">악어오빠</div>
+<div class="chat-bubble">アンニョン!
 韓国語と韓国文化を皆に教えるのが大好きなアゴオッパだヨ。
 **수능(スヌン)は韓国語で大学受験**のことだヨ。
-韓国にも日本と同じように大学入試があるんだ。
-
-![](https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg)   
-
-きなこ
-そうなんですね!
-詳しく教えて下さい!
-
+韓国にも日本と同じように大学入試があるんだ。</div>
+</div>
+</div>
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg" alt="きなこ">
+<div class="chat-bubble-wrap">
+<div class="chat-name">きなこ</div>
+<div class="chat-bubble">そうなんですね!
+詳しく教えて下さい!</div>
+</div>
+</div>
 ## 1．韓国の大学入試、수능（スヌン）ってどんなの？
 
 **日本の大学入学共通テスト**に当たり、大学進学に向けた最初の関門。

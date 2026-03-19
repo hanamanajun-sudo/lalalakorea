@@ -9,16 +9,19 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/12/제목을-입력�
 
 ## 韓国語で新年（ソルラル/설날）の挨拶メッセージ７選〜韓国語で「あけましておめでとう」はなんて言う？
 
-![](https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg)  
-
-きなこ
-もうすぐ**お正月**ですね!
-韓国の友達に**韓国語で「あけましておめでとう」ってメッセージを送りたい**んですけど、韓国語で「あけましておめでとう」ってなんて言うんですか?
-
-![](https://lalalakorea.com/wp-content/uploads/2021/12/제목을-입력해주세요_-003.png)  
-
-악어오빠
-アンニョン!
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg" alt="きなこ">
+<div class="chat-bubble-wrap">
+<div class="chat-name">きなこ</div>
+<div class="chat-bubble">もうすぐ**お正月**ですね!
+韓国の友達に**韓国語で「あけましておめでとう」ってメッセージを送りたい**んですけど、韓国語で「あけましておめでとう」ってなんて言うんですか?</div>
+</div>
+</div>
+<div class="chat-msg chat-right">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/12/제목을-입력해주세요_-003.png" alt="악어오빠">
+<div class="chat-bubble-wrap">
+<div class="chat-name">악어오빠</div>
+<div class="chat-bubble">アンニョン!
 **韓国語と韓国文化を皆に教えるのが大好き**な**アゴオッパ**だよ。
   
 韓国語で**「あけましておめでとう」**は**「새해 복 만히 받으세요(セヘ ボン マニ パドゥセヨ)」**と言うんだ。
@@ -47,8 +50,9 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/12/제목을-입력�
 
 **「새해 복 만히 받으세요(セヘ ボン マニ パドゥセヨ)」**といい、直訳すると「**新年、たくさんの福を受け取ってください」**という意味です。
 
-そのため韓国では12月ころからソルラルまで新年の挨拶があちこちでこの言葉が聞かれます。
-
+そのため韓国では12月ころからソルラルまで新年の挨拶があちこちでこの言葉が聞かれます。</div>
+</div>
+</div>
 ## 目上の親しい人に送る新年(ソルラル)の韓国語メッセージおすすめ3選
 
 目上の親しい人へは少し丁寧さを残しつつ、相手の健康や幸せを願う気持ちをソフトに伝えるのがベター。
@@ -185,16 +189,18 @@ https://lalalakorea.com/korean-newyear/
 
 ## 推しの俳優やアイドルにオススメ新年（ソルラル）挨拶のメッセージ２選
 
-![](https://lalalakorea.com/wp-content/uploads/2021/12/제목을-입력해주세요_-003.png)  
-
-악어오빠
-**推しの俳優やアイドルにSNSで直接新年の挨拶をしてみたい!**という方も多いんじゃない?
+<div class="chat-msg chat-right">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/12/제목을-입력해주세요_-003.png" alt="악어오빠">
+<div class="chat-bubble-wrap">
+<div class="chat-name">악어오빠</div>
+<div class="chat-bubble">**推しの俳優やアイドルにSNSで直接新年の挨拶をしてみたい!**という方も多いんじゃない?
 でも**どんな距離感や言葉遣いが好印象**なのかな?
 **この言葉遣いって失礼にならない**のかな?
 **逆に堅苦しすぎない?**
 なんて色々気になっちゃうよね。
-今回は**アゴオッパのオススメのメッセージを紹介**するから良かったら使ってみてね!
-
+今回は**アゴオッパのオススメのメッセージを紹介**するから良かったら使ってみてね!</div>
+</div>
+</div>
 ### あなたには笑顔でいてほしい！という気持ちが伝わるメッセージ
 
 ![](https://lalalakorea.com/wp-content/uploads/2021/12/007-1.png)

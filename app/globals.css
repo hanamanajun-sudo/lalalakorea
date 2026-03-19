@@ -100,6 +100,69 @@ body {
 }
 .post-date { font-size: 0.75rem; color: #aaa; margin-top: 12px; }
 
+/* ── 대화 말풍선 ── */
+.chat-question {
+  background: linear-gradient(135deg, #fff5f6, #ffe0e5);
+  border-left: 4px solid #e8324a;
+  border-radius: 0 14px 14px 14px;
+  padding: 16px 20px;
+  margin: 20px 0;
+  font-size: 0.95rem;
+  line-height: 1.7;
+  color: #333;
+}
+.chat-question p { margin: 0; }
+
+.chat-msg {
+  display: flex;
+  gap: 12px;
+  margin: 16px 0;
+  align-items: flex-start;
+}
+.chat-right {
+  flex-direction: row-reverse;
+}
+.chat-avatar {
+  width: 48px; height: 48px;
+  border-radius: 50%;
+  object-fit: cover;
+  flex-shrink: 0;
+  border: 2px solid #eee;
+}
+.chat-bubble-wrap {
+  max-width: 75%;
+}
+.chat-right .chat-bubble-wrap {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+}
+.chat-name {
+  font-size: 0.72rem;
+  color: #999;
+  font-weight: 600;
+  margin-bottom: 5px;
+}
+.chat-bubble {
+  background: #f0f0f0;
+  border-radius: 0 18px 18px 18px;
+  padding: 12px 16px;
+  font-size: 0.92rem;
+  line-height: 1.7;
+  color: #222;
+  word-break: break-word;
+}
+.chat-bubble p { margin: 0 0 8px; }
+.chat-bubble p:last-child { margin-bottom: 0; }
+.chat-bubble strong { color: #1a1a1a; }
+.chat-right .chat-bubble {
+  background: #e8324a;
+  color: #fff;
+  border-radius: 18px 0 18px 18px;
+}
+.chat-right .chat-bubble strong { color: #fff; }
+.chat-right .chat-name { text-align: right; }
+
 /* ── 개별 포스트 ── */
 .post-page { max-width: 780px; margin: 0 auto; padding: 40px 20px; }
 .post-header { margin-bottom: 32px; }

@@ -9,15 +9,18 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2022/02/제목을-입력�
 
 ## ソウルのベッドタウン、韓国の（スウォン）市ってどんなところ？出身の芸能人は？
 
-![](https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg) 
-
-きなこ
-この間SNSで知り合った韓国人の友達が韓国の**水原市(スウォン)**出身だそうなんですけど、水原市ってどんな市なのか全然知らなくて、色々知りたいです!
-
-![](https://lalalakorea.com/wp-content/uploads/2022/01/002.png) 
-
-악어오빠
-アンニョン!
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg" alt="きなこ">
+<div class="chat-bubble-wrap">
+<div class="chat-name">きなこ</div>
+<div class="chat-bubble">この間SNSで知り合った韓国人の友達が韓国の**水原市(スウォン)**出身だそうなんですけど、水原市ってどんな市なのか全然知らなくて、色々知りたいです!</div>
+</div>
+</div>
+<div class="chat-msg chat-right">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2022/01/002.png" alt="악어오빠">
+<div class="chat-bubble-wrap">
+<div class="chat-name">악어오빠</div>
+<div class="chat-bubble">アンニョン!
 『韓国궁금중解決隊』リーダー、악어오빠(アゴオッパ)だヨ!
 今回は**韓国の水原(スウォン)市**について教えちゃうヨ!
  
@@ -27,8 +30,9 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2022/02/제목을-입력�
  
 **【2】韓国人に愛されるおつまみ（おやつ）！韓国式のソーセージ、『スンデ』**
  
-**【3】水原(スウォン)市出身の芸能人は?**
-
+**【3】水原(スウォン)市出身の芸能人は?**</div>
+</div>
+</div>
 ## 水原（スウォン）市はどんなところ？観光スポットはあるの？
 
 韓国の**水原(スウォン)市**は、**ソウルの南**に位置する**京畿道(キョンギド)の道庁所在地**。

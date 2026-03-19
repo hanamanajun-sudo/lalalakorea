@@ -9,20 +9,24 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/12/제목을-입력�
 
 ## クリスマスにおすすめの韓国語メッセージ９選
 
-![](https://lalalakorea.com/wp-content/uploads/2021/11/135882.jpg)    
-
-ミオ
-もうすぐ**クリスマス**…
-旅行中に仲良くなった**韓国人の方にクリスマスのメッセージを送りたい**んですけど、おすすめのメッセージを教えて下さい。
-
-![](https://lalalakorea.com/wp-content/uploads/2021/10/제목을-입력해주세요_-002.png)    
-
-악어오빠
-日本と同じく、**韓国でもクリスマスが冬の一大イベント**。
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/11/135882.jpg" alt="ミオ">
+<div class="chat-bubble-wrap">
+<div class="chat-name">ミオ</div>
+<div class="chat-bubble">もうすぐ**クリスマス**…
+旅行中に仲良くなった**韓国人の方にクリスマスのメッセージを送りたい**んですけど、おすすめのメッセージを教えて下さい。</div>
+</div>
+</div>
+<div class="chat-msg chat-right">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/10/제목을-입력해주세요_-002.png" alt="악어오빠">
+<div class="chat-bubble-wrap">
+<div class="chat-name">악어오빠</div>
+<div class="chat-bubble">日本と同じく、**韓国でもクリスマスが冬の一大イベント**。
 クリスマスに親しくなった韓国人の友達や好きなアイドル、俳優にクリスマスメッセージを送りたい!
 でも**韓国語でクリスマスメッセージの定番**がわからない…
-そんな人のために、**送る相手別のクリスマスメッセージ**を紹介します。
-
+そんな人のために、**送る相手別のクリスマスメッセージ**を紹介します。</div>
+</div>
+</div>
 ### 恋人に送るのにピッタリ！の韓国語クリスマスメッセージ
 
 ![](https://lalalakorea.com/wp-content/uploads/2021/12/001.png)

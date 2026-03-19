@@ -9,20 +9,24 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2022/07/제목을-입력�
 
 # 『こんなセリフ言われてみたい！胸キュン韓国語フレーズ60選
 
-![](https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg)
-
-きなこ
-韓国ドラマを見てると**「こんなセリフ一度でいいから言われてみたい!」**って思うセリフがいっぱい出てきますよね。
-そんな**胸キュンのセリフ、韓国語でなんていう**か教えて下さい!
-
-![](https://lalalakorea.com/wp-content/uploads/2022/01/002.png)
-
-악어오빠
-안녕하세요!
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg" alt="きなこ">
+<div class="chat-bubble-wrap">
+<div class="chat-name">きなこ</div>
+<div class="chat-bubble">韓国ドラマを見てると**「こんなセリフ一度でいいから言われてみたい!」**って思うセリフがいっぱい出てきますよね。
+そんな**胸キュンのセリフ、韓国語でなんていう**か教えて下さい!</div>
+</div>
+</div>
+<div class="chat-msg chat-right">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2022/01/002.png" alt="악어오빠">
+<div class="chat-bubble-wrap">
+<div class="chat-name">악어오빠</div>
+<div class="chat-bubble">안녕하세요!
 今回は**심쿵(シムクン)な韓国語フレーズ**を紹介するヨ。
 **심쿵(シムクン)**は韓国語で**『胸キュン』**。
-心臓がドキッとするという意味の新語ダヨ。
-
+心臓がドキッとするという意味の新語ダヨ。</div>
+</div>
+</div>
 ## 『ㄱ』からはじまる胸キュン韓国語フレーズ
 
 ### 걱정했잖아
@@ -739,15 +743,18 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2022/07/제목을-입력�
 
  
 
-![](https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg)
-
-きなこ
-**胸キュン韓国語を眺めつつ、大好きなアイドルが応援してくれてる**…って想像しながら過ごしたら毎日元気出そう!
-
-![](https://lalalakorea.com/wp-content/uploads/2022/01/002.png)
-
-악어오빠
-そんなきなこチャンにおススメのアイテムがあるヨ!
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg" alt="きなこ">
+<div class="chat-bubble-wrap">
+<div class="chat-name">きなこ</div>
+<div class="chat-bubble">**胸キュン韓国語を眺めつつ、大好きなアイドルが応援してくれてる**…って想像しながら過ごしたら毎日元気出そう!</div>
+</div>
+</div>
+<div class="chat-msg chat-right">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2022/01/002.png" alt="악어오빠">
+<div class="chat-bubble-wrap">
+<div class="chat-name">악어오빠</div>
+<div class="chat-bubble">そんなきなこチャンにおススメのアイテムがあるヨ!
 **『魔法の韓国語BOX』シリーズ**は色んな韓国語フレーズのカードなんダけど、**スマホのケースに入れて**眺めてもいいし、韓国女子の間で流行りの**日記デコ(다꾸)**にも使えるよ。もっと韓国語を勉強したい！そんな本格派さんには**LaLaLa KoreaのブログやYou Tubeで意味や発音を紹介**してるカラ勉強にも活用できちゃうアイテムだヨ。
 
  
@@ -756,34 +763,38 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2022/07/제목을-입력�
 
  	- **다꾸　**韓国女子に流行りの日記デコにもおススメ
 
- 	- **열공　**本格派さんはカードと連携したブログ&YouTubeで勉強!
-
- 
-
-![](https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg)
-
-きなこ
-それ、いいですね~!
+ 	- **열공　**本格派さんはカードと連携したブログ&YouTubeで勉強!</div>
+</div>
+</div>
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg" alt="きなこ">
+<div class="chat-bubble-wrap">
+<div class="chat-name">きなこ</div>
+<div class="chat-bubble">それ、いいですね~!
 真面目な韓国語のテキストだと中々勉強が進まない私でも、電車の中とか**空いた時間で楽しく勉強**できそう!
-そのカード、売ってるんですか?
-
-![](https://lalalakorea.com/wp-content/uploads/2022/01/002.png)
-
-악어오빠
-メルカリショップ『LaLaLa Korea』で売ってるヨ。
+そのカード、売ってるんですか?</div>
+</div>
+</div>
+<div class="chat-msg chat-right">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2022/01/002.png" alt="악어오빠">
+<div class="chat-bubble-wrap">
+<div class="chat-name">악어오빠</div>
+<div class="chat-bubble">メルカリショップ『LaLaLa Korea』で売ってるヨ。
 興味があったら一度覗いてみてネ
 
-[メルカリショップ『LaLaLa Korea』にて販売中!](https://mercari-shops.com/products/EnzRcAcCWgYENASmV7TeTW?source=shared_link&utm_source=shared_link)
-
- 
-
+[メルカリショップ『LaLaLa Korea』にて販売中!](https://mercari-shops.com/products/EnzRcAcCWgYENASmV7TeTW?source=shared_link&utm_source=shared_link)</div>
+</div>
+</div>
 ## Youtube『胸キュン韓国語フレーズ60選』で発音をチェック！
 
  
 
-![](https://lalalakorea.com/wp-content/uploads/2022/01/002.png)
+<div class="chat-msg chat-right">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2022/01/002.png" alt="악어오빠">
+<div class="chat-bubble-wrap">
+<div class="chat-name">악어오빠</div>
+<div class="chat-bubble">今回紹介したフレーズの発音が確認できるヨ。
 
-악어오빠
-今回紹介したフレーズの発音が確認できるヨ。
-
-[Youtube『胸キュン韓国語フレーズ60選』](https://youtu.be/8ZTnBu8iIfY)
+[Youtube『胸キュン韓国語フレーズ60選』](https://youtu.be/8ZTnBu8iIfY)</div>
+</div>
+</div>

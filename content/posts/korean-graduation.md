@@ -9,14 +9,18 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2022/02/제목을-입력�
 
 ## 韓国の卒業式について知りたい！＆韓国語で卒業お祝いのメッセージ
 
-![](https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg)
-きなこ
-**韓国ドラマで大学の卒業式の時に**アメリカの大学みたいにガウンを着ていたのを見たんですけど、**韓国の卒業式って皆ガウンを着る**んですか?
-
-![](https://lalalakorea.com/wp-content/uploads/2022/01/002.png)
-
-악어오빠
-アンニョン!
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg" alt="きなこ">
+<div class="chat-bubble-wrap">
+<div class="chat-name">きなこ</div>
+<div class="chat-bubble">**韓国ドラマで大学の卒業式の時に**アメリカの大学みたいにガウンを着ていたのを見たんですけど、**韓国の卒業式って皆ガウンを着る**んですか?</div>
+</div>
+</div>
+<div class="chat-msg chat-right">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2022/01/002.png" alt="악어오빠">
+<div class="chat-bubble-wrap">
+<div class="chat-name">악어오빠</div>
+<div class="chat-bubble">アンニョン!
 みんなの**『韓国に関する気になる!を解決隊』**リーダー、**アゴオッパ**ダヨ。
  
 今回は**韓国の卒業式**について色々教えちゃいマス。
@@ -26,8 +30,9 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2022/02/제목을-입력�
  
 **【2】韓国の中学・高校では卒業式に小麦粉をかけあう文化が消えた?**
  
-**【3】韓国語で送る卒業のお祝いメッセージおすすめ4選**
-
+**【3】韓国語で送る卒業のお祝いメッセージおすすめ4選**</div>
+</div>
+</div>
 ## 韓国の卒業式はいつ？
 
 韓国の卒業式は日本より1ヶ月早く、**1月~2月**に行われます。

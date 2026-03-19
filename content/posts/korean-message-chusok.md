@@ -17,48 +17,50 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/09/IMG_20210911_1358
 
  
 
-QUESTION
-韓国ではもうすぐ**秋夕(チュソク)**ですよね。
+<div class="chat-question">韓国ではもうすぐ**秋夕(チュソク)**ですよね。
 好きな俳優に**SNSでチュソクのお祝いのメッセージ**を送りたいのですが…
-オススメのメッセージ、教えてください!
-
- 
-
-![](https://lalalakorea.com/wp-content/uploads/2021/08/1270157-150x150.jpg)
-
-ハル
-
-みんなは**秋夕(チュソク)**って聞いたことある?
-ハンガウィ(한가위)とも呼ばれるチュソクは、**家族が一堂に会し先祖の霊をお祀りし、一緒に食事をし親交を深める**韓国ではとても大切な二大名節のひとつです。
-
-![](https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg)
-
-きなこ
-
-秋夕(チュソク)ってなんだか**日本のお盆みたい**ですね。
-
-![](https://lalalakorea.com/wp-content/uploads/2021/08/245689-231x300.jpg)
-
-ジュン
-안녕하세요!
+オススメのメッセージ、教えてください!</div>
+<div class="chat-msg chat-right">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1270157-150x150.jpg" alt="ハル">
+<div class="chat-bubble-wrap">
+<div class="chat-name">ハル</div>
+<div class="chat-bubble">みんなは**秋夕(チュソク)**って聞いたことある?
+ハンガウィ(한가위)とも呼ばれるチュソクは、**家族が一堂に会し先祖の霊をお祀りし、一緒に食事をし親交を深める**韓国ではとても大切な二大名節のひとつです。</div>
+</div>
+</div>
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg" alt="きなこ">
+<div class="chat-bubble-wrap">
+<div class="chat-name">きなこ</div>
+<div class="chat-bubble">秋夕(チュソク)ってなんだか**日本のお盆みたい**ですね。</div>
+</div>
+</div>
+<div class="chat-msg chat-right">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/245689-231x300.jpg" alt="ジュン">
+<div class="chat-bubble-wrap">
+<div class="chat-name">ジュン</div>
+<div class="chat-bubble">안녕하세요!
 ハルの夫、ジュンです。
 そう、きなこちゃんの言う通り!
 日本のお盆と同じように秋夕が近づいてくると、韓国ではソウルなどの**大都市から故郷に向かう人々の帰省ラッシュ**が始まって電車や高速道路が大混雑します!
 チュソク休業となるお店も多く、街には人の姿もまばらになります。
-**海外や国内旅行にいく人も多い**ので航空券も価格も一気に高騰します。
-
-![](https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg)
-
-きなこ
-ほんとに日本のお盆と似ている感じですね!
+**海外や国内旅行にいく人も多い**ので航空券も価格も一気に高騰します。</div>
+</div>
+</div>
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg" alt="きなこ">
+<div class="chat-bubble-wrap">
+<div class="chat-name">きなこ</div>
+<div class="chat-bubble">ほんとに日本のお盆と似ている感じですね!
 **チュソクの時に送る挨拶のメッセージ**とかあるのかな?
-教えてください!
-
-![](https://lalalakorea.com/wp-content/uploads/2021/08/245689-231x300.jpg)
-
-ジュン
-
-チュソクの挨拶も日本の年賀状みたいに以前からよく使われている挨拶から友達同士で送り合う気軽なメッセージまで色々あるよ。
+教えてください!</div>
+</div>
+</div>
+<div class="chat-msg chat-right">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/245689-231x300.jpg" alt="ジュン">
+<div class="chat-bubble-wrap">
+<div class="chat-name">ジュン</div>
+<div class="chat-bubble">チュソクの挨拶も日本の年賀状みたいに以前からよく使われている挨拶から友達同士で送り合う気軽なメッセージまで色々あるよ。
 
  	- **職場の上司や目上の人にはちょっと堅めに。
 **
@@ -68,16 +70,19 @@ QUESTION
 
  	- **友達にはくだけた感じで親しさを表現!**
 
-この記事は**【5分】**でサッと読めます。
-
-![](https://lalalakorea.com/wp-content/uploads/2021/08/1270157-150x150.jpg)
-
-ハル
-ちなみにチュソクは当日と前後の日も祝日になるので週末を含めると**毎年3日~5日ほどがチュソク連休**。
+この記事は**【5分】**でサッと読めます。</div>
+</div>
+</div>
+<div class="chat-msg chat-right">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1270157-150x150.jpg" alt="ハル">
+<div class="chat-bubble-wrap">
+<div class="chat-name">ハル</div>
+<div class="chat-bubble">ちなみにチュソクは当日と前後の日も祝日になるので週末を含めると**毎年3日~5日ほどがチュソク連休**。
 連休の少ない韓国ではかなりの大型連休!
 2021年は**9月21日(火)が当日**で、**9月18日(土)~9/22(水)がチュソク連休**です。
-では早速、チュソクの挨拶にオススメのメッセージを紹介していきます。
-
+では早速、チュソクの挨拶にオススメのメッセージを紹介していきます。</div>
+</div>
+</div>
 ##  
 
 ## 職場の上司や目上の人に送る秋夕(チュソク)の韓国語メッセージおすすめ3選

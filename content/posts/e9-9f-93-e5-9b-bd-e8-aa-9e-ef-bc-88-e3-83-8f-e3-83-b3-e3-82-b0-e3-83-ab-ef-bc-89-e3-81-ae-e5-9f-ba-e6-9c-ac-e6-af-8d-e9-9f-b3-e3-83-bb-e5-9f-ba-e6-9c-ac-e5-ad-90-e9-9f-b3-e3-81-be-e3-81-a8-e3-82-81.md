@@ -9,20 +9,23 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2024/03/韓国語タイ�
 
 ## 推し活しながら韓国語（ハングル）を自然と覚えたい人におすすめ！【スマホのキーボードで覚える韓国語（ハングル）】
 
-![](https://lalalakorea.com/wp-content/uploads/2021/11/135882.jpg)       
-
-ミオ
-こんにちは★
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/11/135882.jpg" alt="ミオ">
+<div class="chat-bubble-wrap">
+<div class="chat-name">ミオ</div>
+<div class="chat-bubble">こんにちは★
 最近Stray Kidsに沼落ちしたミオです!
 **SNSで推しや韓国のファンたちが書いている韓国語のコメントを読んで理解したい!応援のコメントを韓国語でしてみたい!**んですけど、**韓国語(ハングル)って覚えるのが大変そう…**
 暗号みたいでなかなか頭に入ってこないし…
 ハングルの一覧表を見て覚えようとしたけど、覚えないといけない種類の多さに挫折しちゃいます。
-アゴオッパ、何かいい方法ないですか?
-
-![](https://lalalakorea.com/wp-content/uploads/2021/10/제목을-입력해주세요_-002.png)       
-
-악어오빠
-アンニョンハセヨ!
+アゴオッパ、何かいい方法ないですか?</div>
+</div>
+</div>
+<div class="chat-msg chat-right">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/10/제목을-입력해주세요_-002.png" alt="악어오빠">
+<div class="chat-bubble-wrap">
+<div class="chat-name">악어오빠</div>
+<div class="chat-bubble">アンニョンハセヨ!
 韓国語を勉強する人みんなを応援したいアゴオッパです!
 ミオちゃんみたいな悩みをもってる人、けっこう多いよネ!
 そんな人におすすめなのが**スマホの韓国語キーボードで覚える方法**です!
@@ -47,8 +50,9 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2024/03/韓国語タイ�
 
 [**3.韓国語(ハングル)の基本母音は実は10個だけ!基本母音をスマホキーボードで入力してみよう!**](https://lalalakorea.com/%e9%9f%93%e5%9b%bd%e8%aa%9e%ef%bc%88%e3%83%8f%e3%83%b3%e3%82%b0%e3%83%ab%ef%bc%89%e3%81%ae%e5%9f%ba%e6%9c%ac%e6%af%8d%e9%9f%b3%e3%81%af%e5%ae%9f%e3%81%af10%e5%80%8b%e3%81%a0%e3%81%91%ef%bc%81%e5%9f%ba/)
 
-[**4.韓国語(ハングル)の基本子音は実は10個だけ!スマホのキーボードで入力してみよう!**](https://lalalakorea.com/%e9%9f%93%e5%9b%bd%e8%aa%9e%ef%bc%88%e3%83%8f%e3%83%b3%e3%82%b0%e3%83%ab%ef%bc%89%e3%81%ae%e5%9f%ba%e6%9c%ac%e5%ad%90%e9%9f%b3%e3%81%af%e5%ae%9f%e3%81%af10%e5%80%8b%e3%81%a0%e3%81%91%ef%bc%81%e3%82%b9/)
-
+[**4.韓国語(ハングル)の基本子音は実は10個だけ!スマホのキーボードで入力してみよう!**](https://lalalakorea.com/%e9%9f%93%e5%9b%bd%e8%aa%9e%ef%bc%88%e3%83%8f%e3%83%b3%e3%82%b0%e3%83%ab%ef%bc%89%e3%81%ae%e5%9f%ba%e6%9c%ac%e5%ad%90%e9%9f%b3%e3%81%af%e5%ae%9f%e3%81%af10%e5%80%8b%e3%81%a0%e3%81%91%ef%bc%81%e3%82%b9/)</div>
+</div>
+</div>
 ### 1. 韓国語（ハングル）の基本母音・基本子音まとめ！簡単な単語をスマホで入力して覚えよう
 
 では、これまでの項目のまとめです!これまでマスターした韓国語の基本母音と基本子音を組み合わせて、K-POPの推し活に関する簡単な単語をスマホに入力してみましょう!

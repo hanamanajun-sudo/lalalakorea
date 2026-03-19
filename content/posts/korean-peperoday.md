@@ -9,17 +9,21 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2020/11/제목을-입력�
 
 ## 韓国の빼빼로데이（ペペロデー）って？BTSジミン、ペペロデーにファンサービス
 
-![](https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg)  
-
-きなこ
-**BTSのジミン**が**ペペロデーに公式コミュニティに参加してファンにコメント**した、って話題になっていたんですけど、**ペペロデーってどんな日**なんですか?
-
-![](https://lalalakorea.com/wp-content/uploads/2022/01/002.png)  
-
-악어오빠
-**ペペロデー**は韓国で今や**第2のバレンタイン**とも言われるほどの一大イベントとなっている日だヨ。
-ペペロデーのシーズンになると、どこもかしこもお店にはペペロデーの商品だらけになるヨ。
-
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg" alt="きなこ">
+<div class="chat-bubble-wrap">
+<div class="chat-name">きなこ</div>
+<div class="chat-bubble">**BTSのジミン**が**ペペロデーに公式コミュニティに参加してファンにコメント**した、って話題になっていたんですけど、**ペペロデーってどんな日**なんですか?</div>
+</div>
+</div>
+<div class="chat-msg chat-right">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2022/01/002.png" alt="악어오빠">
+<div class="chat-bubble-wrap">
+<div class="chat-name">악어오빠</div>
+<div class="chat-bubble">**ペペロデー**は韓国で今や**第2のバレンタイン**とも言われるほどの一大イベントとなっている日だヨ。
+ペペロデーのシーズンになると、どこもかしこもお店にはペペロデーの商品だらけになるヨ。</div>
+</div>
+</div>
 ## 1．１１月１１日、韓国は빼빼로데이（ペペロデー）！
 
 11月の韓国のイベントといえば**빼빼로데이(ペペロデー)**!

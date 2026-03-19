@@ -7,28 +7,28 @@ excerpt: ""
 thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/08/썸네일-009-1.png"
 ---
 
-QUESTION
-最近日本でも人気の**韓国のシートマスク（フェイスパック）**。
+<div class="chat-question">最近日本でも人気の**韓国のシートマスク（フェイスパック）**。
 
 いろんなブランドがたくさんあっていつも迷います。
-**韓国で実際に人気のシートマスク**を教えてください！
-
-![](https://lalalakorea.com/wp-content/uploads/2021/08/1270157-150x150.jpg)  
-
-ハル
-最近日本でも**韓国のシートマスク**が人気だよね。
-みんなは韓国のシートマスクって使ったことある？          
-
-![](https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg)  
-
-きなこ
-
-韓国のフェイスパック、最近色んなところで見かけるようになって気になってます！
+**韓国で実際に人気のシートマスク**を教えてください！</div>
+<div class="chat-msg chat-right">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1270157-150x150.jpg" alt="ハル">
+<div class="chat-bubble-wrap">
+<div class="chat-name">ハル</div>
+<div class="chat-bubble">最近日本でも**韓国のシートマスク**が人気だよね。
+みんなは韓国のシートマスクって使ったことある？</div>
+</div>
+</div>
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg" alt="きなこ">
+<div class="chat-bubble-wrap">
+<div class="chat-name">きなこ</div>
+<div class="chat-bubble">韓国のフェイスパック、最近色んなところで見かけるようになって気になってます！
 
 でも**種類がたくさんあってどんなのがいいのか迷っちゃいます。**
-**美容大国韓国ので最近人気のフェイスパック**、教えてください！
-
-
+**美容大国韓国ので最近人気のフェイスパック**、教えてください！</div>
+</div>
+</div>
 ## 10位：白衣のパッケージが目を引く「DEWYTREE(デューイーツリー)」
 
  

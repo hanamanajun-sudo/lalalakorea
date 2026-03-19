@@ -9,19 +9,23 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/10/제목을-입력�
 
 ## 韓国語「1+1（ワンプラスワン）」の読み方は？意味は？
 
-![](https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg)   
-
-きなこ
-韓国のお店やオンラインショップでよく見かける**「1+1」**。
-**読み方と意味**を教えてください。
-
-![](https://lalalakorea.com/wp-content/uploads/2021/08/245689-231x300.jpg)   
-
-ジュン
-韓国に旅行に行くと**1+1(ワンプラスワン)**とか**2+1（ツープラスワン）**いう言葉を**スーパーやコンビニ**などでよく見かけますよね。
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg" alt="きなこ">
+<div class="chat-bubble-wrap">
+<div class="chat-name">きなこ</div>
+<div class="chat-bubble">韓国のお店やオンラインショップでよく見かける**「1+1」**。
+**読み方と意味**を教えてください。</div>
+</div>
+</div>
+<div class="chat-msg chat-right">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/245689-231x300.jpg" alt="ジュン">
+<div class="chat-bubble-wrap">
+<div class="chat-name">ジュン</div>
+<div class="chat-bubble">韓国に旅行に行くと**1+1(ワンプラスワン)**とか**2+1（ツープラスワン）**いう言葉を**スーパーやコンビニ**などでよく見かけますよね。
 **「1+1」の意味**は、**1つ分の価格で2つの商品が購入できる**というお得だよ!という意味です。
-最近ではネットショッピングの際にも見かけることが多いこと言葉について解説します。
-
+最近ではネットショッピングの際にも見かけることが多いこと言葉について解説します。</div>
+</div>
+</div>
 ## 「1+1」は韓国語で「ウォンプロスウォン」
 
 ![](https://lalalakorea.com/wp-content/uploads/2021/10/카톡-한국어-1_복사본-001.png)

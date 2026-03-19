@@ -188,16 +188,17 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2019/12/제목을-입력�
 
 「어（オ）そう❗❗」
 
-![](http://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191216-190114.png)
-
-カイ
-
-「몸에?（モメ）体に？」
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="http://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191216-190114.png" alt="カイ">
+<div class="chat-bubble-wrap">
+<div class="chat-name">カイ</div>
+<div class="chat-bubble">「몸에?（モメ）体に？」
 
 ベクヒョン
 
-「몸에!（モメ）体に！」
-
+「몸에!（モメ）体に！」</div>
+</div>
+</div>
 ![](http://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191216-190121.png)
 
 このまま正解するか…？
@@ -216,12 +217,13 @@ https://lalalakorea.com/korean-study-letter/
 
 呆然とするベクヒョン
 
-![](http://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191216-190243.png)
-
-カイ
-
-「넘어가（ノモガ）次に行こう！」
-
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="http://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191216-190243.png" alt="カイ">
+<div class="chat-bubble-wrap">
+<div class="chat-name">カイ</div>
+<div class="chat-bubble">「넘어가（ノモガ）次に行こう！」</div>
+</div>
+</div>
 ![](http://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191217-190211.png)
 
 結局、カイが諦めてパスを選択。。

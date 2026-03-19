@@ -41,134 +41,170 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/11/카톡-한국어-
 
  
 
-![](https://lalalakorea.com/wp-content/uploads/2021/11/135882.jpg)    
-
-ミオ
-(どうしよう…)
-
-![](https://lalalakorea.com/wp-content/uploads/2021/11/332050-1.png)    
-
-女性
-**괜찮으세요?
-도와드릴까요?**
-
-![](https://lalalakorea.com/wp-content/uploads/2021/11/135882.jpg)    
-
-ミオ
-아…
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/11/135882.jpg" alt="ミオ">
+<div class="chat-bubble-wrap">
+<div class="chat-name">ミオ</div>
+<div class="chat-bubble">(どうしよう…)</div>
+</div>
+</div>
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/11/332050-1.png" alt="女性">
+<div class="chat-bubble-wrap">
+<div class="chat-name">女性</div>
+<div class="chat-bubble">**괜찮으세요?
+도와드릴까요?**</div>
+</div>
+</div>
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/11/135882.jpg" alt="ミオ">
+<div class="chat-bubble-wrap">
+<div class="chat-name">ミオ</div>
+<div class="chat-bubble">아…
 (どうしたの?って聞いてくれてるんだよね?
-**「手荷物」**ってなんて言えばいいのかな?)
-
-![](https://lalalakorea.com/wp-content/uploads/2021/11/135882.jpg)    
-
-ミオ
-**짐**이…..
-
-![](https://lalalakorea.com/wp-content/uploads/2021/11/332050-1.png)    
-
-女性
-짐?
-**짐이 안 나와요?**
-
-![](https://lalalakorea.com/wp-content/uploads/2021/11/135882.jpg)    
-
-ミオ
-네!
-
-![](https://lalalakorea.com/wp-content/uploads/2021/11/332050-1.png)    
-
-女性
-그럼 제가 **확인해볼까요?**
-
-![](https://lalalakorea.com/wp-content/uploads/2021/11/135882.jpg)    
-
-ミオ
-네
-
-![](https://lalalakorea.com/wp-content/uploads/2021/11/332050-1.png)    
-
-女性
-**저기요!**
-
-![](https://lalalakorea.com/wp-content/uploads/2021/11/20211119_103750-1.png)    
-
-職員
-네
-
-![](https://lalalakorea.com/wp-content/uploads/2021/11/332050-1.png)    
-
-女性
-이분 **캐리어**가 안나온데요.
-
-![](https://lalalakorea.com/wp-content/uploads/2021/11/20211119_103750-1.png)    
-
-職員
-아 그러세요?
+**「手荷物」**ってなんて言えばいいのかな?)</div>
+</div>
+</div>
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/11/135882.jpg" alt="ミオ">
+<div class="chat-bubble-wrap">
+<div class="chat-name">ミオ</div>
+<div class="chat-bubble">**짐**이…..</div>
+</div>
+</div>
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/11/332050-1.png" alt="女性">
+<div class="chat-bubble-wrap">
+<div class="chat-name">女性</div>
+<div class="chat-bubble">짐?
+**짐이 안 나와요?**</div>
+</div>
+</div>
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/11/135882.jpg" alt="ミオ">
+<div class="chat-bubble-wrap">
+<div class="chat-name">ミオ</div>
+<div class="chat-bubble">네!</div>
+</div>
+</div>
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/11/332050-1.png" alt="女性">
+<div class="chat-bubble-wrap">
+<div class="chat-name">女性</div>
+<div class="chat-bubble">그럼 제가 **확인해볼까요?**</div>
+</div>
+</div>
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/11/135882.jpg" alt="ミオ">
+<div class="chat-bubble-wrap">
+<div class="chat-name">ミオ</div>
+<div class="chat-bubble">네</div>
+</div>
+</div>
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/11/332050-1.png" alt="女性">
+<div class="chat-bubble-wrap">
+<div class="chat-name">女性</div>
+<div class="chat-bubble">**저기요!**</div>
+</div>
+</div>
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/11/20211119_103750-1.png" alt="職員">
+<div class="chat-bubble-wrap">
+<div class="chat-name">職員</div>
+<div class="chat-bubble">네</div>
+</div>
+</div>
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/11/332050-1.png" alt="女性">
+<div class="chat-bubble-wrap">
+<div class="chat-name">女性</div>
+<div class="chat-bubble">이분 **캐리어**가 안나온데요.</div>
+</div>
+</div>
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/11/20211119_103750-1.png" alt="職員">
+<div class="chat-bubble-wrap">
+<div class="chat-name">職員</div>
+<div class="chat-bubble">아 그러세요?
 **확인해보겠습니다.**
  
 
-#### しばらく後…
-
- 
-
-![](https://lalalakorea.com/wp-content/uploads/2021/11/20211119_103750-1.png)    
-
-職員
-혹시 이 **캐리어**가 맞으세요?
-
-![](https://lalalakorea.com/wp-content/uploads/2021/11/135882.jpg)    
-
-ミオ
-네!
-맞아요.
-
-![](https://lalalakorea.com/wp-content/uploads/2021/11/332050-1.png)    
-
-女性
-짐을 찾아서 다행이네요.
-
-![](https://lalalakorea.com/wp-content/uploads/2021/11/135882.jpg)    
-
-ミオ
-(お礼言わなきゃ!
-言葉が出てこない〜)
-
-![](https://lalalakorea.com/wp-content/uploads/2021/11/135882.jpg)    
-
-ミオ
-가..**감사합니다!**
-
-![](https://lalalakorea.com/wp-content/uploads/2021/11/332050-1.png)    
-
-女性
-
-**아니에요.**
-
-![](https://lalalakorea.com/wp-content/uploads/2021/11/332050-1.png)    
-
-女性
-
-저는 남편이랑 같이 **하숙집**을 하는데 **일본 친구들**도 많이 있어요.
-
-![](https://lalalakorea.com/wp-content/uploads/2021/11/332050-1.png)    
-
-女性
-
-**일본 친구들**이 예의도 바르고 **좋아요**.
-
-![](https://lalalakorea.com/wp-content/uploads/2021/11/332050-1.png)    
-
-女性
-
-신촌에 있는 '지영이 하숙'이라는 하숙집인데 **기회가 있으면 놀러오세요**.
-
+#### しばらく後…</div>
+</div>
+</div>
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/11/20211119_103750-1.png" alt="職員">
+<div class="chat-bubble-wrap">
+<div class="chat-name">職員</div>
+<div class="chat-bubble">혹시 이 **캐리어**가 맞으세요?</div>
+</div>
+</div>
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/11/135882.jpg" alt="ミオ">
+<div class="chat-bubble-wrap">
+<div class="chat-name">ミオ</div>
+<div class="chat-bubble">네!
+맞아요.</div>
+</div>
+</div>
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/11/332050-1.png" alt="女性">
+<div class="chat-bubble-wrap">
+<div class="chat-name">女性</div>
+<div class="chat-bubble">짐을 찾아서 다행이네요.</div>
+</div>
+</div>
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/11/135882.jpg" alt="ミオ">
+<div class="chat-bubble-wrap">
+<div class="chat-name">ミオ</div>
+<div class="chat-bubble">(お礼言わなきゃ!
+言葉が出てこない〜)</div>
+</div>
+</div>
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/11/135882.jpg" alt="ミオ">
+<div class="chat-bubble-wrap">
+<div class="chat-name">ミオ</div>
+<div class="chat-bubble">가..**감사합니다!**</div>
+</div>
+</div>
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/11/332050-1.png" alt="女性">
+<div class="chat-bubble-wrap">
+<div class="chat-name">女性</div>
+<div class="chat-bubble">**아니에요.**</div>
+</div>
+</div>
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/11/332050-1.png" alt="女性">
+<div class="chat-bubble-wrap">
+<div class="chat-name">女性</div>
+<div class="chat-bubble">저는 남편이랑 같이 **하숙집**을 하는데 **일본 친구들**도 많이 있어요.</div>
+</div>
+</div>
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/11/332050-1.png" alt="女性">
+<div class="chat-bubble-wrap">
+<div class="chat-name">女性</div>
+<div class="chat-bubble">**일본 친구들**이 예의도 바르고 **좋아요**.</div>
+</div>
+</div>
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/11/332050-1.png" alt="女性">
+<div class="chat-bubble-wrap">
+<div class="chat-name">女性</div>
+<div class="chat-bubble">신촌에 있는 '지영이 하숙'이라는 하숙집인데 **기회가 있으면 놀러오세요**.</div>
+</div>
+</div>
 ### 今回のお話の日本語訳
 
-![](https://lalalakorea.com/wp-content/uploads/2021/11/003.png)
-
-女性
-
-クゥエンチャヌセヨ
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/11/003.png" alt="女性">
+<div class="chat-bubble-wrap">
+<div class="chat-name">女性</div>
+<div class="chat-bubble">クゥエンチャヌセヨ
 
 **괜찮으세요?**
 
@@ -201,15 +237,14 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/11/카톡-한국어-
 
 **짐이 안 나와요?**
 
-**荷物が出てこないんですか?**
-
-  
-
-![](https://lalalakorea.com/wp-content/uploads/2021/11/004.png)
-
-ミオ
-
-ネ
+**荷物が出てこないんですか?**</div>
+</div>
+</div>
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/11/004.png" alt="ミオ">
+<div class="chat-bubble-wrap">
+<div class="chat-name">ミオ</div>
+<div class="chat-bubble">ネ
 
 네!
 
@@ -229,15 +264,14 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/11/카톡-한국어-
 
 네
 
-はい
-
-  
-
-![](https://lalalakorea.com/wp-content/uploads/2021/11/005.png)
-
-女性
-
-チョギヨ
+はい</div>
+</div>
+</div>
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/11/005.png" alt="女性">
+<div class="chat-bubble-wrap">
+<div class="chat-name">女性</div>
+<div class="chat-bubble">チョギヨ
 
 **저기요!**
 
@@ -257,14 +291,14 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/11/카톡-한국어-
 
 이분 **캐리어가 안나온데요.**
 
-この方の**キャリーケースが出てこないそうです。**
-
-  
-![](https://lalalakorea.com/wp-content/uploads/2021/11/006.png)
-
-職員
-
-ア クロセヨ
+この方の**キャリーケースが出てこないそうです。**</div>
+</div>
+</div>
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/11/006.png" alt="職員">
+<div class="chat-bubble-wrap">
+<div class="chat-name">職員</div>
+<div class="chat-bubble">ア クロセヨ
 
 아 그러세요?
 
@@ -290,14 +324,14 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/11/카톡-한국어-
 
 네! 맞아요.
 
-はい!　そうです。
-
-  
-![](https://lalalakorea.com/wp-content/uploads/2021/11/007.png)
-
-女性
-
-チムル チャジャソ タヘンイネヨ
+はい!　そうです。</div>
+</div>
+</div>
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/11/007.png" alt="女性">
+<div class="chat-bubble-wrap">
+<div class="chat-name">女性</div>
+<div class="chat-bubble">チムル チャジャソ タヘンイネヨ
 
 짐을 찾아서 다행이네요.
 
@@ -317,14 +351,14 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/11/카톡-한국어-
 
 **아니에요.**
 
-**どういたしまして。**
-
-  
-![](https://lalalakorea.com/wp-content/uploads/2021/11/008.png)
-
-女性
-
-チョヌン ナムピョニラン カチ ハスクチブル ハヌンデ
+**どういたしまして。**</div>
+</div>
+</div>
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/11/008.png" alt="女性">
+<div class="chat-bubble-wrap">
+<div class="chat-name">女性</div>
+<div class="chat-bubble">チョヌン ナムピョニラン カチ ハスクチブル ハヌンデ
 저는 남편이랑 같이 **하숙집**을 하는데
 私は主人と**下宿**をやっているんだけど、
   
@@ -350,8 +384,9 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/11/카톡-한국어-
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:24px 0;">
 <iframe src="https://www.youtube.com/embed/eBPJ9cDOsQI" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy"></iframe>
+</div></div>
 </div>
-
+</div>
 ### 韓国語で「手荷物」はなんという？〜トラベル韓国語〜
 
 ![](https://lalalakorea.com/wp-content/uploads/2021/11/카톡-한국어-1-001.png)

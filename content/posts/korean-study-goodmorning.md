@@ -9,13 +9,15 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/10/010.png"
 
 ## 1．韓国語で朝の挨拶「おはよう」はなんという？
 
-![](https://lalalakorea.com/wp-content/uploads/2021/10/제목을-입력해주세요_-002.png)
-
-악어오빠 アゴオッパ
-안녕!
+<div class="chat-msg chat-right">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/10/제목을-입력해주세요_-002.png" alt="악어오빠">
+<div class="chat-bubble-wrap">
+<div class="chat-name">악어오빠</div>
+<div class="chat-bubble">안녕!
 **악어오빠**と一緒に学ぶ今日の**「リアル韓国語」**は朝のあいさつ、**「おはよう」**だよ。
-韓国語で「おはよう」は**相手やシチュエーションによって言葉を使い分ける**こともあるから、一緒に覚えてマスターしよう!
-
+韓国語で「おはよう」は**相手やシチュエーションによって言葉を使い分ける**こともあるから、一緒に覚えてマスターしよう!</div>
+</div>
+</div>
 ## 2．韓国語の「おはよう」の挨拶「안영（アンニョン）」、「잘잤어（チャルチャッソ）」、「좋은 아침（チョウンアチム）」の使い分けは？
 
 韓国語で朝、**「おはよう」の意味で使う挨拶**の言葉は主に**3つ**。
@@ -168,18 +170,15 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/10/010.png"
 
  
 
-![](https://lalalakorea.com/wp-content/uploads/2021/10/今年-006.png)
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/10/今年-006.png" alt="ナドゥ">
+<div class="chat-bubble-wrap">
+<div class="chat-name">ナドゥ</div>
+<div class="chat-bubble">나두우
 
-ナドゥ
-
-나두우
-
-俺も~
-
- 
-
- 
-
+俺も~</div>
+</div>
+</div>
 ![](https://lalalakorea.com/wp-content/uploads/2021/10/007.png)
 
  
@@ -210,10 +209,11 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/10/010.png"
 
 ## 4．SNSやメッセージで使われる表現「～옹（オン）」「～당（タン）」「멀（モル）」「잉（イン）」「두우（ドゥ）」
 
-![](https://lalalakorea.com/wp-content/uploads/2021/10/제목을-입력해주세요_-001.png)                
-
-악어오빠
-**악어오빠(アゴオッパ)のネイティブ度アップポイン**ト
+<div class="chat-msg chat-right">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/10/제목을-입력해주세요_-001.png" alt="악어오빠">
+<div class="chat-bubble-wrap">
+<div class="chat-name">악어오빠</div>
+<div class="chat-bubble">**악어오빠(アゴオッパ)のネイティブ度アップポイン**ト
 今回のぞき見したカカオトークを見て、「あれ?こんな表現、あるの?おかしくない?」と思った人、いるかな?
 そんな方は韓国語ネイティブ度高し!
 日本語でもSNSやインターネット上だけで使われるような語尾や言い回しがあるよね?
@@ -245,8 +245,9 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/10/010.png"
 
 ☆**「두우」**:元々は**「~도」**。
 
-恋人同士でイチャイチャしたり、ふざけているようなニュアンス
-
+恋人同士でイチャイチャしたり、ふざけているようなニュアンス</div>
+</div>
+</div>
 ## 5．まとめ
 
 ☆**「안녕」**:「**おはよう」「こんにちは」「こんばんは」**と

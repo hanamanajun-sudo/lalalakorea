@@ -9,23 +9,27 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2022/01/썸네일-006.png
 
 ## 韓国の「#勉強垢！」ハッシュタグ「#공스타그램（コンスタグラム）」の意味は？
 
-![](https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg) 
-
-きなこ
-韓国のインスタグラムで**#공스타그램ってハッシュタグ**をよく見かけるんですけど、**どういう意味**か教えて下さい!
-
-![](https://lalalakorea.com/wp-content/uploads/2022/01/002.png) 
-
-악어오빠
-アンニョン!
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg" alt="きなこ">
+<div class="chat-bubble-wrap">
+<div class="chat-name">きなこ</div>
+<div class="chat-bubble">韓国のインスタグラムで**#공스타그램ってハッシュタグ**をよく見かけるんですけど、**どういう意味**か教えて下さい!</div>
+</div>
+</div>
+<div class="chat-msg chat-right">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2022/01/002.png" alt="악어오빠">
+<div class="chat-bubble-wrap">
+<div class="chat-name">악어오빠</div>
+<div class="chat-bubble">アンニョン!
 韓国語と韓国文化を皆に教えるのが大好きな**アゴオッパ**だよ。
 韓国では**インスタグラムを使った勉強法**が学生の間で流行っているんだ。
 学生の時の勉強や、社会人になってからの資格や語学の勉強でも、一人でひたすら勉強するのはけっこう孤独で強い意志が必要だよね。
 **「計画通りに勉強が進まない」**
 **「モチベーションが維持できない」**
 **「やる気がわいてこない」**
-こんな悩みを解決するために**韓国の学生の間で生まれた勉強法**を紹介するよ!
-
+こんな悩みを解決するために**韓国の学生の間で生まれた勉強法**を紹介するよ!</div>
+</div>
+</div>
 ## １．「#공스타그램（コンスタグラム）」の意味は？
 
 ![](https://lalalakorea.com/wp-content/uploads/2022/01/카톡-한국어-1-001.png)

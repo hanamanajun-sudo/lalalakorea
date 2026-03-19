@@ -98,30 +98,32 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2019/12/제목을-입력�
 
 「추울 때（チュウルッテ）寒い時」
 
-![](https://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191219-131449_YouTube-1024x498.jpg)
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191219-131449_YouTube-1024x498.jpg" alt="カイ">
+<div class="chat-bubble-wrap">
+<div class="chat-name">カイ</div>
+<div class="chat-bubble">「죽은 새（チュグンセ）死んだ鳥」！！
 
-カイ
-
-「죽은 새（チュグンセ）死んだ鳥」！！
-
-やっぱり「寒い（추울）」が「死んだ（죽은）」になってしまうカイ。。
-
+やっぱり「寒い（추울）」が「死んだ（죽은）」になってしまうカイ。。</div>
+</div>
+</div>
 ![](https://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191219-131457_YouTube-1024x498.jpg)
 
 諦めないベクヒョン。
 
 でもやっぱり
 
-![](https://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191219-131538_YouTube-1024x498.jpg)
-
-ベクヒョン
-
-「추울 때（チュウルッテ）寒い時」
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191219-131538_YouTube-1024x498.jpg" alt="ベクヒョン">
+<div class="chat-bubble-wrap">
+<div class="chat-name">ベクヒョン</div>
+<div class="chat-bubble">「추울 때（チュウルッテ）寒い時」
 
 カイ
 
-「죽은 새（チュグンセ）死んだ鳥」
-
+「죽은 새（チュグンセ）死んだ鳥」</div>
+</div>
+</div>
 ![](https://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191219-131612_YouTube-1024x498.jpg)
 
 なんとカイ、「死んだ鳥＝チキン」という斬新な発想！！
@@ -147,16 +149,17 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2019/12/제목을-입력�
 
 「추워（チュゥオ）寒い」
 
-![](https://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191219-131636_YouTube-1024x498.jpg)
-
-ベクヒョン
-
-「뭐가 있어야 돼?（ムォガイッソヤドゥエ）何がないとダメ？」
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191219-131636_YouTube-1024x498.jpg" alt="ベクヒョン">
+<div class="chat-bubble-wrap">
+<div class="chat-name">ベクヒョン</div>
+<div class="chat-bubble">「뭐가 있어야 돼?（ムォガイッソヤドゥエ）何がないとダメ？」
 
 カイ
 
-「뭐가 추워?（ムォガ　チュゥオ）何が寒い？」
-
+「뭐가 추워?（ムォガ　チュゥオ）何が寒い？」</div>
+</div>
+</div>
 ![](https://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191219-131814_YouTube-1024x498.jpg)
 
 やっぱり死んだものに関する話だと勘違い中。何が死んのか心配するカイ。
@@ -213,18 +216,20 @@ https://lalalakorea.com/korean-study-happek/
 
 カイ「ハッ！！」
 
-![](https://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191219-131901_YouTube-1024x498.jpg)
-
-カイ
-
-「팬티 안에。。。（ペンティ　アネ）パンツの中で。。。」
-
-![](https://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191219-131910_YouTube-1024x498.jpg)
-
-カイ
-
-「팬티 안에。。。두 글자?！（ペンティ　アネ　トゥ　グルチャ）パンツの中で。。。二文字？！」
-
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191219-131901_YouTube-1024x498.jpg" alt="カイ">
+<div class="chat-bubble-wrap">
+<div class="chat-name">カイ</div>
+<div class="chat-bubble">「팬티 안에。。。（ペンティ　アネ）パンツの中で。。。」</div>
+</div>
+</div>
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191219-131910_YouTube-1024x498.jpg" alt="カイ">
+<div class="chat-bubble-wrap">
+<div class="chat-name">カイ</div>
+<div class="chat-bubble">「팬티 안에。。。두 글자?！（ペンティ　アネ　トゥ　グルチャ）パンツの中で。。。二文字？！」</div>
+</div>
+</div>
 ![](https://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191219-131919_YouTube-1024x498.jpg)
 
 ![](https://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191219-131930_YouTube-1024x498.jpg)

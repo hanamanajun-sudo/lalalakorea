@@ -7,49 +7,53 @@ excerpt: ""
 thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/09/제목을-입력해주세요_-009-2.png"
 ---
 
-QUESTION
-韓国はでの二大名節といえば**ソルラル**と**秋夕(チュソク)**ですよね。
+<div class="chat-question">韓国はでの二大名節といえば**ソルラル**と**秋夕(チュソク)**ですよね。
 お世話になっている人に贈り物をしたいのですが、贈り物はどんな物がいいか悩んでいます。
-**オススメの贈り物**、教えてください!
-
- 
-
-![](https://lalalakorea.com/wp-content/uploads/2021/08/1270157-150x150.jpg)        
-
-ハル
-K-POPがきっかけで韓国にドはマリ!最終的には韓国で働いているときに出会った韓国人と結婚🖤
+**オススメの贈り物**、教えてください!</div>
+<div class="chat-msg chat-right">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1270157-150x150.jpg" alt="ハル">
+<div class="chat-bubble-wrap">
+<div class="chat-name">ハル</div>
+<div class="chat-bubble">K-POPがきっかけで韓国にドはマリ!最終的には韓国で働いているときに出会った韓国人と結婚🖤
 今は小学生の娘と夫と日本在住のハルです。
 韓国はもうすぐ**秋夕(チュソク)**ですね。
-チュソクについてはこの間**『[秋夕（チュソク）の韓国語メッセージオススメ１１選](https://lalalakorea.com/korean-message-chusok/)』**でご紹介しましたね。
-
-![](https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg)        
-
-きなこ
-最近韓国ドラマを通じて韓国について勉強中の韓国초보(チョボ/初心者)。
+チュソクについてはこの間**『[秋夕（チュソク）の韓国語メッセージオススメ１１選](https://lalalakorea.com/korean-message-chusok/)』**でご紹介しましたね。</div>
+</div>
+</div>
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg" alt="きなこ">
+<div class="chat-bubble-wrap">
+<div class="chat-name">きなこ</div>
+<div class="chat-bubble">最近韓国ドラマを通じて韓国について勉強中の韓国초보(チョボ/初心者)。
 最近はBTSのテテが気になっている、きなこです!
 **ソルラルや秋夕(チュソク)には****贈り物する文化**があるんですか?
-**日本のお歳暮やお中元みたいな感じ**なのかな?
-
-![](https://lalalakorea.com/wp-content/uploads/2021/08/245689-231x300.jpg)        
-
-ジュン
-안녕하세요!
+**日本のお歳暮やお中元みたいな感じ**なのかな?</div>
+</div>
+</div>
+<div class="chat-msg chat-right">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/245689-231x300.jpg" alt="ジュン">
+<div class="chat-bubble-wrap">
+<div class="chat-name">ジュン</div>
+<div class="chat-bubble">안녕하세요!
 ハルの夫、ジュンです。
 **韓国の2大名節(ミョンジョル)**として、韓国の人々にとって大切に考えられている「**秋夕（チュソク）**、旧暦8月15日」と「**旧正月（ソルラル）**、旧暦1月1日」。
 名節には、日本のお中元やお歳暮のように、**韓国にも贈り物をする習慣**があります。
-親族や取引先、日ごろお世話になった人たちに**感謝の気持ちを届ける贈り物**で、定番の食べ物から洗剤などの日用品まで色々あるよ。
-
-![](https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg)        
-
-きなこ
-**定番の食べ物の贈り物**ってどんなのがあるんですか?
-私、韓国の食べ物も大好きなんで気になります!
-
-![](https://lalalakorea.com/wp-content/uploads/2021/08/245689-231x300.jpg)        
-
-ジュン
-
-贈りの中でもやっぱり人気なのは手軽で定番の食べ物。
+親族や取引先、日ごろお世話になった人たちに**感謝の気持ちを届ける贈り物**で、定番の食べ物から洗剤などの日用品まで色々あるよ。</div>
+</div>
+</div>
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg" alt="きなこ">
+<div class="chat-bubble-wrap">
+<div class="chat-name">きなこ</div>
+<div class="chat-bubble">**定番の食べ物の贈り物**ってどんなのがあるんですか?
+私、韓国の食べ物も大好きなんで気になります!</div>
+</div>
+</div>
+<div class="chat-msg chat-right">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/245689-231x300.jpg" alt="ジュン">
+<div class="chat-bubble-wrap">
+<div class="chat-name">ジュン</div>
+<div class="chat-bubble">贈りの中でもやっぱり人気なのは手軽で定番の食べ物。
 高級な**韓牛(ハヌ)**や**高麗人参**から、お手ごろな**韓国海苔**や**缶詰**、**調味料セット**など、相手によって贈り物の種類も様々。
 ちなみにオススメはこんな感じです。
 
@@ -62,14 +66,17 @@ K-POPがきっかけで韓国にドはマリ!最終的には韓国で働いて�
  	- **最近はオシャレなマカロンも人気のお菓子。
 **
 
-この記事は**【6分】**でサッと読めます。
-
-![](https://lalalakorea.com/wp-content/uploads/2021/08/1270157-150x150.jpg)        
-
-ハル
-**ソルラル、秋夕(チュソク)の贈り物オススメ11選**をご紹介します。
-まずは**定番の食べ物**から。
-
+この記事は**【6分】**でサッと読めます。</div>
+</div>
+</div>
+<div class="chat-msg chat-right">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1270157-150x150.jpg" alt="ハル">
+<div class="chat-bubble-wrap">
+<div class="chat-name">ハル</div>
+<div class="chat-bubble">**ソルラル、秋夕(チュソク)の贈り物オススメ11選**をご紹介します。
+まずは**定番の食べ物**から。</div>
+</div>
+</div>
 ## 1. 豪華な贈り物なら…国産牛『韓肉（ハヌ）』セット
 
  
@@ -387,13 +394,13 @@ Instagram에서 이 게시물 보기
 
  
 
-![](https://lalalakorea.com/wp-content/uploads/2021/08/1270157-150x150.jpg)        
-
-ハル
-食べ物以外にも、生活用品や化粧品などもオススメです。
- 
- 
-
+<div class="chat-msg chat-right">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1270157-150x150.jpg" alt="ハル">
+<div class="chat-bubble-wrap">
+<div class="chat-name">ハル</div>
+<div class="chat-bubble">食べ物以外にも、生活用品や化粧品などもオススメです。</div>
+</div>
+</div>
 ## 10. 石鹸やシャンプー、化粧品も人気
 
  

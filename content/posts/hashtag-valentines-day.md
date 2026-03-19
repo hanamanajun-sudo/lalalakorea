@@ -9,25 +9,31 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2022/01/제목을-입력�
 
 ## 韓国のバレンタインのリアル、流行りがわかるハッシュタグは？
 
-![](https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg)
-
-きなこ
-もうすぐバレンタインですね!
-**韓国にもバレンタインってある**のかな?
-
-![](https://lalalakorea.com/wp-content/uploads/2022/01/002.png)
-
-악어오빠
-**韓国にもバレンタインがあって**、日本のように1年の**ビッグイベント**として定着しているヨ。
-でも**日本とちょっと違う点もある**んダ。
-
-![](https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg)
-
-きなこ
-そうなの?
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg" alt="きなこ">
+<div class="chat-bubble-wrap">
+<div class="chat-name">きなこ</div>
+<div class="chat-bubble">もうすぐバレンタインですね!
+**韓国にもバレンタインってある**のかな?</div>
+</div>
+</div>
+<div class="chat-msg chat-right">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2022/01/002.png" alt="악어오빠">
+<div class="chat-bubble-wrap">
+<div class="chat-name">악어오빠</div>
+<div class="chat-bubble">**韓国にもバレンタインがあって**、日本のように1年の**ビッグイベント**として定着しているヨ。
+でも**日本とちょっと違う点もある**んダ。</div>
+</div>
+</div>
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg" alt="きなこ">
+<div class="chat-bubble-wrap">
+<div class="chat-name">きなこ</div>
+<div class="chat-bubble">そうなの?
 韓国好きとしては韓国の女性たちは実際どんな風にバレンタインを過ごしてるのか知りたいです!
-**韓国女子のリアルなバレンタイン事情**を教えて、アゴオッパ〜!!
-
+**韓国女子のリアルなバレンタイン事情**を教えて、アゴオッパ〜!!</div>
+</div>
+</div>
 ## 1．韓国のバレンタインデーは「好きな人に告白する日」よりは「恋人と過ごす日」！
 
 韓国でも**バレンタインデー**は、**女性から男性にチョコレートをプレゼントをする日**で、日本同様に韓国でもバレンタインデーに向けて様々なお店でチョコレートがズラリ。

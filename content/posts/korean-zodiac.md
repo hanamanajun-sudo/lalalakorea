@@ -9,26 +9,32 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/12/001-1.png"
 
 ## 1.韓国語임인년（イミンニョン）の意味は？〜韓国語で干支はなんという？〜
 
-![](https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg)   
-
-きなこ
-韓国のバラエティ番組で**新年のあいさつ**をする時に、**「임인년(イミンニョン)」**っていう言葉が出てきたんですけど、どういう意味なのか教えて下さい!
-
-![](https://lalalakorea.com/wp-content/uploads/2021/12/제목을-입력해주세요_-003.png)   
-
-악어오빠
-アンニョン!
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg" alt="きなこ">
+<div class="chat-bubble-wrap">
+<div class="chat-name">きなこ</div>
+<div class="chat-bubble">韓国のバラエティ番組で**新年のあいさつ**をする時に、**「임인년(イミンニョン)」**っていう言葉が出てきたんですけど、どういう意味なのか教えて下さい!</div>
+</div>
+</div>
+<div class="chat-msg chat-right">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/12/제목을-입력해주세요_-003.png" alt="악어오빠">
+<div class="chat-bubble-wrap">
+<div class="chat-name">악어오빠</div>
+<div class="chat-bubble">アンニョン!
 韓国語と韓国文化を皆に教えるのが大好きなアゴオッパだよ。
 お、**「임인년(イミンニョン)」**が気になったんだね。
-確かに**新年限定、しかも60年に一度しか使われない言葉**だから聞き慣れないもの当然だよ。
-
-![](https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg)   
-
-きなこ
-**60年に一度?**
+確かに**新年限定、しかも60年に一度しか使われない言葉**だから聞き慣れないもの当然だよ。</div>
+</div>
+</div>
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg" alt="きなこ">
+<div class="chat-bubble-wrap">
+<div class="chat-name">きなこ</div>
+<div class="chat-bubble">**60年に一度?**
 それってどういうことですか?
-気になる!教えて、アゴオッパ！
-
+気になる!教えて、アゴオッパ！</div>
+</div>
+</div>
 ## 2.임인년（イミンニョン）は60年に一度しか使われない韓国語？
 
 ![](https://lalalakorea.com/wp-content/uploads/2021/12/001-1.png)
@@ -102,37 +108,47 @@ https://lalalakorea.com/korean-study-oneplusone/
 
 ## 4.韓国の干支は日本と違う動物がいる？
 
-![](https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg)   
-
-きなこ
-**六十干支**って初めて聞きました。
-自分がどの種類なのかも知らなかったよ〜。
-
-![](https://lalalakorea.com/wp-content/uploads/2021/12/제목을-입력해주세요_-003.png)   
-
-악어오빠
-それは**韓国人も同じで、六十干支はあまり馴染みのない人が多い**かもね。
-でも**日本と同じように今年は干支の何年なのかはすごく生活に根付いている**よ。
-
-![](https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg)   
-
-きなこ
-そうなんですね!
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg" alt="きなこ">
+<div class="chat-bubble-wrap">
+<div class="chat-name">きなこ</div>
+<div class="chat-bubble">**六十干支**って初めて聞きました。
+自分がどの種類なのかも知らなかったよ〜。</div>
+</div>
+</div>
+<div class="chat-msg chat-right">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/12/제목을-입력해주세요_-003.png" alt="악어오빠">
+<div class="chat-bubble-wrap">
+<div class="chat-name">악어오빠</div>
+<div class="chat-bubble">それは**韓国人も同じで、六十干支はあまり馴染みのない人が多い**かもね。
+でも**日本と同じように今年は干支の何年なのかはすごく生活に根付いている**よ。</div>
+</div>
+</div>
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg" alt="きなこ">
+<div class="chat-bubble-wrap">
+<div class="chat-name">きなこ</div>
+<div class="chat-bubble">そうなんですね!
 なんか韓国にも同じ干支があると思うと不思議な感じです。
-**2022年は韓国でも寅年**なんですか?
-
-![](https://lalalakorea.com/wp-content/uploads/2021/12/제목을-입력해주세요_-003.png)   
-
-악어오빠
-うん、**韓国の干支も基本的に日本と同じ動物**だよ。
-でも**一つだけ違う動物がいる**んだけど、知ってるかな?
-
-![](https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg)   
-
-きなこ
-え?!そうなんですか?
-何年なんですか、教えて〜。
-
+**2022年は韓国でも寅年**なんですか?</div>
+</div>
+</div>
+<div class="chat-msg chat-right">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/12/제목을-입력해주세요_-003.png" alt="악어오빠">
+<div class="chat-bubble-wrap">
+<div class="chat-name">악어오빠</div>
+<div class="chat-bubble">うん、**韓国の干支も基本的に日本と同じ動物**だよ。
+でも**一つだけ違う動物がいる**んだけど、知ってるかな?</div>
+</div>
+</div>
+<div class="chat-msg chat-left">
+<img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg" alt="きなこ">
+<div class="chat-bubble-wrap">
+<div class="chat-name">きなこ</div>
+<div class="chat-bubble">え?!そうなんですか?
+何年なんですか、教えて〜。</div>
+</div>
+</div>
 ## 5.韓国の干支を韓国語でいうとなんていう？
 
 **韓国語で「○○年」は「○○띠(ッティ)」**と言います。
