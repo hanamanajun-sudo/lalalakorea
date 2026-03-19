@@ -74,7 +74,7 @@ export default function AboutPage() {
           <div className="about-characters">
 
             <div className="character-card">
-              <div className="character-avatar">🐱</div>
+              <img className="character-avatar-img" src="https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg" alt="きなこ" />
               <div className="character-name">きなこ</div>
               <div className="character-role">メインキャラ</div>
               <p className="character-desc">
@@ -84,7 +84,7 @@ export default function AboutPage() {
             </div>
 
             <div className="character-card">
-              <div className="character-avatar">🌸</div>
+              <img className="character-avatar-img" src="https://lalalakorea.com/wp-content/uploads/2021/08/1270157-150x150.jpg" alt="ハル" />
               <div className="character-name">ハル</div>
               <div className="character-role">ツッコミ担当</div>
               <p className="character-desc">
@@ -94,7 +94,7 @@ export default function AboutPage() {
             </div>
 
             <div className="character-card">
-              <div className="character-avatar">🕶️</div>
+              <img className="character-avatar-img" src="https://lalalakorea.com/wp-content/uploads/2021/08/245689-231x300.jpg" alt="ジュン" />
               <div className="character-name">ジュン</div>
               <div className="character-role">案内役</div>
               <p className="character-desc">
@@ -104,7 +104,7 @@ export default function AboutPage() {
             </div>
 
             <div className="character-card">
-              <div className="character-avatar">🎀</div>
+              <img className="character-avatar-img" src="https://lalalakorea.com/wp-content/uploads/2021/11/135882.jpg" alt="ミオ" />
               <div className="character-name">ミオ</div>
               <div className="character-role">K-POP担当</div>
               <p className="character-desc">
@@ -114,7 +114,7 @@ export default function AboutPage() {
             </div>
 
             <div className="character-card">
-              <div className="character-avatar">🐊</div>
+              <img className="character-avatar-img" src="https://lalalakorea.com/wp-content/uploads/2021/10/제목을-입력해주세요_-002.png" alt="악어오빠" />
               <div className="character-name">악어오빠</div>
               <div className="character-role">韓国代表</div>
               <p className="character-desc">

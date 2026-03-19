@@ -376,6 +376,7 @@ body {
 }
 .character-card:hover { transform: translateY(-3px); box-shadow: 0 8px 24px rgba(0,0,0,0.08); }
 .character-avatar { font-size: 2.4rem; margin-bottom: 10px; }
+.character-avatar-img { width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-bottom: 10px; border: 3px solid #fde8ec; }
 .character-name { font-size: 1.05rem; font-weight: 800; color: #1a1a1a; margin-bottom: 4px; }
 .character-role {
   font-size: 0.75rem; color: #e8324a; font-weight: 700;
