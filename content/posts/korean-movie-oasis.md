@@ -5,6 +5,9 @@ date: "2021-10-10"
 categories: ["韓国エンタメ"]
 excerpt: ""
 thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/10/제목을-입력해주세요_-004-1.png"
+related_posts:
+  - "koreandrama-tokkebi-sunun"
+  - "koreandrama-netflix-squid1"
 ---
 
 ## 菅田将暉・仲野太賀絶賛！韓国映画「オアシス」はどんな映画？
@@ -271,14 +274,4 @@ View this post on Instagram
 
  
 
-## ４．オススメ関連記事
-
-[韓国語 수능（スヌン）ってどういう意味？](https://lalalakorea.com/koreandrama-tokkebi-sunun/)
-
-https://lalalakorea.com/koreandrama-tokkebi-sunun/
-
- 
-
-[韓国語でイカはなんと言う？【Netflixドラマ イカゲーム】](https://lalalakorea.com/koreandrama-netflix-squid1/)
-
-https://lalalakorea.com/koreandrama-netflix-squid1/
+## ４．

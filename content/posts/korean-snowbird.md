@@ -5,6 +5,9 @@ date: "2021-01-10"
 categories: ["韓国の文化"]
 excerpt: ""
 thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/01/제목을-입력해주세요_-005.png"
+related_posts:
+  - "bts-newword-armyforever"
+  - "korean-movie-oasis"
 ---
 
 ## 韓国で人気の雪アヒル…BTSのRMが作ったDTSって？
@@ -93,50 +96,3 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/01/제목을-입력�
 DTS.. 🌨🐥[#쭌](https://twitter.com/hashtag/%EC%AD%8C?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/1peeC0sSN4](https://t.co/1peeC0sSN4)
 
 — 방탄소년단 (@BTS_twt) [January 6, 2021](https://twitter.com/BTS_twt/status/1346834059930918912?ref_src=twsrc%5Etfw)
-
- 
-
-## オススメ記事
-
-https://lalalakorea.com/bts-newword-armyforever/
-
- 
-
-https://lalalakorea.com/korean-movie-oasis/
-
-## 日本にもブーム到来の可能性…？ひと足早くブーム先取りしてみる？
-
- 
-
-こうなると、みんなも真似してみたくなりますよね…？？
-
-韓国で流行したものが日本でも次々とブームになっている最近。
-雪アヒルが日本でブームになる日も近い？！
-
-冬しかできない季節限定のブームなので、ひと足早くブームを先取りしてみても良いかも？
-
- 
-
- 
-
-## 小さい雪アヒルはもう飽きた？韓国に巨大雪アヒルが出現！
-
-すっかり雪アヒルが冬の風物詩として定番化している韓国。
-
-小さい雪アヒルはもう飽きた？！
-
-巨大雪アヒルを作る人まで出現！
-
- 
-
- 
-
- 
- 
-
- 
- 
-
-<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CXvhHyqv4LI/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
-<a href="https://www.instagram.com/p/CXvhHyqv4LI/">この投稿をInstagramで見る</a>
-</blockquote>

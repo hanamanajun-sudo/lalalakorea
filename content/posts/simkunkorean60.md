@@ -5,6 +5,8 @@ date: "2022-07-04"
 categories: ["韓国語"]
 excerpt: ""
 thumbnail: "https://lalalakorea.com/wp-content/uploads/2022/07/제목을-입력해주세요_-005-3.png"
+related_posts:
+
 ---
 
 # 『こんなセリフ言われてみたい！胸キュン韓国語フレーズ60選

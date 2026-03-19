@@ -2,6 +2,7 @@ import { getPostBySlug, getAllPosts } from '../../lib/posts';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import InstagramEmbed from './InstagramEmbed';
+import RelatedPosts from './RelatedPosts';
 
 export async function generateStaticParams() {
   const posts = getAllPosts();
@@ -43,6 +44,7 @@ export default async function PostPage({ params }) {
         dangerouslySetInnerHTML={{ __html: post.content }}
       />
       {hasInstagram && <InstagramEmbed />}
+      <RelatedPosts posts={post.relatedPosts} />
     </article>
   );
 }

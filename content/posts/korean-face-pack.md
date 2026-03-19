@@ -5,6 +5,9 @@ date: "2021-08-31"
 categories: ["韓国コスメ"]
 excerpt: ""
 thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/08/썸네일-009-1.png"
+related_posts:
+  - "muziktiger"
+  - "korean-collaboration-beer"
 ---
 
 <div class="chat-question">最近日本でも人気の**韓国のシートマスク（フェイスパック）**。
@@ -590,13 +593,3 @@ WWW.QOO10.JP
 **デイリー使いできるプチプラ優秀マスクからスペシャルケア向けの高級シートまで**ほんとうに種類が豊富な韓国のマスクシート。
 
 効果も様々なので自分に合ったマスクシートを見つけてキレイになっちゃいましょう!
-
- 
-
-## オススメ関連記事
-
-https://lalalakorea.com/muziktiger/
-
- 
-
-https://lalalakorea.com/korean-collaboration-beer/

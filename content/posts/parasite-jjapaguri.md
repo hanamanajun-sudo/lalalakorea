@@ -5,6 +5,8 @@ date: "2020-02-14"
 categories: ["韓国エンタメ"]
 excerpt: ""
 thumbnail: "https://lalalakorea.com/wp-content/uploads/2020/02/제목을-입력해주세요_-018-1.png"
+related_posts:
+
 ---
 
 ## 1．アカデミー賞受賞で話題の韓国映画『パラサイト』に登場する食べ物『チャパグリ』って？

@@ -5,6 +5,8 @@ date: "2021-11-24"
 categories: ["韓国語"]
 excerpt: ""
 thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/11/카톡-한국어-1-010.png"
+related_posts:
+  - "korean-study-oneplusone"
 ---
 
 ## 空港で預けた手荷物が出てこない！こんな時、韓国語で何と言う？
@@ -402,9 +404,3 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/11/카톡-한국어-
 でも実は**韓国語ネイティブ**では…**「캐리어(ケリオ)キャリーケース」**と言います。
 
 韓国に旅行に行った際は**「캐리어」**という言葉、ぜひ使ってみて下さい!
-
-### オススメ記事
-
-**[韓国ドラマ【愛の不時着】～韓国語『여기요』（ヨギヨ）の意味は？～](https://lalalakorea.com/koreandrama-crashlandingonyou-here/)**
-
-**[韓国語「1+1（ワンプラスワン）」の読み方は？意味は？](https://lalalakorea.com/korean-study-oneplusone/)**

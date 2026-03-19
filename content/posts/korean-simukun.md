@@ -5,6 +5,9 @@ date: "2019-12-17"
 categories: ["韓国語"]
 excerpt: ""
 thumbnail: "https://lalalakorea.com/wp-content/uploads/2019/12/제목을-입력해주세요_-001.png"
+related_posts:
+  - "korean-movie-oasis"
+  - "koreandrama-tokkebi-sunun"
 ---
 
 ## １．韓国語【シムクン（심쿵）】の意味は？どういう時に使う？
@@ -45,24 +48,4 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2019/12/제목을-입력�
 
  
 
-###  こちらもオススメ記事
-
-https://lalalakorea.com/korean-movie-oasis/
-
- 
-
-https://lalalakorea.com/koreandrama-tokkebi-sunun/
-
-## 
-
-## ３．韓国語ドラマ「トッケビ」シムクン（심쿵）シーン
-
-人気韓国ドラマ「トッケビ」。
-
-このドラマ、コン・ユがカッコ良すぎて심쿵連発！
-
-今回は公式チャンネルにアップされた심쿵シーンをご紹介。
-
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:24px 0;">
-<iframe src="https://www.youtube.com/embed/AUH30lpx0uU" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy"></iframe>
-</div>
+###  こちらも

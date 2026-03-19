@@ -5,6 +5,8 @@ date: "2019-12-20"
 categories: ["韓国語"]
 excerpt: ""
 thumbnail: "https://lalalakorea.com/wp-content/uploads/2019/12/제목을-입력해주세요_-007.png"
+related_posts:
+  - "yuns-kitchin2"
 ---
 
 ## １．ホッカイロは韓国語でなんという？〜EXOに学ぶ韓国語〜
@@ -236,8 +238,4 @@ https://lalalakorea.com/korean-study-letter/
 
  
 
-## 6.オススメ関連記事
-
-[パク・ソジュンの優しさと男気【ユン食堂２で学ぶ韓国語】](https://lalalakorea.com/yuns-kitchin2/)
-
-[韓国語でイカはなんと言う？【Netflixドラマ イカゲーム】](https://lalalakorea.com/%e9%9f%93%e5%9b%bd%e8%aa%9e%e3%81%a7%e3%82%a4%e3%82%ab%e3%81%af%e3%81%aa%e3%82%93%e3%81%a8%e8%a8%80%e3%81%86%ef%bc%9f%e3%80%90netflix%e3%83%89%e3%83%a9%e3%83%9e-%e3%82%a4%e3%82%ab%e3%82%b2%e3%83%bc/)
+## 6.

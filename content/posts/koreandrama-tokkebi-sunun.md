@@ -5,6 +5,8 @@ date: "2020-12-03"
 categories: ["韓国の文化"]
 excerpt: ""
 thumbnail: "https://lalalakorea.com/wp-content/uploads/2020/12/제목을-입력해주세요_-002.png"
+related_posts:
+
 ---
 
 ## 韓国語수능（スヌン）ってどういう意味？

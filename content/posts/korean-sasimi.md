@@ -5,6 +5,8 @@ date: "2020-11-12"
 categories: ["韓国グルメ"]
 excerpt: ""
 thumbnail: "https://lalalakorea.com/wp-content/uploads/2020/11/썸네일-007.png"
+related_posts:
+  - "korean-beer"
 ---
 
 # 韓国のお刺身『회（フェ）』
@@ -102,11 +104,3 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2020/11/썸네일-007.png
  
 
 ![](https://lalalakorea.com/wp-content/uploads/2020/11/ダウンロード-8.jpeg)
-
- 
-
-オススメ関連記事
-
-[５つの味を持つ韓国の五味子(オミジャ)茶【오미자차】って？](https://lalalakorea.com/omija/)
-
-[韓国語で「ビール」はなんていう？～グルメ韓国語シリーズ～「맥주（メクチュ）」](https://lalalakorea.com/korean-beer/)

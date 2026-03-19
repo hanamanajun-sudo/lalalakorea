@@ -5,6 +5,8 @@ date: "2024-02-29"
 categories: ["韓国語"]
 excerpt: ""
 thumbnail: "https://lalalakorea.com/wp-content/uploads/2024/02/4-3.png"
+related_posts:
+
 ---
 
 <div class="chat-msg chat-left">

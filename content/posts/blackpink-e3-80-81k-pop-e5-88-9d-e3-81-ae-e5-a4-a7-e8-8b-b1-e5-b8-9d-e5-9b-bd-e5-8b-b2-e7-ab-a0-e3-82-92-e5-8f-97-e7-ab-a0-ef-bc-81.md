@@ -5,6 +5,8 @@ date: "2023-11-26"
 categories: ["韓国エンタメ", "韓国ホットイシュー"]
 excerpt: ""
 thumbnail: "https://lalalakorea.com/wp-content/uploads/2023/11/パステル　白　はてなブログ　旅行　ブログ　アイキャッチ画像.png"
+related_posts:
+
 ---
 
 ## BLACKPINK、K-POP初の大英帝国勲章を受章！気候変動に対するメッセージが評価

@@ -1,5 +1,6 @@
 import './globals.css';
 import Link from 'next/link';
+import ScrollToTop from './ScrollToTop';
 
 export const metadata = {
   title: 'LalaLaKorea – 韓国語・韓国文化をもっと楽しく',
@@ -32,6 +33,7 @@ export default function RootLayout({ children }) {
           </div>
         </header>
         <main>{children}</main>
+        <ScrollToTop />
         <footer className="site-footer">
           <div className="container">
             <p>© 2026 LalaLaKorea. All rights reserved.</p>

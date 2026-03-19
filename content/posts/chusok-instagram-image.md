@@ -5,6 +5,9 @@ date: "2021-09-15"
 categories: ["韓国の文化"]
 excerpt: ""
 thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/09/제목을-입력해주세요_-017.png"
+related_posts:
+  - "korea-expression-of-gratitude-presents"
+  - "korean-message-chusok"
 ---
 
 <div class="chat-question">韓国ではもうすぐ**秋夕(チュソク)**ですよね。
@@ -210,19 +213,3 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/09/제목을-입력�
  
 
 ![](https://lalalakorea.com/wp-content/uploads/2021/09/011.png)
-
-## オススメ関連記事
-
-[韓国の秋夕（チュソク）贈り物オススメ　１１選](https://lalalakorea.com/korea-expression-of-gratitude-presents/)
-
-[【BTSあいさつ追記】秋夕（チュソク）の韓国語メッセージオススメ](https://lalalakorea.com/korean-message-chusok/)
-
-##  
-
-## さいごに
-
- 
-
-![](https://lalalakorea.com/wp-content/uploads/2021/09/チュソク韓国語メッセージ-_-복사본_복사본-013.png)
-
-**ハングルが難しくて韓国語でメッセージを打つのが難しいよ、という方**も、**メッセージに添えるイメージがあったらなあ、という方**もぜひイメージを活用してみてください。

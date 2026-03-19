@@ -5,6 +5,8 @@ date: "2022-01-13"
 categories: ["韓国グルメ"]
 excerpt: ""
 thumbnail: "https://lalalakorea.com/wp-content/uploads/2022/01/썸네일-001.png"
+related_posts:
+  - "korean-hashtag-konstagram"
 ---
 
 ## ハニバター、プルダックポックンミョン…BTSまで！韓国のコラボビールが続々登場！
@@ -206,105 +208,3 @@ OFFの時は一日の終わりを爽やかに
 <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CVkXNbAPgeE/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
 <a href="https://www.instagram.com/p/CVkXNbAPgeE/">この投稿をInstagramで見る</a>
 </blockquote>
-
-**オススメ記事**
-
-https://lalalakorea.com/korean-hashtag-konstagram/
-
- 
-
-###  
-
-### 4．GS25がハニーバターチップとコラボ！『ハニーバターエール』
-
-日本でもすっかり定着した感のある**『ハニーバター』**味。
-
-**はちみつの甘さとバターの塩気のハーモニー**がたまらなくて、食べだしたら止まらないお菓子ですよね。
- 
-
- 
-
- 
-
- 
- 
-
- 
- 
-
-<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CCbDxVRFmdi/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
-<a href="https://www.instagram.com/p/CCbDxVRFmdi/">この投稿をInstagramで見る</a>
-</blockquote>
-
-その元祖、**韓国の『ハニーバターチップ』とコンビニ「GS25」がコラボ**したビールが登場。
-
-ドイツ産のホップが香ばしくて軽やかな味わいのビールだそう。
- 
-
- 
-
- 
-
- 
- 
-
- 
- 
-
-<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CYV7UNYjNIF/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
-<a href="https://www.instagram.com/p/CYV7UNYjNIF/">この投稿をInstagramで見る</a>
-</blockquote>
-
-## 5．BTSと韓国ビール Kloud(クラウド)がコラボ！
-
-2021年、BTSが韓国ビールクラウドの人気商品「生ドラフトビール」のアンバサダーを務めることに。
- 
-
- 
-
- 
-
- 
- 
-
- 
- 
-
-<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/COkOHzPh7lX/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
-<a href="https://www.instagram.com/p/COkOHzPh7lX/">この投稿をInstagramで見る</a>
-</blockquote>
-
- 
-記念インタビューはこちら。
- 
-
- 
-
- 
-
- 
- 
-
- 
- 
-
-<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CN_2NvXjxzu/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
-<a href="https://www.instagram.com/p/CN_2NvXjxzu/">この投稿をInstagramで見る</a>
-</blockquote>
-
-### BTSとコラボKloud(クラウド)ビールはどこで売っている？日本での購入方法は？
-
-日本でもコラボビールをネットショップで買えることができます。
-
-BTSとコラボして話題のクラウドビール
-
-[![](https://gd.image-qoo10.jp/li/131/104/3826104131.g_400-w-st_g.jpg)](https://www.qoo10.jp/su/1312304305/Q179522158)
-[Qoo10] [BTS X Kloud 生 DRAFT330ml] 防弾少年団 クラウド ビール
-
-WWW.QOO10.JP
-
- 
-
-これ以外にも色々な**面白いコラボビールがたくさん**登場している韓国の缶ビール。
-
-韓国のコンビニに行く機会があったら覗いてみたいですね!

@@ -5,6 +5,9 @@ date: "2021-10-19"
 categories: ["韓国語"]
 excerpt: ""
 thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/10/제목을-입력해주세요_-001-3.png"
+related_posts:
+  - "korean-study-worry"
+  - "korean-study-goodmorning"
 ---
 
 ## 韓国語「1+1（ワンプラスワン）」の読み方は？意味は？
@@ -175,78 +178,3 @@ View this post on Instagram
 
  
 [미니스톱 공식 인스타그램입니다.❤️(@ministopkorea_official)님의 공유 게시물](https://www.instagram.com/p/Bdyv-p8lrLN/?utm_source=ig_embed&utm_campaign=loading)
-
-## オススメ関連記事
-
-[「心配」は韓国語でなんという？〜『愛の不時着』で学ぶ韓国語〜](https://lalalakorea.com/korean-study-worry/)
-
-[韓国語で朝の挨拶「おはよう」はなんという？～カカオトークでリアル韓国語を勉強しよう～](https://lalalakorea.com/korean-study-goodmorning/)
-
-## SNSでは「1+1」を略してなんという？
-
-インスタグラムで**「1+1」を検索**しようとして**「원플러스원(ウォンプロスウォン)」と入力しても実は全然ヒットしません。**
-
-検索結果が**コチラ**↓
-
- 
-
-![](https://lalalakorea.com/wp-content/uploads/2021/10/Screenshot_20211018-233937_Instagram.jpg)
-
- 
-
-インスタグラムなどのSNSでは**「1+1(원플러스원)」**のことを略して**「원플원(ウォンプルウォン)」**と言います。
-
-**「원플원(ウォンプルウォン)」で検索**すると…2.8万件もヒット!
-
-検索結果は**コチラ**↓
-
-![](https://lalalakorea.com/wp-content/uploads/2021/10/Screenshot_20211018-233921_Instagram.jpg)
-
-## 最後に例文で「1+1」をもう一度確認！
-
-![](https://lalalakorea.com/wp-content/uploads/2021/10/11-001.png)
-
-ウォンプロスウォン　トゥプロスウォヌン
-**1+1　 2+1은**
-（日本語訳）1+1、2+1は
-
- 
-
-ノチル　 スガ　　オプソ
-**놓질 수가 없어~**
-（日本語訳）見逃せない
-
-###  
-
-### 動画で発音をチェック！
-
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:24px 0;">
-<iframe src="https://www.youtube.com/embed/VG1quyDplTc" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy"></iframe>
-</div>
-
- 
-
- 
-
- 
-
-### 
-
-###  
-
-ホームプラス ウォンプロスウォンヘンサ
-**홈플러스 1+1 행사**
-（日本語訳）ホームプラスで　1+1セール中
-
- 
-ウリッタル カンシク サジェギ ワンリョ
-**우리딸 간식 사재기 완료**
-（日本語訳）娘のおやつ買い出し完了
-
-###  
-
-### 動画で発音をチェック！
-
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:24px 0;">
-<iframe src="https://www.youtube.com/embed/9W03GrEjHSg" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy"></iframe>
-</div>

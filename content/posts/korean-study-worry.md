@@ -5,6 +5,8 @@ date: "2021-09-29"
 categories: ["韓国語"]
 excerpt: ""
 thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/09/제목을-입력해주세요_-021.png"
+related_posts:
+  - "korean-study-oneplusone"
 ---
 
 <div class="chat-question">**~「心配」は韓国語でなんという?~**
@@ -139,8 +141,4 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/09/제목을-입력�
 
 銃で撃たれた人ばかりの人がピンピンしている人の心配をしている場合じゃない、という意味ですね。
 
-###  
-
-### オススメ関連記事はこちら
-
-https://lalalakorea.com/korean-study-oneplusone/
+###

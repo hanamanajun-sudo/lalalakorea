@@ -5,6 +5,8 @@ date: "2022-01-15"
 categories: ["韓国ホットイシュー"]
 excerpt: ""
 thumbnail: "https://lalalakorea.com/wp-content/uploads/2022/01/썸네일-009.png"
+related_posts:
+
 ---
 
 ## 韓国で10代、20代に大人気の「MUZIK TIGER」(ムジークタイガー）って？

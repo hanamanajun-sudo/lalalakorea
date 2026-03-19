@@ -5,6 +5,8 @@ date: "2019-12-23"
 categories: ["韓国語"]
 excerpt: ""
 thumbnail: "https://lalalakorea.com/wp-content/uploads/2019/12/제목을-입력해주세요_-009-1.png"
+related_posts:
+
 ---
 
 ## 1．韓国語「글자（クルチャ）」の意味は？～EXOに学ぶ韓国語～

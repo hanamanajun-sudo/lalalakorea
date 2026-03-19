@@ -5,6 +5,9 @@ date: "2021-12-19"
 categories: ["韓国語"]
 excerpt: ""
 thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/12/제목을-입력해주세요_-011.png"
+related_posts:
+  - "korean-study-christmas"
+  - "korean-study-goodmorning"
 ---
 
 ## クリスマスにおすすめの韓国語メッセージ９選
@@ -346,27 +349,3 @@ https://lalalakorea.com/hashtag-valentines-day/
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:24px 0;">
 <iframe src="https://www.youtube.com/embed/lIYjaiwdMAs" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy"></iframe>
 </div>
-
- 
-
-## オススメ記事
-
-[クリスマスの韓国語メッセージオススメ10選【크리스마스 한국어】](https://lalalakorea.com/korean-study-christmas/)
-
-[韓国語でプレゼント・お土産はなんという？](https://lalalakorea.com/korean-present/)
-
-[韓国語で朝の挨拶「おはよう」はなんという？～カカオトークでリアル韓国語を勉強しよう～](https://lalalakorea.com/korean-study-goodmorning/)
-
- 
-
-## 韓国語のクリスマスメッセージは相手の幸せや健康を祈る文言がオススメ
-
-![](https://lalalakorea.com/wp-content/uploads/2021/12/제목을-입력해주세요_-011.png)
-
-季節の挨拶が日本よりも**相手の健康や幸せを祈る言葉を直接的に表現することが多い**韓国。
-
-クリスマスメッセージもちょっと大げさかな?と思うくらいの表現が多かったりします。
-
-基本は**相手を思いやる気持ちを前面に出した心のこもったメッセージ**であればOK!
-
-今回ご紹介したメッセージカードのイメージや例文を活用して、ぜひ韓国語でクリスマスメッセージを送ってみてください。

@@ -5,6 +5,8 @@ date: "2022-02-05"
 categories: ["韓国の文化"]
 excerpt: ""
 thumbnail: "https://lalalakorea.com/wp-content/uploads/2022/02/제목을-입력해주세요_-005-2.png"
+related_posts:
+
 ---
 
 ## 韓国の卒業式について知りたい！＆韓国語で卒業お祝いのメッセージ

@@ -5,6 +5,8 @@ date: "2021-09-09"
 categories: ["韓国の文化"]
 excerpt: ""
 thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/09/IMG_20210911_135815_403.jpg"
+related_posts:
+  - "korean-snowbird"
 ---
 
 **2021.9.19追記しました。**
@@ -415,7 +417,3 @@ BTSがチュソクの挨拶のメッセージをYouTubeにあげていますね�
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:24px 0;">
 <iframe src="https://www.youtube.com/embed/OOSKSDAsF60" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy"></iframe>
 </div>
-
-## オススメ関連記事
-
-https://lalalakorea.com/korean-snowbird/

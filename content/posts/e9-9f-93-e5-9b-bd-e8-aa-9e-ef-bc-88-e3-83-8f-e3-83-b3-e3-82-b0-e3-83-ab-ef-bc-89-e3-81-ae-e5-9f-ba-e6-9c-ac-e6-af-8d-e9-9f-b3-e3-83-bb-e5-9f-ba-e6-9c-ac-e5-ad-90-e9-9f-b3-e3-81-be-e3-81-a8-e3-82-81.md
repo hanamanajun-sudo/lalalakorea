@@ -5,6 +5,8 @@ date: "2024-03-02"
 categories: ["韓国語"]
 excerpt: ""
 thumbnail: "https://lalalakorea.com/wp-content/uploads/2024/03/韓国語タイトル.png"
+related_posts:
+
 ---
 
 ## 推し活しながら韓国語（ハングル）を自然と覚えたい人におすすめ！【スマホのキーボードで覚える韓国語（ハングル）】

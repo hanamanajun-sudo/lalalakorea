@@ -5,6 +5,9 @@ date: "2021-09-18"
 categories: ["韓国語"]
 excerpt: ""
 thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/09/제목을-입력해주세요_-005-1.png"
+related_posts:
+  - "koreandramafightformyway"
+  - "yuns-kitchin2"
 ---
 
 <div class="chat-question">「梨泰院クラス」を見てから**パク・ソジュンさ**んにハマってます!
@@ -129,37 +132,3 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/09/제목을-입력�
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:24px 0;">
 <iframe src="https://www.youtube.com/embed/w0F-HYC23s4" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy"></iframe>
 </div>
-
-## オススメ関連記事
-
-[韓国ドラマ【サム・マイウェイ】パク・ソジュンのぶりっ子演技～韓国語『 똑땅해（ットクタンヘ）』の意味は？～](https://lalalakorea.com/koreandramafightformyway/)
-
-[パク・ソジュンの優しさと男気【ユン食堂２で学ぶ韓国語】](https://lalalakorea.com/yuns-kitchin2/)
-
- 
-
-## 3.さいごに
-
-ドラマで見せるかっこいい姿とはまた違う、とても**真面目で好青年**の一面が見ることができる「ユン食堂」。
-
-**これ以外にも素敵な姿がたくさん**見られるので、ぜひ一度見てみてください。
-
- 
-
-## 4.「ユン食堂２」を見られるのはコチラ
-
-ユン食堂２を見られるので**画質もよくて視聴しやすそう**なのはコチラ。
-
-**【U-NEXT】**
-
-[**U**-NEXT【ユン食堂２】](https://www.video.unext.jp//SID00522)
-
-31日間の無料トライアルがあり、解約はいつでもOK！
-
- 
-
-**【GYAO】**
-
-[**GYAO【ユン食堂２】**](https://gyao.yahoo.co.jp/store/title/030492)
-
-パックレンタルだとレンタル期間30日間、1,540円で視聴できるようです。

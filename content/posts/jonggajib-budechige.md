@@ -5,6 +5,8 @@ date: "2020-02-26"
 categories: ["韓国グルメ"]
 excerpt: ""
 thumbnail: "https://lalalakorea.com/wp-content/uploads/2020/02/제목을-입력해주세요_-020.png"
+related_posts:
+  - "parasite-jjapaguri"
 ---
 
 ## 1．韓国鍋『チョンガチプ プデチゲ』の発祥は軍隊？
@@ -147,13 +149,3 @@ Real Kimchiという名前も納得☆
  
 
 ・ズッキーニ1本
-
- 
-
-## オススメ関連記事
-
-https://lalalakorea.com/parasite-jjapaguri/
-
- 
-
-https://lalalakorea.com/%ef%bc%95%e3%81%a4%e3%81%ae%e5%91%b3%e3%82%92%e6%8c%81%e3%81%a4%e9%9f%93%e5%9b%bd%e3%81%ae%e4%ba%94%e5%91%b3%e5%ad%90%e3%82%aa%e3%83%9f%e3%82%b8%e3%83%a3%e8%8c%b6%e3%80%90%ec%98%a4%eb%af%b8%ec%9e%90/

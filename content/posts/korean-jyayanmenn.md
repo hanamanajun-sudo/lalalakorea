@@ -5,6 +5,8 @@ date: "2019-11-24"
 categories: ["韓国グルメ"]
 excerpt: ""
 thumbnail: "https://lalalakorea.com/wp-content/uploads/2019/11/썸네일-015.png"
+related_posts:
+  - "korea-expression-of-gratitude-presents"
 ---
 
 ## 1.韓国人の出前文化はハンパない⁉
@@ -84,11 +86,3 @@ Instagram에서 이 게시물 보기
 言ってる場面を見たときも衝撃的でしたが、実際に出前の人がサービスで持ってきたことにもびっくりしました。。
 
 違うバージョンの物としては有名なトッポッキにチャジャンを載せたチャジャントッポッキや、ジャジャン麺のご飯版、ジャジャンパッ（ジャジャン飯）っていうのもあります。どこかのお店や出前のメニューで目にする機会があれば一度お試しあれ。
-
- 
-
-オススメ関連記事
-
-[５つの味を持つ韓国の五味子(オミジャ)茶【오미자차】って？](https://lalalakorea.com/%ef%bc%95%e3%81%a4%e3%81%ae%e5%91%b3%e3%82%92%e6%8c%81%e3%81%a4%e9%9f%93%e5%9b%bd%e3%81%ae%e4%ba%94%e5%91%b3%e5%ad%90%e3%82%aa%e3%83%9f%e3%82%b8%e3%83%a3%e8%8c%b6%e3%80%90%ec%98%a4%eb%af%b8%ec%9e%90/)
-
-[韓国の名節（ミョンジョル）贈り物オススメ　１１選〜ソルラル、秋夕（チュソク）〜](https://lalalakorea.com/korea-expression-of-gratitude-presents/)

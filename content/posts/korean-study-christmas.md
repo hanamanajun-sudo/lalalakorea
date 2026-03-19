@@ -5,6 +5,9 @@ date: "2019-12-23"
 categories: ["韓国の文化"]
 excerpt: ""
 thumbnail: "https://lalalakorea.com/wp-content/uploads/2019/12/SNSでアイドルに韓国語でメッセージを...-1.png"
+related_posts:
+  - "korean-zodiac"
+  - "korean-message-chusok"
 ---
 
 ★2021.12.20　クリスマスメッセージ【2021ver】の記事アップしました。
@@ -167,11 +170,3 @@ thumbnail: "https://lalalakorea.com/wp-content/uploads/2019/12/SNSでアイド�
                もうすぐクリスマスですね。楽しい計画はたてましたか？
 
                皆さん全員が楽しいクリスマスを過ごし、幸せな年末を迎えられることを願います。
-
-## オススメ関連記事
-
-https://lalalakorea.com/korean-zodiac/
-
- 
-
-https://lalalakorea.com/korean-message-chusok/
