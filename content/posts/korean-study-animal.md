@@ -3,7 +3,7 @@ title: "韓国語「동물（トンムル）」の意味は？～EXOに学ぶ韓
 slug: "korean-study-animal"
 date: "2019-12-26"
 categories: ["韓国語"]
-excerpt: ""
+excerpt: "1．韓国語「동물（トンムル）」の意味は？～EXOに学ぶ韓国語～ 日本語と韓国で発音が似ている！なんならほとんど一緒！っていう単語があります。 今回のお役立ち動画のお題もそんな単語のひとつ。 皆さんも発音が日本語と似ている単語、探してみてくだ"
 thumbnail: "https://lalalakorea.com/wp-content/uploads/2019/12/제목을-입력해주세요_-013.png"
 related_posts:
   - "korean-study-oneplusone"

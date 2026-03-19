@@ -3,7 +3,7 @@ title: "韓国好きなら知っておきたい！韓国女子、BTSオススメ
 slug: "korean-face-pack"
 date: "2021-08-31"
 categories: ["韓国コスメ"]
-excerpt: ""
+excerpt: "最近日本でも人気の韓国のシートマスク（フェイスパック）。 いろんなブランドがたくさんあっていつも迷います。 韓国で実際に人気のシートマスクを教えてください！ ハル 最近日本でも韓国のシートマスクが人気だよね。 みんなは韓国のシートマスクって"
 thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/08/썸네일-009-1.png"
 related_posts:
   - "muziktiger"

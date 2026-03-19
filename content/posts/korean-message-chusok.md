@@ -3,7 +3,7 @@ title: "【BTSあいさつ追記】秋夕（チュソク）の韓国語メッセ
 slug: "korean-message-chusok"
 date: "2021-09-09"
 categories: ["韓国の文化"]
-excerpt: ""
+excerpt: "2021.9.19追記しました。 BTSチュソクあいさつ（YouTube） →一番最後に追記しています。 韓国ではもうすぐ秋夕(チュソク)ですよね。 好きな俳優にSNSでチュソクのお祝いのメッセージを送りたいのですが… オススメのメッセージ"
 thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/09/IMG_20210911_135815_403.jpg"
 related_posts:
   - "korean-snowbird"

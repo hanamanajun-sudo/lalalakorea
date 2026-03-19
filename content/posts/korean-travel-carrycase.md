@@ -3,7 +3,7 @@ title: "韓国語で「手荷物が出てこない」はなんという？〜旅
 slug: "korean-travel-carrycase"
 date: "2021-11-24"
 categories: ["韓国語"]
-excerpt: ""
+excerpt: "空港で預けた手荷物が出てこない！こんな時、韓国語で何と言う？ 韓国旅行で一番最初に韓国語を使う場所、空港。 今回は出国前に預けた手荷物が出てこない!という時に使う韓国語を紹介します。 旅行韓国語～空港編～ 手荷物が出てこない！ 今回のシチュ"
 thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/11/카톡-한국어-1-010.png"
 related_posts:
   - "korean-study-oneplusone"

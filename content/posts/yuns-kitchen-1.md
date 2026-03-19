@@ -3,7 +3,7 @@ title: "パク・ソジュンは超優秀なアルバイト【ユン食堂２で
 slug: "yuns-kitchen-1"
 date: "2021-09-18"
 categories: ["韓国語"]
-excerpt: ""
+excerpt: "「梨泰院クラス」を見てからパク・ソジュンさんにハマってます! ドラマでみる姿はすごくカッコいいですが、実際はどんな性格なのか知りたいです。 ハル K-POPがきっかけで韓国にドはマリ!最終的には韓国で働いているときに出会った韓国人と結婚🖤"
 thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/09/제목을-입력해주세요_-005-1.png"
 related_posts:
   - "koreandramafightformyway"

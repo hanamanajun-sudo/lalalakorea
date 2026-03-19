@@ -3,7 +3,7 @@ title: "ソウルのベッドタウン、韓国の（スウォン）市ってど
 slug: "korean-suwon-city"
 date: "2022-02-07"
 categories: ["韓国旅行"]
-excerpt: ""
+excerpt: "ソウルのベッドタウン、韓国の（スウォン）市ってどんなところ？出身の芸能人は？ きなこ この間SNSで知り合った韓国人の友達が韓国の水原市(スウォン)出身だそうなんですけど、水原市ってどんな市なのか全然知らなくて、色々知りたいです! 악어오빠"
 thumbnail: "https://lalalakorea.com/wp-content/uploads/2022/02/제목을-입력해주세요_-001-1.png"
 related_posts:
 

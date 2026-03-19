@@ -3,7 +3,7 @@ title: "韓国語で新年（ソルラル/설날）の挨拶メッセージ７�
 slug: "korean-happynewyear-massege"
 date: "2021-12-29"
 categories: ["韓国語"]
-excerpt: ""
+excerpt: "韓国語で新年（ソルラル/설날）の挨拶メッセージ７選〜韓国語で「あけましておめでとう」はなんて言う？ きなこ もうすぐお正月ですね! 韓国の友達に韓国語で「あけましておめでとう」ってメッセージを送りたいんですけど、韓国語で「あけましておめでと"
 thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/12/제목을-입력해주세요_-018-2.png"
 related_posts:
 

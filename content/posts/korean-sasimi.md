@@ -3,7 +3,7 @@ title: "韓国のお刺身『회（フェ）』は白身魚？赤身魚？日本
 slug: "korean-sasimi"
 date: "2020-11-12"
 categories: ["韓国グルメ"]
-excerpt: ""
+excerpt: "韓国のお刺身『회（フェ）』 韓国でも人気の料理『회（フェ）』 韓国語で 刺身は회「フェ（회）」 刺身店は「フェッチプ（횟집）」 회は生きた魚をその場で捌くので、韓国の횟집には必ず生け簀があります。 日本でも生簀のあるお店もあるけど、一匹丸ご"
 thumbnail: "https://lalalakorea.com/wp-content/uploads/2020/11/썸네일-007.png"
 related_posts:
   - "korean-beer"

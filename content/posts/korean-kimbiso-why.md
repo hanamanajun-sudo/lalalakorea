@@ -3,7 +3,7 @@ title: "韓国語で『왜（ウェ）』の意味は？よく使うフレーズ
 slug: "korean-kimbiso-why"
 date: "2020-11-17"
 categories: ["韓国語"]
-excerpt: ""
+excerpt: "韓国語で『왜（ウェ）』の意味は？よく使うフレーズをマスターしよう！ きなこ 韓国ドラマでよく「ウェ?」っていう言葉がよく聞こえるんですけど… どういう意味か教えて下さい! 악어오빠 韓国語『왜(ウェ)』は、英語の「why?」に当たる言葉で、"
 thumbnail: "https://lalalakorea.com/wp-content/uploads/2020/11/제목을-입력해주세요_-004-2.png"
 related_posts:
 

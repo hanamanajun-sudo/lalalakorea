@@ -3,7 +3,7 @@ title: "ハニバター、プルダックポックンミョン…BTSまで！韓
 slug: "korean-collaboration-beer"
 date: "2022-01-13"
 categories: ["韓国グルメ"]
-excerpt: ""
+excerpt: "ハニバター、プルダックポックンミョン…BTSまで！韓国のコラボビールが続々登場！ きなこ 最近、韓国のインスタグラムで可愛いデザインのビールをたくさん見かけて気になります。 악어오빠 コロナの影響で家飲みする人が増えた影響からか、韓国で缶ビ"
 thumbnail: "https://lalalakorea.com/wp-content/uploads/2022/01/썸네일-001.png"
 related_posts:
   - "korean-hashtag-konstagram"

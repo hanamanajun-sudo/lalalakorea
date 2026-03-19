@@ -3,7 +3,7 @@ title: "韓国『プデチゲ』の発祥は軍隊？〜チョンガチプ　プ
 slug: "jonggajib-budechige"
 date: "2020-02-26"
 categories: ["韓国グルメ"]
-excerpt: ""
+excerpt: "1．韓国鍋『チョンガチプ プデチゲ』の発祥は軍隊？ 韓国で大人気の鍋料理「プデチゲ」を作ってみませんか？ ピリ辛いスープで煮込むレシピは、辛いものが好きな方にはたまらないおいしさ。 「プデチゲ」とは、「部隊(プデ)・鍋(チゲ)」という意味で"
 thumbnail: "https://lalalakorea.com/wp-content/uploads/2020/02/제목을-입력해주세요_-020.png"
 related_posts:
   - "parasite-jjapaguri"

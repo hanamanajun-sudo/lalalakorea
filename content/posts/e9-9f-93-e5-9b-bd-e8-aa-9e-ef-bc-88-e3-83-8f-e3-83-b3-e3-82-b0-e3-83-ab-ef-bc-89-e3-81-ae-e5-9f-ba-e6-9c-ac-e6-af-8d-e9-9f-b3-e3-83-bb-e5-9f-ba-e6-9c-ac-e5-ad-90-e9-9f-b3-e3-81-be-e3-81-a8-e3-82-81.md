@@ -3,7 +3,7 @@ title: "推し活韓国語(ハングル)をスマホで入力して覚えよう"
 slug: "e9-9f-93-e5-9b-bd-e8-aa-9e-ef-bc-88-e3-83-8f-e3-83-b3-e3-82-b0-e3-83-ab-ef-bc-89-e3-81-ae-e5-9f-ba-e6-9c-ac-e6-af-8d-e9-9f-b3-e3-83-bb-e5-9f-ba-e6-9c-ac-e5-ad-90-e9-9f-b3-e3-81-be-e3-81-a8-e3-82-81"
 date: "2024-03-02"
 categories: ["韓国語"]
-excerpt: ""
+excerpt: "推し活しながら韓国語（ハングル）を自然と覚えたい人におすすめ！【スマホのキーボードで覚える韓国語（ハングル）】 ミオ こんにちは★ 最近Stray Kidsに沼落ちしたミオです! SNSで推しや韓国のファンたちが書いている韓国語のコメントを"
 thumbnail: "https://lalalakorea.com/wp-content/uploads/2024/03/韓国語タイトル.png"
 related_posts:
 

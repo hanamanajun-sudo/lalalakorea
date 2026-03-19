@@ -3,7 +3,7 @@ title: "ホッカイロは韓国語でなんという？〜EXOに学ぶ韓国語
 slug: "korean-study-happek"
 date: "2019-12-20"
 categories: ["韓国語"]
-excerpt: ""
+excerpt: "１．ホッカイロは韓国語でなんという？〜EXOに学ぶ韓国語〜 今回の単語は寒い冬の必需品、핫팩。寒いときの必需品なのは日本も韓国も同じ。なんだかわかりますか？お役立ちコンテンツでは「寒い時」が「死んだ人」なることによってカイが大パニックに。。"
 thumbnail: "https://lalalakorea.com/wp-content/uploads/2019/12/제목을-입력해주세요_-007.png"
 related_posts:
   - "yuns-kitchin2"

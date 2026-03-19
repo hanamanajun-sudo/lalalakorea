@@ -3,7 +3,7 @@ title: "韓国語【シムクン（심쿵）】の意味は？〜コン・ユの
 slug: "korean-simukun"
 date: "2019-12-17"
 categories: ["韓国語"]
-excerpt: ""
+excerpt: "１．韓国語【シムクン（심쿵）】の意味は？どういう時に使う？ 最近、韓国のテレビやドラマ、SNSでよく見かける新語、심쿵。韓国のテレビ番組で見て、どういう意味だろう？と気になっている方も多いのでは？日本にもすごくよく似た言葉があるのですが、わ"
 thumbnail: "https://lalalakorea.com/wp-content/uploads/2019/12/제목을-입력해주세요_-001.png"
 related_posts:
   - "korean-movie-oasis"

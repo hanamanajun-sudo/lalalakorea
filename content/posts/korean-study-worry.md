@@ -3,7 +3,7 @@ title: "「心配」は韓国語でなんという？"
 slug: "korean-study-worry"
 date: "2021-09-29"
 categories: ["韓国語"]
-excerpt: ""
+excerpt: "~「心配」は韓国語でなんという?~ 私が風邪で寝込んでいた時、韓国人の友達が心配してSNSでメッセージを送ってくれました。 『心配してくれてありがとう』と韓国語で言いたいのですが、どう言えばいいか教えて下さい。 ハル 日本語でも「それは心配"
 thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/09/제목을-입력해주세요_-021.png"
 related_posts:
   - "korean-study-oneplusone"

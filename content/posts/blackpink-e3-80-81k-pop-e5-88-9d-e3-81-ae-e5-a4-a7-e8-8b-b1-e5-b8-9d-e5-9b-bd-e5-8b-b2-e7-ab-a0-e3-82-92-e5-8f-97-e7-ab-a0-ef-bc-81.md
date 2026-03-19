@@ -3,7 +3,7 @@ title: "BLACKPINK、K-POP初の大英帝国勲章を受章！"
 slug: "blackpink-e3-80-81k-pop-e5-88-9d-e3-81-ae-e5-a4-a7-e8-8b-b1-e5-b8-9d-e5-9b-bd-e5-8b-b2-e7-ab-a0-e3-82-92-e5-8f-97-e7-ab-a0-ef-bc-81"
 date: "2023-11-26"
 categories: ["韓国エンタメ", "韓国ホットイシュー"]
-excerpt: ""
+excerpt: "BLACKPINK、K-POP初の大英帝国勲章を受章！気候変動に対するメッセージが評価 ミオ 韓国ドラマとK-POP が大好きなミオです! 악어오빠 、今日はどんなニュースを教えてくれるの? 악어오빠 こんにちは! みんなに韓国語と韓国文化"
 thumbnail: "https://lalalakorea.com/wp-content/uploads/2023/11/パステル　白　はてなブログ　旅行　ブログ　アイキャッチ画像.png"
 related_posts:
 

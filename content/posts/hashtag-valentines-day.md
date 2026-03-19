@@ -3,7 +3,7 @@ title: "韓国のバレンタインのリアル、流行りがわかるハッシ
 slug: "hashtag-valentines-day"
 date: "2022-01-23"
 categories: ["ハッシュタグ"]
-excerpt: ""
+excerpt: "韓国のバレンタインのリアル、流行りがわかるハッシュタグは？ きなこ もうすぐバレンタインですね! 韓国にもバレンタインってあるのかな? 악어오빠 韓国にもバレンタインがあって、日本のように1年のビッグイベントとして定着しているヨ。 でも日本"
 thumbnail: "https://lalalakorea.com/wp-content/uploads/2022/01/제목을-입력해주세요_-006-1.png"
 related_posts:
   - "korean-hashtag-konstagram"

@@ -3,7 +3,7 @@ title: "韓国で人気の雪アヒル…BTSのRMが作ったDTSって？"
 slug: "korean-snowbird"
 date: "2021-01-10"
 categories: ["韓国の文化"]
-excerpt: ""
+excerpt: "韓国で人気の雪アヒル…BTSのRMが作ったDTSって？ ※2021.12.22 【小さい雪アヒルはもう飽きた？韓国に巨大雪アヒルが出現！】を追記しました 雪が降ったら作るもの…といえば雪だるまですよね。 冬には雪がたくさん積もることが多い韓"
 thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/01/제목을-입력해주세요_-005.png"
 related_posts:
   - "bts-newword-armyforever"

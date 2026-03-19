@@ -3,7 +3,7 @@ title: "韓国語でクリスマスメッセージ【メリークリスマスは
 slug: "christmas-message2"
 date: "2021-12-19"
 categories: ["韓国語"]
-excerpt: ""
+excerpt: "クリスマスにおすすめの韓国語メッセージ９選 ミオ もうすぐクリスマス… 旅行中に仲良くなった韓国人の方にクリスマスのメッセージを送りたいんですけど、おすすめのメッセージを教えて下さい。 악어오빠 日本と同じく、韓国でもクリスマスが冬の一大イ"
 thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/12/제목을-입력해주세요_-011.png"
 related_posts:
   - "korean-study-christmas"

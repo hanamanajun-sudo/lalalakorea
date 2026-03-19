@@ -3,7 +3,7 @@ title: "韓国で10代、20代に大人気の「MUZIK TIGER」(ムジークタ�
 slug: "muziktiger"
 date: "2022-01-15"
 categories: ["韓国ホットイシュー"]
-excerpt: ""
+excerpt: "韓国で10代、20代に大人気の「MUZIK TIGER」(ムジークタイガー）って？ きなこ 韓国のインスタで虎のイラストの小物を見かけて気になっています。 最近韓国で人気なんですか? 악어오빠 アンニョン! 韓国語と韓国文化を皆に教えるのが"
 thumbnail: "https://lalalakorea.com/wp-content/uploads/2022/01/썸네일-009.png"
 related_posts:
 

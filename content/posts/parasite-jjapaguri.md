@@ -3,7 +3,7 @@ title: "韓国映画「パラサイト」に登場の『チャパグリ』、発
 slug: "parasite-jjapaguri"
 date: "2020-02-14"
 categories: ["韓国エンタメ"]
-excerpt: ""
+excerpt: "1．アカデミー賞受賞で話題の韓国映画『パラサイト』に登場する食べ物『チャパグリ』って？ 韓国映画『パラサイト 半地下の家族』がアカデミー賞授賞式で作品賞、監督賞、脚本賞、国際長編映画賞を受賞するという歴史的快挙を達成！ 映画の中に登場する『"
 thumbnail: "https://lalalakorea.com/wp-content/uploads/2020/02/제목을-입력해주세요_-018-1.png"
 related_posts:
 

@@ -3,7 +3,7 @@ title: "魔法の韓国語BOX【胸キュン韓国語フレーズ】"
 slug: "simkunkorean"
 date: "2022-07-04"
 categories: ["韓国語"]
-excerpt: ""
+excerpt: "魔法の韓国語ボックス【キュンとする韓国語フレーズ】 きなこ 韓国ドラマを見てると「こんなセリフ一度でいいから言われてみたい!」って思うセリフがいっぱい出てきますよね。 そんな胸キュンのセリフ、韓国語でなんていうか教えて下さい! 악어오빠 안"
 thumbnail: "https://lalalakorea.com/wp-content/uploads/2022/07/제목을-입력해주세요_-007-3.png"
 related_posts:
 

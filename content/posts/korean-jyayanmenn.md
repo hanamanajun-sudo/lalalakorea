@@ -3,7 +3,7 @@ title: "ジャジャン麺、韓国の出前ソウルフード〜韓国人の出
 slug: "korean-jyayanmenn"
 date: "2019-11-24"
 categories: ["韓国グルメ"]
-excerpt: ""
+excerpt: "1.韓国人の出前文化はハンパない⁉ 韓国ドラマで出前をとって食べている場面を見て「おいしそう！食べたいなあ」と思ったこと、ありませんか？ 韓国では出前のことを｢배달 配達（ペダル）｣と言います。 日本でもおそば屋さんやラーメン屋さんでお店で"
 thumbnail: "https://lalalakorea.com/wp-content/uploads/2019/11/썸네일-015.png"
 related_posts:
   - "korea-expression-of-gratitude-presents"

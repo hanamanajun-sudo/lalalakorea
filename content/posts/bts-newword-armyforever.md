@@ -3,7 +3,7 @@ title: "BTSジョングクがArmyのために作った新語「아포방포(ア�
 slug: "bts-newword-armyforever"
 date: "2022-01-04"
 categories: ["韓国語"]
-excerpt: ""
+excerpt: "BTSジョングクが作ったArmy（アーミィ）との合言葉「아포방포(アポバンポ)」、「아무행알（アムヘンアル）」の意味は？ きなこ BTSのジョングクがInstagramに新年の挨拶アップした新年の挨拶のフレーズ「아포방포」ってどういう意味か"
 thumbnail: "https://lalalakorea.com/wp-content/uploads/2022/01/썸네일-012.png"
 related_posts:
   - "korean-hashtag-konstagram"

@@ -3,7 +3,7 @@ title: "【チュソクの挨拶】インスタグラム用イメージ画像12�
 slug: "chusok-instagram-image"
 date: "2021-09-15"
 categories: ["韓国の文化"]
-excerpt: ""
+excerpt: "韓国ではもうすぐ秋夕(チュソク)ですよね。 好きな俳優にSNSでチュソクのお祝いのメッセージを送りたいのですが… インスタグラムにアップするオシャレなあいさつのイメージ、あったりしませんか? ハル K-POPがきっかけで韓国にドはマリ!最終"
 thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/09/제목을-입력해주세요_-017.png"
 related_posts:
   - "korea-expression-of-gratitude-presents"

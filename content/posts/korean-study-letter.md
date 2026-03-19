@@ -3,7 +3,7 @@ title: "韓国語「글자（クルチャ）」の意味は？～EXOに学ぶ韓
 slug: "korean-study-letter"
 date: "2019-12-23"
 categories: ["韓国語"]
-excerpt: ""
+excerpt: "1．韓国語「글자（クルチャ）」の意味は？～EXOに学ぶ韓国語～ 「패딩 안에 두 글자（ぺディン アネ トゥグルチャ）」「팬티 안에 두 글자（ペンティ アネ トゥグルチャ）」。この２つの言葉、発音は似ていますが、意味は全然違います。 今回"
 thumbnail: "https://lalalakorea.com/wp-content/uploads/2019/12/제목을-입력해주세요_-009-1.png"
 related_posts:
 

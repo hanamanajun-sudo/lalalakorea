@@ -3,7 +3,7 @@ title: "『こんなセリフ言われてみたい！胸キュン韓国語フレ
 slug: "simkunkorean60"
 date: "2022-07-04"
 categories: ["韓国語"]
-excerpt: ""
+excerpt: "『こんなセリフ言われてみたい！胸キュン韓国語フレーズ60選 きなこ 韓国ドラマを見てると「こんなセリフ一度でいいから言われてみたい!」って思うセリフがいっぱい出てきますよね。 そんな胸キュンのセリフ、韓国語でなんていうか教えて下さい! 악어"
 thumbnail: "https://lalalakorea.com/wp-content/uploads/2022/07/제목을-입력해주세요_-005-3.png"
 related_posts:
 

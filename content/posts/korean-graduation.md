@@ -3,7 +3,7 @@ title: "韓国の卒業式について知りたい！＆韓国語で卒業お祝
 slug: "korean-graduation"
 date: "2022-02-05"
 categories: ["韓国の文化"]
-excerpt: ""
+excerpt: "韓国の卒業式について知りたい！＆韓国語で卒業お祝いのメッセージ きなこ 韓国ドラマで大学の卒業式の時にアメリカの大学みたいにガウンを着ていたのを見たんですけど、韓国の卒業式って皆ガウンを着るんですか? 악어오빠 アンニョン! みんなの『韓国"
 thumbnail: "https://lalalakorea.com/wp-content/uploads/2022/02/제목을-입력해주세요_-005-2.png"
 related_posts:
 

@@ -3,7 +3,7 @@ title: "韓国語でイカはなんと言う？【Netflixドラマ イカゲー�
 slug: "koreandrama-netflix-squid1"
 date: "2021-09-25"
 categories: ["韓国語"]
-excerpt: ""
+excerpt: "Netflixで韓国ドラマ「イカゲーム」が話題ですよね。 韓国語で「イカ」ってなんていうか教えて下さい! ハル 最近、話題のNetflixの韓国ドラマ「イカゲーム」。 韓国語の原題も全く同じ、韓国語で「イカゲーム」です。 イカゲームってどう"
 thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/09/제목을-입력해주세요_-022-1.png"
 related_posts:
   - "korean-kimbiso-why"

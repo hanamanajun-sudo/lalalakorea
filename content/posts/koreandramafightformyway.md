@@ -3,7 +3,7 @@ title: "韓国ドラマ【サム・マイウェイ】パク・ソジュンのぶ
 slug: "koreandramafightformyway"
 date: "2020-11-26"
 categories: ["韓国エンタメ"]
-excerpt: ""
+excerpt: "韓国ドラマ【サム・マイウェイ】パク・ソジュンのぶりっ子演技～韓国語『 똑땅해（ットクタンヘ）』の意味は？～ パク・ソジュン主演のドラマ『サム・マイウェイ』。 ヒロインのぶりッ子演技が話題となってSNS で真似する韓国女子が続出。 ヒロインの"
 thumbnail: "https://lalalakorea.com/wp-content/uploads/2020/11/썸네일-014.png"
 related_posts:
   - "yuns-kitchin2"

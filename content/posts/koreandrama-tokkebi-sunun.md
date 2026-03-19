@@ -3,7 +3,7 @@ title: "韓国語 수능（スヌン）ってどういう意味？"
 slug: "koreandrama-tokkebi-sunun"
 date: "2020-12-03"
 categories: ["韓国の文化"]
-excerpt: ""
+excerpt: "韓国語수능（スヌン）ってどういう意味？ きなこ 韓国の高校生のInstagramで수능って言葉を見かけるんですが、どういう意味ですか? 악어오빠 アンニョン! 韓国語と韓国文化を皆に教えるのが大好きなアゴオッパだヨ。 수능(スヌン)は韓国語"
 thumbnail: "https://lalalakorea.com/wp-content/uploads/2020/12/제목을-입력해주세요_-002.png"
 related_posts:
 

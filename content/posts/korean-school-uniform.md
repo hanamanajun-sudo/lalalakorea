@@ -3,7 +3,7 @@ title: "韓国の高校の制服のリアル！流行りの着こなし＆BTSの
 slug: "korean-school-uniform"
 date: "2022-01-30"
 categories: ["韓国の文化"]
-excerpt: ""
+excerpt: "韓国の高校の制服のリアル！流行りの着こなし＆BTSの出身高校の制服は？ きなこ 韓国のドラマで見かける韓国の高校の制服がかわいくて気になっています! 韓国の制服について教えてください。 악어오빠 韓国の制服も日本と同じように夏服と冬服と夏服"
 thumbnail: "https://lalalakorea.com/wp-content/uploads/2022/01/제목을-입력해주세요_-009-3.png"
 related_posts:
   - "bts-newword-armyforever"

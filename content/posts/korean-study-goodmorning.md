@@ -3,7 +3,7 @@ title: "韓国語で朝の挨拶「おはよう」はなんという？～カカ
 slug: "korean-study-goodmorning"
 date: "2021-10-07"
 categories: ["未分類"]
-excerpt: ""
+excerpt: "1．韓国語で朝の挨拶「おはよう」はなんという？ 악어오빠 안녕! 악어오빠と一緒に学ぶ今日の「リアル韓国語」は朝のあいさつ、「おはよう」だよ。 韓国語で「おはよう」は相手やシチュエーションによって言葉を使い分けることもあるから、一緒に覚えて"
 thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/10/010.png"
 related_posts:
 

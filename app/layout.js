@@ -1,6 +1,8 @@
 import './globals.css';
 import Link from 'next/link';
 import ScrollToTop from './ScrollToTop';
+import MobileMenu from './MobileMenu';
+import ReadingProgress from './ReadingProgress';
 
 export const metadata = {
   title: 'LalaLaKorea – 韓国語・韓国文化をもっと楽しく',
@@ -16,6 +18,7 @@ export default function RootLayout({ children }) {
         <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet" />
       </head>
       <body>
+        <ReadingProgress />
         <header className="site-header">
           <div className="container">
             <a href="/" className="logo">
@@ -23,13 +26,14 @@ export default function RootLayout({ children }) {
               <span className="logo-korea">KOREA</span>
             </a>
             <nav className="nav">
-                <Link href="/">ホーム</Link>
+              <Link href="/">ホーム</Link>
               <Link href="/category/%E9%9F%93%E5%9B%BD%E8%AA%9E">韓国語</Link>
               <Link href="/category/%E9%9F%93%E5%9B%BD%E3%82%B0%E3%83%AB%E3%83%A1">グルメ</Link>
               <Link href="/category/%E9%9F%93%E5%9B%BD%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%A1">エンタメ</Link>
               <Link href="/category/%E9%9F%93%E5%9B%BD%E6%97%85%E8%A1%8C">旅行</Link>
               <Link href="/category/%E9%9F%93%E5%9B%BD%E3%82%B3%E3%82%B9%E3%83%A1">コスメ</Link>
             </nav>
+            <MobileMenu />
           </div>
         </header>
         <main>{children}</main>

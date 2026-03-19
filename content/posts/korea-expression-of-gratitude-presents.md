@@ -3,7 +3,7 @@ title: "韓国の名節（ミョンジョル）贈り物オススメ　１１選
 slug: "korea-expression-of-gratitude-presents"
 date: "2021-09-12"
 categories: ["韓国の文化"]
-excerpt: ""
+excerpt: "韓国はでの二大名節といえばソルラルと秋夕(チュソク)ですよね。 お世話になっている人に贈り物をしたいのですが、贈り物はどんな物がいいか悩んでいます。 オススメの贈り物、教えてください! ハル K-POPがきっかけで韓国にドはマリ!最終的には"
 thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/09/제목을-입력해주세요_-009-2.png"
 related_posts:
   - "chusok-instagram-image"

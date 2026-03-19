@@ -3,7 +3,7 @@ title: "パク・ソジュンの優しさと男気【ユン食堂２で学ぶ韓
 slug: "yuns-kitchin2"
 date: "2021-09-22"
 categories: ["韓国語"]
-excerpt: ""
+excerpt: "「梨泰院クラス」を見てからパク・ソジュンさんにハマってます! ドラマでみる姿はすごくカッコいいですが、実際はどんな性格なのか知りたいです。 ハル パク・ソジュンさん、最近日本でも人気ですよね。 パク・ソジュンさんの「ユン食堂2」で見せる魅力"
 thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/09/제목을-입력해주세요_-003-2.png"
 related_posts:
 

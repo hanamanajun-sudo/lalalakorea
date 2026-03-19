@@ -3,7 +3,7 @@ title: "韓国の빼빼로데이（ペペロデー）っていつ？BTSジミン
 slug: "korean-peperoday"
 date: "2020-11-10"
 categories: ["韓国の文化"]
-excerpt: ""
+excerpt: "韓国の빼빼로데이（ペペロデー）って？BTSジミン、ペペロデーにファンサービス きなこ BTSのジミンがペペロデーに公式コミュニティに参加してファンにコメントした、って話題になっていたんですけど、ペペロデーってどんな日なんですか? 악어오빠"
 thumbnail: "https://lalalakorea.com/wp-content/uploads/2020/11/제목을-입력해주세요_-007-1.png"
 related_posts:
 

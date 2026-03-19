@@ -3,7 +3,7 @@ title: "韓国の「#勉強垢」！ハッシュタグ「#공스타그램（コ�
 slug: "korean-hashtag-konstagram"
 date: "2022-01-03"
 categories: ["ハッシュタグ"]
-excerpt: ""
+excerpt: "韓国の「勉強垢！」ハッシュタグ「공스타그램（コンスタグラム）」の意味は？ きなこ 韓国のインスタグラムで공스타그램ってハッシュタグをよく見かけるんですけど、どういう意味か教えて下さい! 악어오빠 アンニョン! 韓国語と韓国文化を皆に教えるの"
 thumbnail: "https://lalalakorea.com/wp-content/uploads/2022/01/썸네일-006.png"
 related_posts:
   - "korean-study-oneplusone"
