@@ -7,6 +7,46 @@
   <title>LalaLaKorea 管理画面</title>
 </head>
 <body>
-  <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
+  <script>window.CMS_MANUAL_INIT = true;</script>
+  <script src="https://unpkg.com/decap-cms@3.3.3/dist/decap-cms.js"></script>
+  <script>
+    CMS.init({
+      config: {
+        backend: {
+          name: 'github',
+          repo: 'hanamanajun-sudo/lalalakorea',
+          branch: 'main',
+          base_url: 'https://lalalakorea.com',
+          auth_endpoint: 'api/auth'
+        },
+        media_folder: 'public/wp-content/uploads',
+        public_folder: '/wp-content/uploads',
+        locale: 'ja',
+        collections: [
+          {
+            name: 'posts',
+            label: 'ブログ記事',
+            folder: 'content/posts',
+            create: true,
+            slug: '{{slug}}',
+            fields: [
+              { label: 'タイトル', name: 'title', widget: 'string' },
+              { label: '公開日', name: 'date', widget: 'datetime', format: 'YYYY-MM-DD' },
+              {
+                label: 'カテゴリ',
+                name: 'categories',
+                widget: 'select',
+                multiple: true,
+                options: ['韓国語','韓国グルメ','韓国エンタメ','韓国コスメ','韓国旅行','韓国の文化','韓国ホットイシュー','ハッシュタグ','未分類']
+              },
+              { label: 'サムネイル', name: 'thumbnail', widget: 'image', required: false },
+              { label: '概要 (SEO用)', name: 'excerpt', widget: 'text', required: false },
+              { label: '本文', name: 'body', widget: 'markdown' }
+            ]
+          }
+        ]
+      }
+    });
+  </script>
 </body>
 </html>
