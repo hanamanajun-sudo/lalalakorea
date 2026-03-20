@@ -2,8 +2,8 @@ import { getAllPosts, getAllCategories } from '../lib/posts';
 import Link from 'next/link';
 
 export const metadata = {
-  title: 'LalaLaKorea – 韓国語・韓国文化をもっと楽しく',
-  description: '韓国語の勉強、韓国グルメ、韓国ドラマ、韓国文化など。',
+  title: 'LaLaLaKorea – 韓国語・韓国文化をもっと楽しく',
+  description: '韓国在住10年の韓日夫婦が運営。韓国語学習・韓国グルメ・Kpop・韓国ドラマを、リアルな体験談とともに日本語で発信しています。',
 };
 
 export default function Home() {
@@ -13,8 +13,8 @@ export default function Home() {
   return (
     <>
       <div className="hero">
-        <h1>🇰🇷 LalaLaKorea</h1>
-        <p>韓国語・韓国文化・韓国グルメ、もっと韓国を楽しもう</p>
+        <h1>韓国語・韓国文化をもっと楽しく</h1>
+        <p>🇰🇷 韓国在住10年の韓日夫婦が、韓国語・グルメ・ドラマ・旅行をリアルにお届け</p>
       </div>
 
       <div className="category-filter">

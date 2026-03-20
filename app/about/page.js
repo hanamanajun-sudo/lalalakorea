@@ -1,11 +1,24 @@
 export const metadata = {
-  title: 'About – LalaLaKorea',
-  description: 'LalaLaKoreaについて。日本在住10年の韓日夫婦が運営する韓国語・韓国文化ブログです。',
+  title: 'About – LaLaLaKorea',
+  description: '韓国出身・日本在住10年のジュンが運営するLaLaLaKoreaについて。韓日夫婦の日常から韓国語・韓国文化・Kpopを発信しています。',
+  alternates: { canonical: 'https://lalalakorea.com/about/' },
+};
+
+const personJsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Person',
+  name: 'ジュン（주논）',
+  url: 'https://lalalakorea.com/about/',
+  description: '韓国出身、日本在住10年。日本人夫ハルと韓日夫婦として生活しながら、韓国文化・韓国語・Kpopを日本語で発信中。',
+  knowsLanguage: ['ko', 'ja'],
+  sameAs: ['https://lalalakorea.com'],
 };
 
 export default function AboutPage() {
   return (
     <div className="about-page">
+
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(personJsonLd) }} />
 
       {/* ヒーロー */}
       <div className="about-hero">
@@ -131,7 +144,14 @@ export default function AboutPage() {
           <h2 className="about-section-title">📬 お問い合わせ</h2>
           <div className="about-card" style={{textAlign: 'center'}}>
             <p>ご質問・ご感想・お仕事のご依頼など、お気軽にどうぞ 😊</p>
-            <a href="mailto:hanamanajun@gmail.com" className="about-contact-btn">
+            <p style={{fontSize: '0.85rem', color: '#aaa', margin: '12px 0'}}>
+              hanamanajun [at] gmail.com
+            </p>
+            <a
+              href="#"
+              onClick={(e) => { e.preventDefault(); window.location.href = 'mai' + 'lto:hanamanajun' + '@gmail.com'; }}
+              className="about-contact-btn"
+            >
               ✉️ メールを送る
             </a>
           </div>

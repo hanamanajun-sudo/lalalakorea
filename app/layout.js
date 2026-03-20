@@ -5,8 +5,18 @@ import MobileMenu from './MobileMenu';
 import ReadingProgress from './ReadingProgress';
 
 export const metadata = {
-  title: 'LalaLaKorea – 韓国語・韓国文化をもっと楽しく',
-  description: '韓国語の勉強、韓国グルメ、韓国ドラマ、韓国文化など、韓国に関するあらゆる情報をお届けします。',
+  title: 'LaLaLaKorea – 韓国語・韓国文化をもっと楽しく',
+  description: '韓国在住10年の韓日夫婦が運営。韓国語学習・韓国グルメ・Kpop・韓国ドラマを、リアルな体験談とともに日本語で発信しています。',
+  openGraph: {
+    siteName: 'LaLaLaKorea',
+    images: [{ url: 'https://lalalakorea.com/og-default.png', width: 1200, height: 630, alt: 'LaLaLaKorea' }],
+    locale: 'ja_JP',
+    type: 'website',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    images: ['https://lalalakorea.com/og-default.png'],
+  },
 };
 
 export default function RootLayout({ children }) {
@@ -21,10 +31,10 @@ export default function RootLayout({ children }) {
         <ReadingProgress />
         <header className="site-header">
           <div className="container">
-            <a href="/" className="logo">
+            <Link href="/" className="logo">
               <span className="logo-lala">lalala</span>
               <span className="logo-korea">KOREA</span>
-            </a>
+            </Link>
             <nav className="nav">
               <Link href="/">ホーム</Link>
               <Link href="/category/%E9%9F%93%E5%9B%BD%E8%AA%9E">韓国語</Link>

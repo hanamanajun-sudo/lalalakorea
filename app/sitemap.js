@@ -25,6 +25,12 @@ export default function sitemap() {
       changeFrequency: 'daily',
       priority: 1,
     },
+    {
+      url: 'https://lalalakorea.com/about/',
+      lastModified: new Date().toISOString(),
+      changeFrequency: 'monthly',
+      priority: 0.7,
+    },
     ...postUrls,
     ...categoryUrls,
   ];

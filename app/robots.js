@@ -1,7 +1,7 @@
 export default function robots() {
   return {
     rules: [
-      { userAgent: '*', allow: '/', disallow: '/admin/' },
+      { userAgent: '*', allow: '/', disallow: ['/admin/', '/api/'] },
     ],
     sitemap: 'https://lalalakorea.com/sitemap.xml',
   };

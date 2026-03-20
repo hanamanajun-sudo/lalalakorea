@@ -53,7 +53,11 @@ export default async function PostPage({ params }) {
     image: post.thumbnail || '',
     datePublished: post.date,
     dateModified: post.date,
-    author: { '@type': 'Organization', name: 'LalaLaKorea' },
+    author: {
+      '@type': 'Person',
+      name: 'ジュン（주논）',
+      url: 'https://lalalakorea.com/about/',
+    },
     publisher: {
       '@type': 'Organization',
       name: 'LalaLaKorea',

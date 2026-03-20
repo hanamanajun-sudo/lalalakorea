@@ -2,6 +2,17 @@ import { getAllPosts, getAllCategories } from '../../../lib/posts';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 
+export async function generateMetadata({ params }) {
+  const name = decodeURIComponent(params.name);
+  return {
+    title: `${name}の記事一覧 | LaLaLaKorea`,
+    description: `韓国の${name}に関する記事一覧。韓国在住10年のジュンが、リアルな体験をもとに日本語で発信しています。`,
+    alternates: {
+      canonical: `https://lalalakorea.com/category/${encodeURIComponent(name)}/`,
+    },
+  };
+}
+
 export async function generateStaticParams() {
   const cats = getAllCategories();
   return cats.map(c => ({ name: c }));
