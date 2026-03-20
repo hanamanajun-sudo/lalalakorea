@@ -1,3 +1,5 @@
+import ContactButton from './ContactButton';
+
 export const metadata = {
   title: 'About – LaLaLaKorea',
   description: '韓国出身・日本在住10年のジュンが運営するLaLaLaKoreaについて。韓日夫婦の日常から韓国語・韓国文化・Kpopを発信しています。',
@@ -153,13 +155,7 @@ export default function AboutPage() {
             <p style={{fontSize: '0.85rem', color: '#aaa', margin: '12px 0'}}>
               hanamanajun [at] gmail.com
             </p>
-            <a
-              href="#"
-              onClick={(e) => { e.preventDefault(); window.location.href = 'mai' + 'lto:hanamanajun' + '@gmail.com'; }}
-              className="about-contact-btn"
-            >
-              ✉️ メールを送る
-            </a>
+            <ContactButton />
           </div>
         </section>
 
