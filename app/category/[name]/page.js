@@ -1,5 +1,6 @@
 import { getAllPosts, getAllCategories } from '../../../lib/posts';
 import Link from 'next/link';
+import Image from 'next/image';
 import { notFound } from 'next/navigation';
 
 export async function generateMetadata({ params }) {
@@ -50,7 +51,13 @@ export default function CategoryPage({ params }) {
               <Link key={post.slug} href={`/${post.slug}`} className="post-card">
                 {post.thumbnail && (
                   <div className="post-card-img">
-                    <img src={post.thumbnail} alt={post.title} loading="lazy" />
+                    <Image
+                      src={post.thumbnail}
+                      alt={post.title}
+                      width={600}
+                      height={338}
+                      style={{ width: '100%', height: '100%', objectFit: 'cover' }}
+                    />
                   </div>
                 )}
                 <div className="post-card-body">
