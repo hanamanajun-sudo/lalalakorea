@@ -71,8 +71,14 @@ export default function AboutPage() {
                 日本での暮らしの中で感じた韓国のこと、
                 韓国と日本の「あるある」をゆるゆると発信しています。
               </p>
-              <p className="about-author-desc" style={{color: '#aaa', fontSize: '0.85rem', marginTop: '8px'}}>
-                ※ 詳しいプロフィールは近日公開予定です 🙏
+              <p className="about-author-desc">
+                韓国・ソウル出身。日本人のハルと結婚し、日本に移住してはや<strong>10年</strong>。
+                最初は日本語も文化も手探りだったけど、今では日本の暮らしが大好きに 🐱
+              </p>
+              <p className="about-author-desc">
+                韓国のことを「もっと楽しく、もっと身近に」感じてほしくて、
+                このブログを始めました。難しいことは抜きで、
+                リアルな体験をそのままお届けします！
               </p>
             </div>
           </div>

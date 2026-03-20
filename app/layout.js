@@ -51,7 +51,15 @@ export default function RootLayout({ children }) {
         <ScrollToTop />
         <footer className="site-footer">
           <div className="container">
-            <p>© 2026 LalaLaKorea. All rights reserved.</p>
+            <nav className="footer-nav">
+              <Link href="/category/%E9%9F%93%E5%9B%BD%E8%AA%9E">韓国語</Link>
+              <Link href="/category/%E9%9F%93%E5%9B%BD%E3%82%B0%E3%83%AB%E3%83%A1">グルメ</Link>
+              <Link href="/category/%E9%9F%93%E5%9B%BD%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%A1">エンタメ</Link>
+              <Link href="/category/%E9%9F%93%E5%9B%BD%E6%97%85%E8%A1%8C">旅行</Link>
+              <Link href="/category/%E9%9F%93%E5%9B%BD%E3%82%B3%E3%82%B9%E3%83%A1">コスメ</Link>
+              <Link href="/about">About</Link>
+            </nav>
+            <p>© 2026 LaLaLaKorea. All rights reserved.</p>
           </div>
         </footer>
       </body>

@@ -48,6 +48,11 @@ export default function CategoryPage({ params }) {
           <div className="posts-grid">
             {posts.map(post => (
               <Link key={post.slug} href={`/${post.slug}`} className="post-card">
+                {post.thumbnail && (
+                  <div className="post-card-img">
+                    <img src={post.thumbnail} alt={post.title} loading="lazy" />
+                  </div>
+                )}
                 <div className="post-card-body">
                   <div className="post-cats">
                     <span className="post-cat-tag">{name}</span>
