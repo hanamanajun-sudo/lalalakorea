@@ -428,6 +428,48 @@ body {
 }
 .about-contact-btn:hover { background: #c02030; transform: translateY(-2px); }
 
+/* ── 소셜 공유 버튼 ── */
+.share-box {
+  margin: 24px 0;
+  padding: 18px 20px;
+  background: #f9f9f9;
+  border-radius: 12px;
+  border: 1px solid #eee;
+}
+.share-label {
+  font-size: 0.82rem;
+  color: #999;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin: 0 0 12px;
+}
+.share-buttons {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+.share-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  padding: 9px 16px;
+  border-radius: 30px;
+  font-size: 0.85rem;
+  font-weight: 700;
+  text-decoration: none;
+  border: none;
+  cursor: pointer;
+  transition: opacity 0.2s, transform 0.15s;
+  white-space: nowrap;
+}
+.share-btn:hover { opacity: 0.85; transform: translateY(-2px); }
+.share-btn:active { transform: translateY(0); }
+.share-btn-copy {
+  background: #f0f0f0;
+  color: #333;
+}
+
 /* ── 목차 (TOC) ── */
 .toc-box {
   background: #fff8f9;

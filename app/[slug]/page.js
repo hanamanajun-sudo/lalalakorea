@@ -4,6 +4,7 @@ import { notFound } from 'next/navigation';
 import InstagramEmbed from './InstagramEmbed';
 import RelatedPosts from './RelatedPosts';
 import TableOfContents from './TableOfContents';
+import ShareButtons from './ShareButtons';
 
 export async function generateStaticParams() {
   const posts = getAllPosts();
@@ -44,6 +45,8 @@ export default async function PostPage({ params }) {
   const post = await getPostBySlug(params.slug);
   if (!post) notFound();
 
+  const siteUrl = 'https://lalalakorea.com';
+  const postUrl = `${siteUrl}/${post.slug}/`;
   const hasInstagram = post.content.includes('instagram-media');
 
   const jsonLd = {
@@ -86,12 +89,14 @@ export default async function PostPage({ params }) {
         <h1>{post.title}</h1>
         <div className="meta">{post.date}</div>
       </div>
+      <ShareButtons title={post.title} url={postUrl} />
       <TableOfContents headings={post.headings} />
       <div
         className="post-content"
         dangerouslySetInnerHTML={{ __html: post.content }}
       />
       {hasInstagram && <InstagramEmbed />}
+      <ShareButtons title={post.title} url={postUrl} />
       <RelatedPosts posts={post.relatedPosts} />
     </article>
     </>
