@@ -37,6 +37,62 @@ body {
 .nav a:hover { color: #e8324a; }
 .nav a:hover::after { transform: scaleX(1); }
 
+/* ── 헤더 검색 버튼 ── */
+.search-btn {
+  display: flex; align-items: center; justify-content: center;
+  width: 36px; height: 36px;
+  border-radius: 50%;
+  color: #555;
+  text-decoration: none;
+  transition: background 0.2s, color 0.2s;
+}
+.search-btn:hover { background: #fde8ec; color: #e8324a; }
+
+/* ── 검색 페이지 ── */
+.search-page-title {
+  font-size: 1.6rem; font-weight: 900;
+  margin-bottom: 28px; color: #1a1a1a;
+}
+.search-bar-wrap { margin-bottom: 32px; }
+.search-bar {
+  display: flex; align-items: center; gap: 10px;
+  background: #fff;
+  border: 2px solid #e0e0e0;
+  border-radius: 50px;
+  padding: 10px 20px;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+.search-bar:focus-within {
+  border-color: #e8324a;
+  box-shadow: 0 0 0 3px rgba(232,50,74,0.1);
+}
+.search-icon { color: #999; flex-shrink: 0; }
+.search-input {
+  flex: 1; border: none; outline: none;
+  font-size: 1rem; font-family: inherit;
+  background: transparent; color: #1a1a1a;
+}
+.search-input::placeholder { color: #bbb; }
+.search-clear {
+  background: none; border: none; cursor: pointer;
+  color: #bbb; font-size: 0.85rem; padding: 2px 4px;
+  transition: color 0.2s;
+}
+.search-clear:hover { color: #e8324a; }
+.search-hint {
+  color: #999; font-size: 0.9rem;
+  text-align: center; padding: 40px 0;
+}
+.search-count {
+  font-size: 0.88rem; color: #888;
+  margin-bottom: 20px; font-weight: 500;
+}
+.search-empty {
+  text-align: center; padding: 60px 20px;
+}
+.search-empty p { font-size: 1rem; color: #555; }
+.search-empty-sub { font-size: 0.87rem; color: #aaa; margin-top: 8px; }
+
 /* ── 히어로 ── */
 .hero {
   background: linear-gradient(135deg, #c8203a 0%, #e8324a 50%, #ff6b81 100%);

@@ -45,6 +45,11 @@ export default function RootLayout({ children }) {
               <Link href="/category/%E9%9F%93%E5%9B%BD%E3%82%B3%E3%82%B9%E3%83%A1">コスメ</Link>
               <Link href="/about">About</Link>
             </nav>
+            <Link href="/search" className="search-btn" aria-label="記事を検索">
+              <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" strokeWidth="2.2">
+                <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
+              </svg>
+            </Link>
             <MobileMenu />
           </div>
         </header>
