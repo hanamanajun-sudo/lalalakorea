@@ -7,9 +7,16 @@ export const metadata = {
   description: '韓国在住10年の韓日夫婦が運営。韓国語学習・韓国グルメ・Kpop・韓国ドラマを、リアルな体験談とともに日本語で発信しています。',
 };
 
-export default function Home() {
+const POSTS_PER_PAGE = 12;
+
+export default function Home({ searchParams }) {
   const posts = getAllPosts();
   const categories = getAllCategories();
+
+  const currentPage = Number(searchParams?.page) || 1;
+  const totalPages = Math.ceil(posts.length / POSTS_PER_PAGE);
+  const startIndex = (currentPage - 1) * POSTS_PER_PAGE;
+  const paginatedPosts = posts.slice(startIndex, startIndex + POSTS_PER_PAGE);
 
   return (
     <>
@@ -32,7 +39,7 @@ export default function Home() {
       <section className="posts-section">
         <div className="container">
           <div className="posts-grid">
-            {posts.map(post => (
+            {paginatedPosts.map(post => (
               <Link key={post.slug} href={`/${post.slug}`} className="post-card">
                 {post.thumbnail && (
                   <div className="post-card-img">
@@ -60,6 +67,40 @@ export default function Home() {
               </Link>
             ))}
           </div>
+
+          {totalPages > 1 && (
+            <nav className="pagination" aria-label="ページナビゲーション">
+              {currentPage > 1 && (
+                <Link
+                  href={currentPage - 1 === 1 ? '/' : `/?page=${currentPage - 1}`}
+                  className="pagination-btn"
+                >
+                  ← 前のページ
+                </Link>
+              )}
+
+              <div className="pagination-numbers">
+                {Array.from({ length: totalPages }, (_, i) => i + 1).map(page => (
+                  <Link
+                    key={page}
+                    href={page === 1 ? '/' : `/?page=${page}`}
+                    className={`pagination-num${page === currentPage ? ' active' : ''}`}
+                  >
+                    {page}
+                  </Link>
+                ))}
+              </div>
+
+              {currentPage < totalPages && (
+                <Link
+                  href={`/?page=${currentPage + 1}`}
+                  className="pagination-btn"
+                >
+                  次のページ →
+                </Link>
+              )}
+            </nav>
+          )}
         </div>
       </section>
     </>

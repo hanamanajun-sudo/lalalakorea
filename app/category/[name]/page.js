@@ -3,6 +3,8 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { notFound } from 'next/navigation';
 
+const POSTS_PER_PAGE = 12;
+
 export async function generateMetadata({ params }) {
   const name = decodeURIComponent(params.name);
   return {
@@ -19,12 +21,19 @@ export async function generateStaticParams() {
   return cats.map(c => ({ name: c }));
 }
 
-export default function CategoryPage({ params }) {
+export default function CategoryPage({ params, searchParams }) {
   const name = decodeURIComponent(params.name);
   const all = getAllPosts();
   const posts = all.filter(p => p.categories.includes(name));
   if (!posts.length) notFound();
   const categories = getAllCategories();
+
+  const currentPage = Number(searchParams?.page) || 1;
+  const totalPages = Math.ceil(posts.length / POSTS_PER_PAGE);
+  const startIndex = (currentPage - 1) * POSTS_PER_PAGE;
+  const paginatedPosts = posts.slice(startIndex, startIndex + POSTS_PER_PAGE);
+
+  const categoryBase = `/category/${encodeURIComponent(name)}`;
 
   return (
     <>
@@ -47,7 +56,7 @@ export default function CategoryPage({ params }) {
       <section className="posts-section">
         <div className="container">
           <div className="posts-grid">
-            {posts.map(post => (
+            {paginatedPosts.map(post => (
               <Link key={post.slug} href={`/${post.slug}`} className="post-card">
                 {post.thumbnail && (
                   <div className="post-card-img">
@@ -71,6 +80,40 @@ export default function CategoryPage({ params }) {
               </Link>
             ))}
           </div>
+
+          {totalPages > 1 && (
+            <nav className="pagination" aria-label="ページナビゲーション">
+              {currentPage > 1 && (
+                <Link
+                  href={currentPage - 1 === 1 ? categoryBase : `${categoryBase}?page=${currentPage - 1}`}
+                  className="pagination-btn"
+                >
+                  ← 前のページ
+                </Link>
+              )}
+
+              <div className="pagination-numbers">
+                {Array.from({ length: totalPages }, (_, i) => i + 1).map(page => (
+                  <Link
+                    key={page}
+                    href={page === 1 ? categoryBase : `${categoryBase}?page=${page}`}
+                    className={`pagination-num${page === currentPage ? ' active' : ''}`}
+                  >
+                    {page}
+                  </Link>
+                ))}
+              </div>
+
+              {currentPage < totalPages && (
+                <Link
+                  href={`${categoryBase}?page=${currentPage + 1}`}
+                  className="pagination-btn"
+                >
+                  次のページ →
+                </Link>
+              )}
+            </nav>
+          )}
         </div>
       </section>
     </>
