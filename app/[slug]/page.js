@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import InstagramEmbed from './InstagramEmbed';
 import RelatedPosts from './RelatedPosts';
+import TableOfContents from './TableOfContents';
 
 export async function generateStaticParams() {
   const posts = getAllPosts();
@@ -85,6 +86,7 @@ export default async function PostPage({ params }) {
         <h1>{post.title}</h1>
         <div className="meta">{post.date}</div>
       </div>
+      <TableOfContents headings={post.headings} />
       <div
         className="post-content"
         dangerouslySetInnerHTML={{ __html: post.content }}
