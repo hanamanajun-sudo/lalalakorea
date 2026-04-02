@@ -12,7 +12,10 @@ export async function generateStaticParams() {
 }
 
 export async function generateMetadata({ params }) {
-  const post = await getPostBySlug(params.slug);
+  // 다국어 URL 해독 로직 추가
+  const decodedSlug = decodeURIComponent(params.slug);
+  const post = await getPostBySlug(decodedSlug);
+  
   if (!post) return {};
   const description = post.excerpt || post.title;
   const siteUrl = 'https://lalalakorea.com';
@@ -42,7 +45,10 @@ export async function generateMetadata({ params }) {
 }
 
 export default async function PostPage({ params }) {
-  const post = await getPostBySlug(params.slug);
+  // 다국어 URL 해독 로직 추가
+  const decodedSlug = decodeURIComponent(params.slug);
+  const post = await getPostBySlug(decodedSlug);
+  
   if (!post) notFound();
 
   const siteUrl = 'https://lalalakorea.com';
