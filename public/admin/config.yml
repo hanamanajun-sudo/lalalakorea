@@ -1,6 +1,6 @@
+publish_mode: editorial_workflow
 backend:
   name: github
-  publish_mode: editorial_workflow
   repo: hanamanajun-sudo/lalalakorea
   branch: main
   base_url: https://lalalakorea.com
