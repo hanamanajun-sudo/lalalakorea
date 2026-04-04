@@ -19,6 +19,9 @@ export async function generateMetadata({ params }) {
   if (!post) return {};
   const description = post.excerpt || post.title;
   const siteUrl = 'https://lalalakorea.com';
+  const ogImage = post.thumbnail
+    ? { url: post.thumbnail, width: 1200, height: 630, alt: post.title }
+    : { url: `${siteUrl}/og-default.png`, width: 1200, height: 630, alt: 'LaLaLa KOREA' };
   return {
     title: `${post.title} | LalaLaKorea`,
     description,
@@ -27,7 +30,7 @@ export async function generateMetadata({ params }) {
       description,
       url: `${siteUrl}/${post.slug}/`,
       siteName: 'LalaLaKorea',
-      images: post.thumbnail ? [{ url: post.thumbnail, width: 1200, height: 630, alt: post.title }] : [],
+      images: [ogImage],
       type: 'article',
       publishedTime: post.date,
       locale: 'ja_JP',
@@ -36,7 +39,7 @@ export async function generateMetadata({ params }) {
       card: 'summary_large_image',
       title: post.title,
       description,
-      images: post.thumbnail ? [post.thumbnail] : [],
+      images: [ogImage.url],
     },
     alternates: {
       canonical: `${siteUrl}/${post.slug}/`,
@@ -96,15 +99,4 @@ export default async function PostPage({ params }) {
         <div className="meta">{post.date}</div>
       </div>
       <ShareButtons title={post.title} url={postUrl} />
-      <TableOfContents headings={post.headings} />
-      <div
-        className="post-content"
-        dangerouslySetInnerHTML={{ __html: post.content }}
-      />
-      {hasInstagram && <InstagramEmbed />}
-      <ShareButtons title={post.title} url={postUrl} />
-      <RelatedPosts posts={post.relatedPosts} />
-    </article>
-    </>
-  );
-}
+      <TableOfContents headings={post.headings}
