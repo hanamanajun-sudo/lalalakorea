@@ -15,7 +15,7 @@ export async function generateMetadata({ params }) {
   // 다국어 URL 해독 로직 추가
   const decodedSlug = decodeURIComponent(params.slug);
   const post = await getPostBySlug(decodedSlug);
-  
+
   if (!post) return {};
   const description = post.excerpt || post.title;
   const siteUrl = 'https://lalalakorea.com';
@@ -51,7 +51,7 @@ export default async function PostPage({ params }) {
   // 다국어 URL 해독 로직 추가
   const decodedSlug = decodeURIComponent(params.slug);
   const post = await getPostBySlug(decodedSlug);
-  
+
   if (!post) notFound();
 
   const siteUrl = 'https://lalalakorea.com';
@@ -99,4 +99,15 @@ export default async function PostPage({ params }) {
         <div className="meta">{post.date}</div>
       </div>
       <ShareButtons title={post.title} url={postUrl} />
-      <TableOfContents headings={post.headings}
+      <TableOfContents headings={post.headings} />
+      <div
+        className="post-content"
+        dangerouslySetInnerHTML={{ __html: post.content }}
+      />
+      {hasInstagram && <InstagramEmbed />}
+      <ShareButtons title={post.title} url={postUrl} />
+      <RelatedPosts posts={post.relatedPosts} />
+    </article>
+    </>
+  );
+}
