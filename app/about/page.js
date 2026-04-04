@@ -95,52 +95,72 @@ export default function AboutPage() {
           <div className="about-characters">
 
             <div className="character-card">
-              <img className="character-avatar-img" src="https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg" alt="きなこ" />
-              <div className="character-name">きなこ</div>
-              <div className="character-role">メインキャラ</div>
+              <div className="character-avatar">🇰🇷</div>
+              <div className="character-name">ジュン（准）</div>
+              <div className="character-role">筆者</div>
               <p className="character-desc">
-                ふわふわ系だけど実は芯がある。
-                韓国のことが大好きで、いつも熱く語ってくれる存在。
+                韓国出身・筆者。一人称は「私（ジュン）」または「우리（ウリ）夫婦」で話す。
+                韓国と日本、両方をよく知る頼れる案内役。
               </p>
             </div>
 
             <div className="character-card">
-              <img className="character-avatar-img" src="https://lalalakorea.com/wp-content/uploads/2021/08/1270157-150x150.jpg" alt="ハル" />
+              <div className="character-avatar">🇯🇵</div>
               <div className="character-name">ハル</div>
-              <div className="character-role">ツッコミ担当</div>
+              <div className="character-role">妻</div>
               <p className="character-desc">
-                冷静でちょっとクールなキャラ。
-                でも韓国グルメの話になると誰より食いつく。
+                日本人の妻。温かくて優しい。韓国語レベルは初級〜中級。
+                簡単な会話や単語は理解できるけど、難しい表現は分からない。
               </p>
             </div>
 
             <div className="character-card">
-              <img className="character-avatar-img" src="https://lalalakorea.com/wp-content/uploads/2021/08/245689-231x300.jpg" alt="ジュン" />
-              <div className="character-name">ジュン</div>
-              <div className="character-role">案内役</div>
+              <div className="character-avatar">📚</div>
+              <div className="character-name">かのん</div>
+              <div className="character-role">娘</div>
               <p className="character-desc">
-                韓国と日本、両方をよく知る頼れる存在。
-                いろんな話題をわかりやすく解説してくれる。
+                ジュンとハルの娘。絵と本が好きな中学生。
+                韓国語の聞き取りはかなりできるがハングルは読めない。
               </p>
             </div>
 
             <div className="character-card">
-              <img className="character-avatar-img" src="https://lalalakorea.com/wp-content/uploads/2021/11/135882.jpg" alt="ミオ" />
+              <div className="character-avatar">🐶</div>
+              <div className="character-name">ここア</div>
+              <div className="character-role">飼い犬</div>
+              <p className="character-desc">
+                飼い犬。ふわふわで愛らしく、人懐こい。
+                関連がある記事では登場する、家族の大事な一員。
+              </p>
+            </div>
+
+            <div className="character-card">
+              <div className="character-avatar">🐱</div>
+              <div className="character-name">きなこ</div>
+              <div className="character-role">猫ちゃん</div>
+              <p className="character-desc">
+                猫ちゃん。ふわふわで愛らしい。
+                家族の一員として時々ブログに登場。
+              </p>
+            </div>
+
+            <div className="character-card">
+              <div className="character-avatar">🎬</div>
               <div className="character-name">ミオ</div>
-              <div className="character-role">K-POP担当</div>
+              <div className="character-role">ゲスト</div>
               <p className="character-desc">
-                K-POPとコスメならお任せあれ。
-                テンションが高めで場を盛り上げるムードメーカー。
+                韓国ドラマとK-POPが大好き。
+                エンタメ関連の記事でよく登場するゲストキャラ。
               </p>
             </div>
 
             <div className="character-card">
-              <img className="character-avatar-img" src="https://lalalakorea.com/wp-content/uploads/2021/10/제목을-입력해주세요_-002.png" alt="악어오빠" />
-              <div className="character-name">악어오빠</div>
-              <div className="character-role">韓国代表</div>
+              <div className="character-avatar">🐊</div>
+              <div className="character-name">アゴオッパ（악어오빠）</div>
+              <div className="character-role">ジュンの弟</div>
               <p className="character-desc">
-                韓国側の本音を届けてくれるキャラ。
-                たまに辛口だけど、愛情たっぷり。
+                ジュンの弟。愛称は「악어오빠（악어オッパ）」。
+                韓国側の視点からの本音を届けてくれるキャラ。
               </p>
             </div>
 
