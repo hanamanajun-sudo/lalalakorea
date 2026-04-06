@@ -25,12 +25,7 @@ related_posts:
 <img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2022/01/002.png" alt="악어오빠">
 <div class="chat-bubble-wrap">
 <div class="chat-name">악어오빠</div>
-<div class="chat-bubble">안녕하세요!
-今回は**심쿵な韓国語フレーズ**を紹介するヨ。
-**심쿵(シムクン)**は韓国語で**『胸キュン』**。
-心臓がドキッとするという意味の新語ダヨ。
-
- 	- **심쿵(シムクン) 　**意味：胸キュン。心臓がドキッとするという意味の新語。</div>
+<div class="chat-bubble"><p>안녕하세요!<br>今回は<strong>심쿵な韓国語フレーズ</strong>を紹介するヨ。<br><strong>심쿵(シムクン)</strong>は韓国語で<strong>『胸キュン』</strong>。<br>心臓がドキッとするという意味の新語ダヨ。</p><ul><li><strong>심쿵(シムクン) 　</strong>意味：胸キュン。心臓がドキッとするという意味の新語。</li></ul></div>
 </div>
 </div>
 ## 【1】『심쿵（シムクン）』胸キュン韓国語フレーズ
@@ -307,16 +302,7 @@ related_posts:
 <img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2022/01/002.png" alt="악어오빠">
 <div class="chat-bubble-wrap">
 <div class="chat-name">악어오빠</div>
-<div class="chat-bubble">そんなきなこチャンにおススメのアイテムがあるヨ!
-**『魔法の韓国語BOX』シリーズ**は色んな韓国語フレーズのカードなんダけど、**スマホのケースに入れて**眺めてもいいし、韓国女子の間で流行りの**日記デコ(다꾸)**にも使えるよ。もっと韓国語を勉強したい！そんな本格派さんには**LaLaLa KoreaのブログやYou Tubeで意味や発音を紹介**してるカラ勉強にも活用できちゃうアイテムだヨ。
-
- 
-
- 	- **핸폰　**透明スマホケースに入れておしゃれ&勉強の一石二鳥
-
- 	- **다꾸　**韓国女子に流行りの日記デコにもおススメ
-
- 	- **열공　**本格派さんはカードと連携したブログ&YouTubeで勉強!</div>
+<div class="chat-bubble"><p>そんなきなこチャンにおススメのアイテムがあるヨ!<br><strong>『魔法の韓国語BOX』シリーズ</strong>は色んな韓国語フレーズのカードなんダけど、<strong>スマホのケースに入れて</strong>眺めてもいいし、韓国女子の間で流行りの<strong>日記デコ(다꾸)</strong>にも使えるよ。もっと韓国語を勉強したい！そんな本格派さんには<strong>LaLaLa KoreaのブログやYou Tubeで意味や発音を紹介</strong>してるカラ勉強にも活用できちゃうアイテムだヨ。</p><ul><li><strong>핸폰　</strong>透明スマホケースに入れておしゃれ&amp;勉強の一石二鳥</li><li><strong>다꾸　</strong>韓国女子に流行りの日記デコにもおススメ</li><li><strong>열공　</strong>本格派さんはカードと連携したブログ&amp;YouTubeで勉強!</li></ul></div>
 </div>
 </div>
 <div class="chat-msg chat-left">
@@ -332,10 +318,7 @@ related_posts:
 <img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2022/01/002.png" alt="악어오빠">
 <div class="chat-bubble-wrap">
 <div class="chat-name">악어오빠</div>
-<div class="chat-bubble">メルカリショップ『LaLaLa Korea』で売ってるヨ。
-興味があったら一度覗いてみてネ
-
-[メルカリショップ『LaLaLa Korea』にて販売中!](https://mercari-shops.com/products/EnzRcAcCWgYENASmV7TeTW?source=shared_link&utm_source=shared_link)</div>
+<div class="chat-bubble"><p>メルカリショップ『LaLaLa Korea』で売ってるヨ。<br>興味があったら一度覗いてみてネ</p><p><a href="https://mercari-shops.com/products/EnzRcAcCWgYENASmV7TeTW?source=shared_link&utm_source=shared_link" target="_blank" rel="noopener">メルカリショップ『LaLaLa Korea』にて販売中!</a></p></div>
 </div>
 </div>
 ## 胸キュン韓国語フレーズ60選
@@ -346,10 +329,6 @@ related_posts:
 <img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2022/01/002.png" alt="악어오빠">
 <div class="chat-bubble-wrap">
 <div class="chat-name">악어오빠</div>
-<div class="chat-bubble">今回紹介したフレーズ以外にも胸キュン韓国語フレーズを紹介しているヨ。
-
- 	- [『こんなセリフ言われてみたい!胸キュン韓国語フレーズ60選』ブログ ](https://lalalakorea.com/simkunkorean60/)
-
- 	- [YouTube 『胸キュン韓国語フレーズ60選』](https://youtu.be/8ZTnBu8iIfY)</div>
+<div class="chat-bubble"><p>今回紹介したフレーズ以外にも胸キュン韓国語フレーズを紹介しているヨ。</p><ul><li><a href="https://lalalakorea.com/simkunkorean60/" target="_blank" rel="noopener">『こんなセリフ言われてみたい!胸キュン韓国語フレーズ60選』ブログ</a></li><li><a href="https://youtu.be/8ZTnBu8iIfY" target="_blank" rel="noopener">YouTube 『胸キュン韓国語フレーズ60選』</a></li></ul></div>
 </div>
 </div>
