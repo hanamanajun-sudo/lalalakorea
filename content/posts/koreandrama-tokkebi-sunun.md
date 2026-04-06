@@ -59,9 +59,16 @@ related_posts:
  
  
 
-<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CISUG0pAg9_/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
-<a href="https://www.instagram.com/p/CISUG0pAg9_/">この投稿をInstagramで見る</a>
-</blockquote>
+<a href="https://www.instagram.com/p/CISUG0pAg9_/" target="_blank" rel="noopener noreferrer" class="instagram-card">
+  <span class="instagram-card-icon">
+    <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+  </span>
+  <span class="instagram-card-body">
+    <span class="instagram-card-label">Instagram</span>
+    <span class="instagram-card-text">投稿を見る（CISUG0pAg9...）</span>
+  </span>
+  <span class="instagram-card-arrow">→</span>
+</a>
 
 
 ## 2．合言葉は「수능대박（スヌンテバク）」！家族、後輩が応援団に！
@@ -85,9 +92,16 @@ related_posts:
  
  
 
-<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/Bb0whV9AsMs/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
-<a href="https://www.instagram.com/p/Bb0whV9AsMs/">この投稿をInstagramで見る</a>
-</blockquote>
+<a href="https://www.instagram.com/p/Bb0whV9AsMs/" target="_blank" rel="noopener noreferrer" class="instagram-card">
+  <span class="instagram-card-icon">
+    <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+  </span>
+  <span class="instagram-card-body">
+    <span class="instagram-card-label">Instagram</span>
+    <span class="instagram-card-text">投稿を見る（Bb0whV9AsM...）</span>
+  </span>
+  <span class="instagram-card-arrow">→</span>
+</a>
 
 ## 3．수능（スヌン）当日は国中が受験生を応援！パトカーで受験会場までエスコート？！
 
@@ -114,9 +128,16 @@ related_posts:
  
  
 
-<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/Bb0K401DvSS/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
-<a href="https://www.instagram.com/p/Bb0K401DvSS/">この投稿をInstagramで見る</a>
-</blockquote>
+<a href="https://www.instagram.com/p/Bb0K401DvSS/" target="_blank" rel="noopener noreferrer" class="instagram-card">
+  <span class="instagram-card-icon">
+    <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+  </span>
+  <span class="instagram-card-body">
+    <span class="instagram-card-label">Instagram</span>
+    <span class="instagram-card-text">投稿を見る（Bb0K401DvS...）</span>
+  </span>
+  <span class="instagram-card-arrow">→</span>
+</a>
 
 
 遅刻しそうな受験生を会場まで送り届けるために白バイは待機している場所。
@@ -153,9 +174,16 @@ https://lalalakorea.com/korean-study-oneplusone/
  
  
 
-<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CWcQrH5vkyR/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
-<a href="https://www.instagram.com/p/CWcQrH5vkyR/">この投稿をInstagramで見る</a>
-</blockquote>
+<a href="https://www.instagram.com/p/CWcQrH5vkyR/" target="_blank" rel="noopener noreferrer" class="instagram-card">
+  <span class="instagram-card-icon">
+    <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+  </span>
+  <span class="instagram-card-body">
+    <span class="instagram-card-label">Instagram</span>
+    <span class="instagram-card-text">投稿を見る（CWcQrH5vky...）</span>
+  </span>
+  <span class="instagram-card-arrow">→</span>
+</a>
 
 ### 4-2．これからは教室じゃなくて映画館へGO！
 
@@ -171,9 +199,16 @@ https://lalalakorea.com/korean-study-oneplusone/
  
  
 
-<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CWgDzcGvpTK/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
-<a href="https://www.instagram.com/p/CWgDzcGvpTK/">この投稿をInstagramで見る</a>
-</blockquote>
+<a href="https://www.instagram.com/p/CWgDzcGvpTK/" target="_blank" rel="noopener noreferrer" class="instagram-card">
+  <span class="instagram-card-icon">
+    <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+  </span>
+  <span class="instagram-card-body">
+    <span class="instagram-card-label">Instagram</span>
+    <span class="instagram-card-text">投稿を見る（CWgDzcGvpT...）</span>
+  </span>
+  <span class="instagram-card-arrow">→</span>
+</a>
 
 ### 4-3．友達や好きな人を誘って…遊園地に遊びに行こう！
 
@@ -189,9 +224,16 @@ https://lalalakorea.com/korean-study-oneplusone/
  
  
 
-<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CWaVoDOpZ-g/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
-<a href="https://www.instagram.com/p/CWaVoDOpZ-g/">この投稿をInstagramで見る</a>
-</blockquote>
+<a href="https://www.instagram.com/p/CWaVoDOpZ-g/" target="_blank" rel="noopener noreferrer" class="instagram-card">
+  <span class="instagram-card-icon">
+    <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+  </span>
+  <span class="instagram-card-body">
+    <span class="instagram-card-label">Instagram</span>
+    <span class="instagram-card-text">投稿を見る（CWaVoDOpZ-...）</span>
+  </span>
+  <span class="instagram-card-arrow">→</span>
+</a>
 
 ### 4-4．受験票を持って美味しいものを食べに行こう！
 
@@ -207,9 +249,16 @@ https://lalalakorea.com/korean-study-oneplusone/
  
  
 
-<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CWUphn4sQiY/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
-<a href="https://www.instagram.com/p/CWUphn4sQiY/">この投稿をInstagramで見る</a>
-</blockquote>
+<a href="https://www.instagram.com/p/CWUphn4sQiY/" target="_blank" rel="noopener noreferrer" class="instagram-card">
+  <span class="instagram-card-icon">
+    <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+  </span>
+  <span class="instagram-card-body">
+    <span class="instagram-card-label">Instagram</span>
+    <span class="instagram-card-text">投稿を見る（CWUphn4sQi...）</span>
+  </span>
+  <span class="instagram-card-arrow">→</span>
+</a>
 
 ## 韓国ドラマ【トッケビ】にも登場！大学入試、수능（スヌン）の受験票で割引！
 

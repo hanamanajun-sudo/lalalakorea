@@ -44,9 +44,16 @@ related_posts:
  
  
 
-<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CQxwNMFFgew/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
-<a href="https://www.instagram.com/p/CQxwNMFFgew/">この投稿をInstagramで見る</a>
-</blockquote>
+<a href="https://www.instagram.com/p/CQxwNMFFgew/" target="_blank" rel="noopener noreferrer" class="instagram-card">
+  <span class="instagram-card-icon">
+    <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+  </span>
+  <span class="instagram-card-body">
+    <span class="instagram-card-label">Instagram</span>
+    <span class="instagram-card-text">投稿を見る（CQxwNMFFge...）</span>
+  </span>
+  <span class="instagram-card-arrow">→</span>
+</a>
 
 皮膚科医監修のもと作られた、安心安全なシートパック。
 
@@ -72,9 +79,16 @@ related_posts:
  
  
 
-<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CGzG6wslYiM/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
-<a href="https://www.instagram.com/p/CGzG6wslYiM/">この投稿をInstagramで見る</a>
-</blockquote>
+<a href="https://www.instagram.com/p/CGzG6wslYiM/" target="_blank" rel="noopener noreferrer" class="instagram-card">
+  <span class="instagram-card-icon">
+    <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+  </span>
+  <span class="instagram-card-body">
+    <span class="instagram-card-label">Instagram</span>
+    <span class="instagram-card-text">投稿を見る（CGzG6wslYi...）</span>
+  </span>
+  <span class="instagram-card-arrow">→</span>
+</a>
 
 [![](https://hbb.afl.rakuten.co.jp/hgb/2375f9e5.1dc87d4d.2375f9e7.aa0d820d/?me_id=1370873&item_id=10001769&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fbeautitopping%2Fcabinet%2Fetc%2Fde001-1236_main.jpg%3F_ex%3D128x128&s=128x128&t=picttext)](https://hb.afl.rakuten.co.jp/ichiba/2375f9e5.1dc87d4d.2375f9e7.aa0d820d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbeautitopping%2Fde001-1236%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIxMjh4MTI4IiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D)
 
@@ -96,9 +110,16 @@ related_posts:
  
  
 
-<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/B1_tRg8HcL3/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
-<a href="https://www.instagram.com/p/B1_tRg8HcL3/">この投稿をInstagramで見る</a>
-</blockquote>
+<a href="https://www.instagram.com/p/B1_tRg8HcL3/" target="_blank" rel="noopener noreferrer" class="instagram-card">
+  <span class="instagram-card-icon">
+    <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+  </span>
+  <span class="instagram-card-body">
+    <span class="instagram-card-label">Instagram</span>
+    <span class="instagram-card-text">投稿を見る（B1_tRg8HcL...）</span>
+  </span>
+  <span class="instagram-card-arrow">→</span>
+</a>
 
 無着色・アルコールフリー・パラベンフリー・ミネラルオイルフリーの5無製品で、肌への刺激などにも配慮して作られているのが特徴。
 
@@ -119,9 +140,16 @@ CNP Laboratoryで最近人気なのが**ブラックヘッド専用の小鼻パ�
  
  
 
-<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/BkjXBdoHuSa/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
-<a href="https://www.instagram.com/p/BkjXBdoHuSa/">この投稿をInstagramで見る</a>
-</blockquote>
+<a href="https://www.instagram.com/p/BkjXBdoHuSa/" target="_blank" rel="noopener noreferrer" class="instagram-card">
+  <span class="instagram-card-icon">
+    <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+  </span>
+  <span class="instagram-card-body">
+    <span class="instagram-card-label">Instagram</span>
+    <span class="instagram-card-text">投稿を見る（BkjXBdoHuS...）</span>
+  </span>
+  <span class="instagram-card-arrow">→</span>
+</a>
 
 [![](https://hbb.afl.rakuten.co.jp/hgb/2375f9e5.1dc87d4d.2375f9e7.aa0d820d/?me_id=1370873&item_id=10001411&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fbeautitopping%2Fcabinet%2Fcnp%2Fcn001-1000_main.jpg%3F_ex%3D128x128&s=128x128&t=picttext)](https://hb.afl.rakuten.co.jp/ichiba/2375f9e5.1dc87d4d.2375f9e7.aa0d820d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbeautitopping%2Fcn001-1000%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIxMjh4MTI4IiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D)
 
@@ -143,9 +171,16 @@ CNP Laboratoryで最近人気なのが**ブラックヘッド専用の小鼻パ�
  
  
 
-<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CN1pGBHBFY8/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
-<a href="https://www.instagram.com/p/CN1pGBHBFY8/">この投稿をInstagramで見る</a>
-</blockquote>
+<a href="https://www.instagram.com/p/CN1pGBHBFY8/" target="_blank" rel="noopener noreferrer" class="instagram-card">
+  <span class="instagram-card-icon">
+    <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+  </span>
+  <span class="instagram-card-body">
+    <span class="instagram-card-label">Instagram</span>
+    <span class="instagram-card-text">投稿を見る（CN1pGBHBFY...）</span>
+  </span>
+  <span class="instagram-card-arrow">→</span>
+</a>
 
 商品に**天然由来の植物などを使用**していることで有名なNATURE REPUBLIC。
 
@@ -167,9 +202,16 @@ NATURE REPUBLIC(ネイチャーリパブリック)のパックといえば、幅
  
  
 
-<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CPF5tN-limU/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
-<a href="https://www.instagram.com/p/CPF5tN-limU/">この投稿をInstagramで見る</a>
-</blockquote>
+<a href="https://www.instagram.com/p/CPF5tN-limU/" target="_blank" rel="noopener noreferrer" class="instagram-card">
+  <span class="instagram-card-icon">
+    <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+  </span>
+  <span class="instagram-card-body">
+    <span class="instagram-card-label">Instagram</span>
+    <span class="instagram-card-text">投稿を見る（CPF5tN-lim...）</span>
+  </span>
+  <span class="instagram-card-arrow">→</span>
+</a>
 
 [![](https://hbb.afl.rakuten.co.jp/hgb/23761df1.9c34d93b.23761df2.dc574a5d/?me_id=1384520&item_id=10000041&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fnature-republic%2Fcabinet%2Fsheetmask%2Fimgrc0084297622.jpg%3F_ex%3D128x128&s=128x128&t=picttext)](https://hb.afl.rakuten.co.jp/ichiba/23761df1.9c34d93b.23761df2.dc574a5d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnature-republic%2Frealnaturemask_20%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIxMjh4MTI4IiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D)
 
@@ -191,9 +233,16 @@ NATURE REPUBLIC(ネイチャーリパブリック)のパックといえば、幅
  
  
 
-<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CP5LJfiLLYP/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
-<a href="https://www.instagram.com/p/CP5LJfiLLYP/">この投稿をInstagramで見る</a>
-</blockquote>
+<a href="https://www.instagram.com/p/CP5LJfiLLYP/" target="_blank" rel="noopener noreferrer" class="instagram-card">
+  <span class="instagram-card-icon">
+    <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+  </span>
+  <span class="instagram-card-body">
+    <span class="instagram-card-label">Instagram</span>
+    <span class="instagram-card-text">投稿を見る（CP5LJfiLLY...）</span>
+  </span>
+  <span class="instagram-card-arrow">→</span>
+</a>
 
 “チェジュ島の自然の恵みをそのままに。"をコンセプトに**自社農園で栽培した茶葉や済州島の火山岩などから作ったナチュラルなアイテム**を幅広く展開。
 
@@ -212,9 +261,16 @@ NATURE REPUBLIC(ネイチャーリパブリック)のパックといえば、幅
  
  
 
-<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/B8WBK05Fnjm/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
-<a href="https://www.instagram.com/p/B8WBK05Fnjm/">この投稿をInstagramで見る</a>
-</blockquote>
+<a href="https://www.instagram.com/p/B8WBK05Fnjm/" target="_blank" rel="noopener noreferrer" class="instagram-card">
+  <span class="instagram-card-icon">
+    <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+  </span>
+  <span class="instagram-card-body">
+    <span class="instagram-card-label">Instagram</span>
+    <span class="instagram-card-text">投稿を見る（B8WBK05Fnj...）</span>
+  </span>
+  <span class="instagram-card-arrow">→</span>
+</a>
 
 [![](https://hbb.afl.rakuten.co.jp/hgb/23762a0b.bd9a1e26.23762a0c.195b1352/?me_id=1308499&item_id=10000890&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fgoodservice%2Fcabinet%2F07326716%2Fimgrc0082974620.jpg%3F_ex%3D128x128&s=128x128&t=picttext)](https://hb.afl.rakuten.co.jp/ichiba/23762a0b.bd9a1e26.23762a0c.195b1352/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgoodservice%2F1496110255%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIxMjh4MTI4IiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D)
 
@@ -236,9 +292,16 @@ NATURE REPUBLIC(ネイチャーリパブリック)のパックといえば、幅
  
  
 
-<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/BrjxAjtF4oG/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
-<a href="https://www.instagram.com/p/BrjxAjtF4oG/">この投稿をInstagramで見る</a>
-</blockquote>
+<a href="https://www.instagram.com/p/BrjxAjtF4oG/" target="_blank" rel="noopener noreferrer" class="instagram-card">
+  <span class="instagram-card-icon">
+    <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+  </span>
+  <span class="instagram-card-body">
+    <span class="instagram-card-label">Instagram</span>
+    <span class="instagram-card-text">投稿を見る（BrjxAjtF4o...）</span>
+  </span>
+  <span class="instagram-card-arrow">→</span>
+</a>
 
 他のコスメブランドに比べて日本での知名度は高くないEUNYUL。
 元々は馬油クリーム等、馬油シリーズの化粧品が人気で**最近韓国で人気が高まりつつあるコスメブランド**です。
@@ -261,9 +324,16 @@ NATURE REPUBLIC(ネイチャーリパブリック)のパックといえば、幅
  
  
 
-<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/BknKBJngg8M/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
-<a href="https://www.instagram.com/p/BknKBJngg8M/">この投稿をInstagramで見る</a>
-</blockquote>
+<a href="https://www.instagram.com/p/BknKBJngg8M/" target="_blank" rel="noopener noreferrer" class="instagram-card">
+  <span class="instagram-card-icon">
+    <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+  </span>
+  <span class="instagram-card-body">
+    <span class="instagram-card-label">Instagram</span>
+    <span class="instagram-card-text">投稿を見る（BknKBJngg8...）</span>
+  </span>
+  <span class="instagram-card-arrow">→</span>
+</a>
 
   
 
@@ -287,9 +357,16 @@ NATURE REPUBLIC(ネイチャーリパブリック)のパックといえば、幅
  
  
 
-<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CSN_INvFxEL/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
-<a href="https://www.instagram.com/p/CSN_INvFxEL/">この投稿をInstagramで見る</a>
-</blockquote>
+<a href="https://www.instagram.com/p/CSN_INvFxEL/" target="_blank" rel="noopener noreferrer" class="instagram-card">
+  <span class="instagram-card-icon">
+    <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+  </span>
+  <span class="instagram-card-body">
+    <span class="instagram-card-label">Instagram</span>
+    <span class="instagram-card-text">投稿を見る（CSN_INvFxE...）</span>
+  </span>
+  <span class="instagram-card-arrow">→</span>
+</a>
 
 韓国の有名化粧品会社AMOREPACIFICを代表する人気の韓方シリーズ「雪花秀(ソルファス)」。
 
@@ -311,9 +388,16 @@ NATURE REPUBLIC(ネイチャーリパブリック)のパックといえば、幅
  
  
 
-<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/BZYxpFEgjqA/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
-<a href="https://www.instagram.com/p/BZYxpFEgjqA/">この投稿をInstagramで見る</a>
-</blockquote>
+<a href="https://www.instagram.com/p/BZYxpFEgjqA/" target="_blank" rel="noopener noreferrer" class="instagram-card">
+  <span class="instagram-card-icon">
+    <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+  </span>
+  <span class="instagram-card-body">
+    <span class="instagram-card-label">Instagram</span>
+    <span class="instagram-card-text">投稿を見る（BZYxpFEgjq...）</span>
+  </span>
+  <span class="instagram-card-arrow">→</span>
+</a>
 
 [![](https://hbb.afl.rakuten.co.jp/hgb/237631b4.8e87d89c.237631b5.ec0dbc46/?me_id=1365582&item_id=10002376&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fdivastyle%2Fcabinet%2F06267325%2F8809685822080.jpg%3F_ex%3D128x128&s=128x128&t=picttext)](https://hb.afl.rakuten.co.jp/ichiba/237631b4.8e87d89c.237631b5.ec0dbc46/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdivastyle%2F8809685822080%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIxMjh4MTI4IiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D)
 
@@ -335,9 +419,16 @@ NATURE REPUBLIC(ネイチャーリパブリック)のパックといえば、幅
  
  
 
-<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CRdUghjpQ0B/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
-<a href="https://www.instagram.com/p/CRdUghjpQ0B/">この投稿をInstagramで見る</a>
-</blockquote>
+<a href="https://www.instagram.com/p/CRdUghjpQ0B/" target="_blank" rel="noopener noreferrer" class="instagram-card">
+  <span class="instagram-card-icon">
+    <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+  </span>
+  <span class="instagram-card-body">
+    <span class="instagram-card-label">Instagram</span>
+    <span class="instagram-card-text">投稿を見る（CRdUghjpQ0...）</span>
+  </span>
+  <span class="instagram-card-arrow">→</span>
+</a>
 
 オシャレでワクワクするパッケージデザインで人気のドクタージャルト(Dr.Jart+)は、韓国で**21人の皮膚の専門医・専門家によって作られた**韓国発ドクターズコスメ。
 
@@ -363,9 +454,16 @@ NATURE REPUBLIC(ネイチャーリパブリック)のパックといえば、幅
  
  
 
-<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/ByrKWlAlKTn/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
-<a href="https://www.instagram.com/p/ByrKWlAlKTn/">この投稿をInstagramで見る</a>
-</blockquote>
+<a href="https://www.instagram.com/p/ByrKWlAlKTn/" target="_blank" rel="noopener noreferrer" class="instagram-card">
+  <span class="instagram-card-icon">
+    <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+  </span>
+  <span class="instagram-card-body">
+    <span class="instagram-card-label">Instagram</span>
+    <span class="instagram-card-text">投稿を見る（ByrKWlAlKT...）</span>
+  </span>
+  <span class="instagram-card-arrow">→</span>
+</a>
 
 [![](https://hbb.afl.rakuten.co.jp/hgb/2376345e.3c978371.2376345f.160c9530/?me_id=1377828&item_id=10000009&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fdrjart%2Fcabinet%2F000002%2Fp00000gr_a0123.jpg%3F_ex%3D128x128&s=128x128&t=picttext)](https://hb.afl.rakuten.co.jp/ichiba/2376345e.3c978371.2376345f.160c9530/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdrjart%2Fp00000gr%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIxMjh4MTI4IiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D)
 
@@ -387,9 +485,16 @@ NATURE REPUBLIC(ネイチャーリパブリック)のパックといえば、幅
  
  
 
-<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/BvRWqxgDY0y/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
-<a href="https://www.instagram.com/p/BvRWqxgDY0y/">この投稿をInstagramで見る</a>
-</blockquote>
+<a href="https://www.instagram.com/p/BvRWqxgDY0y/" target="_blank" rel="noopener noreferrer" class="instagram-card">
+  <span class="instagram-card-icon">
+    <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+  </span>
+  <span class="instagram-card-body">
+    <span class="instagram-card-label">Instagram</span>
+    <span class="instagram-card-text">投稿を見る（BvRWqxgDY0...）</span>
+  </span>
+  <span class="instagram-card-arrow">→</span>
+</a>
 
 「リーダース コスメティック」は、**韓国で有名な「リーダース皮膚科」が立ち上げたブランド**で、スイスの革新的な最先端技術を皮膚専門医の力と融合して開発された製品が人気。
 
@@ -413,9 +518,16 @@ NATURE REPUBLIC(ネイチャーリパブリック)のパックといえば、幅
  
  
 
-<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CHf2mIAg0k-/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
-<a href="https://www.instagram.com/p/CHf2mIAg0k-/">この投稿をInstagramで見る</a>
-</blockquote>
+<a href="https://www.instagram.com/p/CHf2mIAg0k-/" target="_blank" rel="noopener noreferrer" class="instagram-card">
+  <span class="instagram-card-icon">
+    <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+  </span>
+  <span class="instagram-card-body">
+    <span class="instagram-card-label">Instagram</span>
+    <span class="instagram-card-text">投稿を見る（CHf2mIAg0k...）</span>
+  </span>
+  <span class="instagram-card-arrow">→</span>
+</a>
 
 [![](https://gd.image-qoo10.jp/li/513/566/2682566513.g_400-w-st_g.jpg)](https://www.qoo10.jp/su/1312392172)
 [Qoo10] [LEADERS]Insolution Vaseline Moisture Mask 10ct
@@ -434,9 +546,16 @@ WWW.QOO10.JP
  
  
 
-<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/BtuTt9kDImg/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
-<a href="https://www.instagram.com/p/BtuTt9kDImg/">この投稿をInstagramで見る</a>
-</blockquote>
+<a href="https://www.instagram.com/p/BtuTt9kDImg/" target="_blank" rel="noopener noreferrer" class="instagram-card">
+  <span class="instagram-card-icon">
+    <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+  </span>
+  <span class="instagram-card-body">
+    <span class="instagram-card-label">Instagram</span>
+    <span class="instagram-card-text">投稿を見る（BtuTt9kDIm...）</span>
+  </span>
+  <span class="instagram-card-arrow">→</span>
+</a>
 
 もともと**エステ・スパと皮膚科専用化粧品として登場**したAHC。
 
@@ -462,9 +581,16 @@ WWW.QOO10.JP
  
  
 
-<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/BsKGRclBM-4/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
-<a href="https://www.instagram.com/p/BsKGRclBM-4/">この投稿をInstagramで見る</a>
-</blockquote>
+<a href="https://www.instagram.com/p/BsKGRclBM-4/" target="_blank" rel="noopener noreferrer" class="instagram-card">
+  <span class="instagram-card-icon">
+    <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+  </span>
+  <span class="instagram-card-body">
+    <span class="instagram-card-label">Instagram</span>
+    <span class="instagram-card-text">投稿を見る（BsKGRclBM-...）</span>
+  </span>
+  <span class="instagram-card-arrow">→</span>
+</a>
 
 [![](https://gd.image-qoo10.jp/li/848/712/3648712848.g_400-w-st_g.jpg)](https://www.qoo10.jp/su/1312392522)
 [Qoo10] Eyecream
@@ -483,9 +609,16 @@ WWW.QOO10.JP
  
  
 
-<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CPuMVCHtuFS/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
-<a href="https://www.instagram.com/p/CPuMVCHtuFS/">この投稿をInstagramで見る</a>
-</blockquote>
+<a href="https://www.instagram.com/p/CPuMVCHtuFS/" target="_blank" rel="noopener noreferrer" class="instagram-card">
+  <span class="instagram-card-icon">
+    <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+  </span>
+  <span class="instagram-card-body">
+    <span class="instagram-card-label">Instagram</span>
+    <span class="instagram-card-text">投稿を見る（CPuMVCHtuF...）</span>
+  </span>
+  <span class="instagram-card-arrow">→</span>
+</a>
 
 日本を含め世界26カ国で取り扱いがあり、**世界中で愛されている**MEDIHEAL。
 
@@ -512,9 +645,16 @@ WWW.QOO10.JP
  
  
 
-<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CNzxiq7BlFc/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%;max-width:540px;margin:20px auto;">
-<a href="https://www.instagram.com/p/CNzxiq7BlFc/">この投稿をInstagramで見る</a>
-</blockquote>
+<a href="https://www.instagram.com/p/CNzxiq7BlFc/" target="_blank" rel="noopener noreferrer" class="instagram-card">
+  <span class="instagram-card-icon">
+    <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+  </span>
+  <span class="instagram-card-body">
+    <span class="instagram-card-label">Instagram</span>
+    <span class="instagram-card-text">投稿を見る（CNzxiq7BlF...）</span>
+  </span>
+  <span class="instagram-card-arrow">→</span>
+</a>
 
 [![](https://hbb.afl.rakuten.co.jp/hgb/2376467b.4b7a2d6e.2376467c.dc451c0d/?me_id=1270835&item_id=10000903&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Felishacoy%2Fcabinet%2F08242720%2Ft10.jpg%3F_ex%3D128x128&s=128x128&t=picttext)](https://hb.afl.rakuten.co.jp/ichiba/2376467b.4b7a2d6e.2376467c.dc451c0d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Felishacoy%2Fteatree_mask_10%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIxMjh4MTI4IiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D)
 
