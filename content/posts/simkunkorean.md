@@ -251,8 +251,6 @@ related_posts: null
 <img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2022/01/002.png" alt="악어오빠">
 <div class="chat-bubble-wrap">
 <div class="chat-name">악어오빠</div>
-<div class="chat-bubble"><p>今回紹介したフレーズ以外にも胸キュン韓国語フレーズを紹介しているヨ。</p><ul><li><a href="https://lalalakorea.com/simkunkorean60/" target="_blank" rel="noopener" style="color: #ffffff; text-decoration: underline;">『こんなセリフ言われてみたい!胸キュン韓国語フレーズ60選』ブログ</a></li>
-
-\    <li><a href="https://youtu.be/8ZTnBu8iIfY" target="_blank" rel="noopener" style="color: #ffffff; text-decoration: underline;">YouTube 『胸キュン韓国語フレーズ60選』</a></li></ul></div>
+<div class="chat-bubble"><p>今回紹介したフレーズ以外にも胸キュン韓国語フレーズを紹介しているヨ。</p><ul><li><a href="https://lalalakorea.com/simkunkorean60/" target="_blank" rel="noopener">『こんなセリフ言われてみたい!胸キュン韓国語フレーズ60選』ブログ</a></li><li><a href="https://youtu.be/8ZTnBu8iIfY" target="_blank" rel="noopener">YouTube 『胸キュン韓国語フレーズ60選』</a></li></ul></div>
 </div>
 </div>
