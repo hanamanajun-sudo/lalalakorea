@@ -1,13 +1,16 @@
 ---
-title: "菅田将暉・仲野太賀絶賛！韓国映画「オアシス」はどんな映画？"
-slug: "korean-movie-oasis"
-date: "2021-10-10"
-categories: ["韓国エンタメ"]
-excerpt: "菅田将暉・仲野太賀絶賛！韓国映画「オアシス」はどんな映画？ きなこ 菅田将暉さんが役者として一番影響を受けた映画としてテレビ番組であげていた韓国映画「オアシス」。 どんな映画なのか、教えて下さい! ジュン 2002年公開の韓国映画「オアシス"
-thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/10/제목을-입력해주세요_-004-1.png"
+title: 菅田将暉・仲野太賀絶賛！韓国映画「オアシス」はどんな映画？
+slug: korean-movie-oasis
+date: 2021-10-10
+categories:
+  - 韓国エンタメ
+thumbnail: https://lalalakorea.com/wp-content/uploads/2021/10/제목을-입력해주세요_-004-1.png
+excerpt: 菅田将暉・仲野太賀絶賛！韓国映画「オアシス」はどんな映画？ きなこ
+  菅田将暉さんが役者として一番影響を受けた映画としてテレビ番組であげていた韓国映画「オアシス」。 どんな映画なのか、教えて下さい! ジュン
+  2002年公開の韓国映画「オアシス
 related_posts:
-  - "koreandrama-tokkebi-sunun"
-  - "koreandrama-netflix-squid1"
+  - koreandrama-tokkebi-sunun
+  - koreandrama-netflix-squid1
 ---
 
 ## 菅田将暉・仲野太賀絶賛！韓国映画「オアシス」はどんな映画？
@@ -301,4 +304,4 @@ View this post on Instagram
 
  
 
-## ４．
+
