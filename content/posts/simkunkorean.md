@@ -1,24 +1,23 @@
 ---
-title: "魔法の韓国語BOX【胸キュン韓国語フレーズ】"
-slug: "simkunkorean"
-date: "2022-07-04"
-categories: ["韓国語"]
-excerpt: "魔法の韓国語ボックス【キュンとする韓国語フレーズ】 きなこ 韓国ドラマを見てると「こんなセリフ一度でいいから言われてみたい!」って思うセリフがいっぱい出てきますよね。 そんな胸キュンのセリフ、韓国語でなんていうか教えて下さい! 악어오빠 안"
-thumbnail: "https://lalalakorea.com/wp-content/uploads/2022/07/제목을-입력해주세요_-007-3.png"
-related_posts:
-
+title: 魔法の韓国語BOX【胸キュン韓国語フレーズ】
+slug: simkunkorean
+date: 2022-07-04
+categories:
+  - 韓国語
+thumbnail: https://lalalakorea.com/wp-content/uploads/2022/07/제목을-입력해주세요_-007-3.png
+excerpt: "魔法の韓国語ボックス【キュンとする韓国語フレーズ】 きなこ
+  韓国ドラマを見てると「こんなセリフ一度でいいから言われてみたい!」って思うセリフがいっぱい出てきますよね。
+  そんな胸キュンのセリフ、韓国語でなんていうか教えて下さい! "
+related_posts: null
 ---
-
 # 魔法の韓国語ボックス【キュンとする韓国語フレーズ】
-
- 
 
 <div class="chat-msg chat-left">
 <img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg" alt="きなこ">
 <div class="chat-bubble-wrap">
 <div class="chat-name">きなこ</div>
-<div class="chat-bubble">韓国ドラマを見てると「**こんなセリフ一度でいいから言われてみたい!」**って思うセリフがいっぱい出てきますよね。
-そんな**胸キュンのセリフ、韓国語でなんていうか**教えて下さい!</div>
+<div class="chat-bubble">韓国ドラマを見てると「\*\*こんなセリフ一度でいいから言われてみたい!」\*\*って思うセリフがいっぱい出てきますよね。
+そんな\*\*胸キュンのセリフ、韓国語でなんていうか\*\*教えて下さい!</div>
 </div>
 </div>
 <div class="chat-msg chat-right">
@@ -30,13 +29,11 @@ related_posts:
 </div>
 ## 【1】『심쿵（シムクン）』胸キュン韓国語フレーズ
 
- 
 韓国語で**「恋人未満、恋人じゃないけどいい感じの関係」**は**『썸(ッソム)』**、**いい感じの関係の男性**は**『썸남(ッソムナム)』**といいます。
 
 そんな**『썸남(ッソムナム)』に言われたい!胸キュン韓国語フレーズ**を紹介します。
 
 こんなこと言われたら好きになっちゃいそう?!
- 
 
 ### 머리 스타일 바꿨어? 잘 어울려
 
@@ -46,8 +43,6 @@ related_posts:
 
 髪型変えた?　めっちゃ似合うよ
 
- 
-
 ### 그냥 네 생각이 나서 전화했어
 
 クニャン ノ センガギ ナソ チョナヘッソ
@@ -56,8 +51,6 @@ related_posts:
 
 なんとなく君のことが思い浮かんで電話したんだ
 
- 
-
 ### 아무 일 없이 그냥 보자면 안 돼요?
 
 アム イル オプシ クニャン ボジャミョン アンドゥエヨ
@@ -65,19 +58,6 @@ related_posts:
 **아무 일 없이 그냥 보자면 안 돼요?**
 
 特に用はないけどただ会うのはダメ?
-
- 
- 
-
- 
-
- 
-
- 
- 
-
- 
- 
 
 <a href="https://www.instagram.com/p/CYpx4WDNPyj/" target="_blank" rel="noopener noreferrer" class="instagram-card">
   <span class="instagram-card-icon">
@@ -90,15 +70,11 @@ related_posts:
   <span class="instagram-card-arrow">→</span>
 </a>
 
- 
-
 ## 【2】『気づかい』胸キュン韓国語フレーズ
 
- 
 体調やご飯をちゃんと食べているか、お互いに気遣い合う言葉を挨拶代わりに言うことが多い韓国人。
 
 **友達や彼氏からさりげなく言われたらドキッとしちゃう胸キュン韓国語フレーズ**を紹介します。
- 
 
 ### 힘들면 언제든 말해
 
@@ -107,8 +83,6 @@ related_posts:
 **힘들면 언제든 말해**
 
 辛かったらいつでも言えよ
-
- 
 
 ### 아프지마. 걱정돼
 
@@ -120,35 +94,20 @@ related_posts:
 
 心配だよ。
 
- 
-
 <div class="chat-msg chat-left">
 <img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg" alt="きなこ">
 <div class="chat-bubble-wrap">
 <div class="chat-name">きなこ</div>
-<div class="chat-bubble">弱ってる時にこんな**ストレートに心配**されたらほんとにドキッとしちゃう!</div>
+<div class="chat-bubble">弱ってる時にこんな\*\*ストレートに心配\*\*されたらほんとにドキッとしちゃう!</div>
 </div>
 </div>
 ## 【3】ド直球な胸キュン韓国語フレーズ
 
- 
 韓国ドラマの醍醐味といえば**ド直球な胸キュン韓国語フレーズ**ですよね。
 
 こんなこと実際に言われたら恥ずかしすぎるけど…
 
 **大好きなアイドルや俳優に言われたら…**なんて想像してニヤニヤしちゃうことも。
- 
- 
-
- 
-
- 
-
- 
- 
-
- 
- 
 
 <a href="https://www.instagram.com/p/Cce723zBhka/" target="_blank" rel="noopener noreferrer" class="instagram-card">
   <span class="instagram-card-icon">
@@ -161,8 +120,6 @@ related_posts:
   <span class="instagram-card-arrow">→</span>
 </a>
 
- 
-
 ### 너한테 한 눈에 반했어
 
 ノハンテ ハンヌネ パネッソ
@@ -170,8 +127,6 @@ related_posts:
 **너한테 한 눈에 반했어**
 
 君に一目惚れしたんだ
-
- 
 
 ### 운명이라는 거 믿어?
 
@@ -181,8 +136,6 @@ related_posts:
 
 運命って信じる?
 
- 
-
 ### 너 언제부터 내 마음에 들어왔어?
 
 ノ オンジェブト ネ マウメ トゥロワッソ?
@@ -191,28 +144,13 @@ related_posts:
 
 いつから僕の心に入り込んだの?
 
- 
-
 ## 【4】韓国人彼氏が言いそうな韓国語フレーズ
 
- 
 子供の頃から女性には優しく!と教えられてきている**韓国人男性は基本レディファースト**。
 
 デートをしたら女性に食事を奢るのが基本で帰りは女性の家まで送る優しさの一方で、独占欲も強く嫉妬をストレートに表現する一面も。
 
 そんな**韓国人彼氏が言いそうな韓国語フレーズ**を紹介します。
- 
- 
-
- 
-
- 
-
- 
- 
-
- 
- 
 
 <a href="https://www.instagram.com/p/Ceuzrpesasm/" target="_blank" rel="noopener noreferrer" class="instagram-card">
   <span class="instagram-card-icon">
@@ -225,8 +163,6 @@ related_posts:
   <span class="instagram-card-arrow">→</span>
 </a>
 
- 
-
 ### 뭐해? 난 너 생각
 
 ムォヘ 　ナン ノ センガク
@@ -234,8 +170,6 @@ related_posts:
 **뭐해? 　난 너 생각**
 
 何してる?　僕は君のこと考えてるよ
-
- 
 
 ### 살 빼지마. 지금이 예뻐.
 
@@ -247,8 +181,6 @@ related_posts:
 
 今が可愛いよ
 
- 
-
 ### 우리 넘 잘 어울리지 않냐
 
 ウリ ノム チャル オウルリジ アンニャ
@@ -256,8 +188,6 @@ related_posts:
 **우리 넘 잘 어울리지 않냐**
 
 俺たちめちゃくちゃお似合いじゃない?
-
- 
 
 ### 너 이렇게 입으려면 내 옆에서만 입어
 
@@ -267,8 +197,6 @@ related_posts:
 
 そんな服着るのは俺と一緒の時だけにしろ
 
- 
-
 ### 너의 하루가 어땠는지 전부 알고 싶어
 
 ノエ ハルガ オッテンヌンジ チョンブ アルゴ シポ
@@ -277,25 +205,21 @@ related_posts:
 
 君の一日がどうだったのか全部知りたい
 
- 
-
 <div class="chat-msg chat-left">
 <img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg" alt="きなこ">
 <div class="chat-bubble-wrap">
 <div class="chat-name">きなこ</div>
 <div class="chat-bubble">こんなこと言ってくれる彼氏が欲しい〜!
-フフフ、思わず**大好きなアイドルが私の彼氏でこんなこと言ってくれたら**…って妄想しちゃいました。</div>
+フフフ、思わず\*\*大好きなアイドルが私の彼氏でこんなこと言ってくれたら\*\*…って妄想しちゃいました。</div>
 </div>
 </div>
 ## 胸キュンしながら楽しく韓国語勉強できるカード『魔法の韓国語BOX』
-
- 
 
 <div class="chat-msg chat-left">
 <img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg" alt="きなこ">
 <div class="chat-bubble-wrap">
 <div class="chat-name">きなこ</div>
-<div class="chat-bubble">**胸キュン韓国語を眺めつ大好きなアイドルが応援してくれてる**…って想像しながら過ごしたら毎日元気出そう!</div>
+<div class="chat-bubble">\*\*胸キュン韓国語を眺めつ大好きなアイドルが応援してくれてる\*\*…って想像しながら過ごしたら毎日元気出そう!</div>
 </div>
 </div>
 <div class="chat-msg chat-right">
@@ -310,7 +234,7 @@ related_posts:
 <div class="chat-bubble-wrap">
 <div class="chat-name">きなこ</div>
 <div class="chat-bubble">それ、いいですね~!
-真面目な韓国語のテキストだと中々勉強が進まない私でも、電車の中とか**空****いた時間で楽しく勉強できそう!**
+真面目な韓国語のテキストだと中々勉強が進まない私でも、電車の中とか\*\*空\*\*\*\*いた時間で楽しく勉強できそう!\*\*
 そのカード、売ってるんですか?</div>
 </div>
 </div>
@@ -323,12 +247,12 @@ related_posts:
 </div>
 ## 胸キュン韓国語フレーズ60選
 
- 
-
 <div class="chat-msg chat-right">
 <img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2022/01/002.png" alt="악어오빠">
 <div class="chat-bubble-wrap">
 <div class="chat-name">악어오빠</div>
-<div class="chat-bubble"><p>今回紹介したフレーズ以外にも胸キュン韓国語フレーズを紹介しているヨ。</p><ul><li><a href="https://lalalakorea.com/simkunkorean60/" target="_blank" rel="noopener">『こんなセリフ言われてみたい!胸キュン韓国語フレーズ60選』ブログ</a></li><li><a href="https://youtu.be/8ZTnBu8iIfY" target="_blank" rel="noopener">YouTube 『胸キュン韓国語フレーズ60選』</a></li></ul></div>
+<div class="chat-bubble"><p>今回紹介したフレーズ以外にも胸キュン韓国語フレーズを紹介しているヨ。</p><ul><li><a href="https://lalalakorea.com/simkunkorean60/" target="_blank" rel="noopener" style="color: #ffffff; text-decoration: underline;">『こんなセリフ言われてみたい!胸キュン韓国語フレーズ60選』ブログ</a></li>
+
+\    <li><a href="https://youtu.be/8ZTnBu8iIfY" target="_blank" rel="noopener" style="color: #ffffff; text-decoration: underline;">YouTube 『胸キュン韓国語フレーズ60選』</a></li></ul></div>
 </div>
 </div>
