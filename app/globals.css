@@ -229,6 +229,8 @@ body {
   border-radius: 18px 4px 18px 18px;
 }
 .chat-right .chat-bubble strong { color: #fff; }
+.chat-right .chat-bubble a { color: #fff; text-decoration: underline; text-underline-offset: 2px; }
+.chat-right .chat-bubble a:hover { opacity: 0.85; }
 .chat-right .chat-name { text-align: right; }
 
 /* ── 관련 포스트 ── */

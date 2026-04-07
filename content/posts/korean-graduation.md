@@ -15,7 +15,7 @@ related_posts:
 <img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg" alt="きなこ">
 <div class="chat-bubble-wrap">
 <div class="chat-name">きなこ</div>
-<div class="chat-bubble">**韓国ドラマで大学の卒業式の時に**アメリカの大学みたいにガウンを着ていたのを見たんですけど、**韓国の卒業式って皆ガウンを着る**んですか?</div>
+<div class="chat-bubble"><strong>韓国ドラマで大学の卒業式の時に</strong>アメリカの大学みたいにガウンを着ていたのを見たんですけど、<strong>韓国の卒業式って皆ガウンを着る</strong>んですか?</div>
 </div>
 </div>
 <div class="chat-msg chat-right">
@@ -23,16 +23,16 @@ related_posts:
 <div class="chat-bubble-wrap">
 <div class="chat-name">악어오빠</div>
 <div class="chat-bubble">アンニョン!
-みんなの**『韓国に関する気になる!を解決隊』**リーダー、**アゴオッパ**ダヨ。
+みんなの<strong>『韓国に関する気になる!を解決隊』</strong>リーダー、<strong>アゴオッパ</strong>ダヨ。
  
-今回は**韓国の卒業式**について色々教えちゃいマス。
+今回は<strong>韓国の卒業式</strong>について色々教えちゃいマス。
 今回のオススメはこんな感じダヨ。
  
-**【1】大学の卒業アルバムがお見合い写真に?!**
+<strong>【1】大学の卒業アルバムがお見合い写真に?!</strong>
  
-**【2】韓国の中学・高校では卒業式に小麦粉をかけあう文化が消えた?**
+<strong>【2】韓国の中学・高校では卒業式に小麦粉をかけあう文化が消えた?</strong>
  
-**【3】韓国語で送る卒業のお祝いメッセージおすすめ4選**</div>
+<strong>【3】韓国語で送る卒業のお祝いメッセージおすすめ4選</strong></div>
 </div>
 </div>
 ## 韓国の卒業式はいつ？

@@ -19,8 +19,8 @@ related_posts:
 <div class="chat-name">ハル</div>
 <div class="chat-bubble">K-POPがきっかけで韓国にドはマリ!最終的には韓国で働いているときに出会った韓国人と結婚🖤
 今は小学生の娘と夫と日本在住のハルです。
-韓国はもうすぐ**秋夕(チュソク)**ですね。
-チュソクについてはこの間**『[秋夕（チュソク）の韓国語メッセージオススメ１１選](https://lalalakorea.com/korean-message-chusok/)』**でご紹介しましたね。</div>
+韓国はもうすぐ<strong>秋夕(チュソク)</strong>ですね。
+チュソクについてはこの間<strong>『<a href="https://lalalakorea.com/korean-message-chusok/" target="_blank" rel="noopener">秋夕（チュソク）の韓国語メッセージオススメ１１選</a>』</strong>でご紹介しましたね。</div>
 </div>
 </div>
 <div class="chat-msg chat-left">
@@ -29,8 +29,8 @@ related_posts:
 <div class="chat-name">きなこ</div>
 <div class="chat-bubble">最近韓国ドラマを通じて韓国について勉強中の韓国초보(チョボ/初心者)。
 最近はBTSのテテが気になっている、きなこです!
-**ソルラルや秋夕(チュソク)には****贈り物する文化**があるんですか?
-**日本のお歳暮やお中元みたいな感じ**なのかな?</div>
+<strong>ソルラルや秋夕(チュソク)には</strong><strong>贈り物する文化</strong>があるんですか?
+<strong>日本のお歳暮やお中元みたいな感じ</strong>なのかな?</div>
 </div>
 </div>
 <div class="chat-msg chat-right">
@@ -39,16 +39,16 @@ related_posts:
 <div class="chat-name">ジュン</div>
 <div class="chat-bubble">안녕하세요!
 ハルの夫、ジュンです。
-**韓国の2大名節(ミョンジョル)**として、韓国の人々にとって大切に考えられている「**秋夕（チュソク）**、旧暦8月15日」と「**旧正月（ソルラル）**、旧暦1月1日」。
-名節には、日本のお中元やお歳暮のように、**韓国にも贈り物をする習慣**があります。
-親族や取引先、日ごろお世話になった人たちに**感謝の気持ちを届ける贈り物**で、定番の食べ物から洗剤などの日用品まで色々あるよ。</div>
+<strong>韓国の2大名節(ミョンジョル)</strong>として、韓国の人々にとって大切に考えられている「<strong>秋夕（チュソク）</strong>、旧暦8月15日」と「<strong>旧正月（ソルラル）</strong>、旧暦1月1日」。
+名節には、日本のお中元やお歳暮のように、<strong>韓国にも贈り物をする習慣</strong>があります。
+親族や取引先、日ごろお世話になった人たちに<strong>感謝の気持ちを届ける贈り物</strong>で、定番の食べ物から洗剤などの日用品まで色々あるよ。</div>
 </div>
 </div>
 <div class="chat-msg chat-left">
 <img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg" alt="きなこ">
 <div class="chat-bubble-wrap">
 <div class="chat-name">きなこ</div>
-<div class="chat-bubble">**定番の食べ物の贈り物**ってどんなのがあるんですか?
+<div class="chat-bubble"><strong>定番の食べ物の贈り物</strong>ってどんなのがあるんですか?
 私、韓国の食べ物も大好きなんで気になります!</div>
 </div>
 </div>
@@ -56,28 +56,15 @@ related_posts:
 <img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/245689-231x300.jpg" alt="ジュン">
 <div class="chat-bubble-wrap">
 <div class="chat-name">ジュン</div>
-<div class="chat-bubble">贈りの中でもやっぱり人気なのは手軽で定番の食べ物。
-高級な**韓牛(ハヌ)**や**高麗人参**から、お手ごろな**韓国海苔**や**缶詰**、**調味料セット**など、相手によって贈り物の種類も様々。
-ちなみにオススメはこんな感じです。
-
- 	- **高級でハードル高め…だけど喜ばれること間違いなし!国産牛『韓肉(ハヌ)』
-**
-
- 	- **もらって困る人はいない!韓国では定番の缶詰、スパムの詰め合わせ
-**
-
- 	- **最近はオシャレなマカロンも人気のお菓子。
-**
-
-この記事は**【6分】**でサッと読めます。</div>
+<div class="chat-bubble"><p>贈りの中でもやっぱり人気なのは手軽で定番の食べ物。<br>高級な<strong>韓牛(ハヌ)</strong>や<strong>高麗人参</strong>から、お手ごろな<strong>韓国海苔</strong>や<strong>缶詰</strong>、<strong>調味料セット</strong>など、相手によって贈り物の種類も様々。<br>ちなみにオススメはこんな感じです。</p><p>- **高級でハードル高め…だけど喜ばれること間違いなし!国産牛『韓肉(ハヌ)』<br>**</p><p>- **もらって困る人はいない!韓国では定番の缶詰、スパムの詰め合わせ<br>**</p><p>- **最近はオシャレなマカロンも人気のお菓子。<br>**</p><p>この記事は<strong>【6分】</strong>でサッと読めます。</p></div>
 </div>
 </div>
 <div class="chat-msg chat-right">
 <img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1270157-150x150.jpg" alt="ハル">
 <div class="chat-bubble-wrap">
 <div class="chat-name">ハル</div>
-<div class="chat-bubble">**ソルラル、秋夕(チュソク)の贈り物オススメ11選**をご紹介します。
-まずは**定番の食べ物**から。</div>
+<div class="chat-bubble"><strong>ソルラル、秋夕(チュソク)の贈り物オススメ11選</strong>をご紹介します。
+まずは<strong>定番の食べ物</strong>から。</div>
 </div>
 </div>
 ## 1. 豪華な贈り物なら…国産牛『韓肉（ハヌ）』セット

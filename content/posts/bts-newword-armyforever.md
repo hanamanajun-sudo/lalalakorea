@@ -16,7 +16,7 @@ related_posts:
 <img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg" alt="きなこ">
 <div class="chat-bubble-wrap">
 <div class="chat-name">きなこ</div>
-<div class="chat-bubble">**BTSのジョングク**がInstagramに新年の挨拶アップした新年の挨拶のフレーズ**「아포방포」**ってどういう意味か教えて下さい!</div>
+<div class="chat-bubble"><strong>BTSのジョングク</strong>がInstagramに新年の挨拶アップした新年の挨拶のフレーズ<strong>「아포방포」</strong>ってどういう意味か教えて下さい!</div>
 </div>
 </div>
 <div class="chat-msg chat-right">
@@ -24,10 +24,10 @@ related_posts:
 <div class="chat-bubble-wrap">
 <div class="chat-name">악어오빠</div>
 <div class="chat-bubble">アンニョン!
-韓国語と韓国文化を皆に教えるのが大好きな**アゴオッパ**だよ。
-**世界的なスターのBTS**。
-そのメンバーの**ジョングク**が使った**「아포방포」**がどういう意味なのか気になるよね。
-実はこの言葉、**ジョングクがファンのために作った造語**なんだ。</div>
+韓国語と韓国文化を皆に教えるのが大好きな<strong>アゴオッパ</strong>だよ。
+<strong>世界的なスターのBTS</strong>。
+そのメンバーの<strong>ジョングク</strong>が使った<strong>「아포방포」</strong>がどういう意味なのか気になるよね。
+実はこの言葉、<strong>ジョングクがファンのために作った造語</strong>なんだ。</div>
 </div>
 </div>
 <div class="chat-msg chat-left">

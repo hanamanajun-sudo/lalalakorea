@@ -15,8 +15,8 @@ related_posts:
 <img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg" alt="きなこ">
 <div class="chat-bubble-wrap">
 <div class="chat-name">きなこ</div>
-<div class="chat-bubble">韓国のインスタで**虎のイラストの小物**を見かけて気になっています。
-最近**韓国で人気**なんですか?</div>
+<div class="chat-bubble">韓国のインスタで<strong>虎のイラストの小物</strong>を見かけて気になっています。
+最近<strong>韓国で人気</strong>なんですか?</div>
 </div>
 </div>
 <div class="chat-msg chat-right">
@@ -25,9 +25,9 @@ related_posts:
 <div class="chat-name">악어오빠</div>
 <div class="chat-bubble">アンニョン!
 韓国語と韓国文化を皆に教えるのが大好きなアゴオッパだよ。
-実は最近韓国で大ヒットしている**トラのキャラクターで有名なブランド**があるんだ。
+実は最近韓国で大ヒットしている<strong>トラのキャラクターで有名なブランド</strong>があるんだ。
 今年は寅年ってこともあってさらに人気が爆発するんじゃないかな?と思っているよ。
-**日本でも人気で入手困難なブランド**だから要チェックだね!</div>
+<strong>日本でも人気で入手困難なブランド</strong>だから要チェックだね!</div>
 </div>
 </div>
 <div class="chat-msg chat-left">

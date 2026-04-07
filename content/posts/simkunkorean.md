@@ -17,8 +17,8 @@ related_posts:
 <img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg" alt="きなこ">
 <div class="chat-bubble-wrap">
 <div class="chat-name">きなこ</div>
-<div class="chat-bubble">韓国ドラマを見てると「**こんなセリフ一度でいいから言われてみたい!」**って思うセリフがいっぱい出てきますよね。
-そんな**胸キュンのセリフ、韓国語でなんていうか**教えて下さい!</div>
+<div class="chat-bubble">韓国ドラマを見てると「<strong>こんなセリフ一度でいいから言われてみたい!」</strong>って思うセリフがいっぱい出てきますよね。
+そんな<strong>胸キュンのセリフ、韓国語でなんていうか</strong>教えて下さい!</div>
 </div>
 </div>
 <div class="chat-msg chat-right">
@@ -126,7 +126,7 @@ related_posts:
 <img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg" alt="きなこ">
 <div class="chat-bubble-wrap">
 <div class="chat-name">きなこ</div>
-<div class="chat-bubble">弱ってる時にこんな**ストレートに心配**されたらほんとにドキッとしちゃう!</div>
+<div class="chat-bubble">弱ってる時にこんな<strong>ストレートに心配</strong>されたらほんとにドキッとしちゃう!</div>
 </div>
 </div>
 ## 【3】ド直球な胸キュン韓国語フレーズ
@@ -284,7 +284,7 @@ related_posts:
 <div class="chat-bubble-wrap">
 <div class="chat-name">きなこ</div>
 <div class="chat-bubble">こんなこと言ってくれる彼氏が欲しい〜!
-フフフ、思わず**大好きなアイドルが私の彼氏でこんなこと言ってくれたら**…って妄想しちゃいました。</div>
+フフフ、思わず<strong>大好きなアイドルが私の彼氏でこんなこと言ってくれたら</strong>…って妄想しちゃいました。</div>
 </div>
 </div>
 ## 胸キュンしながら楽しく韓国語勉強できるカード『魔法の韓国語BOX』
@@ -295,7 +295,7 @@ related_posts:
 <img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg" alt="きなこ">
 <div class="chat-bubble-wrap">
 <div class="chat-name">きなこ</div>
-<div class="chat-bubble">**胸キュン韓国語を眺めつ大好きなアイドルが応援してくれてる**…って想像しながら過ごしたら毎日元気出そう!</div>
+<div class="chat-bubble"><strong>胸キュン韓国語を眺めつ大好きなアイドルが応援してくれてる</strong>…って想像しながら過ごしたら毎日元気出そう!</div>
 </div>
 </div>
 <div class="chat-msg chat-right">
@@ -310,7 +310,7 @@ related_posts:
 <div class="chat-bubble-wrap">
 <div class="chat-name">きなこ</div>
 <div class="chat-bubble">それ、いいですね~!
-真面目な韓国語のテキストだと中々勉強が進まない私でも、電車の中とか**空****いた時間で楽しく勉強できそう!**
+真面目な韓国語のテキストだと中々勉強が進まない私でも、電車の中とか<strong>空</strong><strong>いた時間で楽しく勉強できそう!</strong>
 そのカード、売ってるんですか?</div>
 </div>
 </div>

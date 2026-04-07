@@ -64,14 +64,14 @@ related_posts:
 <div class="chat-name">ミオ</div>
 <div class="chat-bubble">아…
 (どうしたの?って聞いてくれてるんだよね?
-**「手荷物」**ってなんて言えばいいのかな?)</div>
+<strong>「手荷物」</strong>ってなんて言えばいいのかな?)</div>
 </div>
 </div>
 <div class="chat-msg chat-left">
 <img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/11/135882.jpg" alt="ミオ">
 <div class="chat-bubble-wrap">
 <div class="chat-name">ミオ</div>
-<div class="chat-bubble">**짐**이…..</div>
+<div class="chat-bubble"><strong>짐</strong>이…..</div>
 </div>
 </div>
 <div class="chat-msg chat-left">
@@ -79,7 +79,7 @@ related_posts:
 <div class="chat-bubble-wrap">
 <div class="chat-name">女性</div>
 <div class="chat-bubble">짐?
-**짐이 안 나와요?**</div>
+<strong>짐이 안 나와요?</strong></div>
 </div>
 </div>
 <div class="chat-msg chat-left">
@@ -93,7 +93,7 @@ related_posts:
 <img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/11/332050-1.png" alt="女性">
 <div class="chat-bubble-wrap">
 <div class="chat-name">女性</div>
-<div class="chat-bubble">그럼 제가 **확인해볼까요?**</div>
+<div class="chat-bubble">그럼 제가 <strong>확인해볼까요?</strong></div>
 </div>
 </div>
 <div class="chat-msg chat-left">
@@ -107,7 +107,7 @@ related_posts:
 <img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/11/332050-1.png" alt="女性">
 <div class="chat-bubble-wrap">
 <div class="chat-name">女性</div>
-<div class="chat-bubble">**저기요!**</div>
+<div class="chat-bubble"><strong>저기요!</strong></div>
 </div>
 </div>
 <div class="chat-msg chat-left">
@@ -121,7 +121,7 @@ related_posts:
 <img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/11/332050-1.png" alt="女性">
 <div class="chat-bubble-wrap">
 <div class="chat-name">女性</div>
-<div class="chat-bubble">이분 **캐리어**가 안나온데요.</div>
+<div class="chat-bubble">이분 <strong>캐리어</strong>가 안나온데요.</div>
 </div>
 </div>
 <div class="chat-msg chat-left">
@@ -129,7 +129,7 @@ related_posts:
 <div class="chat-bubble-wrap">
 <div class="chat-name">職員</div>
 <div class="chat-bubble">아 그러세요?
-**확인해보겠습니다.**
+<strong>확인해보겠습니다.</strong>
  
 
 #### しばらく後…</div>
@@ -139,7 +139,7 @@ related_posts:
 <img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/11/20211119_103750-1.png" alt="職員">
 <div class="chat-bubble-wrap">
 <div class="chat-name">職員</div>
-<div class="chat-bubble">혹시 이 **캐리어**가 맞으세요?</div>
+<div class="chat-bubble">혹시 이 <strong>캐리어</strong>가 맞으세요?</div>
 </div>
 </div>
 <div class="chat-msg chat-left">
@@ -169,35 +169,35 @@ related_posts:
 <img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/11/135882.jpg" alt="ミオ">
 <div class="chat-bubble-wrap">
 <div class="chat-name">ミオ</div>
-<div class="chat-bubble">가..**감사합니다!**</div>
+<div class="chat-bubble">가..<strong>감사합니다!</strong></div>
 </div>
 </div>
 <div class="chat-msg chat-left">
 <img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/11/332050-1.png" alt="女性">
 <div class="chat-bubble-wrap">
 <div class="chat-name">女性</div>
-<div class="chat-bubble">**아니에요.**</div>
+<div class="chat-bubble"><strong>아니에요.</strong></div>
 </div>
 </div>
 <div class="chat-msg chat-left">
 <img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/11/332050-1.png" alt="女性">
 <div class="chat-bubble-wrap">
 <div class="chat-name">女性</div>
-<div class="chat-bubble">저는 남편이랑 같이 **하숙집**을 하는데 **일본 친구들**도 많이 있어요.</div>
+<div class="chat-bubble">저는 남편이랑 같이 <strong>하숙집</strong>을 하는데 <strong>일본 친구들</strong>도 많이 있어요.</div>
 </div>
 </div>
 <div class="chat-msg chat-left">
 <img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/11/332050-1.png" alt="女性">
 <div class="chat-bubble-wrap">
 <div class="chat-name">女性</div>
-<div class="chat-bubble">**일본 친구들**이 예의도 바르고 **좋아요**.</div>
+<div class="chat-bubble"><strong>일본 친구들</strong>이 예의도 바르고 <strong>좋아요</strong>.</div>
 </div>
 </div>
 <div class="chat-msg chat-left">
 <img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/11/332050-1.png" alt="女性">
 <div class="chat-bubble-wrap">
 <div class="chat-name">女性</div>
-<div class="chat-bubble">신촌에 있는 '지영이 하숙'이라는 하숙집인데 **기회가 있으면 놀러오세요**.</div>
+<div class="chat-bubble">신촌에 있는 '지영이 하숙'이라는 하숙집인데 <strong>기회가 있으면 놀러오세요</strong>.</div>
 </div>
 </div>
 ### 今回のお話の日本語訳
@@ -208,24 +208,24 @@ related_posts:
 <div class="chat-name">女性</div>
 <div class="chat-bubble">クゥエンチャヌセヨ
 
-**괜찮으세요?**
+<strong>괜찮으세요?</strong>
 
-**だいじょうぶですか?**
+<strong>だいじょうぶですか?</strong>
 
   
 トゥワドゥリルッカヨ
 
-**도와드릴까요?**
+<strong>도와드릴까요?</strong>
 
-**お手伝いしましょうか?**
+<strong>お手伝いしましょうか?</strong>
 
 ミオ
 
 チミ
 
-**짐이…..**
+<strong>짐이…..</strong>
 
-**荷物が…**
+<strong>荷物が…</strong>
 
 女性
 
@@ -237,9 +237,9 @@ related_posts:
   
 チミ アンナワヨ
 
-**짐이 안 나와요?**
+<strong>짐이 안 나와요?</strong>
 
-**荷物が出てこないんですか?**</div>
+<strong>荷物が出てこないんですか?</strong></div>
 </div>
 </div>
 <div class="chat-msg chat-left">
@@ -256,9 +256,9 @@ related_posts:
 
 クロム チェガ ファギネボルッカヨ
 
-그럼 제가 **확인해볼까요?**
+그럼 제가 <strong>확인해볼까요?</strong>
 
-じゃあ私が**確認してみましょうか?**
+じゃあ私が<strong>確認してみましょうか?</strong>
 
 ミオ
 
@@ -275,9 +275,9 @@ related_posts:
 <div class="chat-name">女性</div>
 <div class="chat-bubble">チョギヨ
 
-**저기요!**
+<strong>저기요!</strong>
 
-**すみません!**
+<strong>すみません!</strong>
 
 職員
 
@@ -291,9 +291,9 @@ related_posts:
 
 イブン ケリオガ アンナオンデヨ
 
-이분 **캐리어가 안나온데요.**
+이분 <strong>캐리어가 안나온데요.</strong>
 
-この方の**キャリーケースが出てこないそうです。**</div>
+この方の<strong>キャリーケースが出てこないそうです。</strong></div>
 </div>
 </div>
 <div class="chat-msg chat-left">
@@ -308,17 +308,17 @@ related_posts:
   
 ファギネボゲッスムニダ
 
-**확인해보겠습니다.**
+<strong>확인해보겠습니다.</strong>
 
-**確認してみます。**
+<strong>確認してみます。</strong>
 
 職員
 
 フォクシ イ ケリオガ マジュセヨ
 
-혹시 **이 캐리어가 맞으세요?**
+혹시 <strong>이 캐리어가 맞으세요?</strong>
 
-もしかして この**キャリーケースではありませんか?**
+もしかして この<strong>キャリーケースではありませんか?</strong>
 
 ミオ
 
@@ -343,17 +343,17 @@ related_posts:
 
 カムサハムニダ
 
-**감사합니다!**
+<strong>감사합니다!</strong>
 
-**ありがとうございます。**
+<strong>ありがとうございます。</strong>
 
 女性
 
 アニエヨ
 
-**아니에요.**
+<strong>아니에요.</strong>
 
-**どういたしまして。**</div>
+<strong>どういたしまして。</strong></div>
 </div>
 </div>
 <div class="chat-msg chat-left">
@@ -361,28 +361,28 @@ related_posts:
 <div class="chat-bubble-wrap">
 <div class="chat-name">女性</div>
 <div class="chat-bubble">チョヌン ナムピョニラン カチ ハスクチブル ハヌンデ
-저는 남편이랑 같이 **하숙집**을 하는데
-私は主人と**下宿**をやっているんだけど、
+저는 남편이랑 같이 <strong>하숙집</strong>을 하는데
+私は主人と<strong>下宿</strong>をやっているんだけど、
   
 イルボン チングドゥルド マニ イッソヨ
 
-**일본 친구들**도 많이 있어요.
-**日本人の子**もたくさんいるんですよ。
+<strong>일본 친구들</strong>도 많이 있어요.
+<strong>日本人の子</strong>もたくさんいるんですよ。
 
 女性イルボンチングドゥリ イェイド パルゴ チョアヨ
-**일본 친구들**이 예의도 바르고** 좋아요**.            
+<strong>일본 친구들</strong>이 예의도 바르고<strong> 좋아요</strong>.            
 
-**日本人の子**は礼儀正しいし、**好きなんです。**
+<strong>日本人の子</strong>は礼儀正しいし、<strong>好きなんです。</strong>
 
 女性シンチョネ イッヌン ジヨンチ ハスギラヌン ハスクチビンデ
-신촌에 있는 **'지영이 하숙'**이라는 하숙집인데            
+신촌에 있는 <strong>'지영이 하숙'</strong>이라는 하숙집인데            
 
-新村にある**「ジヨンの下宿」**という下宿なんだけど、
+新村にある<strong>「ジヨンの下宿」</strong>という下宿なんだけど、
   
 キフェガ イッスミョン ノルロオセヨ
-**기회가 있으면 놀러오세요.**
+<strong>기회가 있으면 놀러오세요.</strong>
 
-**機会があったら遊びに来てくださいね。**
+<strong>機会があったら遊びに来てくださいね。</strong>
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:24px 0;">
 <iframe src="https://www.youtube.com/embed/eBPJ9cDOsQI" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy"></iframe>

@@ -16,27 +16,27 @@ related_posts:
 <div class="chat-bubble-wrap">
 <div class="chat-name">악어오빠</div>
 <div class="chat-bubble">韓国でお正月っていつか知ってる？
-韓国のお正月は**ソルラル(설날)**といって**旧暦の1月1日**だよ。
-**毎年日は変わる**けど、だいたい**1月末から2月初旬**なんだ。</div>
+韓国のお正月は<strong>ソルラル(설날)</strong>といって<strong>旧暦の1月1日</strong>だよ。
+<strong>毎年日は変わる</strong>けど、だいたい<strong>1月末から2月初旬</strong>なんだ。</div>
 </div>
 </div>
 <div class="chat-msg chat-left">
 <img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg" alt="きなこ">
 <div class="chat-bubble-wrap">
 <div class="chat-name">きなこ</div>
-<div class="chat-bubble">**韓国はお正月が1月1日じゃない**んですね。
-じゃあ**1月1日は韓国ではどんな感じで過ごす**んですか?
-**韓国はお正月が2回あるような感じ**なんですか?</div>
+<div class="chat-bubble"><strong>韓国はお正月が1月1日じゃない</strong>んですね。
+じゃあ<strong>1月1日は韓国ではどんな感じで過ごす</strong>んですか?
+<strong>韓国はお正月が2回あるような感じ</strong>なんですか?</div>
 </div>
 </div>
 <div class="chat-msg chat-right">
 <img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/12/제목을-입력해주세요_-003.png" alt="악어오빠">
 <div class="chat-bubble-wrap">
 <div class="chat-name">악어오빠</div>
-<div class="chat-bubble">旧暦でお正月をお祝いするなら、**1月1日はどうやって過ごすのか?**
-**1月1日には新年の挨拶をしないのか?**
+<div class="chat-bubble">旧暦でお正月をお祝いするなら、<strong>1月1日はどうやって過ごすのか?</strong>
+<strong>1月1日には新年の挨拶をしないのか?</strong>
 日本と違う点が色々気になるよね。
-それでは**ソルラルについて**詳しくみていこう!</div>
+それでは<strong>ソルラルについて</strong>詳しくみていこう!</div>
 </div>
 </div>
 ## 韓国の正月ソルラル（설날）はいつ？どんなふうに過ごす？

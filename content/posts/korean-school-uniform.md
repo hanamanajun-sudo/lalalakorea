@@ -16,8 +16,8 @@ related_posts:
 <img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg" alt="きなこ">
 <div class="chat-bubble-wrap">
 <div class="chat-name">きなこ</div>
-<div class="chat-bubble">韓国のドラマで見かける**韓国の高校の制服**がかわいくて気になっています!
-**韓国の制服**について教えてください。</div>
+<div class="chat-bubble">韓国のドラマで見かける<strong>韓国の高校の制服</strong>がかわいくて気になっています!
+<strong>韓国の制服</strong>について教えてください。</div>
 </div>
 </div>
 <div class="chat-msg chat-right">
@@ -28,11 +28,11 @@ related_posts:
 今回のオススメトピックはこんな感じダヨ。
      
 
-**【1】韓国の高校の制服の流行りの着こなしは？**
+<strong>【1】韓国の高校の制服の流行りの着こなしは？</strong>
  
-**【2】韓国アイドルや俳優の出身校の制服は？**
+<strong>【2】韓国アイドルや俳優の出身校の制服は？</strong>
  
-**【3】BTSジョングク出身校の制服が買える場所は？**</div>
+<strong>【3】BTSジョングク出身校の制服が買える場所は？</strong></div>
 </div>
 </div>
 ## 韓国の高校の制服の流行りの着こなしは？
@@ -41,7 +41,7 @@ related_posts:
 <img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg" alt="きなこ">
 <div class="chat-bubble-wrap">
 <div class="chat-name">きなこ</div>
-<div class="chat-bubble">韓国ドラマをみてると、日本と制服が全然違う感じがするんですけど、**実際の韓国の高校生の制服の着こなし**はどんな感じ?</div>
+<div class="chat-bubble">韓国ドラマをみてると、日本と制服が全然違う感じがするんですけど、<strong>実際の韓国の高校生の制服の着こなし</strong>はどんな感じ?</div>
 </div>
 </div>
 ### 韓国の女子高生がかわいくて大人っぽい秘訣はコレ！韓国の制服の着こなし「タイト」！

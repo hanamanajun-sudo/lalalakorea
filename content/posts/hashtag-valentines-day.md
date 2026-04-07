@@ -17,15 +17,15 @@ related_posts:
 <div class="chat-bubble-wrap">
 <div class="chat-name">きなこ</div>
 <div class="chat-bubble">もうすぐバレンタインですね!
-**韓国にもバレンタインってある**のかな?</div>
+<strong>韓国にもバレンタインってある</strong>のかな?</div>
 </div>
 </div>
 <div class="chat-msg chat-right">
 <img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2022/01/002.png" alt="악어오빠">
 <div class="chat-bubble-wrap">
 <div class="chat-name">악어오빠</div>
-<div class="chat-bubble">**韓国にもバレンタインがあって**、日本のように1年の**ビッグイベント**として定着しているヨ。
-でも**日本とちょっと違う点もある**んダ。</div>
+<div class="chat-bubble"><strong>韓国にもバレンタインがあって</strong>、日本のように1年の<strong>ビッグイベント</strong>として定着しているヨ。
+でも<strong>日本とちょっと違う点もある</strong>んダ。</div>
 </div>
 </div>
 <div class="chat-msg chat-left">
@@ -34,7 +34,7 @@ related_posts:
 <div class="chat-name">きなこ</div>
 <div class="chat-bubble">そうなの?
 韓国好きとしては韓国の女性たちは実際どんな風にバレンタインを過ごしてるのか知りたいです!
-**韓国女子のリアルなバレンタイン事情**を教えて、アゴオッパ〜!!</div>
+<strong>韓国女子のリアルなバレンタイン事情</strong>を教えて、アゴオッパ〜!!</div>
 </div>
 </div>
 ## 1．韓国のバレンタインデーは「好きな人に告白する日」よりは「恋人と過ごす日」！

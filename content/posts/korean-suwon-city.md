@@ -15,7 +15,7 @@ related_posts:
 <img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg" alt="きなこ">
 <div class="chat-bubble-wrap">
 <div class="chat-name">きなこ</div>
-<div class="chat-bubble">この間SNSで知り合った韓国人の友達が韓国の**水原市(スウォン)**出身だそうなんですけど、水原市ってどんな市なのか全然知らなくて、色々知りたいです!</div>
+<div class="chat-bubble">この間SNSで知り合った韓国人の友達が韓国の<strong>水原市(スウォン)</strong>出身だそうなんですけど、水原市ってどんな市なのか全然知らなくて、色々知りたいです!</div>
 </div>
 </div>
 <div class="chat-msg chat-right">
@@ -24,15 +24,15 @@ related_posts:
 <div class="chat-name">악어오빠</div>
 <div class="chat-bubble">アンニョン!
 『韓国궁금중解決隊』リーダー、악어오빠(アゴオッパ)だヨ!
-今回は**韓国の水原(スウォン)市**について教えちゃうヨ!
+今回は<strong>韓国の水原(スウォン)市</strong>について教えちゃうヨ!
  
 今回のオススメの内容はこんな感じデス。
  
-**【1】水原(スウォン)市の基本情報&観光スポット**
+<strong>【1】水原(スウォン)市の基本情報&観光スポット</strong>
  
-**【2】韓国人に愛されるおつまみ（おやつ）！韓国式のソーセージ、『スンデ』**
+<strong>【2】韓国人に愛されるおつまみ（おやつ）！韓国式のソーセージ、『スンデ』</strong>
  
-**【3】水原(スウォン)市出身の芸能人は?**</div>
+<strong>【3】水原(スウォン)市出身の芸能人は?</strong></div>
 </div>
 </div>
 ## 水原（スウォン）市はどんなところ？観光スポットはあるの？

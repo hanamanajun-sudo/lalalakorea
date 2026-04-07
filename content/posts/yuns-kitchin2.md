@@ -16,7 +16,7 @@ related_posts:
 <div class="chat-bubble-wrap">
 <div class="chat-name">ハル</div>
 <div class="chat-bubble">パク・ソジュンさん、最近日本でも人気ですよね。
-パク・ソジュンさんの「ユン食堂2」で見せる魅力的な性格については[**パク・ソジュンは超優秀なアルバイト**](https://lalalakorea.com/yuns-kitchen-1/)で一度ご紹介しましたね。</div>
+パク・ソジュンさんの「ユン食堂2」で見せる魅力的な性格については<a href="https://lalalakorea.com/yuns-kitchen-1/" target="_blank" rel="noopener"><strong>パク・ソジュンは超優秀なアルバイト</strong></a>で一度ご紹介しましたね。</div>
 </div>
 </div>
 <div class="chat-msg chat-left">
@@ -30,15 +30,7 @@ related_posts:
 <img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/245689-231x300.jpg" alt="ジュン">
 <div class="chat-bubble-wrap">
 <div class="chat-name">ジュン</div>
-<div class="chat-bubble">前回はパク・ソジュンさんの真面目さと仕事熱心ぶりを紹介しました。
-今回はパク・ソジュンさんの優しさと男気が見られる場面を紹介します。
-
- 	- **ヌナがエプロンをつけるのをさりげなく手伝う優しさ
-**
-
- 	- **社長につまみ食いが発覚…!皆を代表して一人謝る男気**
-
-この記事は**【3分】**でサッと読めます</div>
+<div class="chat-bubble"><p>前回はパク・ソジュンさんの真面目さと仕事熱心ぶりを紹介しました。<br>今回はパク・ソジュンさんの優しさと男気が見られる場面を紹介します。</p><p>- **ヌナがエプロンをつけるのをさりげなく手伝う優しさ<br>**</p><p>この記事は<strong>【3分】</strong>でサッと読めます</p><ul><li><strong>社長につまみ食いが発覚…!皆を代表して一人謝る男気</strong></li></ul></div>
 </div>
 </div>
 <div class="chat-msg chat-right">

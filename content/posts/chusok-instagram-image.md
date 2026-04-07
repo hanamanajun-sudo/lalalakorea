@@ -19,8 +19,8 @@ related_posts:
 <div class="chat-name">ハル</div>
 <div class="chat-bubble">K-POPがきっかけで韓国にドはマリ!最終的には韓国で働いているときに出会った韓国人と結婚🖤
 今は小学生の娘と夫と日本在住のハルです。
-韓国はもうすぐ**秋夕(チュソク)**ですね。
-秋夕(チュソク)については**『[秋夕（チュソク）の韓国語メッセージオススメ１１選](https://lalalakorea.com/korean-message-chusok/)』**でご紹介しましたね。</div>
+韓国はもうすぐ<strong>秋夕(チュソク)</strong>ですね。
+秋夕(チュソク)については<strong>『<a href="https://lalalakorea.com/korean-message-chusok/" target="_blank" rel="noopener">秋夕（チュソク）の韓国語メッセージオススメ１１選</a>』</strong>でご紹介しましたね。</div>
 </div>
 </div>
 <div class="chat-msg chat-left">
@@ -29,7 +29,7 @@ related_posts:
 <div class="chat-name">きなこ</div>
 <div class="chat-bubble">最近韓国ドラマを通じて韓国について勉強中の韓国초보(チョボ/初心者)。
 最近はBTSのテテが気になっている、きなこです!
-私も**インスタグラム**やってるんですけど、**秋夕(チュソク)にオシャレなイメージ**をアップしてみたいです!</div>
+私も<strong>インスタグラム</strong>やってるんですけど、<strong>秋夕(チュソク)にオシャレなイメージ</strong>をアップしてみたいです!</div>
 </div>
 </div>
 <div class="chat-msg chat-right">
@@ -38,7 +38,7 @@ related_posts:
 <div class="chat-name">ジュン</div>
 <div class="chat-bubble">안녕하세요!
 ハルの夫、ジュンです。
-では、今回リクエストにお応えして、僕が**インスタグラム用のイメージ**を作ってみました!</div>
+では、今回リクエストにお応えして、僕が<strong>インスタグラム用のイメージ</strong>を作ってみました!</div>
 </div>
 </div>
 <div class="chat-msg chat-left">
@@ -46,7 +46,7 @@ related_posts:
 <div class="chat-bubble-wrap">
 <div class="chat-name">きなこ</div>
 <div class="chat-bubble">やった!
-まだ**自分で韓国語のメッセージ考えるのは難しい**から助かります。</div>
+まだ<strong>自分で韓国語のメッセージ考えるのは難しい</strong>から助かります。</div>
 </div>
 </div>
 <div class="chat-msg chat-right">

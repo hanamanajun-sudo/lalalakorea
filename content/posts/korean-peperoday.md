@@ -15,14 +15,14 @@ related_posts:
 <img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg" alt="きなこ">
 <div class="chat-bubble-wrap">
 <div class="chat-name">きなこ</div>
-<div class="chat-bubble">**BTSのジミン**が**ペペロデーに公式コミュニティに参加してファンにコメント**した、って話題になっていたんですけど、**ペペロデーってどんな日**なんですか?</div>
+<div class="chat-bubble"><strong>BTSのジミン</strong>が<strong>ペペロデーに公式コミュニティに参加してファンにコメント</strong>した、って話題になっていたんですけど、<strong>ペペロデーってどんな日</strong>なんですか?</div>
 </div>
 </div>
 <div class="chat-msg chat-right">
 <img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2022/01/002.png" alt="악어오빠">
 <div class="chat-bubble-wrap">
 <div class="chat-name">악어오빠</div>
-<div class="chat-bubble">**ペペロデー**は韓国で今や**第2のバレンタイン**とも言われるほどの一大イベントとなっている日だヨ。
+<div class="chat-bubble"><strong>ペペロデー</strong>は韓国で今や<strong>第2のバレンタイン</strong>とも言われるほどの一大イベントとなっている日だヨ。
 ペペロデーのシーズンになると、どこもかしこもお店にはペペロデーの商品だらけになるヨ。</div>
 </div>
 </div>

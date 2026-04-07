@@ -18,7 +18,7 @@ related_posts:
 <img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1270157-150x150.jpg" alt="ハル">
 <div class="chat-bubble-wrap">
 <div class="chat-name">ハル</div>
-<div class="chat-bubble">最近日本でも**韓国のシートマスク**が人気だよね。
+<div class="chat-bubble">最近日本でも<strong>韓国のシートマスク</strong>が人気だよね。
 みんなは韓国のシートマスクって使ったことある？</div>
 </div>
 </div>
@@ -28,8 +28,8 @@ related_posts:
 <div class="chat-name">きなこ</div>
 <div class="chat-bubble">韓国のフェイスパック、最近色んなところで見かけるようになって気になってます！
 
-でも**種類がたくさんあってどんなのがいいのか迷っちゃいます。**
-**美容大国韓国ので最近人気のフェイスパック**、教えてください！</div>
+でも<strong>種類がたくさんあってどんなのがいいのか迷っちゃいます。</strong>
+<strong>美容大国韓国ので最近人気のフェイスパック</strong>、教えてください！</div>
 </div>
 </div>
 ## 10位：白衣のパッケージが目を引く「DEWYTREE(デューイーツリー)」

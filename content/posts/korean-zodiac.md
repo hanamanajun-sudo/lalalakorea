@@ -16,7 +16,7 @@ related_posts:
 <img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg" alt="きなこ">
 <div class="chat-bubble-wrap">
 <div class="chat-name">きなこ</div>
-<div class="chat-bubble">韓国のバラエティ番組で**新年のあいさつ**をする時に、**「임인년(イミンニョン)」**っていう言葉が出てきたんですけど、どういう意味なのか教えて下さい!</div>
+<div class="chat-bubble">韓国のバラエティ番組で<strong>新年のあいさつ</strong>をする時に、<strong>「임인년(イミンニョン)」</strong>っていう言葉が出てきたんですけど、どういう意味なのか教えて下さい!</div>
 </div>
 </div>
 <div class="chat-msg chat-right">
@@ -25,15 +25,15 @@ related_posts:
 <div class="chat-name">악어오빠</div>
 <div class="chat-bubble">アンニョン!
 韓国語と韓国文化を皆に教えるのが大好きなアゴオッパだよ。
-お、**「임인년(イミンニョン)」**が気になったんだね。
-確かに**新年限定、しかも60年に一度しか使われない言葉**だから聞き慣れないもの当然だよ。</div>
+お、<strong>「임인년(イミンニョン)」</strong>が気になったんだね。
+確かに<strong>新年限定、しかも60年に一度しか使われない言葉</strong>だから聞き慣れないもの当然だよ。</div>
 </div>
 </div>
 <div class="chat-msg chat-left">
 <img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg" alt="きなこ">
 <div class="chat-bubble-wrap">
 <div class="chat-name">きなこ</div>
-<div class="chat-bubble">**60年に一度?**
+<div class="chat-bubble"><strong>60年に一度?</strong>
 それってどういうことですか?
 気になる!教えて、アゴオッパ！</div>
 </div>

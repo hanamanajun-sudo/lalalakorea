@@ -15,7 +15,7 @@ related_posts:
 <img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg" alt="きなこ">
 <div class="chat-bubble-wrap">
 <div class="chat-name">きなこ</div>
-<div class="chat-bubble">韓国ドラマでよく**「ウェ?」**っていう言葉がよく聞こえるんですけど…
+<div class="chat-bubble">韓国ドラマでよく<strong>「ウェ?」</strong>っていう言葉がよく聞こえるんですけど…
 どういう意味か教えて下さい!</div>
 </div>
 </div>
@@ -23,16 +23,16 @@ related_posts:
 <img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2022/01/002.png" alt="악어오빠">
 <div class="chat-bubble-wrap">
 <div class="chat-name">악어오빠</div>
-<div class="chat-bubble">**韓国語『왜(ウェ)』**は、英語の**「why?」**に当たる言葉で、**「왜(ウェ)?」**だけでも、**「なんで?どうして?」**という意味でよく使うんだヨ。
+<div class="chat-bubble"><strong>韓国語『왜(ウェ)』</strong>は、英語の<strong>「why?」</strong>に当たる言葉で、<strong>「왜(ウェ)?」</strong>だけでも、<strong>「なんで?どうして?」</strong>という意味でよく使うんだヨ。
 
 Check
 
 ウェ
 
-**왜**
+<strong>왜</strong>
  
 
-**なんで?/なぜ?/どうして?**</div>
+<strong>なんで?/なぜ?/どうして?</strong></div>
 </div>
 </div>
 ## １．会話によく出てくる！韓国語『왜（ウェ）』を使った表現

@@ -17,7 +17,7 @@ related_posts:
 <div class="chat-bubble-wrap">
 <div class="chat-name">ハル</div>
 <div class="chat-bubble">日本語でも「それは心配ですね」など、よく使う『心配』という言葉ですが、韓国語でもよく使います。
-今回は**韓国語「心配」**について説明しましょう。</div>
+今回は<strong>韓国語「心配」</strong>について説明しましょう。</div>
 </div>
 </div>
 ## 1．韓国語で「心配」はなんという？

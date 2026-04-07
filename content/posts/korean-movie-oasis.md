@@ -16,7 +16,7 @@ related_posts:
 <img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg" alt="きなこ">
 <div class="chat-bubble-wrap">
 <div class="chat-name">きなこ</div>
-<div class="chat-bubble">**菅田将暉**さんが**役者として一番影響を受けた映画**としてテレビ番組であげていた**韓国映画「オアシス」**。
+<div class="chat-bubble"><strong>菅田将暉</strong>さんが<strong>役者として一番影響を受けた映画</strong>としてテレビ番組であげていた<strong>韓国映画「オアシス」</strong>。
 どんな映画なのか、教えて下さい!</div>
 </div>
 </div>
@@ -24,9 +24,9 @@ related_posts:
 <img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/245689-231x300.jpg" alt="ジュン">
 <div class="chat-bubble-wrap">
 <div class="chat-name">ジュン</div>
-<div class="chat-bubble">2002年公開の**韓国映画「オアシス」**。
-約20年前の映画だけど、当時韓国で僕も見て、主演の**ソル・ギョングさんとムン・ソリさんの演技が圧巻**で衝撃を受けた映画だったよ。
-では早速**映画のあらすじと主演の2人**について紹介するね。</div>
+<div class="chat-bubble">2002年公開の<strong>韓国映画「オアシス」</strong>。
+約20年前の映画だけど、当時韓国で僕も見て、主演の<strong>ソル・ギョングさんとムン・ソリさんの演技が圧巻</strong>で衝撃を受けた映画だったよ。
+では早速<strong>映画のあらすじと主演の2人</strong>について紹介するね。</div>
 </div>
 </div>
 ## 1．韓国映画「オアシス」はどんな映画？

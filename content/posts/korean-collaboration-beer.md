@@ -15,20 +15,20 @@ related_posts:
 <img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg" alt="きなこ">
 <div class="chat-bubble-wrap">
 <div class="chat-name">きなこ</div>
-<div class="chat-bubble">最近、**韓国の****インスタグラム**で**可愛いデザインのビール**をたくさん見かけて気になります。</div>
+<div class="chat-bubble">最近、<strong>韓国の</strong><strong>インスタグラム</strong>で<strong>可愛いデザインのビール</strong>をたくさん見かけて気になります。</div>
 </div>
 </div>
 <div class="chat-msg chat-right">
 <img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2022/01/001.png" alt="악어오빠">
 <div class="chat-bubble-wrap">
 <div class="chat-name">악어오빠</div>
-<div class="chat-bubble">コロナの影響で家飲みする人が増えた影響からか、**韓国で缶ビールの人気がすごく**て、いろんな会社が**コンビニとコラボしたビール**もたくさん発売されているよ。
+<div class="chat-bubble">コロナの影響で家飲みする人が増えた影響からか、<strong>韓国で缶ビールの人気がすごく</strong>て、いろんな会社が<strong>コンビニとコラボしたビール</strong>もたくさん発売されているよ。
 
-最近熱いのが**韓国の缶ビール**。
+最近熱いのが<strong>韓国の缶ビール</strong>。
 
-色々なテイストの缶ビールも出てきていますが、特に話題になっているのが色んな**キャラクターや食べ物とコラボ**したコラボビール。
+色々なテイストの缶ビールも出てきていますが、特に話題になっているのが色んな<strong>キャラクターや食べ物とコラボ</strong>したコラボビール。
 
-今回は韓国の人気コンビニ、**セブンイレブンコリア**、**CU**、**GS25**の3社から発売されたコラボビールを紹介します。</div>
+今回は韓国の人気コンビニ、<strong>セブンイレブンコリア</strong>、<strong>CU</strong>、<strong>GS25</strong>の3社から発売されたコラボビールを紹介します。</div>
 </div>
 </div>
 ### 1．韓国の出前サイト人気1位『배달의 민족(ペダレミンジョク)配達の民族』コラボビール

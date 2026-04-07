@@ -15,7 +15,7 @@ related_posts:
 <img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1270157-150x150.jpg" alt="ハル">
 <div class="chat-bubble-wrap">
 <div class="chat-name">ハル</div>
-<div class="chat-bubble">最近、話題のNetflixの韓国ドラマ**「イカゲーム」**。
+<div class="chat-bubble">最近、話題のNetflixの韓国ドラマ<strong>「イカゲーム」</strong>。
 韓国語の原題も全く同じ、韓国語で「イカゲーム」です。
 イカゲームってどういう意味?って気になる、インパクトのあるタイトルですよね。</div>
 </div>
@@ -24,7 +24,7 @@ related_posts:
 <img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/245689-231x300.jpg" alt="ジュン">
 <div class="chat-bubble-wrap">
 <div class="chat-name">ジュン</div>
-<div class="chat-bubble">それでは、今回は**韓国語「イカ」**について説明しましょう。</div>
+<div class="chat-bubble">それでは、今回は<strong>韓国語「イカ」</strong>について説明しましょう。</div>
 </div>
 </div>
 ## 1．韓国語で「イカ」はなんという？

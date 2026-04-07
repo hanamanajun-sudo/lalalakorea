@@ -15,7 +15,7 @@ related_posts:
 <img class="chat-avatar" src="https://lalalakorea.com/wp-content/uploads/2021/08/1455763-150x150.jpg" alt="きなこ">
 <div class="chat-bubble-wrap">
 <div class="chat-name">きなこ</div>
-<div class="chat-bubble">韓国の高校生のInstagramで**수능**って言葉を見かけるんですが、どういう意味ですか?</div>
+<div class="chat-bubble">韓国の高校生のInstagramで<strong>수능</strong>って言葉を見かけるんですが、どういう意味ですか?</div>
 </div>
 </div>
 <div class="chat-msg chat-right">
@@ -24,7 +24,7 @@ related_posts:
 <div class="chat-name">악어오빠</div>
 <div class="chat-bubble">アンニョン!
 韓国語と韓国文化を皆に教えるのが大好きなアゴオッパだヨ。
-**수능(スヌン)は韓国語で大学受験**のことだヨ。
+<strong>수능(スヌン)は韓国語で大学受験</strong>のことだヨ。
 韓国にも日本と同じように大学入試があるんだ。</div>
 </div>
 </div>
