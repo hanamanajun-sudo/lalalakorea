@@ -1,14 +1,15 @@
 ---
-title: "ホッカイロは韓国語でなんという？〜EXOに学ぶ韓国語〜"
-slug: "korean-study-happek"
-date: "2019-12-20"
-categories: ["韓国語"]
-excerpt: "１．ホッカイロは韓国語でなんという？〜EXOに学ぶ韓国語〜 今回の単語は寒い冬の必需品、핫팩。寒いときの必需品なのは日本も韓国も同じ。なんだかわかりますか？お役立ちコンテンツでは「寒い時」が「死んだ人」なることによってカイが大パニックに。。"
-thumbnail: "https://lalalakorea.com/wp-content/uploads/2019/12/제목을-입력해주세요_-007.png"
+title: ホッカイロは韓国語でなんという？〜EXOに学ぶ韓国語〜
+slug: korean-study-happek
+date: 2019-12-20
+categories:
+  - 韓国語
+thumbnail: https://lalalakorea.com/wp-content/uploads/2019/12/제목을-입력해주세요_-007.png
+excerpt: １．ホッカイロは韓国語でなんという？〜EXOに学ぶ韓国語〜
+  今回の単語は寒い冬の必需品、핫팩。寒いときの必需品なのは日本も韓国も同じ。なんだかわかりますか？お役立ちコンテンツでは「寒い時」が「死んだ人」なることによってカイが大パニックに。。
 related_posts:
-  - "yuns-kitchin2"
+  - yuns-kitchin2
 ---
-
 ## １．ホッカイロは韓国語でなんという？〜EXOに学ぶ韓国語〜
 
 今回の単語は寒い冬の必需品、핫팩。寒いときの必需品なのは日本も韓国も同じ。なんだかわかりますか？お役立ちコンテンツでは「寒い時」が「死んだ人」なることによってカイが大パニックに。。
@@ -32,16 +33,6 @@ related_posts:
 今回のお役立ち動画はベクヒョンが出したヒント「寒いとき」がなぜかカイには全然別の単語に解釈されてしまって、カイの中でどんどんストーリーが出来上がっていく、大爆笑の動画は必見★
 
 挑戦するのはベクヒョン&カイ。
-
- 
-
- 
-
- 
- 
-
- 
- 
 
 <a href="https://www.instagram.com/p/B5upIo7gvLL/" target="_blank" rel="noopener noreferrer" class="instagram-card">
   <span class="instagram-card-icon">
@@ -74,18 +65,6 @@ related_posts:
 
 この後、カイのなかで死んだ人のストーリーが展開されていきます。。
 
- 
-
- 
-
- 
-
- 
- 
-
- 
- 
-
 <a href="https://www.instagram.com/p/B52icsuAC-Z/" target="_blank" rel="noopener noreferrer" class="instagram-card">
   <span class="instagram-card-icon">
     <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
@@ -97,28 +76,11 @@ related_posts:
   <span class="instagram-card-arrow">→</span>
 </a>
 
-
 ##  
 
 ## 3．プラスアップ単語【때（ッテ）・사람（サラム）・있다（イッタ）】
 
- 
-
- 
-
 ・때(ッテ)時・사람（サラム）人・있다（イッタ）いる
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
 
 ベクヒョン「붙이는 거（プチヌンゴ）貼る物」
 
@@ -130,10 +92,6 @@ related_posts:
 
 ## 4．プラスアップ単語2【붙이다（プチダ）・～는 거（ヌンゴ）・몸（モム）・～에（エ）】
 
- 
-
- 
-
 붙이다（プチダ）貼る
 
 ～는 거（ヌンゴ）～する物
@@ -141,9 +99,6 @@ related_posts:
 몸（モム）体
 
 ～에（エ）～に
-
- 
- 
 
 ![](http://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191216-185809.png)
 
@@ -154,14 +109,6 @@ related_posts:
 カイ「몸에 붙이는 거?（モメ　プチヌンゴ）体に貼る物？」
 
 ベクヒョン「들어（トゥロ）聞け❗」「들어봐（トゥロバァ）聞けってば❗」
-
- 
-
- 
- 
-
- 
- 
 
 <a href="https://www.instagram.com/p/B52icsuAC-Z/" target="_blank" rel="noopener noreferrer" class="instagram-card">
   <span class="instagram-card-icon">
@@ -176,16 +123,7 @@ related_posts:
 
 ## 5.プラスアップ単語3【들다（トゥルダ）】
 
- 
-
- 
-
 들다（トゥルダ）聞く
-
- 
- 
-
- 
 
 何回やっても…
 
@@ -212,7 +150,7 @@ related_posts:
 「어（オ）そう❗❗」
 
 <div class="chat-msg chat-left">
-<img class="chat-avatar" src="http://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191216-190114.png" alt="カイ">
+
 <div class="chat-bubble-wrap">
 <div class="chat-name">カイ</div>
 <div class="chat-bubble">「몸에?（モメ）体に？」
@@ -220,9 +158,10 @@ related_posts:
 ベクヒョン
 
 「몸에!（モメ）体に！」</div>
+
 </div>
 </div>
-![](http://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191216-190121.png)
+
 
 このまま正解するか…？
 
@@ -232,7 +171,7 @@ related_posts:
 
 「몸에 뭘 붙이지?（モメ　ムォル　プチジ？）体に何を貼るんだろう？」
 
-https://lalalakorea.com/korean-study-letter/
+
 
 ![](http://coolx.xyz/wp-content/uploads/2019/12/1576674504415_Screenshot_20191216-190131.png)
 
@@ -241,13 +180,13 @@ https://lalalakorea.com/korean-study-letter/
 呆然とするベクヒョン
 
 <div class="chat-msg chat-left">
-<img class="chat-avatar" src="http://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191216-190243.png" alt="カイ">
+
 <div class="chat-bubble-wrap">
 <div class="chat-name">カイ</div>
 <div class="chat-bubble">「넘어가（ノモガ）次に行こう！」</div>
 </div>
 </div>
-![](http://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191217-190211.png)
+
 
 結局、カイが諦めてパスを選択。。
 
@@ -256,7 +195,3 @@ https://lalalakorea.com/korean-study-letter/
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:24px 0;">
 <iframe src="https://www.youtube.com/embed/BwyhTrrLJrg" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy"></iframe>
 </div>
-
- 
-
-## 6.
