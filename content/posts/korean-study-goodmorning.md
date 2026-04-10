@@ -276,4 +276,4 @@ related_posts:
 
 [「心配」は韓国語でなんという？〜『愛の不時着』で学ぶ韓国語〜](https://lalalakorea.com/korean-study-worry/)
 
-[韓国語でイカはなんと言う？【Netflixドラマ イカゲーム】](https://lalalakorea.com/%e9%9f%93%e5%9b%bd%e8%aa%9e%e3%81%a7%e3%82%a4%e3%82%ab%e3%81%af%e3%81%aa%e3%82%93%e3%81%a8%e8%a8%80%e3%81%86%ef%bc%9f%e3%80%90netflix%e3%83%89%e3%83%a9%e3%83%9e-%e3%82%a4%e3%82%ab%e3%82%b2%e3%83%bc/)
+[韓国語でイカはなんと言う？【Netflixドラマ イカゲーム】](https://lalalakorea.com/koreandrama-netflix-squid1/)

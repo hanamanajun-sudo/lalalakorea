@@ -96,4 +96,4 @@ related_posts:
 
 https://lalalakorea.com/korean-movie-oasis/
 
-https://lalalakorea.com/%ef%bc%95%e3%81%a4%e3%81%ae%e5%91%b3%e3%82%92%e6%8c%81%e3%81%a4%e9%9f%93%e5%9b%bd%e3%81%ae%e4%ba%94%e5%91%b3%e5%ad%90%e3%82%aa%e3%83%9f%e3%82%b8%e3%83%a3%e8%8c%b6%e3%80%90%ec%98%a4%eb%af%b8%ec%9e%90/
+https://lalalakorea.com/ef-bc-95-e3-81-a4-e3-81-ae-e5-91-b3-e3-82-92-e6-8c-81-e3-81-a4-e9-9f-93-e5-9b-bd-e3-81-ae-e4-ba-94-e5-91-b3-e5-ad-90-e3-82-aa-e3-83-9f-e3-82-b8-e3-83-a3-e8-8c-b6-e3-80-90-ec-98-a4-eb-af-b8-ec-9e-90/
