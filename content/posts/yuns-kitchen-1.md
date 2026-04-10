@@ -1,13 +1,15 @@
 ---
-title: "パク・ソジュンは超優秀なアルバイト【ユン食堂２で学ぶ韓国語】"
-slug: "yuns-kitchen-1"
-date: "2021-09-18"
-categories: ["韓国語"]
-excerpt: "「梨泰院クラス」を見てからパク・ソジュンさんにハマってます! ドラマでみる姿はすごくカッコいいですが、実際はどんな性格なのか知りたいです。 ハル K-POPがきっかけで韓国にドはマリ!最終的には韓国で働いているときに出会った韓国人と結婚🖤"
-thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/09/제목을-입력해주세요_-005-1.png"
+title: パク・ソジュンは超優秀なアルバイト【ユン食堂２で学ぶ韓国語】
+slug: yuns-kitchen-1
+date: 2021-09-18
+categories:
+  - 韓国語
+thumbnail: https://lalalakorea.com/wp-content/uploads/2021/09/제목을-입력해주세요_-005-1.png
+excerpt: 「梨泰院クラス」を見てからパク・ソジュンさんにハマってます! ドラマでみる姿はすごくカッコいいですが、実際はどんな性格なのか知りたいです。
+  ハル K-POPがきっかけで韓国にドはマリ!最終的には韓国で働いているときに出会った韓国人と結婚🖤
 related_posts:
-  - "koreandramafightformyway"
-  - "yuns-kitchin2"
+  - koreandramafightformyway
+  - yuns-kitchin2
 ---
 
 <div class="chat-question">「梨泰院クラス」を見てから**パク・ソジュンさ**んにハマってます!
@@ -66,6 +68,7 @@ related_posts:
 <div class="chat-bubble"><strong>「ユン食堂2」に出てくる韓国語も一緒に紹介</strong>しますので、楽しく勉強してみてくださいね。</div>
 </div>
 </div>
+
 ## 1．市場調査では超優秀なアシスタントに
 
 ガラチコでの周辺のお店の状況やお客さんの様子をみよう、と**開業前に市場調査**に来た一行。
@@ -116,7 +119,6 @@ related_posts:
 
 ![](https://lalalakorea.com/wp-content/uploads/2021/09/004-1.png)
 
-###  
 
 ### 番組出演シーンをチェック
 
