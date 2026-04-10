@@ -30,7 +30,9 @@ related_posts:
 
 農心ではこれを機会に！とパラサイトのパロディーポスターやYouTubeにチャパグリの動画まで公開。
 
-[embed]https://youtu.be/DEWi7n8jo04[/embed]
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:24px 0;">
+<iframe src="https://www.youtube.com/embed/DEWi7n8jo04" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy"></iframe>
+</div>
 
 ## 2．チャパグリとは？材料と作り方をチェック
 
@@ -54,13 +56,17 @@ related_posts:
 
 2005年、韓国のテレビ番組『パパどこ行くの？』というイクメン番組に出演していた元アナウンサーのキム・ソンジュが野外料理対決の際に作ったのが始まり。
 
-[embed]https://youtu.be/_NgqgmiV56Q[/embed]
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:24px 0;">
+<iframe src="https://www.youtube.com/embed/_NgqgmiV56Q" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy"></iframe>
+</div>
 
 このチャパグリ、他の出演者のパパたちには「こんなの料理じゃない」と大ブーイングを浴びていましたが、当時番組に出演していた子どもたちに大ヒット☆
 
 その中でもフ君という男の子の食べる様子がほんとに美味しそうで、それ以降、**『チャパグリ』**が韓国で大流行したんです。
 
-[embed]https://youtu.be/0RzqfjaJp_g[/embed]
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:24px 0;">
+<iframe src="https://www.youtube.com/embed/0RzqfjaJp_g" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy"></iframe>
+</div>
 
 これを見たらチャパグリが食べたくなること間違いなし☆
 
@@ -94,6 +100,6 @@ related_posts:
 
 ## おすすめ関連記事
 
-https://lalalakorea.com/korean-movie-oasis/
+[韓国映画『オアシス』感想レビュー](https://lalalakorea.com/korean-movie-oasis/)
 
-https://lalalakorea.com/ef-bc-95-e3-81-a4-e3-81-ae-e5-91-b3-e3-82-92-e6-8c-81-e3-81-a4-e9-9f-93-e5-9b-bd-e3-81-ae-e4-ba-94-e5-91-b3-e5-ad-90-e3-82-aa-e3-83-9f-e3-82-b8-e3-83-a3-e8-8c-b6-e3-80-90-ec-98-a4-eb-af-b8-ec-9e-90/
+[韓国の五味子お茶「오미자차」とは？](https://lalalakorea.com/ef-bc-95-e3-81-a4-e3-81-ae-e5-91-b3-e3-82-92-e6-8c-81-e3-81-a4-e9-9f-93-e5-9b-bd-e3-81-ae-e4-ba-94-e5-91-b3-e5-ad-90-e3-82-aa-e3-83-9f-e3-82-b8-e3-83-a3-e8-8c-b6-e3-80-90-ec-98-a4-eb-af-b8-ec-9e-90/)

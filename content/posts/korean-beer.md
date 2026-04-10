@@ -122,7 +122,7 @@ related_posts:
 
 韓国語グルメ単語、今日はビール「맥주（メクチュ）」をご紹介しました。ドラマを見る時も、旅行する時も、ぜひ使ってみてくださいね！
 
-https://lalalakorea.com/korean-collaboration-beer/
+[韓国のコラボビールまとめ](https://lalalakorea.com/korean-collaboration-beer/)
 
 ## 韓国語で使える「お酒」に関する表現まとめ
 

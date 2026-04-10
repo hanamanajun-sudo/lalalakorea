@@ -54,7 +54,7 @@ Check
 
 *アーミーフォーエバー バンタンフォーエバー*
 
-https://lalalakorea.com/korean-school-uniform/
+[韓国の学校の制服について](https://lalalakorea.com/korean-school-uniform/)
 
 ### 1-1.BTSジョングク、新年の挨拶にも「아포반포(アポバンポ)」を使用
 

@@ -146,7 +146,7 @@ related_posts:
 
  
 
-https://lalalakorea.com/korean-study-oneplusone/
+[韓国語「1+1」の意味は？](https://lalalakorea.com/korean-study-oneplusone/)
 
 ## 4．수능（スヌン）のために頑張り抜いた学生だけの特権！수험생할인（スホムセンハリン）って？
 

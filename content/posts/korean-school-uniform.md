@@ -104,7 +104,7 @@ related_posts:
 
  
 
-https://lalalakorea.com/korean-graduation
+[韓国の卒業式について](https://lalalakorea.com/korean-graduation)
 
 ###  
 

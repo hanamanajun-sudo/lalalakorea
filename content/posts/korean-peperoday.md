@@ -191,7 +191,7 @@ Instagram에서 이 게시물 보기
 
  
 
-https://lalalakorea.com/bts-newword-armyforever/
+[BTSの新語「アーミーフォーエバー」](https://lalalakorea.com/bts-newword-armyforever/)
 
 ## ４．BTS　JIMIN（ジミン）のペペロデーファンサービス
 
@@ -240,4 +240,4 @@ Check
 
  
 
-https://lalalakorea.com/korean-snowbird/
+[韓国語で「雪」関連の表現](https://lalalakorea.com/korean-snowbird/)

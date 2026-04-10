@@ -92,17 +92,13 @@ related_posts:
 
 挑戦するのはベクヒョン&カイ。
 
-![](https://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191216-185654-2.png)
 
-![](https://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191216-185701-2.png)
 
 お題はまたまた「핫팩（ハッペク）ホッカイロ」
 
-![](https://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191219-131422_YouTube-1-1024x498.jpg)
 
 少し前に全く通じず、パスした問題がまた出てきて困るベクヒョン。
 
-![](https://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191219-131440_YouTube-1024x498.jpg)
 
  
 
@@ -115,7 +111,7 @@ related_posts:
 「추울 때（チュウルッテ）寒い時」
 
 <div class="chat-msg chat-left">
-<img class="chat-avatar" src="https://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191219-131449_YouTube-1024x498.jpg" alt="カイ">
+
 <div class="chat-bubble-wrap">
 <div class="chat-name">カイ</div>
 <div class="chat-bubble">「죽은 새（チュグンセ）死んだ鳥」！！
@@ -123,14 +119,13 @@ related_posts:
 やっぱり「寒い（추울）」が「死んだ（죽은）」になってしまうカイ。。</div>
 </div>
 </div>
-![](https://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191219-131457_YouTube-1024x498.jpg)
 
 諦めないベクヒョン。
 
 でもやっぱり
 
 <div class="chat-msg chat-left">
-<img class="chat-avatar" src="https://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191219-131538_YouTube-1024x498.jpg" alt="ベクヒョン">
+
 <div class="chat-bubble-wrap">
 <div class="chat-name">ベクヒョン</div>
 <div class="chat-bubble">「추울 때（チュウルッテ）寒い時」
@@ -140,7 +135,6 @@ related_posts:
 「죽은 새（チュグンセ）死んだ鳥」</div>
 </div>
 </div>
-![](https://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191219-131612_YouTube-1024x498.jpg)
 
 なんとカイ、「死んだ鳥＝チキン」という斬新な発想！！
 
@@ -153,7 +147,6 @@ related_posts:
 
 치킨（チキン）チキン
 
-![](https://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191219-131621_YouTube-1024x498.jpg)
 
 メンバーも今後の展開に興味津々。
 
@@ -166,7 +159,7 @@ related_posts:
 「추워（チュゥオ）寒い」
 
 <div class="chat-msg chat-left">
-<img class="chat-avatar" src="https://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191219-131636_YouTube-1024x498.jpg" alt="ベクヒョン">
+
 <div class="chat-bubble-wrap">
 <div class="chat-name">ベクヒョン</div>
 <div class="chat-bubble">「뭐가 있어야 돼?（ムォガイッソヤドゥエ）何がないとダメ？」
@@ -176,15 +169,13 @@ related_posts:
 「뭐가 추워?（ムォガ　チュゥオ）何が寒い？」</div>
 </div>
 </div>
-![](https://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191219-131814_YouTube-1024x498.jpg)
 
 やっぱり死んだものに関する話だと勘違い中。何が死んのか心配するカイ。
 
 「뭐가 ? 죽었어?（ムォガ　チュゴッソ）何が？死んだ？」
 
-https://lalalakorea.com/korean-study-happek/
+[韓国語「행복（ハンボク）」幸せの意味](https://lalalakorea.com/korean-study-happek/)
 
-![](https://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191219-131759_YouTube-1024x498.jpg)
 
 「寒い」というワードが通じないと判断したベクヒョン、方針転換。
 
@@ -198,7 +189,6 @@ https://lalalakorea.com/korean-study-happek/
 
 ダウンコートをパンツと勘違いしたカイ、ここから大パニックに。。
 
-![](https://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191219-131838_YouTube-1024x498.jpg)
 
  
 
@@ -235,37 +225,31 @@ https://lalalakorea.com/korean-study-happek/
 
 「팬티 안에。。。（ペンティ　アネ）パンツの中で。。。」
 
-![](https://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191219-131856_YouTube-1024x498.jpg)
 
 カイ「ハッ！！」
 
 <div class="chat-msg chat-left">
-<img class="chat-avatar" src="https://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191219-131901_YouTube-1024x498.jpg" alt="カイ">
+
 <div class="chat-bubble-wrap">
 <div class="chat-name">カイ</div>
 <div class="chat-bubble">「팬티 안에。。。（ペンティ　アネ）パンツの中で。。。」</div>
 </div>
 </div>
 <div class="chat-msg chat-left">
-<img class="chat-avatar" src="https://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191219-131910_YouTube-1024x498.jpg" alt="カイ">
+
 <div class="chat-bubble-wrap">
 <div class="chat-name">カイ</div>
 <div class="chat-bubble">「팬티 안에。。。두 글자?！（ペンティ　アネ　トゥ　グルチャ）パンツの中で。。。二文字？！」</div>
 </div>
 </div>
-![](https://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191219-131919_YouTube-1024x498.jpg)
 
-![](https://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191219-131930_YouTube-1024x498.jpg)
 
-![](https://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191219-131942_YouTube-1024x498.jpg)
 
 ヒントから推測した回答が信じられないカイ
 
-![](https://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191219-132000_YouTube-1024x498.jpg)
 
 教室は爆笑の渦
 
-![](https://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191219-132015_YouTube-1024x498.jpg)
 
 こんな内容を放送して大丈夫なのか心配するカイ
 
@@ -274,7 +258,6 @@ https://lalalakorea.com/korean-study-happek/
 「。。。괜찮아?（ケンチャナ）。。。大丈夫？」
 
 
-![](https://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191219-132022_YouTube-1024x498.jpg)
 
 ## 5．プラスアップ単語　「괜찮다（ケンチャンタ）」
 
@@ -292,11 +275,9 @@ https://lalalakorea.com/korean-study-happek/
 
 「패딩 안에 두 글자!（ぺディン　アネ　トゥ　グルチャ）ダウンコートの中で二文字！」
 
-![](https://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191219-132033_YouTube-1024x498.jpg)
 
 これ以上は…アイドル生命に関わる？のでMCにより中断！
 
-![](https://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191219-132057_YouTube-1024x498.jpg)
 
 放送上問題ないか心配し続けるカイ
 
@@ -304,15 +285,12 @@ https://lalalakorea.com/korean-study-happek/
 
 「괜찮아?（ケンチャナ）大丈夫？」
 
-![](https://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191219-132314_YouTube-1024x498.jpg)
 
 一人だけ状況を把握できないベクヒョン
 
-![](https://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191219-132326_YouTube-1024x498.jpg)
 
 セフン、笑いすぎて涙まで。。
 
-![](https://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191219-132346_YouTube-1024x498.jpg)
 
 ## 動画を見たい方はこちらから↓
 

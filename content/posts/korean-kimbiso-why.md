@@ -131,9 +131,9 @@ Check
 
 **おすすめ記事**
 
-https://lalalakorea.com/koreandramafightformyway/
+[韓国ドラマ『ファイト・フォー・マイ・ウェイ』](https://lalalakorea.com/koreandramafightformyway/)
 
-https://lalalakorea.com/yuns-kitchin2/
+[ユンの食堂2・韓国料理レシピ](https://lalalakorea.com/yuns-kitchin2/)
 
 ## ３．왜（ウェ）を使った追加フレーズ集
 

@@ -185,7 +185,7 @@ Instagram에서 이 게시물 보기
  
 **ソルラルについてはこちらから↓**
 
-https://lalalakorea.com/korean-newyear/
+[韓国の新年の挨拶まとめ](https://lalalakorea.com/korean-newyear/)
  
 
  

@@ -63,13 +63,10 @@ related_posts:
 
 挑戦した中で天然炸裂したセフンとカイの二人で再挑戦することに。
 
-![](https://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191222-002031.png)
 
-![](https://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191222-002040.png)
 
 お題は「기린（キリン）」
 
-![](https://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191222-002118.png)
 
 まずは順調な滑り出し。。
 
@@ -77,7 +74,6 @@ related_posts:
 
 カイ「동물 동물!（トンムル　トンムル）動物　動物！」
 
-![](https://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191222-002129.png)
 
 次のヒントは。。
 
@@ -85,7 +81,6 @@ related_posts:
 
 カイ「모기 큰 거?（モギ　クンゴ）蚊の大きいやつ？」
 
-![](https://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191222-002156.png)
 
 **プラスアップ単語　「****목이**（モギ）**と****모기**（モギ）**」**
 
@@ -95,9 +90,9 @@ related_posts:
 
 모기（モギ）蚊
 
-https://lalalakorea.com/korean-study-oneplusone/
+[韓国語「1+1」の意味は？](https://lalalakorea.com/korean-study-oneplusone/)
 
-https://lalalakorea.com/korean-hashtag-konstagram/
+[韓国語ハッシュタグ・コンスタグラム](https://lalalakorea.com/korean-hashtag-konstagram/)
 
 ## 3．ここはおさえておきたい！韓国語解説～発音変化（連音：リエゾン）～
 
@@ -109,11 +104,9 @@ https://lalalakorea.com/korean-hashtag-konstagram/
 
 カイ「잠자리!（チャムジャリ）トンボ！」
 
-![](https://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191222-002229.png)
 
 チェン「なんでトンボ？？」
 
-![](https://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191222-002242.png)
 
 もう一回…
 
@@ -121,13 +114,11 @@ https://lalalakorea.com/korean-hashtag-konstagram/
 
 カイ「동물!（トンムル）動物！」
 
-![](https://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191222-002315.png)
 
 セフン「동물원에 가면（トンムルウォネ　カミョン）動物園に行ったら」
 
 カイ「동물원에 가면!（トンムルウォネ　カミョン）動物園に行ったら！」
 
-![](https://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191222-002250.png)
 
 ## 4．プラスアップ単語　「가다（カダ）・～면（ミョン）」
 
@@ -140,7 +131,6 @@ https://lalalakorea.com/korean-hashtag-konstagram/
 カイ「동물 할 때（?）독무할 때!!（トンムラルッテ　トムハルッテ）動物をするとき（？）ソロダンスの時！！」
 
 
-![](https://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191222-002359.png)
 
 ## 5．プラスアップ単語　「독무（トンム）・～때（ッテ）」
 
@@ -152,7 +142,6 @@ https://lalalakorea.com/korean-hashtag-konstagram/
 
 カイ「독무할 때! 나 춤출 때!（トンムラルッテ　ナ　チュムチュルッテ）ソロダンスの時！俺がダンスするとき！」
 
-![](https://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191222-002412.png)
 
 ## 6．プラスアップ単語　「춤(을)추다（チュム（ル）チュダ）」
 
@@ -166,13 +155,11 @@ https://lalalakorea.com/korean-hashtag-konstagram/
 
 カイ「동물!（トンムル）動物！」
 
-![](https://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191222-002434.png)
 
 セフン「목이 되게 길어!（モギ　トゥエゲ　キロ）首がすごく長い！」
 
 カイ「모기가 막 큰 게 날아다녀?（モギ マックンゲ　ナラタニョ）蚊の大きいやつ？」
 
-![](https://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191222-002459.png)
 
 ## 7．プラスアップ単語　「되게 （トゥエゲ）・막（マッ）・날아다나니다（ナラタニダ）」
 
@@ -184,7 +171,6 @@ https://lalalakorea.com/korean-hashtag-konstagram/
 
 全く通じず、大爆笑の中パス！
 
-![](https://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191222-002731.png)
 
 ## 動画を見たい方はこちらから↓
 

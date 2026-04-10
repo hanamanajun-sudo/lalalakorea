@@ -314,7 +314,7 @@ related_posts:
   <span class="instagram-card-arrow">→</span>
 </a>
 
-https://lalalakorea.com/korean-collaboration-beer/
+[韓国のコラボビールまとめ](https://lalalakorea.com/korean-collaboration-beer/)
 
  
 

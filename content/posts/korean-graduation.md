@@ -273,7 +273,7 @@ related_posts:
 
 韓国の学校の制服についてはコチラ↓
 
-https://lalalakorea.com/korean-school-uniform/
+[韓国の学校の制服について](https://lalalakorea.com/korean-school-uniform/)
 
  
 **韓国語で送る卒業のお祝いメッセージおすすめ4選**

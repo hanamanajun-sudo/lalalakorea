@@ -102,7 +102,7 @@ related_posts:
 
 今年も幸せなクリスマスを過ごしてください。
 
-https://lalalakorea.com/hashtag-valentines-day/
+[バレンタインデーの韓国語ハッシュタグ](https://lalalakorea.com/hashtag-valentines-day/)
 
 ### 友達・家族へ送るのにオススメの韓国語クリスマスメッセージ
 

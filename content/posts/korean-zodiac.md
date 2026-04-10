@@ -94,7 +94,7 @@ related_posts:
 
 ## 5.BTS新年挨拶ツイッターにも韓国語임인년（イミンニョン）が登場！
 
-https://twitter.com/bts_bighit/status/1476931209586360342?t=lhDKtnM8jrKq3NqY35fw_g&s=09
+[1476931209586360342?T=Lhdktnm8Jrkq3Nqy35Fw G&S=09](https://twitter.com/bts_bighit/status/1476931209586360342?t=lhDKtnM8jrKq3NqY35fw_g&s=09)
 
 BTSツイッターより
 

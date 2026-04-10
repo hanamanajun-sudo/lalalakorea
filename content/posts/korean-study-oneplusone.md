@@ -58,7 +58,7 @@ related_posts:
   <span class="instagram-card-arrow">→</span>
 </a>
 
-https://lalalakorea.com/korean-hashtag-konstagram/
+[韓国語ハッシュタグ・コンスタグラム](https://lalalakorea.com/korean-hashtag-konstagram/)
 
 ## 「1+1」の進化系、「2+1（トゥープラスワン）」「5+1」「10+10」
 

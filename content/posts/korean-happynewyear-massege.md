@@ -185,7 +185,7 @@ related_posts: null
 
  
 
-https://lalalakorea.com/korean-newyear/
+[韓国の新年の挨拶まとめ](https://lalalakorea.com/korean-newyear/)
  
  
 [推しの俳優やアイドルにオススメ新年（ソルラル）挨拶のメッセージ２選](https://lalalakorea.com/korean-happynewyear-massege/3/)
