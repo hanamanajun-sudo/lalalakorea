@@ -1,13 +1,15 @@
 ---
-title: "韓国好きなら知っておきたい！韓国女子、BTSオススメのマスクシート（パック）"
-slug: "korean-face-pack"
-date: "2021-08-31"
-categories: ["韓国コスメ"]
-excerpt: "最近日本でも人気の韓国のシートマスク（フェイスパック）。 いろんなブランドがたくさんあっていつも迷います。 韓国で実際に人気のシートマスクを教えてください！ ハル 最近日本でも韓国のシートマスクが人気だよね。 みんなは韓国のシートマスクって"
-thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/08/썸네일-009-1.png"
+title: 韓国好きなら知っておきたい！韓国女子、BTSオススメのマスクシート（パック）
+slug: korean-face-pack
+date: 2021-08-31
+categories:
+  - 韓国コスメ
+thumbnail: https://lalalakorea.com/wp-content/uploads/2021/08/썸네일-009-1.png
+excerpt: 最近日本でも人気の韓国のシートマスク（フェイスパック）。 いろんなブランドがたくさんあっていつも迷います。
+  韓国で実際に人気のシートマスクを教えてください！ ハル 最近日本でも韓国のシートマスクが人気だよね。 みんなは韓国のシートマスクって
 related_posts:
-  - "muziktiger"
-  - "korean-collaboration-beer"
+  - muziktiger
+  - korean-collaboration-beer
 ---
 
 <div class="chat-question">最近日本でも人気の**韓国のシートマスク（フェイスパック）**。
@@ -34,15 +36,6 @@ related_posts:
 </div>
 ## 10位：白衣のパッケージが目を引く「DEWYTREE(デューイーツリー)」
 
- 
-
- 
-
- 
- 
-
- 
- 
 
 <a href="https://www.instagram.com/p/CQxwNMFFgew/" target="_blank" rel="noopener noreferrer" class="instagram-card">
   <span class="instagram-card-icon">
@@ -90,12 +83,7 @@ related_posts:
   <span class="instagram-card-arrow">→</span>
 </a>
 
-[![](https://hbb.afl.rakuten.co.jp/hgb/2375f9e5.1dc87d4d.2375f9e7.aa0d820d/?me_id=1370873&item_id=10001769&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fbeautitopping%2Fcabinet%2Fetc%2Fde001-1236_main.jpg%3F_ex%3D128x128&s=128x128&t=picttext)](https://hb.afl.rakuten.co.jp/ichiba/2375f9e5.1dc87d4d.2375f9e7.aa0d820d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbeautitopping%2Fde001-1236%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIxMjh4MTI4IiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D)
 
-[【DEWYTREE】デューイーツリー ピックアンドクイックデイリーマスクパック(3種) 30枚入り 保湿 鎮静 水分 パック シートマスク マスクパック スキンケア 肌荒れ 韓国コスメ 海外通販](https://hb.afl.rakuten.co.jp/ichiba/2375f9e5.1dc87d4d.2375f9e7.aa0d820d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbeautitopping%2Fde001-1236%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIxMjh4MTI4IiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D)
-価格：1899円（税込、送料別) (2022/1/17時点)
-
- 
  
 
 ## 9位：有名皮膚科プロデュース「CNP Laboratory（チャアンドパク）」
