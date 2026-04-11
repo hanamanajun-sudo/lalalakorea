@@ -1,13 +1,15 @@
 ---
-title: "クリスマスの韓国語メッセージオススメ10選【크리스마스 한국어】"
-slug: "korean-study-christmas"
-date: "2019-12-23"
-categories: ["韓国の文化"]
-excerpt: "★2021.12.20 クリスマスメッセージ【2021ver】の記事アップしました。 韓国語でクリスマスメッセージ【メリークリスマスは韓国語でなんと言う？】 クリスマスの韓国語メッセージオススメ10選【크리스마스 한국어】 インスタやツイッ"
-thumbnail: "https://lalalakorea.com/wp-content/uploads/2019/12/SNSでアイドルに韓国語でメッセージを...-1.png"
+title: クリスマスの韓国語メッセージオススメ10選【크리스마스 한국어】
+slug: korean-study-christmas
+date: 2019-12-23
+categories:
+  - 韓国の文化
+thumbnail: https://lalalakorea.com/wp-content/uploads/2019/12/SNSでアイドルに韓国語でメッセージを...-1.png
+excerpt: ★2021.12.20 クリスマスメッセージ【2021ver】の記事アップしました。
+  韓国語でクリスマスメッセージ【メリークリスマスは韓国語でなんと言う？】 クリスマスの韓国語メッセージオススメ10選【크리스마스 한국어】 インスタやツイッ
 related_posts:
-  - "korean-zodiac"
-  - "korean-message-chusok"
+  - korean-zodiac
+  - korean-message-chusok
 ---
 
 ★2021.12.20　クリスマスメッセージ【2021ver】の記事アップしました。
@@ -19,13 +21,10 @@ related_posts:
 ### インスタやツイッターで好きなアイドルや俳優に韓国語でクリスマスのメッセージを送ってみよう！
 
 
-###  
-
-### 
 
 ### 【LaLaLaKoreaオンラインショップ】韓国語ステッカー　Xmas.Ver販売中★
 
-###  
+
 
 ### １：恋人に送るのにピッタリ！の韓国語クリスマスメッセージ
 
@@ -106,11 +105,7 @@ related_posts:
 
 　　　　　　　　　　　　　　　
 
-### 【LaLaLaKoreaオンラインショップ】韓国語ステッカー　Xmas.Ver販売中★
 
-[![](https://lalalakorea.com/wp-content/uploads/2019/12/1_20221213_233223_0000-300x300.jpg)](https://lalalakorea.base.shop/)
-
- 
 
 ### ５：簡潔！だけどちょっとおしゃれな韓国語クリスマスメッセージ　Ver①
 
