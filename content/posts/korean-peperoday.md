@@ -1,12 +1,13 @@
 ---
-title: "韓国の빼빼로데이（ペペロデー）っていつ？BTSジミン、ペペロデーにファンサービス"
-slug: "korean-peperoday"
-date: "2020-11-10"
-categories: ["韓国の文化"]
-excerpt: "韓国の빼빼로데이（ペペロデー）って？BTSジミン、ペペロデーにファンサービス きなこ BTSのジミンがペペロデーに公式コミュニティに参加してファンにコメントした、って話題になっていたんですけど、ペペロデーってどんな日なんですか? 악어오빠"
-thumbnail: "https://lalalakorea.com/wp-content/uploads/2020/11/제목을-입력해주세요_-007-1.png"
-related_posts:
-
+title: 韓国の빼빼로데이（ペペロデー）っていつ？BTSジミン、ペペロデーにファンサービス
+slug: korean-peperoday
+date: 2020-11-10
+categories:
+  - 韓国の文化
+thumbnail: https://lalalakorea.com/wp-content/uploads/2020/11/제목을-입력해주세요_-007-1.png
+excerpt: 韓国の빼빼로데이（ペペロデー）って？BTSジミン、ペペロデーにファンサービス きなこ
+  BTSのジミンがペペロデーに公式コミュニティに参加してファンにコメントした、って話題になっていたんですけど、ペペロデーってどんな日なんですか? 악어오빠
+related_posts: null
 ---
 
 ## 韓国の빼빼로데이（ペペロデー）って？BTSジミン、ペペロデーにファンサービス
@@ -26,6 +27,7 @@ related_posts:
 ペペロデーのシーズンになると、どこもかしこもお店にはペペロデーの商品だらけになるヨ。</div>
 </div>
 </div>
+
 ## 1．１１月１１日、韓国は빼빼로데이（ペペロデー）！
 
 11月の韓国のイベントといえば**빼빼로데이(ペペロデー)**!
@@ -39,15 +41,6 @@ related_posts:
 名前の由来はポッキーの長細い形から、**「ペペ(韓国語でヤセッポチ、ガリガリの意味)ロ」**と名付けられたそう。
  
 
- 
-
- 
-
- 
- 
-
- 
- 
 
 <a href="https://www.instagram.com/p/CWIoNieBko4/" target="_blank" rel="noopener noreferrer" class="instagram-card">
   <span class="instagram-card-icon">
@@ -73,15 +66,6 @@ related_posts:
 最近は日本でもバレンタインに友達にもチョコを贈るようになっていますが、ペペロデーは友**達や恋人同士**で贈り合う感じです。
  
 
- 
-
- 
-
- 
- 
-
- 
- 
 
 <a href="https://www.instagram.com/p/CWAC0gZB-gT/" target="_blank" rel="noopener noreferrer" class="instagram-card">
   <span class="instagram-card-icon">
