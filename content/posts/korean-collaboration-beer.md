@@ -1,12 +1,14 @@
 ---
-title: "ハニバター、プルダックポックンミョン…BTSまで！韓国のコラボビールが続々登場！"
-slug: "korean-collaboration-beer"
-date: "2022-01-13"
-categories: ["韓国グルメ"]
-excerpt: "ハニバター、プルダックポックンミョン…BTSまで！韓国のコラボビールが続々登場！ きなこ 最近、韓国のインスタグラムで可愛いデザインのビールをたくさん見かけて気になります。 악어오빠 コロナの影響で家飲みする人が増えた影響からか、韓国で缶ビ"
-thumbnail: "https://lalalakorea.com/wp-content/uploads/2022/01/썸네일-001.png"
+title: ハニバター、プルダックポックンミョン…BTSまで！韓国のコラボビールが続々登場！
+slug: korean-collaboration-beer
+date: 2022-01-13
+categories:
+  - 韓国グルメ
+thumbnail: https://lalalakorea.com/wp-content/uploads/2022/01/썸네일-001.png
+excerpt: ハニバター、プルダックポックンミョン…BTSまで！韓国のコラボビールが続々登場！ きなこ
+  最近、韓国のインスタグラムで可愛いデザインのビールをたくさん見かけて気になります。 악어오빠 コロナの影響で家飲みする人が増えた影響からか、韓国で缶ビ
 related_posts:
-  - "korean-hashtag-konstagram"
+  - korean-hashtag-konstagram
 ---
 
 ## ハニバター、プルダックポックンミョン…BTSまで！韓国のコラボビールが続々登場！
@@ -31,18 +33,9 @@ related_posts:
 今回は韓国の人気コンビニ、<strong>セブンイレブンコリア</strong>、<strong>CU</strong>、<strong>GS25</strong>の3社から発売されたコラボビールを紹介します。</div>
 </div>
 </div>
+
 ### 1．韓国の出前サイト人気1位『배달의 민족(ペダレミンジョク)配達の民族』コラボビール
 
- 
-
- 
-
- 
-
- 
- 
-
- 
  
 
 <a href="https://www.instagram.com/p/CVhrkVtPywe/" target="_blank" rel="noopener noreferrer" class="instagram-card">
@@ -60,17 +53,6 @@ related_posts:
 
 韓国でもコンビニとしての存在感が増してきている**セブンイレブンコリア**と、韓国の出前サイト人気1位『**배달의 민족(ペダレミンジョク)配達の民族**』がコラボしたビールがこちら。
 
- 
- 
-
- 
-
- 
-
- 
- 
-
- 
  
 
 <a href="https://www.instagram.com/p/CV2aAdsrjjd/" target="_blank" rel="noopener noreferrer" class="instagram-card">
@@ -116,16 +98,7 @@ related_posts:
 セブンイレブンからもうひとつコラボビールをご紹介。
 
 **韓国で10代、20代に人気**のキャラクター**『뚱랑이(ットゥンナンイ)』**。
- 
-
- 
-
- 
-
- 
- 
-
- 
+  
  
 
 <a href="https://www.instagram.com/p/B-PCiI8JKKa/" target="_blank" rel="noopener noreferrer" class="instagram-card">
@@ -155,15 +128,6 @@ OFFの時は一日の終わりを爽やかに
 
 『뚱랑이(ットゥンナンイ)』の愛らしいイラストがリモート飲み会でも映えるマストアイテムになりそう。
  
-
- 
-
- 
-
- 
- 
-
- 
  
 
 <a href="https://www.instagram.com/p/CYbLsBBlMaW/" target="_blank" rel="noopener noreferrer" class="instagram-card">
@@ -183,35 +147,7 @@ OFFの時は一日の終わりを爽やかに
 最近日本のスーパーでもよく見かけるようになった**プルダックポックンミョン**。
 
 **「汁のない激辛ラーメンに火鶏の辛さを」**というコンセプトのこのインスタント麺、かなり激辛で可愛いイラストに惹かれて食べてみて悲鳴を上げた人も多いのでは?
- 
 
- 
-
- 
-
- 
- 
-
- 
- 
-
-この投稿をInstagramで見る
-
- 
-
- 
- 
- 
-
- 
- 
-
- 
- 
- 
-
- 
- 
 
  
 <a href="https://www.instagram.com/tv/CYlYJcMoWkA/" target="_blank" rel="noopener noreferrer" class="instagram-card">
@@ -230,16 +166,6 @@ OFFの時は一日の終わりを爽やかに
 え?!プルダックポックンミョンの味のビールなの?ってびっくりしますよね。
 
 マンゴーエールとのことで、**爽やかで激辛麺で口の中が火の海になっている時にぴったりのスッキリするビール**のようです。
- 
-
- 
-
- 
-
- 
- 
-
- 
  
 
 <a href="https://www.instagram.com/p/CVkXNbAPgeE/" target="_blank" rel="noopener noreferrer" class="instagram-card">
