@@ -75,8 +75,7 @@ related_posts:
   </span>
   <span class="instagram-card-arrow">→</span>
 </a>
-
-##  
+  
 
 ## 3．プラスアップ単語【때（ッテ）・사람（サラム）・있다（イッタ）】
 
