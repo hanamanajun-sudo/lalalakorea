@@ -32,6 +32,7 @@ related_posts:
 では早速<strong>映画のあらすじと主演の2人</strong>について紹介するね。</div>
 </div>
 </div>
+
 ## 1．韓国映画「オアシス」はどんな映画？
 
 <a href="https://www.instagram.com/p/CMaEIBClK8a/" target="_blank" rel="noopener noreferrer" class="instagram-card">
