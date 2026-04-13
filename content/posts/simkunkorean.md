@@ -27,6 +27,7 @@ related_posts: null
 <div class="chat-bubble"><p>안녕하세요!<br>今回は<strong>심쿵な韓国語フレーズ</strong>を紹介するヨ。<br><strong>심쿵(シムクン)</strong>は韓国語で<strong>『胸キュン』</strong>。<br>心臓がドキッとするという意味の新語ダヨ。</p><ul><li><strong>심쿵(シムクン) 　</strong>意味：胸キュン。心臓がドキッとするという意味の新語。</li></ul></div>
 </div>
 </div>
+
 ## 【1】『심쿵（シムクン）』胸キュン韓国語フレーズ
 
 韓国語で**「恋人未満、恋人じゃないけどいい感じの関係」**は**『썸(ッソム)』**、**いい感じの関係の男性**は**『썸남(ッソムナム)』**といいます。
@@ -101,6 +102,7 @@ related_posts: null
 <div class="chat-bubble">弱ってる時にこんな<strong>ストレートに心配</strong>されたらほんとにドキッとしちゃう!</div>
 </div>
 </div>
+
 ## 【3】ド直球な胸キュン韓国語フレーズ
 
 韓国ドラマの醍醐味といえば**ド直球な胸キュン韓国語フレーズ**ですよね。
@@ -213,6 +215,7 @@ related_posts: null
 フフフ、思わず<strong>大好きなアイドルが私の彼氏でこんなこと言ってくれたら</strong>…って妄想しちゃいました。</div>
 </div>
 </div>
+
 ## 胸キュンしながら楽しく韓国語勉強できるカード『魔法の韓国語BOX』
 
 <div class="chat-msg chat-left">
@@ -245,6 +248,7 @@ related_posts: null
 <div class="chat-bubble"><p>メルカリショップ『LaLaLa Korea』で売ってるヨ。<br>興味があったら一度覗いてみてネ</p><p><a href="https://mercari-shops.com/products/EnzRcAcCWgYENASmV7TeTW?source=shared_link&utm_source=shared_link" target="_blank" rel="noopener">メルカリショップ『LaLaLa Korea』にて販売中!</a></p></div>
 </div>
 </div>
+
 ## 胸キュン韓国語フレーズ60選
 
 <div class="chat-msg chat-right">
