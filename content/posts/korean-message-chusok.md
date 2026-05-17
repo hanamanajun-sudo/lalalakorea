@@ -1,12 +1,14 @@
 ---
-title: "【BTSあいさつ追記】秋夕（チュソク）の韓国語メッセージオススメ"
-slug: "korean-message-chusok"
-date: "2021-09-09"
-categories: ["韓国の文化"]
-excerpt: "2021.9.19追記しました。 BTSチュソクあいさつ（YouTube） →一番最後に追記しています。 韓国ではもうすぐ秋夕(チュソク)ですよね。 好きな俳優にSNSでチュソクのお祝いのメッセージを送りたいのですが… オススメのメッセージ"
-thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/09/IMG_20210911_135815_403.jpg"
+title: 【BTSあいさつ追記】秋夕（チュソク）の韓国語メッセージオススメ
+slug: korean-message-chusok
+date: 2021-09-09
+categories:
+  - 韓国の文化
+thumbnail: https://lalalakorea.com/wp-content/uploads/2021/09/IMG_20210911_135815_403.jpg
+excerpt: 2021.9.19追記しました。 BTSチュソクあいさつ（YouTube） →一番最後に追記しています。
+  韓国ではもうすぐ秋夕(チュソク)ですよね。 好きな俳優にSNSでチュソクのお祝いのメッセージを送りたいのですが… オススメのメッセージ
 related_posts:
-  - "korean-snowbird"
+  - korean-snowbird
 ---
 
 **2021.9.19追記しました。**
@@ -75,7 +77,7 @@ related_posts:
 では早速、チュソクの挨拶にオススメのメッセージを紹介していきます。</div>
 </div>
 </div>
-##  
+ 
 
 ## 職場の上司や目上の人に送る秋夕(チュソク)の韓国語メッセージおすすめ3選
 
@@ -132,7 +134,7 @@ related_posts:
 
  
 
-##  
+
 
 ## 目上の親しい人に送る秋夕(チュソク)の韓国語メッセージおすすめ3選
 
@@ -187,7 +189,7 @@ related_posts:
 
  
 
-##  
+
 
 ## 友達に送るオススメの秋夕(チュソク)の韓国語メッセージ3選
 
@@ -243,7 +245,6 @@ related_posts:
 
  
 
-##  
 
 ## 憧れの俳優やアイドルにオススメ秋夕（チュソク）のメッセージ2選
 
@@ -279,7 +280,6 @@ related_posts:
 
  
 
-##  
 
 ## さいごに
 

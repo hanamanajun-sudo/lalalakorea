@@ -1,13 +1,16 @@
 ---
-title: "韓国の「#勉強垢」！ハッシュタグ「#공스타그램（コンスタグレム）」の意味は？"
-slug: "korean-hashtag-konstagram"
-date: "2022-01-03"
-categories: ["ハッシュタグ"]
-excerpt: "韓国の「勉強垢！」ハッシュタグ「공스타그램（コンスタグラム）」の意味は？ きなこ 韓国のインスタグラムで공스타그램ってハッシュタグをよく見かけるんですけど、どういう意味か教えて下さい! 악어오빠 アンニョン! 韓国語と韓国文化を皆に教えるの"
-thumbnail: "https://lalalakorea.com/wp-content/uploads/2022/01/썸네일-006.png"
+title: 韓国の「#勉強垢」！ハッシュタグ「#공스타그램（コンスタグレム）」の意味は？
+slug: korean-hashtag-konstagram
+date: 2022-01-03
+categories:
+  - ハッシュタグ
+thumbnail: https://lalalakorea.com/wp-content/uploads/2022/01/썸네일-006.png
+excerpt: 韓国の「勉強垢！」ハッシュタグ「공스타그램（コンスタグラム）」の意味は？ きなこ
+  韓国のインスタグラムで공스타그램ってハッシュタグをよく見かけるんですけど、どういう意味か教えて下さい! 악어오빠 アンニョン!
+  韓国語と韓国文化を皆に教えるの
 related_posts:
-  - "korean-study-oneplusone"
-  - "korean-study-goodmorning"
+  - korean-study-oneplusone
+  - korean-study-goodmorning
 ---
 
 ## 韓国の「#勉強垢！」ハッシュタグ「#공스타그램（コンスタグラム）」の意味は？
@@ -33,6 +36,7 @@ related_posts:
 こんな悩みを解決するために<strong>韓国の学生の間で生まれた勉強法</strong>を紹介するよ!</div>
 </div>
 </div>
+
 ## １．「#공스타그램（コンスタグラム）」の意味は？
 
 ![](https://lalalakorea.com/wp-content/uploads/2022/01/카톡-한국어-1-001.png)
@@ -56,15 +60,6 @@ SNSで**勉強専用のアカウント**を作って、更新することでモ�
 **「#勉強垢」**で検索するとたくさんの投稿がされています。
 
 同じ資格を目指す人や同じ試験を受ける人と**情報を交換したり励ましあったり**することもできます。
-
- 
-
- 
-
- 
-
- 
- 
 
  
  

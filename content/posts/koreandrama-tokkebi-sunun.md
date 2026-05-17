@@ -1,12 +1,13 @@
 ---
-title: "韓国語 수능（スヌン）ってどういう意味？"
-slug: "koreandrama-tokkebi-sunun"
-date: "2020-12-03"
-categories: ["韓国の文化"]
-excerpt: "韓国語수능（スヌン）ってどういう意味？ きなこ 韓国の高校生のInstagramで수능って言葉を見かけるんですが、どういう意味ですか? 악어오빠 アンニョン! 韓国語と韓国文化を皆に教えるのが大好きなアゴオッパだヨ。 수능(スヌン)は韓国語"
-thumbnail: "https://lalalakorea.com/wp-content/uploads/2020/12/제목을-입력해주세요_-002.png"
-related_posts:
-
+title: 韓国語 수능（スヌン）ってどういう意味？
+slug: koreandrama-tokkebi-sunun
+date: 2020-12-03
+categories:
+  - 韓国の文化
+thumbnail: https://lalalakorea.com/wp-content/uploads/2020/12/제목을-입력해주세요_-002.png
+excerpt: 韓国語수능（スヌン）ってどういう意味？ きなこ 韓国の高校生のInstagramで수능って言葉を見かけるんですが、どういう意味ですか?
+  악어오빠 アンニョン! 韓国語と韓国文化を皆に教えるのが大好きなアゴオッパだヨ。 수능(スヌン)は韓国語
+related_posts: null
 ---
 
 ## 韓国語수능（スヌン）ってどういう意味？
@@ -36,6 +37,7 @@ related_posts:
 詳しく教えて下さい!</div>
 </div>
 </div>
+
 ## 1．韓国の大学入試、수능（スヌン）ってどんなの？
 
 **日本の大学入学共通テスト**に当たり、大学進学に向けた最初の関門。
@@ -49,15 +51,6 @@ related_posts:
 2021年は11月18日に実施されるました。
  
 
- 
-
- 
-
- 
- 
-
- 
- 
 
 <a href="https://www.instagram.com/p/CISUG0pAg9_/" target="_blank" rel="noopener noreferrer" class="instagram-card">
   <span class="instagram-card-icon">
@@ -80,16 +73,6 @@ related_posts:
 簡単な朝食を準備して待つ後輩もいれば、ドンドンと太鼓を鳴らし大声で元気づける後輩も。
 
 「ウトウトせずに集中!」「○○高ファイティン!」などと書かれた大きなプラカードも目立ち、まるで何かのお祭りかイベントのよう。
- 
-
- 
-
- 
-
- 
- 
-
- 
  
 
 <a href="https://www.instagram.com/p/Bb0whV9AsMs/" target="_blank" rel="noopener noreferrer" class="instagram-card">
@@ -118,15 +101,6 @@ related_posts:
 さらに、ヒアリング試験が実施される時間には、試験会場周辺のバスや列車は徐行運転、クラクションも禁止、飛行機は離着陸時間が調整されるなど、世界でも類を見ない光景が繰り広げられます。
  
 
- 
-
- 
-
- 
- 
-
- 
- 
 
 <a href="https://www.instagram.com/p/Bb0K401DvSS/" target="_blank" rel="noopener noreferrer" class="instagram-card">
   <span class="instagram-card-icon">
@@ -164,16 +138,6 @@ related_posts:
 
  
 
- 
-
- 
-
- 
- 
-
- 
- 
-
 <a href="https://www.instagram.com/p/CWcQrH5vkyR/" target="_blank" rel="noopener noreferrer" class="instagram-card">
   <span class="instagram-card-icon">
     <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
@@ -187,17 +151,7 @@ related_posts:
 
 ### 4-2．これからは教室じゃなくて映画館へGO！
 
- 
 
- 
-
- 
-
- 
- 
-
- 
- 
 
 <a href="https://www.instagram.com/p/CWgDzcGvpTK/" target="_blank" rel="noopener noreferrer" class="instagram-card">
   <span class="instagram-card-icon">
@@ -212,17 +166,6 @@ related_posts:
 
 ### 4-3．友達や好きな人を誘って…遊園地に遊びに行こう！
 
- 
-
- 
-
- 
-
- 
- 
-
- 
- 
 
 <a href="https://www.instagram.com/p/CWaVoDOpZ-g/" target="_blank" rel="noopener noreferrer" class="instagram-card">
   <span class="instagram-card-icon">
@@ -237,17 +180,6 @@ related_posts:
 
 ### 4-4．受験票を持って美味しいものを食べに行こう！
 
- 
-
- 
-
- 
-
- 
- 
-
- 
- 
 
 <a href="https://www.instagram.com/p/CWUphn4sQiY/" target="_blank" rel="noopener noreferrer" class="instagram-card">
   <span class="instagram-card-icon">

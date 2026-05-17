@@ -1,12 +1,13 @@
 ---
-title: "パク・ソジュンの優しさと男気【ユン食堂２で学ぶ韓国語】"
-slug: "yuns-kitchin2"
-date: "2021-09-22"
-categories: ["韓国語"]
-excerpt: "「梨泰院クラス」を見てからパク・ソジュンさんにハマってます! ドラマでみる姿はすごくカッコいいですが、実際はどんな性格なのか知りたいです。 ハル パク・ソジュンさん、最近日本でも人気ですよね。 パク・ソジュンさんの「ユン食堂2」で見せる魅力"
-thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/09/제목을-입력해주세요_-003-2.png"
-related_posts:
-
+title: パク・ソジュンの優しさと男気【ユン食堂２で学ぶ韓国語】
+slug: yuns-kitchin2
+date: 2021-09-22
+categories:
+  - 韓国語
+thumbnail: https://lalalakorea.com/wp-content/uploads/2021/09/제목을-입력해주세요_-003-2.png
+excerpt: 「梨泰院クラス」を見てからパク・ソジュンさんにハマってます! ドラマでみる姿はすごくカッコいいですが、実際はどんな性格なのか知りたいです。
+  ハル パク・ソジュンさん、最近日本でも人気ですよね。 パク・ソジュンさんの「ユン食堂2」で見せる魅力
+related_posts: null
 ---
 
 <div class="chat-question">「梨泰院クラス」を見てからパク・ソジュンさんにハマってます!
@@ -48,7 +49,6 @@ related_posts:
 
 ![](https://lalalakorea.com/wp-content/uploads/2021/09/008-1.png)
 
-###  
 
 ### 年下の男の子に言われたい！「누나（ヌナ）」の意味は？
 
@@ -62,9 +62,6 @@ related_posts:
 
 ![](https://lalalakorea.com/wp-content/uploads/2021/09/010-1.png)
 
-###  
-
-###  
 
 ### 料理をする時につけるもの！「앞치마（アプチマ）」の意味は？
 
@@ -78,9 +75,6 @@ related_posts:
 
 ![](https://lalalakorea.com/wp-content/uploads/2021/09/011-1.png)
 
-###  
-
-###  
 
 ### これが言えたら韓国語上級者風！「대박（テバク）」の意味は？
 
@@ -98,17 +92,13 @@ related_posts:
 <iframe src="https://www.youtube.com/embed/aplVlNEUfgk" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy"></iframe>
 </div>
 
-##  
 
 ## 2．社長につまみ食いが発覚…！皆を代表して一人謝る男気
 
 お腹がすいた従業員一同。
 
 社長が席を外した隙に、お腹が空いたイ・ソジン専務がキムチチヂミを作って食べようと言い出し、作り始めたら、途中で社長が戻ってきて大ピンチ!さあ、みんなどうする?
-
-###  
-
-###  
+  
 
 ### 注文するときや買い物する時にも知ってると便利！「하나（ハナ）」はどんな意味？
 
@@ -118,9 +108,7 @@ related_posts:
 
 ![](https://lalalakorea.com/wp-content/uploads/2021/09/ユン食堂　パク・ソジュン-019.png)
 
-###  
 
-###  
 
 ### 韓国語コミュニケーションに必須！「배고프다（ペゴプダ）」はどんな意味？
 
@@ -138,17 +126,16 @@ related_posts:
 <iframe src="https://www.youtube.com/embed/2QZ1mRaq0tA" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy"></iframe>
 </div>
 
-##  
+
 
 ## パク・ソジュンの関連記事はコチラ
-
-###  
+  
 
 ### 【サム・マイウェイ】パク・ソジュンのぶりっ子演技～『똑땅해』の意味は？～
 
 [韓国ドラマ【サム・マイウェイ】パク・ソジュンのぶりっ子演技～韓国語『 똑땅해（ットクタンヘ）』の意味は？～](https://lalalakorea.com/koreandramafightformyway/)
 
-###  
+
 
 ### パク・ソジュンは超優秀なアルバイト【ユン食堂２で学ぶ韓国語】
 

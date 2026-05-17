@@ -1,13 +1,15 @@
 ---
-title: "韓国の名節（ミョンジョル）贈り物オススメ　１１選〜ソルラル、秋夕（チュソク）〜"
-slug: "korea-expression-of-gratitude-presents"
-date: "2021-09-12"
-categories: ["韓国の文化"]
-excerpt: "韓国はでの二大名節といえばソルラルと秋夕(チュソク)ですよね。 お世話になっている人に贈り物をしたいのですが、贈り物はどんな物がいいか悩んでいます。 オススメの贈り物、教えてください! ハル K-POPがきっかけで韓国にドはマリ!最終的には"
-thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/09/제목을-입력해주세요_-009-2.png"
+title: 韓国の名節（ミョンジョル）贈り物オススメ　１１選〜ソルラル、秋夕（チュソク）〜
+slug: korea-expression-of-gratitude-presents
+date: 2021-09-12
+categories:
+  - 韓国の文化
+thumbnail: https://lalalakorea.com/wp-content/uploads/2021/09/제목을-입력해주세요_-009-2.png
+excerpt: "韓国はでの二大名節といえばソルラルと秋夕(チュソク)ですよね。
+  お世話になっている人に贈り物をしたいのですが、贈り物はどんな物がいいか悩んでいます。 オススメの贈り物、教えてください! "
 related_posts:
-  - "chusok-instagram-image"
-  - "korean-message-chusok"
+  - chusok-instagram-image
+  - korean-message-chusok
 ---
 
 <div class="chat-question">韓国はでの二大名節といえば**ソルラル**と**秋夕(チュソク)**ですよね。
@@ -67,19 +69,9 @@ related_posts:
 まずは<strong>定番の食べ物</strong>から。</div>
 </div>
 </div>
+
 ## 1. 豪華な贈り物なら…国産牛『韓肉（ハヌ）』セット
 
- 
-
- 
-
- 
-
- 
- 
-
- 
- 
 
 <a href="https://www.instagram.com/p/CTkHM2JhEz5/" target="_blank" rel="noopener noreferrer" class="instagram-card">
   <span class="instagram-card-icon">
@@ -92,7 +84,6 @@ related_posts:
   <span class="instagram-card-arrow">→</span>
 </a>
 
- 
 
 感謝の気持ちを肉に込めて…**豪華に贈るなら韓国産カルビセット**!
 
@@ -100,17 +91,6 @@ related_posts:
 
 ## 2. 名節の定番！韓国の高級魚クルビ（イシモチ）
 
- 
-
- 
-
- 
-
- 
- 
-
- 
- 
 
 <a href="https://www.instagram.com/p/CTjTrVzl0TY/" target="_blank" rel="noopener noreferrer" class="instagram-card">
   <span class="instagram-card-icon">
@@ -180,7 +160,6 @@ related_posts:
   </span>
   <span class="instagram-card-arrow">→</span>
 </a>
-
  
  
 
@@ -188,7 +167,8 @@ related_posts:
 
 目にも鮮やかで季節感の溢れる贈り物も定番の一品。
 
-### 伝統菓子だけじゃない！チュソク贈り物用スイーツ
+
+## 5. 伝統菓子だけじゃない！チュソク贈り物用スイーツ
 
  <a href="https://www.instagram.com/p/B2LYoyCJRsF/" target="_blank" rel="noopener noreferrer" class="instagram-card">
   <span class="instagram-card-icon">
@@ -210,7 +190,6 @@ related_posts:
   <span class="instagram-card-arrow">→</span>
 </a>
 
- 
 
  
 

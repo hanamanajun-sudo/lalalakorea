@@ -1,12 +1,14 @@
 ---
-title: "韓国語（ハングル）の基本母音は実は10個だけ！基本母音をスマホキーボードで入力してみよう！"
-slug: "e9-9f-93-e5-9b-bd-e8-aa-9e-ef-bc-88-e3-83-8f-e3-83-b3-e3-82-b0-e3-83-ab-ef-bc-89-e3-81-ae-e5-9f-ba-e6-9c-ac-e6-af-8d-e9-9f-b3-e3-81-af-e5-ae-9f-e3-81-af10-e5-80-8b-e3-81-a0-e3-81-91-ef-bc-81-e5-9f-ba"
-date: "2024-02-29"
-categories: ["韓国語"]
-excerpt: "ミオ こんにちは★ 最近Stray Kidsに沼落ちしたミオです! SNSで推しや韓国のファンたちが書いている韓国語のコメントを読んで理解したい!応援のコメントを韓国語でしてみたい!んですけど、韓国語(ハングル)って覚えるのが大変そう… 暗"
-thumbnail: "https://lalalakorea.com/wp-content/uploads/2024/02/4-3.png"
-related_posts:
-
+title: 韓国語（ハングル）の基本母音は実は10個だけ！基本母音をスマホキーボードで入力してみよう！
+slug: e9-9f-93-e5-9b-bd-e8-aa-9e-ef-bc-88-e3-83-8f-e3-83-b3-e3-82-b0-e3-83-ab-ef-bc-89-e3-81-ae-e5-9f-ba-e6-9c-ac-e6-af-8d-e9-9f-b3-e3-81-af-e5-ae-9f-e3-81-af10-e5-80-8b-e3-81-a0-e3-81-91-ef-bc-81-e5-9f-ba
+date: 2024-02-29
+categories:
+  - 韓国語
+thumbnail: https://lalalakorea.com/wp-content/uploads/2024/02/4-3.png
+excerpt: ミオ こんにちは★ 最近Stray Kidsに沼落ちしたミオです!
+  SNSで推しや韓国のファンたちが書いている韓国語のコメントを読んで理解したい!応援のコメントを韓国語でしてみたい!んですけど、韓国語(ハングル)って覚えるのが大変そう…
+  暗
+related_posts: null
 ---
 
 <div class="chat-msg chat-left">
@@ -47,6 +49,7 @@ related_posts:
 <a href="https://lalalakorea.com/e9-9f-93-e5-9b-bd-e8-aa-9e-ef-bc-88-e3-83-8f-e3-83-b3-e3-82-b0-e3-83-ab-ef-bc-89-e3-81-af-e3-83-ad-e3-83-bc-e3-83-9e-e5-ad-97-e3-81-a8-e5-90-8c-e3-81-98-e6-af-8d-e9-9f-b3-e3-81-a8-e5-ad-90-e9-9f-b3/" target="_blank" rel="noopener"><strong>２．韓国語（ハングル）はローマ字と同じ母音と子音の組み合わせ！実は簡単に覚えられる！</strong></a></div>
 </div>
 </div>
+
 ### 1.　韓国語（ハングル）の基本母音は実は10個だけ！基本母音をスマホキーボードで入力してみよう！
 
 これまでの項目で、「**韓国語(ハングル)はローマ字と同じで母音と子音の組み合わせ**でできていて、**基本となる種類を覚えれば実は簡単にマスター**できる!」ということは理解していただけたかと思います。

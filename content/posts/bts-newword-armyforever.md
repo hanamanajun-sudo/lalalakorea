@@ -1,13 +1,15 @@
 ---
-title: "BTSジョングクがArmyのために作った新語「아포방포(アポバンポ)」、「아무행알（アムヘンアル）」の意味は？"
-slug: "bts-newword-armyforever"
-date: "2022-01-04"
-categories: ["韓国語"]
-excerpt: "BTSジョングクが作ったArmy（アーミィ）との合言葉「아포방포(アポバンポ)」、「아무행알（アムヘンアル）」の意味は？ きなこ BTSのジョングクがInstagramに新年の挨拶アップした新年の挨拶のフレーズ「아포방포」ってどういう意味か"
-thumbnail: "https://lalalakorea.com/wp-content/uploads/2022/01/썸네일-012.png"
+title: BTSジョングクがArmyのために作った新語「아포방포(アポバンポ)」、「아무행알（アムヘンアル）」の意味は？
+slug: bts-newword-armyforever
+date: 2022-01-04
+categories:
+  - 韓国語
+thumbnail: https://lalalakorea.com/wp-content/uploads/2022/01/썸네일-012.png
+excerpt: BTSジョングクが作ったArmy（アーミィ）との合言葉「아포방포(アポバンポ)」、「아무행알（アムヘンアル）」の意味は？ きなこ
+  BTSのジョングクがInstagramに新年の挨拶アップした新年の挨拶のフレーズ「아포방포」ってどういう意味か
 related_posts:
-  - "korean-hashtag-konstagram"
-  - "korean-happynewyear-massege"
+  - korean-hashtag-konstagram
+  - korean-happynewyear-massege
 ---
 
 ## BTSジョングクが作ったArmy（アーミィ）との合言葉「아포방포(アポバンポ)」、「아무행알（アムヘンアル）」の意味は？
@@ -38,6 +40,8 @@ related_posts:
 どういう意味なんですか、教えて〜!</div>
 </div>
 </div>
+
+
 ## 【1】BTSジョングクが作った新語①「아포반포(アポバンポ)」の意味は？
 
 BTSの末っ子メンバー、**ジョングク**。
@@ -97,14 +101,6 @@ Check
 アーミーフォーエバー バンタンフォーエバー
 *
 
- 
-
- 
-
- 
- 
-
- 
  
 
 <a href="https://www.instagram.com/p/CYJqH4dvDCk/" target="_blank" rel="noopener noreferrer" class="instagram-card">

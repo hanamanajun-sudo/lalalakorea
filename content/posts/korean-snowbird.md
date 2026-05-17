@@ -1,22 +1,20 @@
 ---
-title: "韓国で人気の雪アヒル…BTSのRMが作ったDTSって？"
-slug: "korean-snowbird"
-date: "2021-01-10"
-categories: ["韓国の文化"]
-excerpt: "韓国で人気の雪アヒル…BTSのRMが作ったDTSって？ ※2021.12.22 【小さい雪アヒルはもう飽きた？韓国に巨大雪アヒルが出現！】を追記しました 雪が降ったら作るもの…といえば雪だるまですよね。 冬には雪がたくさん積もることが多い韓"
-thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/01/제목을-입력해주세요_-005.png"
+title: 韓国で人気の雪アヒル…BTSのRMが作ったDTSって？
+slug: korean-snowbird
+date: 2021-01-10
+categories:
+  - 韓国の文化
+thumbnail: https://lalalakorea.com/wp-content/uploads/2021/01/제목을-입력해주세요_-005.png
+excerpt: 韓国で人気の雪アヒル…BTSのRMが作ったDTSって？ ※2021.12.22
+  【小さい雪アヒルはもう飽きた？韓国に巨大雪アヒルが出現！】を追記しました 雪が降ったら作るもの…といえば雪だるまですよね。
+  冬には雪がたくさん積もることが多い韓
 related_posts:
-  - "bts-newword-armyforever"
-  - "korean-movie-oasis"
+  - bts-newword-armyforever
+  - korean-movie-oasis
 ---
-
 ## 韓国で人気の雪アヒル…BTSのRMが作ったDTSって？
 
- 
-
 **※2021.12.22　【小さい雪アヒルはもう飽きた？韓国に巨大雪アヒルが出現！】を追記しました**
-
- 
 
 雪が降ったら作るもの…といえば雪だるまですよね。
 
@@ -25,20 +23,6 @@ related_posts:
 その韓国で最近雪だるまに代わってブームになっているものがあります。
 
 それは…**雪アヒル**！！
-
- 
-
- 
-
- 
-
- 
-
- 
- 
-
- 
- 
 
 <a href="https://www.instagram.com/p/CXnrTfPFB3v/" target="_blank" rel="noopener noreferrer" class="instagram-card">
   <span class="instagram-card-icon">
@@ -51,13 +35,7 @@ related_posts:
   <span class="instagram-card-arrow">→</span>
 </a>
 
-##  
-
- 
-
 ## 雪〇〇〇専用の道具が人気で品薄に！
-
- 
 
 去年の冬が終わったあと、ネット上で雪アヒルの写真がカワイイと話題になっていた韓国。
 
@@ -68,16 +46,6 @@ related_posts:
 この雪アヒル、専用の道具の雪アヒルメーカーで簡単に作れてすごくカワイイ★
 
 元々そんなに出回っていなかった雪アヒルメーカーが一気に欠品状態になり、お値段も高騰中だとか。。
-
- 
-
- 
-
- 
- 
-
- 
- 
 
 <a href="https://www.instagram.com/p/CXsWGawpOs8/" target="_blank" rel="noopener noreferrer" class="instagram-card">
   <span class="instagram-card-icon">
@@ -90,12 +58,7 @@ related_posts:
   <span class="instagram-card-arrow">→</span>
 </a>
 
-
- 
-
 ## BTSのRMも雪アヒルをtwitterに投稿！
-
- 
 
 話題の雪アヒル、BTSのRMもTwitterに投稿！
 
@@ -103,11 +66,7 @@ related_posts:
 
 「DTS」はアヒルを意味する英語単語である“DUCK”の頭文字と、BTSを組み合わせた言葉のようです。
 
- 
-
- 
-
-DTS.. 🌨🐥[#쭌](https://twitter.com/hashtag/%EC%AD%8C?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/1peeC0sSN4](https://t.co/1peeC0sSN4)
+DTS.. 🌨🐥[\#쭌](https://twitter.com/hashtag/%EC%AD%8C?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/1peeC0sSN4](https://t.co/1peeC0sSN4)
 
 — 방탄소년단 (@BTS_twt) [January 6, 2021](https://twitter.com/BTS_twt/status/1346834059930918912?ref_src=twsrc%5Etfw)
 
@@ -115,18 +74,18 @@ DTS.. 🌨🐥[#쭌](https://twitter.com/hashtag/%EC%AD%8C?src=hash&ref_src=twsr
 
 今回の雪アヒルの話題にちなんで、冬・雪に関する韓国語を覚えてみましょう！
 
-| 韓国語 | 読み方 | 意味 |
-|--------|--------|------|
-| 겨울 | キョウル | 冬 |
-| 눈 | ヌン | 雪 |
-| 눈사람 | ヌンサラム | 雪だるま |
-| 눈오리 | ヌノリ | 雪アヒル |
-| 눈싸움 | ヌンサウム | 雪合戦 |
-| 날씨 | ナルシ | 天気 |
-| 춥다 | チュプダ | 寒い |
-| 따뜻하다 | タトゥタダ | 温かい |
-| 장갑 | チャンガプ | 手袋 |
-| 목도리 | モクトリ | マフラー |
+| 韓国語  | 読み方   | 意味   |
+| ---- | ----- | ---- |
+| 겨울   | キョウル  | 冬    |
+| 눈    | ヌン    | 雪    |
+| 눈사람  | ヌンサラム | 雪だるま |
+| 눈오리  | ヌノリ   | 雪アヒル |
+| 눈싸움  | ヌンサウム | 雪合戦  |
+| 날씨   | ナルシ   | 天気   |
+| 춥다   | チュプダ  | 寒い   |
+| 따뜻하다 | タトゥタダ | 温かい  |
+| 장갑   | チャンガプ | 手袋   |
+| 목도리  | モクトリ  | マフラー |
 
 ## まとめ：韓国の雪アヒルブームと韓国語
 

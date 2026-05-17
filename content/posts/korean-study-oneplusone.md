@@ -1,13 +1,15 @@
 ---
-title: "韓国語「1+1（ワンプラスワン）」の読み方は？意味は？"
-slug: "korean-study-oneplusone"
-date: "2021-10-19"
-categories: ["韓国語"]
-excerpt: "韓国語「1+1（ワンプラスワン）」の読み方は？意味は？ きなこ 韓国のお店やオンラインショップでよく見かける「1+1」。 読み方と意味を教えてください。 ジュン 韓国に旅行に行くと1+1(ワンプラスワン)とか2+1（ツープラスワン）いう言葉"
-thumbnail: "https://lalalakorea.com/wp-content/uploads/2021/10/제목을-입력해주세요_-001-3.png"
+title: 韓国語「1+1（ワンプラスワン）」の読み方は？意味は？
+slug: korean-study-oneplusone
+date: 2021-10-19
+categories:
+  - 韓国語
+thumbnail: https://lalalakorea.com/wp-content/uploads/2021/10/제목을-입력해주세요_-001-3.png
+excerpt: 韓国語「1+1（ワンプラスワン）」の読み方は？意味は？ きなこ 韓国のお店やオンラインショップでよく見かける「1+1」。
+  読み方と意味を教えてください。 ジュン 韓国に旅行に行くと1+1(ワンプラスワン)とか2+1（ツープラスワン）いう言葉
 related_posts:
-  - "korean-study-worry"
-  - "korean-study-goodmorning"
+  - korean-study-worry
+  - korean-study-goodmorning
 ---
 
 ## 韓国語「1+1（ワンプラスワン）」の読み方は？意味は？
@@ -29,6 +31,7 @@ related_posts:
 最近ではネットショッピングの際にも見かけることが多いこと言葉について解説します。</div>
 </div>
 </div>
+
 ## 「1+1」は韓国語で「ウォンプロスウォン」
 
 ![](https://lalalakorea.com/wp-content/uploads/2021/10/카톡-한국어-1_복사본-001.png)
