@@ -46,9 +46,13 @@ related_posts:
 
 『心配してくれてありがとうございます』
 
-**걱정해줘서 고마워요. **
+**걱정해줘서 고마워요.**
 
 (コクチョンヘジュォソ コマウォヨ)
+
+**発音ポイント**: `해줘서` の `줘` は「ジュォ」と一息で。`고마워요` の `워` も「ウォ」と素早くつなげて言うのがネイティブっぽく聞こえるコツです。
+
+**使う場面**: 体調不良のとき、悩んでいるとき、試験前など、誰かが気にかけてくれたときに。SNSのメッセージにもそのまま使えます。
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:24px 0;">
 <iframe src="https://www.youtube.com/embed/YWeI97Hdq54" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy"></iframe>
@@ -65,6 +69,10 @@ related_posts:
 **걱정해줘서 고마워.**
 
 (コクチョンヘジュォソ コマウォ)
+
+**発音ポイント**: 敬語の `고마워요` から `요` を取った形。語尾を上げず、やや語尾を下げて言うとカジュアルに聞こえます。
+
+**使う場面**: 仲の良い友達や、年下の相手への返事に。韓国ドラマのラブシーンでも定番のセリフです。
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:24px 0;">
 <iframe src="https://www.youtube.com/embed/A7ndt5O3_-8" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy"></iframe>
@@ -84,6 +92,10 @@ related_posts:
 
 (コクチョンハジマヨ)
 
+**発音ポイント**: `하지마` は「ハジマ」と3音節。`마` がやや鼻に抜けるように発音されます。語末の `요` をつけると丁寧なニュアンスになります。
+
+**使う場面**: 相手が過度に心配してくれているときに「大丈夫ですよ、心配しなくていいですよ」と伝えたいときに。韓国ドラマでは主人公が誰かを安心させるシーンで頻出です。
+
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:24px 0;">
 <iframe src="https://www.youtube.com/embed/pMpCgvp5vng" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy"></iframe>
 </div>
@@ -96,7 +108,11 @@ related_posts:
 
 『心配しないで』
 
-**걱정하지마. **(コクチョンハジマ)
+**걱정하지마.** (コクチョンハジマ)
+
+**発音ポイント**: 語尾が `마` で終わるので、短くキッパリ言うのが自然。強く言うと「もう心配しなくていいって！」という少し強調したニュアンスになります。
+
+**使う場面**: 親友や恋人同士で。「私のことより自分のことを心配して」という場面でもよく使われます。
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:24px 0;">
 <iframe src="https://www.youtube.com/embed/7rBCs-8croU" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy"></iframe>
@@ -112,7 +128,7 @@ related_posts:
 
 日本語の字幕があるのでどのシーンで言っているかはわかりやすいと思います。
 
-**動画についてはは後で解説**します。
+**動画については後で解説**します。
 
  
 
@@ -167,7 +183,7 @@ related_posts:
 | 걱정되다 | コクチョンテダ | 心配になる |
 | 안심 | アンシム | 安心 |
 | 안심하다 | アンシムハダ | 安心する |
-| 불안 | プラン | 不安 |
+| 불안 | ブラン | 不安 |
 | 긴장 | キンジャン | 緊張 |
 | 위로 | ウィロ | 慰め・励まし |
 
@@ -192,6 +208,12 @@ related_posts:
 「頑張ってください！元気出して！」
 
 これらの表現は韓国ドラマでも頻出です。相手を気遣うシーンで使われることが多いので、ぜひ覚えておいてください。
+
+## ジュンのひとこと
+
+うちのハルが体調を崩したとき、私（ジュン）は必ずまず**「괜찮아요?（大丈夫ですか？）」**から声をかけます。韓国語の気遣い表現は日本語よりも少し直接的でストレートなのが特徴。「**내가 옆에 있을게요（そばにいますよ）**」なんてセリフは、ドラマの中だけじゃなく、韓国人は日常でも普通に使うんです。
+
+ハルもこの表現を覚えてからは、私が仕事で疲れて帰ってきたときに「**힘내!（ヒムネ！）頑張れ！**」と韓国語で声をかけてくれるようになりました。たった一言でも母国語で気遣ってもらえると、じんわり嬉しいものですよ（笑）。
 
 ## まとめ
 
