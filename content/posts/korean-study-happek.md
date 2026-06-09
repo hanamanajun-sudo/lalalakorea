@@ -45,8 +45,6 @@ related_posts:
   <span class="instagram-card-arrow">→</span>
 </a>
 
-![](http://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191216-185654.png)
-
 お題は寒い冬の必需品、「핫팩（ハッペク）ホッカイロ」！
 
 ベクヒョンが出したヒントは…
@@ -55,11 +53,7 @@ related_posts:
 
 カイ「죽은 사람（チュグンサラム）死んだ人」
 
-![](http://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191216-185738.png)
-
 カイ「죽은 사람이 있어?（チュグンサラミ　イッソ？）死んだ人がいるの？」
-
-![](http://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191216-185750.png)
 
 なぜかここで死んだ人が登場　（笑）
 
@@ -85,8 +79,6 @@ related_posts:
 
 カイ「죽은 사람이 몸에 붙이는 거?（チュグンサラミ　モメ　プチヌンゴ）死んだ人が体に貼る物？」
 
-![](http://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191216-185801.png)
-
 カイの中では死んだ人についての話に確定している模様。。
 
 ## 4．プラスアップ単語2【붙이다（プチダ）・～는 거（ヌンゴ）・몸（モム）・～에（エ）】
@@ -98,10 +90,6 @@ related_posts:
 몸（モム）体
 
 ～에（エ）～に
-
-![](http://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191216-185809.png)
-
-![](http://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191216-185817.png)
 
 カイ、もう一人の世界に入っちゃってます。。
 
@@ -133,10 +121,6 @@ related_posts:
 カイ
 
 「죽은 사람（チュグンサラム）死んだ人」
-
-![](http://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191216-185936.png)
-
-![](http://coolx.xyz/wp-content/uploads/2019/12/Screenshot_20191216-185942.png)
 
 やっと死んだ人から抜け出せたと思ったら…
 
@@ -171,8 +155,6 @@ related_posts:
 「몸에 뭘 붙이지?（モメ　ムォル　プチジ？）体に何を貼るんだろう？」
 
 
-
-![](http://coolx.xyz/wp-content/uploads/2019/12/1576674504415_Screenshot_20191216-190131.png)
 
 ## 5.プラスアップ単語4【뭐（ムォ）何】
 
