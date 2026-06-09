@@ -66,6 +66,7 @@ export default function RootLayout({ children }) {
               <Link href="/category/%E9%9F%93%E5%9B%BD%E6%97%85%E8%A1%8C">旅行</Link>
               <Link href="/category/%E9%9F%93%E5%9B%BD%E3%82%B3%E3%82%B9%E3%83%A1">コスメ</Link>
               <Link href="/about">About</Link>
+              <Link href="/privacy">プライバシーポリシー</Link>
             </nav>
             <p>© 2026 LaLaLaKorea. All rights reserved.</p>
           </div>
