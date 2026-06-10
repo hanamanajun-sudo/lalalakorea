@@ -144,6 +144,14 @@ body {
   width: 100%; aspect-ratio: 16/9; overflow: hidden;
   background: linear-gradient(135deg, #ffe0e5, #ffd0d8);
 }
+.post-card-img-icon {
+  display: flex; align-items: center; justify-content: center;
+}
+.post-card-icon {
+  font-size: 3.5rem; line-height: 1;
+  filter: drop-shadow(0 2px 4px rgba(0,0,0,0.15));
+}
+.post-card:hover .post-card-img-icon { transform: scale(1.06); }
 .post-card-img img {
   width: 100%; height: 100%; object-fit: cover;
   transition: transform 0.4s;
@@ -267,7 +275,7 @@ body {
 }
 .related-img img { width: 100%; height: 100%; object-fit: cover; transition: transform 0.3s; }
 .related-card:hover .related-img img { transform: scale(1.05); }
-.related-img-placeholder { font-size: 2rem; }
+.related-img-placeholder { font-size: 2rem; display: flex; align-items: center; justify-content: center; }
 .related-body { padding: 14px; }
 .related-cat {
   font-size: 0.68rem; font-weight: 700; color: #e8324a;

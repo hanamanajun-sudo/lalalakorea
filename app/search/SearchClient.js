@@ -2,6 +2,7 @@
 import { useState, useMemo, useEffect, useRef } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
+import { getCategoryIcon } from '../../lib/categoryIcons';
 import Fuse from 'fuse.js';
 
 export default function SearchClient({ posts }) {
@@ -82,7 +83,7 @@ export default function SearchClient({ posts }) {
           <div className="posts-grid">
             {results.map(post => (
               <Link key={post.slug} href={`/${post.slug}`} className="post-card">
-                {post.thumbnail && (
+                {post.thumbnail ? (
                   <div className="post-card-img">
                     <Image
                       src={post.thumbnail}
@@ -91,6 +92,10 @@ export default function SearchClient({ posts }) {
                       height={338}
                       style={{ width: '100%', height: '100%', objectFit: 'cover' }}
                     />
+                  </div>
+                ) : (
+                  <div className="post-card-img post-card-img-icon" style={{ background: getCategoryIcon(post.categories).gradient }}>
+                    <span className="post-card-icon">{getCategoryIcon(post.categories).emoji}</span>
                   </div>
                 )}
                 <div className="post-card-body">

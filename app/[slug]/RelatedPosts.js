@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import { getCategoryIcon } from '../../lib/categoryIcons';
 
 export default function RelatedPosts({ posts }) {
   if (!posts || posts.length === 0) return null;
@@ -11,7 +12,7 @@ export default function RelatedPosts({ posts }) {
             <div className="related-img">
               {post.thumbnail
                 ? <img src={post.thumbnail} alt={post.title} loading="lazy" />
-                : <div className="related-img-placeholder">📝</div>
+                : <div className="related-img-placeholder" style={{ background: getCategoryIcon(post.categories).gradient, fontSize: '2rem' }}>{getCategoryIcon(post.categories).emoji}</div>
               }
             </div>
             <div className="related-body">
