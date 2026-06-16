@@ -1,5 +1,6 @@
 import './globals.css';
 import Link from 'next/link';
+import Script from 'next/script';
 import ScrollToTop from './ScrollToTop';
 import MobileMenu from './MobileMenu';
 import ReadingProgress from './ReadingProgress';
@@ -55,6 +56,13 @@ export default function RootLayout({ children }) {
             <MobileMenu />
           </div>
         </header>
+        <Script src="https://www.googletagmanager.com/gtag/js?id=G-7F4G21MPYL" strategy="afterInteractive" />
+        <Script id="ga4-init" strategy="afterInteractive">{`
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-7F4G21MPYL');
+        `}</Script>
         <main>{children}</main>
         <ScrollToTop />
         <footer className="site-footer">
