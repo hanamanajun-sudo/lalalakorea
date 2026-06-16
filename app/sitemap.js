@@ -31,6 +31,18 @@ export default function sitemap() {
       changeFrequency: 'monthly',
       priority: 0.7,
     },
+    {
+      url: 'https://lalalakorea.com/contact/',
+      lastModified: new Date().toISOString(),
+      changeFrequency: 'yearly',
+      priority: 0.3,
+    },
+    {
+      url: 'https://lalalakorea.com/privacy/',
+      lastModified: new Date().toISOString(),
+      changeFrequency: 'yearly',
+      priority: 0.3,
+    },
     ...postUrls,
     ...categoryUrls,
   ];

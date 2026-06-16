@@ -25,7 +25,7 @@ export default function AboutPage() {
       {/* ヒーロー */}
       <div className="about-hero">
         <div className="about-hero-emoji">🇰🇷 × 🇯🇵</div>
-        <h1 className="about-hero-title">LalaLaKoreaって？</h1>
+        <h1 className="about-hero-title">LaLaLaKoreaって？</h1>
         <p className="about-hero-sub">
           韓国と日本をつなぐ、日常のあれこれを綴るブログです
         </p>
@@ -38,7 +38,7 @@ export default function AboutPage() {
           <h2 className="about-section-title">📖 このブログについて</h2>
           <div className="about-card">
             <p>
-              <strong>LalaLaKorea</strong>は、韓国語学習・韓国グルメ・韓国エンタメ・旅行・コスメなど、
+              <strong>LaLaLaKorea</strong>は、韓国語学習・韓国グルメ・韓国エンタメ・旅行・コスメなど、
               「韓国」にまつわるあれこれを楽しく発信するブログです。
             </p>
             <p>
