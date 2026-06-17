@@ -96,7 +96,7 @@ export default async function PostPage({ params }) {
           </div>
         )}
         <h1>{post.title}</h1>
-        <div className="meta">{post.date}</div>
+        <div className="meta">{post.date}　・　約{post.readingTime}分で読めます</div>
       </div>
       <ShareButtons title={post.title} url={postUrl} />
       <TableOfContents headings={post.headings} />
