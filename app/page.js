@@ -3,13 +3,15 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { getCategoryIcon } from '../lib/categoryIcons';
 
-export const metadata = {
-  title: 'LaLaLaKorea – 韓国語・韓国文化をもっと楽しく',
-  description: '韓国在住10年の韓日夫婦が運営。韓国語学習・韓国グルメ・Kpop・韓国ドラマを、リアルな体験談とともに日本語で発信しています。',
-  alternates: {
-    canonical: 'https://lalalakorea.com/',
-  },
-};
+export async function generateMetadata({ searchParams }) {
+  const page = Number(searchParams?.page) || 1;
+  const canonical = page === 1 ? 'https://lalalakorea.com/' : `https://lalalakorea.com/?page=${page}`;
+  return {
+    title: 'LaLaLaKorea – 韓国語・韓国文化をもっと楽しく',
+    description: '韓国在住10年の韓日夫婦が運営。韓国語学習・韓国グルメ・Kpop・韓国ドラマを、リアルな体験談とともに日本語で発信しています。',
+    alternates: { canonical },
+  };
+}
 
 const POSTS_PER_PAGE = 12;
 

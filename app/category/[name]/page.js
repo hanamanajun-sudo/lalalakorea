@@ -6,13 +6,30 @@ import { getCategoryIcon } from '../../../lib/categoryIcons';
 
 const POSTS_PER_PAGE = 12;
 
-export async function generateMetadata({ params }) {
+export async function generateMetadata({ params, searchParams }) {
   const name = decodeURIComponent(params.name);
+  const description = `韓国の${name}に関する記事一覧。韓国在住10年のジュンが、リアルな体験をもとに日本語で発信しています。`;
+  const baseUrl = `https://lalalakorea.com/category/${encodeURIComponent(name)}/`;
+  const page = Number(searchParams?.page) || 1;
+  const url = page === 1 ? baseUrl : `${baseUrl}?page=${page}`;
   return {
     title: `${name}の記事一覧 | LaLaLaKorea`,
-    description: `韓国の${name}に関する記事一覧。韓国在住10年のジュンが、リアルな体験をもとに日本語で発信しています。`,
-    alternates: {
-      canonical: `https://lalalakorea.com/category/${encodeURIComponent(name)}/`,
+    description,
+    alternates: { canonical: url },
+    openGraph: {
+      title: `${name}の記事一覧 | LaLaLaKorea`,
+      description,
+      url: baseUrl,
+      siteName: 'LaLaLaKorea',
+      images: [{ url: 'https://lalalakorea.com/og-default.png', width: 1200, height: 630, alt: 'LaLaLaKorea' }],
+      locale: 'ja_JP',
+      type: 'website',
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: `${name}の記事一覧 | LaLaLaKorea`,
+      description,
+      images: ['https://lalalakorea.com/og-default.png'],
     },
   };
 }

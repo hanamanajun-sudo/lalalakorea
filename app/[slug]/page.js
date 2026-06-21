@@ -23,13 +23,13 @@ export async function generateMetadata({ params }) {
     ? { url: post.thumbnail, width: 1200, height: 630, alt: post.title }
     : { url: `${siteUrl}/og-default.png`, width: 1200, height: 630, alt: 'LaLaLa KOREA' };
   return {
-    title: `${post.title} | LalaLaKorea`,
+    title: `${post.title} | LaLaLaKorea`,
     description,
     openGraph: {
       title: post.title,
       description,
       url: `${siteUrl}/${post.slug}/`,
-      siteName: 'LalaLaKorea',
+      siteName: 'LaLaLaKorea',
       images: [ogImage],
       type: 'article',
       publishedTime: post.date,
@@ -73,8 +73,8 @@ export default async function PostPage({ params }) {
     },
     publisher: {
       '@type': 'Organization',
-      name: 'LalaLaKorea',
-      logo: { '@type': 'ImageObject', url: 'https://lalalakorea.com/logo.png' },
+      name: 'LaLaLaKorea',
+      logo: { '@type': 'ImageObject', url: 'https://lalalakorea.com/og-default.png' },
     },
     mainEntityOfPage: { '@type': 'WebPage', '@id': `https://lalalakorea.com/${post.slug}/` },
     inLanguage: 'ja',
@@ -96,7 +96,7 @@ export default async function PostPage({ params }) {
           </div>
         )}
         <h1>{post.title}</h1>
-        <div className="meta">{post.date}</div>
+        <div className="meta">{post.date}　・　約{post.readingTime}分で読めます</div>
       </div>
       <ShareButtons title={post.title} url={postUrl} />
       <TableOfContents headings={post.headings} />
