@@ -7,6 +7,7 @@ categories:
   - 韓国語
   - 韓国グルメ
 excerpt: "韓国語の「おいしい」は맛있다だけじゃない！シーン別に使い分ける7つの表現を実例付きで解説。旅行や推し活で使える実用的なフレーズ集。"
+thumbnail: /images/delicious/korean-delicious-thumbnail.jpg
 lang: ja
 ---
 
