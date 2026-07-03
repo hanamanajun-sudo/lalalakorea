@@ -6,6 +6,7 @@ date: 2026-06-08
 categories:
   - 韓国語
 excerpt: "韓国語の「ありがとう」は감사합니다・고마워요・고마워の3つ！シーン別の使い分けを徹底解説。ドラマや旅行でそのまま使える実用的なガイド。"
+thumbnail: /images/kansha/kansha-kankokugo-thumbnail.jpg
 lang: ja
 ---
 
