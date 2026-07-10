@@ -5,6 +5,7 @@ category: "韓国コスメ"
 tags: ["韓国コスメ", "クーリング", "夏スキンケア", "オリーブヤング"]
 slug: "k-beauty-cooling-guide"
 description: "韓国の夏に欠かせないクーリングコスメの最新トレンドをご紹介。冷蔵庫スキンケアの基本からタイプ別おすすめアイテムまで、現地情報をもとに徹底解説します。"
+thumbnail: "/images/k-beauty-cooling-guide/thumbnail.jpg"
 ---
 
 ## 팩트체크 결과
