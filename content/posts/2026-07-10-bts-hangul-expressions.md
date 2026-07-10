@@ -21,7 +21,7 @@ thumbnail: "/images/bts-hangul-expressions/thumbnail.jpg"
 
 2026年3月20日、BTSが約3年ぶりにグループとして完全カムバックしました。兵役を終えたメンバー7人が揃い、アルバム「ARIRANG」とリードシングル「Swim」をリリース。「Swim」はBillboard Hot 100で1位（グループとして7曲目）、アルバムもBillboard 200で1位を獲得し、世界中で記録的なヒットとなりました。
 
-[embed]https://www.youtube.com/watch?v=B9r1SB1b4eI[/embed]
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/B9r1SB1b4eI" title="BTS (방탄소년단) 'SWiM' Official MV" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="border-radius: 12px;"></iframe>
 
 あわせてNetflixで配信された特番「BTS THE COMEBACK LIVE｜ARIRANG」も話題を集めました。
 
