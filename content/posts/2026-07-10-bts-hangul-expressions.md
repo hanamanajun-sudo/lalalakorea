@@ -21,8 +21,6 @@ thumbnail: "/images/bts-hangul-expressions/thumbnail.jpg"
 
 2026年3月20日、BTSが約3年ぶりにグループとして完全カムバックしました。兵役を終えたメンバー7人が揃い、アルバム「ARIRANG」とリードシングル「Swim」をリリース。「Swim」はBillboard Hot 100で1位（グループとして7曲目）、アルバムもBillboard 200で1位を獲得し、世界中で記録的なヒットとなりました。
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/B9r1SB1b4eI" title="BTS (방탄소년단) 'SWiM' Official MV" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="border-radius: 12px;"></iframe>
-
 あわせてNetflixで配信された特番「BTS THE COMEBACK LIVE｜ARIRANG」も話題を集めました。
 
 ちなみに「Swim」は英語主体の楽曲ですが、アルバムには韓国語歌詞の楽曲も多く収録されています。「これで韓国語は覚えられないじゃん」と思ったあなた、大丈夫。今回はARIRANG収録曲を通して自然に覚えられる韓国語表現を5つ厳選しました。単語帳で暗記するより、好きな曲と一緒に覚えるほうが断然定着しますよ。
