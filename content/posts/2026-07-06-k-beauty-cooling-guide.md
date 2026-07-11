@@ -16,13 +16,37 @@ thumbnail: "/images/k-beauty-cooling-guide/thumbnail.jpg"
 
 ---
 
-きなこ「ねえ、最近オリーブヤングで『쿨링 화장품（クーリングコスメ）』って専用コーナーができてたんだけど、日本のひんやりシートとは違うの？」
+<div class="chat-msg">
+<svg class="chat-avatar" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="50" fill="#FF6B9D"/><text x="50" y="62" text-anchor="middle" font-size="40" fill="white" font-family="sans-serif">き</text></svg>
+<div class="chat-bubble-wrap">
+<div class="chat-name">きなこ</div>
+<div class="chat-bubble">ねえ、最近オリーブヤングで「쿨링 화장품（クーリングコスメ）」って専用コーナーができてたんだけど、日本のひんやりシートとは違うの？</div>
+</div>
+</div>
 
-악어오빠「全然違う。韓国のクーリングコスメは洗顔後の美容液から日中のミスト、寝る前のマスクまで、スキンケアの全工程に冷却アイテムがあるんだよ。しかも『冷蔵庫で冷やしてから使う』のが当たり前になってる」
+<div class="chat-msg chat-right">
+<svg class="chat-avatar" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="50" fill="#06D6A0"/><text x="50" y="62" text-anchor="middle" font-size="35" fill="white" font-family="sans-serif">악</text></svg>
+<div class="chat-bubble-wrap">
+<div class="chat-name">악어오빠</div>
+<div class="chat-bubble">全然違う。韓国のクーリングコスメは洗顔後の美容液から日中のミスト、寝る前のマスクまで、スキンケアの全工程に冷却アイテムがあるんだよ。しかも「冷蔵庫で冷やしてから使う」のが当たり前になってる</div>
+</div>
+</div>
 
-きなこ「え、化粧品を冷蔵庫に入れるの？」
+<div class="chat-msg">
+<svg class="chat-avatar" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="50" fill="#FF6B9D"/><text x="50" y="62" text-anchor="middle" font-size="40" fill="white" font-family="sans-serif">き</text></svg>
+<div class="chat-bubble-wrap">
+<div class="chat-name">きなこ</div>
+<div class="chat-bubble">え、化粧品を冷蔵庫に入れるの？</div>
+</div>
+</div>
 
-악어오빠「そう、それが『냉장고 스킨케어（冷蔵庫スキンケア）』。韓国の若い世代ではスキンケア専用のミニ冷蔵庫を買う人も増えてるくらい、もう夏の定番になってる」
+<div class="chat-msg chat-right">
+<svg class="chat-avatar" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="50" fill="#06D6A0"/><text x="50" y="62" text-anchor="middle" font-size="35" fill="white" font-family="sans-serif">악</text></svg>
+<div class="chat-bubble-wrap">
+<div class="chat-name">악어오빠</div>
+<div class="chat-bubble">そう、それが「냉장고 스킨케어（冷蔵庫スキンケア）」。韓国の若い世代ではスキンケア専用のミニ冷蔵庫を買う人も増えてるくらい、もう夏の定番になってる</div>
+</div>
+</div>
 
 ---
 
@@ -113,9 +137,21 @@ thumbnail: "/images/k-beauty-cooling-guide/thumbnail.jpg"
 
 ---
 
-きなこ「冷蔵庫スキンケアって最初は半信半疑だったけど、これは試してみたい！」
+<div class="chat-msg">
+<svg class="chat-avatar" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="50" fill="#FF6B9D"/><text x="50" y="62" text-anchor="middle" font-size="40" fill="white" font-family="sans-serif">き</text></svg>
+<div class="chat-bubble-wrap">
+<div class="chat-name">きなこ</div>
+<div class="chat-bubble">冷蔵庫スキンケアって最初は半信半疑だったけど、これは試してみたい！</div>
+</div>
+</div>
 
-악어오빠「まずはシートマスクかミストから始めるのが一番ハードルが低いよ。1個試してみるとクーリングコスメの沼にはまると思う（笑）」
+<div class="chat-msg chat-right">
+<svg class="chat-avatar" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="50" fill="#06D6A0"/><text x="50" y="62" text-anchor="middle" font-size="35" fill="white" font-family="sans-serif">악</text></svg>
+<div class="chat-bubble-wrap">
+<div class="chat-name">악어오빠</div>
+<div class="chat-bubble">まずはシートマスクかミストから始めるのが一番ハードルが低いよ。1個試してみるとクーリングコスメの沼にはまると思う（笑）</div>
+</div>
+</div>
 
 ---
 

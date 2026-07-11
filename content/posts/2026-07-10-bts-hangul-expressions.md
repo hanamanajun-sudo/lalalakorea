@@ -11,11 +11,29 @@ description: "BTSの新曲「Swim」などARIRANG収録曲の歌詞に出てく�
 thumbnail: "/images/bts-hangul-expressions/thumbnail.jpg"
 ---
 
-きなこ「BTSの新曲めっちゃ聴いてるんだけど、韓国語の歌詞ってどうやって覚えたらいいんだろう…」
+<div class="chat-msg">
+<svg class="chat-avatar" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="50" fill="#FF6B9D"/><text x="50" y="62" text-anchor="middle" font-size="40" fill="white" font-family="sans-serif">き</text></svg>
+<div class="chat-bubble-wrap">
+<div class="chat-name">きなこ</div>
+<div class="chat-bubble">BTSの新曲めっちゃ聴いてるんだけど、韓国語の歌詞ってどうやって覚えたらいいんだろう…</div>
+</div>
+</div>
 
-ログ「それなら歌詞に出てくるフレーズから覚えるのが一番効率的だよ。今日はARIRANGの楽曲を題材に5つ厳選したから紹介するね。」
+<div class="chat-msg chat-right">
+<svg class="chat-avatar" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="50" fill="#06D6A0"/><text x="50" y="62" text-anchor="middle" font-size="40" fill="white" font-family="sans-serif">ロ</text></svg>
+<div class="chat-bubble-wrap">
+<div class="chat-name">ログ</div>
+<div class="chat-bubble">それなら歌詞に出てくるフレーズから覚えるのが一番効率的だよ。今日はARIRANGの楽曲を題材に5つ厳選したから紹介するね。</div>
+</div>
+</div>
 
-きなこ「やった！推し活しながら韓国語も勉強できちゃうなんて一石二鳥！」
+<div class="chat-msg">
+<svg class="chat-avatar" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="50" fill="#FF6B9D"/><text x="50" y="62" text-anchor="middle" font-size="40" fill="white" font-family="sans-serif">き</text></svg>
+<div class="chat-bubble-wrap">
+<div class="chat-name">きなこ</div>
+<div class="chat-bubble">やった！推し活しながら韓国語も勉強できちゃうなんて一石二鳥！</div>
+</div>
+</div>
 
 ---
 
@@ -120,9 +138,21 @@ ARIRANGワールドツアーはまだまだ続いていて、7月19日にはニ�
 
 ---
 
-ログ「今回の5つを覚えたら、他のBTSの曲でも知ってる単語がどんどん見つかるようになるよ」
+<div class="chat-msg chat-right">
+<svg class="chat-avatar" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="50" fill="#06D6A0"/><text x="50" y="62" text-anchor="middle" font-size="40" fill="white" font-family="sans-serif">ロ</text></svg>
+<div class="chat-bubble-wrap">
+<div class="chat-name">ログ</div>
+<div class="chat-bubble">今回の5つを覚えたら、他のBTSの曲でも知ってる単語がどんどん見つかるようになるよ</div>
+</div>
+</div>
 
-きなこ「次にカラオケ行くときは、ハングル見ながら歌ってみる！これで推し活も勉強もバッチリ！」
+<div class="chat-msg">
+<svg class="chat-avatar" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="50" fill="#FF6B9D"/><text x="50" y="62" text-anchor="middle" font-size="40" fill="white" font-family="sans-serif">き</text></svg>
+<div class="chat-bubble-wrap">
+<div class="chat-name">きなこ</div>
+<div class="chat-bubble">次にカラオケ行くときは、ハングル見ながら歌ってみる！これで推し活も勉強もバッチリ！</div>
+</div>
+</div>
 
 ---
 

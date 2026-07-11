@@ -11,9 +11,21 @@ description: "韓国は世界一カフェの多い国と言われています。
 thumbnail: "/images/korea-cafe-culture-guide/thumbnail.jpg"
 ---
 
-きなこ「韓国ってカフェが多いって聞いたけど、日本の喫茶店と何が違うの？ドリンクの種類も違うの？」
+<div class="chat-msg">
+<svg class="chat-avatar" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="50" fill="#FF6B9D"/><text x="50" y="62" text-anchor="middle" font-size="40" fill="white" font-family="sans-serif">き</text></svg>
+<div class="chat-bubble-wrap">
+<div class="chat-name">きなこ</div>
+<div class="chat-bubble">韓国ってカフェが多いって聞いたけど、日本の喫茶店と何が違うの？ドリンクの種類も違うの？</div>
+</div>
+</div>
 
-ジュン「根本的に違う。韓国人はカフェを『コーヒーを飲む場所』じゃなくて『過ごす場所』として使ってるからね。コーヒーの値段は日本とあまり変わらないのに、なぜこんなにカフェが成り立つのか——その答えがカフェの使い方にあるんだよ」
+<div class="chat-msg chat-right">
+<svg class="chat-avatar" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="50" fill="#4A90D9"/><text x="50" y="62" text-anchor="middle" font-size="32" fill="white" font-family="sans-serif">ジュ</text></svg>
+<div class="chat-bubble-wrap">
+<div class="chat-name">ジュン</div>
+<div class="chat-bubble">根本的に違う。韓国人はカフェを「コーヒーを飲む場所」じゃなくて「過ごす場所」として使ってるからね。コーヒーの値段は日本とあまり変わらないのに、なぜこんなにカフェが成り立つのか——その答えがカフェの使い方にあるんだよ</div>
+</div>
+</div>
 
 ---
 
@@ -109,9 +121,21 @@ thumbnail: "/images/korea-cafe-culture-guide/thumbnail.jpg"
 
 ---
 
-きなこ「カフェがサードプレイスになってるって、すごくいい文化だと思う。日本のカフェも居座りやすくなってきた気はするけど、韓国はもう完全に定着してるんだね」
+<div class="chat-msg">
+<svg class="chat-avatar" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="50" fill="#FF6B9D"/><text x="50" y="62" text-anchor="middle" font-size="40" fill="white" font-family="sans-serif">き</text></svg>
+<div class="chat-bubble-wrap">
+<div class="chat-name">きなこ</div>
+<div class="chat-bubble">カフェがサードプレイスになってるって、すごくいい文化だと思う。日本のカフェも居座りやすくなってきた気はするけど、韓国はもう完全に定着してるんだね</div>
+</div>
+</div>
 
-ジュン「そう。しかもスタディカフェみたいな新しい業態がどんどん生まれてるから、次に来るたびに新しいカフェの形を発見できるのも韓国カフェの楽しさだよ」
+<div class="chat-msg chat-right">
+<svg class="chat-avatar" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="50" fill="#4A90D9"/><text x="50" y="62" text-anchor="middle" font-size="32" fill="white" font-family="sans-serif">ジュ</text></svg>
+<div class="chat-bubble-wrap">
+<div class="chat-name">ジュン</div>
+<div class="chat-bubble">そう。しかもスタディカフェみたいな新しい業態がどんどん生まれてるから、次に来るたびに新しいカフェの形を発見できるのも韓国カフェの楽しさだよ</div>
+</div>
+</div>
 
 ---
 

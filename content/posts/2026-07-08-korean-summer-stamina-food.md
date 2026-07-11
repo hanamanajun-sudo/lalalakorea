@@ -10,13 +10,37 @@ description: "韓国の夏のスタミナ料理「ボヤンシク（보양식）
 thumbnail: "/images/korean-summer-stamina-food/thumbnail.jpg"
 ---
 
-きなこ「韓国って夏に熱いスープを食べる文化があるって聞いたんだけど、本当？暑いのに熱いもの食べて意味あるの？」
+<div class="chat-msg">
+<svg class="chat-avatar" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="50" fill="#FF6B9D"/><text x="50" y="62" text-anchor="middle" font-size="40" fill="white" font-family="sans-serif">き</text></svg>
+<div class="chat-bubble-wrap">
+<div class="chat-name">きなこ</div>
+<div class="chat-bubble">韓国って夏に熱いスープを食べる文化があるって聞いたんだけど、本当？暑いのに熱いもの食べて意味あるの？</div>
+</div>
+</div>
 
-ジュン「それがね、韓国には『이열치열（イヨルチヨル）』って言葉があって、『熱には熱で立ち向かう』という考え方なんだ。夏にあえて温かいものを食べて体のバランスを整えるのが、昔からの健康の知恵として根付いてる」
+<div class="chat-msg chat-right">
+<svg class="chat-avatar" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="50" fill="#4A90D9"/><text x="50" y="62" text-anchor="middle" font-size="32" fill="white" font-family="sans-serif">ジュ</text></svg>
+<div class="chat-bubble-wrap">
+<div class="chat-name">ジュン</div>
+<div class="chat-bubble">それがね、韓国には「이열치열（イヨルチヨル）」って言葉があって、「熱には熱で立ち向かう」という考え方なんだ。夏にあえて温かいものを食べて体のバランスを整えるのが、昔からの健康の知恵として根付いてる</div>
+</div>
+</div>
 
-きなこ「なんか…日本の土用の丑の日みたいな感じ？」
+<div class="chat-msg">
+<svg class="chat-avatar" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="50" fill="#FF6B9D"/><text x="50" y="62" text-anchor="middle" font-size="40" fill="white" font-family="sans-serif">き</text></svg>
+<div class="chat-bubble-wrap">
+<div class="chat-name">きなこ</div>
+<div class="chat-bubble">なんか…日本の土用の丑の日みたいな感じ？</div>
+</div>
+</div>
 
-ジュン「そう！実はすごくよく似てるんだよ。でも料理の中身や文化のディテールはちょっと違う。今日はそこも含めて、2026年夏のボヤンシク事情をたっぷり紹介するね」
+<div class="chat-msg chat-right">
+<svg class="chat-avatar" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="50" fill="#4A90D9"/><text x="50" y="62" text-anchor="middle" font-size="32" fill="white" font-family="sans-serif">ジュ</text></svg>
+<div class="chat-bubble-wrap">
+<div class="chat-name">ジュン</div>
+<div class="chat-bubble">そう！実はすごくよく似てるんだよ。でも料理の中身や文化のディテールはちょっと違う。今日はそこも含めて、2026年夏のボヤンシク事情をたっぷり紹介するね</div>
+</div>
+</div>
 
 ---
 
@@ -118,9 +142,21 @@ thumbnail: "/images/korean-summer-stamina-food/thumbnail.jpg"
 
 ---
 
-きなこ「サムゲタンって聞いてたより全然難しくないし、日本の土用の丑の日との共通点が多くておもしろい！」
+<div class="chat-msg">
+<svg class="chat-avatar" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="50" fill="#FF6B9D"/><text x="50" y="62" text-anchor="middle" font-size="40" fill="white" font-family="sans-serif">き</text></svg>
+<div class="chat-bubble-wrap">
+<div class="chat-name">きなこ</div>
+<div class="chat-bubble">サムゲタンって聞いてたより全然難しくないし、日本の土用の丑の日との共通点が多くておもしろい！</div>
+</div>
+</div>
 
-ジュン「そうでしょ。暑い日にあえて熱いものを食べて、汗をかいてスッキリする感覚は、実際に体験するとちょっとくせになるよ。次の韓国旅行でぜひポンナルに合わせてサムゲタンを食べてみて」
+<div class="chat-msg chat-right">
+<svg class="chat-avatar" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="50" fill="#4A90D9"/><text x="50" y="62" text-anchor="middle" font-size="32" fill="white" font-family="sans-serif">ジュ</text></svg>
+<div class="chat-bubble-wrap">
+<div class="chat-name">ジュン</div>
+<div class="chat-bubble">そうでしょ。暑い日にあえて熱いものを食べて、汗をかいてスッキリする感覚は、実際に体験するとちょっとくせになるよ。次の韓国旅行でぜひポンナルに合わせてサムゲタンを食べてみて</div>
+</div>
+</div>
 
 暑い夏、冷たいそうめんもいいですが、たまにはアツアツのサムゲタンで汗をかいてみるのも悪くありません。まずはサムゲタンの素を買って家で試してみるか、韓国旅行のついでに専門店で本場の味を体験してみてください。
 
