@@ -19,9 +19,10 @@ export async function generateMetadata({ params }) {
   if (!post) return {};
   const description = post.excerpt || post.title;
   const siteUrl = 'https://lalalakorea.com';
-  const ogImage = post.thumbnail
-    ? { url: post.thumbnail, width: 1200, height: 630, alt: post.title }
-    : { url: `${siteUrl}/og-default.png`, width: 1200, height: 630, alt: 'LaLaLa KOREA' };
+  const ogImageUrl = post.thumbnail
+    ? post.thumbnail.startsWith('http') ? post.thumbnail : `${siteUrl}${post.thumbnail.startsWith('/') ? '' : '/'}${post.thumbnail}`
+    : `${siteUrl}/og-default.png`;
+  const ogImage = { url: ogImageUrl, width: 1200, height: 630, alt: post.title };
   return {
     title: `${post.title} | LaLaLaKorea`,
     description,
