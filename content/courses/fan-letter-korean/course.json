@@ -1,0 +1,17 @@
+{
+  "id": "fan-letter-korean",
+  "title": "推しにファンレターを書こう",
+  "emoji": "💌",
+  "icon": "pen-nib",
+  "level": "初級",
+  "order": 3,
+  "description": "あいさつから気持ちの伝え方、締めのことばまで。基本の文型を学びながら、韓国語で推しへのファンレターを一通書き上げることをゴールにした実践コースです。",
+  "lessons": [
+    "01-intro",
+    "02-greeting",
+    "03-feelings",
+    "04-closing",
+    "05-complete",
+    "06-final"
+  ]
+}
