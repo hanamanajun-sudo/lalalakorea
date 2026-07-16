@@ -20,6 +20,16 @@ export default function LearnHome() {
 
       <div className="learn-container">
         <LearnStats />
+
+        <Link href="/learn/review" className="learn-review-entry">
+          <span className="learn-review-emoji">🔁</span>
+          <span className="learn-review-text">
+            <strong>単語復習</strong>
+            覚えた単語を、忘れそうなタイミングで復習しよう
+          </span>
+          <span className="learn-review-arrow">→</span>
+        </Link>
+
         {courses.length === 0 ? (
           <p className="learn-empty">教材を準備中です。もう少しお待ちください 🙏</p>
         ) : (

@@ -809,6 +809,55 @@ body {
 }
 .learn-course-meta { display: block; margin-top: 10px; font-size: 0.78rem; color: #999; }
 
+/* ── ダッシュボードの復習エントリ ── */
+.learn-review-entry {
+  display: flex; align-items: center; gap: 16px; text-decoration: none; color: inherit;
+  background: linear-gradient(135deg, #eef4ff 0%, #e4ecff 100%);
+  border: 1px solid #cdd9f5; border-radius: 16px; padding: 20px 24px; margin-bottom: 24px;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+.learn-review-entry:hover { transform: translateY(-2px); box-shadow: 0 6px 18px rgba(80,110,200,0.14); }
+.learn-review-emoji { font-size: 2rem; flex-shrink: 0; }
+.learn-review-text { display: flex; flex-direction: column; flex: 1; font-size: 0.82rem; color: #667; }
+.learn-review-text strong { font-size: 1.02rem; color: #1a1a1a; margin-bottom: 2px; }
+.learn-review-arrow { font-size: 1.3rem; color: #6b82c8; }
+
+/* ── 復習セッション ── */
+.review-session { display: flex; flex-direction: column; align-items: center; }
+.review-progress { font-size: 0.82rem; color: #999; margin-bottom: 16px; }
+.review-card {
+  width: 100%; min-height: 220px; background: #fff; border: 2px solid #eee; border-radius: 20px;
+  display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 10px;
+  padding: 32px 20px; margin-bottom: 22px; cursor: pointer; transition: border-color 0.2s;
+}
+.review-card.flipped { cursor: default; border-color: #f8c6d1; }
+.review-card-ko { font-size: 2.6rem; font-weight: 900; color: #1a1a1a; }
+.review-card-read { font-size: 1.2rem; color: #e8324a; font-weight: 700; }
+.review-card-mean { font-size: 1rem; color: #666; }
+.review-card-hint { font-size: 0.8rem; color: #bbb; margin-top: 8px; }
+.review-flip-btn { width: 100%; }
+
+.review-ratings { display: grid; grid-template-columns: repeat(4, 1fr); gap: 8px; width: 100%; }
+.review-rate-btn {
+  border: none; border-radius: 12px; padding: 14px 4px; font-family: inherit;
+  font-size: 0.82rem; font-weight: 700; color: #fff; cursor: pointer; transition: opacity 0.2s;
+}
+.review-rate-btn:hover { opacity: 0.85; }
+.review-rate-btn.again { background: #e8324a; }
+.review-rate-btn.hard  { background: #f0932b; }
+.review-rate-btn.good  { background: #22a06b; }
+.review-rate-btn.easy  { background: #4a7fe8; }
+
+.review-msg { text-align: center; padding: 40px 20px; }
+.review-msg-emoji { font-size: 3rem; margin-bottom: 12px; }
+.review-msg h2 { font-size: 1.3rem; font-weight: 800; margin-bottom: 10px; }
+.review-msg p { font-size: 0.9rem; color: #666; margin-bottom: 20px; line-height: 1.6; }
+
+@media (max-width: 480px) {
+  .review-rate-btn { font-size: 0.74rem; padding: 12px 2px; }
+  .review-card-ko { font-size: 2.2rem; }
+}
+
 /* ── パンくず ── */
 .learn-breadcrumb { font-size: 0.82rem; color: #999; margin-bottom: 20px; }
 .learn-breadcrumb a { color: #e8324a; text-decoration: none; }

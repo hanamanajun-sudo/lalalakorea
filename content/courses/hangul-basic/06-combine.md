@@ -1,5 +1,10 @@
 ---
 title: 子音と母音を組み合わせて読もう
+words:
+  - { ko: 가수, read: カス, mean: 歌手 }
+  - { ko: 비, read: ピ, mean: 雨 }
+  - { ko: 사랑, read: サラン, mean: 愛 }
+  - { ko: 머리, read: モリ, mean: 頭・髪 }
 quiz:
   - type: choice
     question: "「고」の読み方は？（ㄱ＋ㅗ）"

@@ -1,5 +1,12 @@
 ---
 title: パッチム（받침）入門 — 文字の下の子音
+words:
+  - { ko: 한국, read: ハングク, mean: 韓国 }
+  - { ko: 물, read: ムル, mean: 水 }
+  - { ko: 산, read: サン, mean: 山 }
+  - { ko: 김밥, read: キンパ, mean: 海苔巻き }
+  - { ko: 비빔밥, read: ビビンバ, mean: ビビンバ }
+  - { ko: 사랑해, read: サランヘ, mean: 愛してる }
 quiz:
   - type: choice
     question: "パッチム（받침）とは、文字のどこにつく子音のこと？"
