@@ -5,6 +5,7 @@ import InstagramEmbed from './InstagramEmbed';
 import RelatedPosts from './RelatedPosts';
 import TableOfContents from './TableOfContents';
 import ShareButtons from './ShareButtons';
+import LearnCTA from './LearnCTA';
 
 export async function generateStaticParams() {
   const posts = getAllPosts();
@@ -106,6 +107,7 @@ export default async function PostPage({ params }) {
         dangerouslySetInnerHTML={{ __html: post.content }}
       />
       {hasInstagram && <InstagramEmbed />}
+      {post.categories.includes('韓国語') && <LearnCTA />}
       <ShareButtons title={post.title} url={postUrl} />
       <RelatedPosts posts={post.relatedPosts} />
     </article>

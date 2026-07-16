@@ -713,6 +713,26 @@ body {
    学習機能 (/learn)
    ══════════════════════════════════════════ */
 
+/* ── 記事下部の学習CTA ── */
+.learn-cta {
+  display: flex; gap: 18px; align-items: center;
+  background: linear-gradient(135deg, #fff0f3 0%, #ffe4ea 100%);
+  border: 2px solid #f8c6d1; border-radius: 18px;
+  padding: 24px 26px; margin: 40px 0;
+}
+.learn-cta-emoji { font-size: 2.6rem; flex-shrink: 0; }
+.learn-cta-body h3 { font-size: 1.15rem; font-weight: 800; margin-bottom: 8px; color: #1a1a1a; }
+.learn-cta-body p { font-size: 0.88rem; color: #666; line-height: 1.6; margin-bottom: 14px; }
+.learn-cta-btn {
+  display: inline-block; background: #e8324a; color: #fff; text-decoration: none;
+  font-weight: 700; font-size: 0.9rem; padding: 11px 24px; border-radius: 24px;
+  transition: background 0.2s;
+}
+.learn-cta-btn:hover { background: #c8203a; }
+@media (max-width: 600px) {
+  .learn-cta { flex-direction: column; text-align: center; padding: 22px 18px; }
+}
+
 /* ── ヘッダー：学習リンク & ログインボタン ── */
 .nav-learn { font-weight: 700 !important; color: #e8324a !important; }
 .auth-nav-btn {
