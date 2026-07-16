@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import { getAllCourses } from '../../lib/courses';
+import { getAllWordPacks } from '../../lib/wordpacks';
 import LearnStats from './LearnStats';
 
 export const metadata = {
@@ -10,6 +11,7 @@ export const metadata = {
 
 export default function LearnHome() {
   const courses = getAllCourses();
+  const packs = getAllWordPacks();
 
   return (
     <div className="learn-page">
@@ -21,52 +23,64 @@ export default function LearnHome() {
       <div className="learn-container">
         <LearnStats />
 
-        <div className="learn-entry-row">
-          <Link href="/learn/review" className="learn-review-entry">
+        {/* ハングル学習レッスン */}
+        <section className="learn-section">
+          <h2 className="learn-section-title">
+            <i className="ph-fill ph-book-open-text" /> ハングル学習レッスン
+          </h2>
+          {courses.length === 0 ? (
+            <p className="learn-empty">教材を準備中です。</p>
+          ) : (
+            <div className="premium-grid">
+              {courses.map(course => (
+                <Link key={course.id} href={`/learn/${course.id}`} className="premium-card">
+                  <div className="premium-card-ribbon">{course.level || '入門'}</div>
+                  <div className="premium-card-icon"><i className={`ph-fill ph-${course.icon || 'book-open'}`} /></div>
+                  <h3 className="premium-card-title">{course.title}</h3>
+                  <p className="premium-card-desc">{course.description}</p>
+                  <div className="premium-card-foot">
+                    <span className="premium-card-count">全{(course.lessons || []).length}レッスン</span>
+                    <span className="premium-card-cta">はじめる <i className="ph ph-arrow-right" /></span>
+                  </div>
+                </Link>
+              ))}
+            </div>
+          )}
+        </section>
+
+        {/* 単語学習（復習 + 単語パック） */}
+        <section className="learn-section">
+          <h2 className="learn-section-title">
+            <i className="ph-fill ph-cards-three" /> 単語学習
+          </h2>
+
+          <Link href="/learn/review" className="learn-review-entry review-wide">
             <span className="learn-review-emoji"><i className="ph ph-arrows-clockwise" /></span>
             <span className="learn-review-text">
               <strong>単語復習</strong>
-              忘れそうなタイミングで復習
+              覚えた単語を、忘れそうなタイミングで復習しよう
             </span>
             <span className="learn-review-arrow"><i className="ph ph-arrow-right" /></span>
           </Link>
 
-          <Link href="/learn/notes" className="learn-review-entry notes-entry">
-            <span className="learn-review-emoji"><i className="ph ph-notebook" /></span>
-            <span className="learn-review-text">
-              <strong>学習ノート</strong>
-              進捗・単語帳をまとめて確認
-            </span>
-            <span className="learn-review-arrow"><i className="ph ph-arrow-right" /></span>
-          </Link>
-
-          <Link href="/learn/packs" className="learn-review-entry packs-entry">
-            <span className="learn-review-emoji"><i className="ph ph-puzzle-piece" /></span>
-            <span className="learn-review-text">
-              <strong>単語パック</strong>
-              テーマ別の単語を追加
-            </span>
-            <span className="learn-review-arrow"><i className="ph ph-arrow-right" /></span>
-          </Link>
-        </div>
-
-        {courses.length === 0 ? (
-          <p className="learn-empty">教材を準備中です。もう少しお待ちください</p>
-        ) : (
-          <div className="learn-course-grid">
-            {courses.map(course => (
-              <Link key={course.id} href={`/learn/${course.id}`} className="learn-course-card">
-                <div className="learn-course-emoji"><i className={`ph-fill ph-${course.icon || 'book-open'}`} /></div>
-                <div className="learn-course-body">
-                  <span className="learn-course-level">{course.level || '入門'}</span>
-                  <h2>{course.title}</h2>
-                  <p>{course.description}</p>
-                  <span className="learn-course-meta">全{(course.lessons || []).length}レッスン</span>
+          <h3 className="learn-subsection-title">
+            <i className="ph-fill ph-puzzle-piece" /> 単語パック
+          </h3>
+          <div className="premium-grid">
+            {packs.map(pack => (
+              <Link key={pack.id} href={`/learn/packs/${pack.id}`} className="premium-card">
+                <div className="premium-card-ribbon">{pack.level}</div>
+                <div className="premium-card-icon"><i className={`ph-fill ph-${pack.icon || 'stack'}`} /></div>
+                <h3 className="premium-card-title">{pack.title}</h3>
+                <p className="premium-card-desc">{pack.description}</p>
+                <div className="premium-card-foot">
+                  <span className="premium-card-count">全{pack.words.length}語</span>
+                  <span className="premium-card-cta">追加する <i className="ph ph-arrow-right" /></span>
                 </div>
               </Link>
             ))}
           </div>
-        )}
+        </section>
       </div>
     </div>
   );

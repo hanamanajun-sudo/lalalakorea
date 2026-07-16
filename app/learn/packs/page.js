@@ -23,16 +23,16 @@ export default function PacksPage() {
           <Link href="/learn">学習トップ</Link> ／ 単語パック
         </div>
 
-        <div className="pack-grid">
+        <div className="premium-grid">
           {packs.map(pack => (
-            <Link key={pack.id} href={`/learn/packs/${pack.id}`} className="pack-card">
-              <div className="pack-card-ribbon">{pack.level}</div>
-              <div className="pack-card-emoji"><i className={`ph-fill ph-${pack.icon || 'stack'}`} /></div>
-              <h2 className="pack-card-title">{pack.title}</h2>
-              <p className="pack-card-desc">{pack.description}</p>
-              <div className="pack-card-foot">
-                <span className="pack-card-count">全{pack.words.length}語</span>
-                <span className="pack-card-cta">追加する <i className="ph ph-arrow-right" /></span>
+            <Link key={pack.id} href={`/learn/packs/${pack.id}`} className="premium-card">
+              <div className="premium-card-ribbon">{pack.level}</div>
+              <div className="premium-card-icon"><i className={`ph-fill ph-${pack.icon || 'stack'}`} /></div>
+              <h2 className="premium-card-title">{pack.title}</h2>
+              <p className="premium-card-desc">{pack.description}</p>
+              <div className="premium-card-foot">
+                <span className="premium-card-count">全{pack.words.length}語</span>
+                <span className="premium-card-cta">追加する <i className="ph ph-arrow-right" /></span>
               </div>
             </Link>
           ))}

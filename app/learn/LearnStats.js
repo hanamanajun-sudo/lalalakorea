@@ -73,15 +73,20 @@ export default function LearnStats() {
 
   return (
     <div className="learn-stats">
-      <div className="learn-stats-numbers">
-        <div className="learn-stat">
-          <div className="learn-stat-value">{stats.streak}<span>日</span></div>
-          <div className="learn-stat-label"><i className="ph-fill ph-fire" /> 連続学習</div>
+      <div className="learn-stats-top">
+        <div className="learn-stats-numbers">
+          <div className="learn-stat">
+            <div className="learn-stat-value">{stats.streak}<span>日</span></div>
+            <div className="learn-stat-label"><i className="ph-fill ph-fire" /> 連続</div>
+          </div>
+          <div className="learn-stat">
+            <div className="learn-stat-value">{stats.total}<span>個</span></div>
+            <div className="learn-stat-label"><i className="ph-fill ph-check-circle" /> 完了</div>
+          </div>
         </div>
-        <div className="learn-stat">
-          <div className="learn-stat-value">{stats.total}<span>個</span></div>
-          <div className="learn-stat-label"><i className="ph-fill ph-check-circle" /> 完了レッスン</div>
-        </div>
+        <Link href="/learn/notes" className="learn-notes-btn">
+          <i className="ph ph-notebook" /> 学習ノート
+        </Link>
       </div>
       <div className="learn-badges">
         {BADGES.map(b => {

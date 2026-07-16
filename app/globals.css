@@ -1666,3 +1666,198 @@ body {
 .quiz-intro-icon i { color: #c15d6d; }
 .quiz-result-emoji i { color: #c2913f; }
 .login-sent-icon i { color: #c15d6d; }
+
+/* ══════════════════════════════════════════════════════════════
+   PASTEL — 10〜20代女性向けの、かわいく爽やかなパステル配色
+   末尾に置き、これまでのローズ配色を上書き
+   ══════════════════════════════════════════════════════════════ */
+
+.learn-page {
+  --lk-red: #f77db8;
+  --lk-red-deep: #e05c9e;
+  --lk-coral: #ffc4e0;
+  --lk-gold: #eab04c;
+  --lk-gold-soft: #f5d78f;
+  --lk-ink: #574a5c;
+  --lk-line: #f6e5f0;
+  --lk-cream: #fff8fc;
+  background:
+    radial-gradient(1100px 460px at 50% -180px, rgba(255, 190, 225, 0.22), transparent 70%),
+    radial-gradient(900px 600px at 100% 0, rgba(198, 178, 240, 0.14), transparent 62%),
+    #fff8fc;
+}
+
+/* ── HERO：明るいパステル + 濃いプラムの文字（赤を排除） ── */
+.learn-page .learn-hero {
+  background:
+    radial-gradient(120% 140% at 12% 0%, #ffdcee 0%, transparent 55%),
+    radial-gradient(120% 130% at 100% 100%, #e2d5fb 0%, transparent 60%),
+    linear-gradient(135deg, #ffe3f1 0%, #f1e2fb 50%, #e1e8fd 100%);
+  color: #574a5c;
+}
+.learn-page .learn-hero::before {
+  background-image: radial-gradient(rgba(247, 125, 184, 0.18) 1px, transparent 1.4px);
+  opacity: 0.6;
+}
+.learn-page .learn-hero h1 {
+  color: #4a3f52;
+  text-shadow: 0 1px 6px rgba(255, 255, 255, 0.5);
+}
+.learn-page .learn-hero h1 i { color: #f472ad; }
+.learn-page .learn-hero p { color: #7a6a7c; }
+.learn-page .learn-hero .learn-course-emoji-lg { color: #f472ad; filter: drop-shadow(0 6px 12px rgba(247, 114, 173, 0.3)); }
+.learn-page .learn-hero .learn-course-level {
+  background: #fff; color: #e05c9e;
+  border: 1px solid #ffd0e6; backdrop-filter: none;
+}
+
+/* ── シェル・サイドバー：やさしいピンク ── */
+.learn-shell { background: #fff8fc; }
+.learn-sidebar { background: linear-gradient(180deg, #fffdfe 0%, #fdf1f8 100%); border-color: #f6e5f0; }
+.learn-brand {
+  background: linear-gradient(135deg, #ffa6d2 0%, #f472ad 100%);
+  box-shadow: 0 8px 20px rgba(244, 114, 173, 0.28);
+}
+.learn-brand:hover { box-shadow: 0 12px 26px rgba(244, 114, 173, 0.36); }
+.learn-sidenav-item:hover { background: #fdeaf4; color: #d6499b; }
+.learn-sidenav-item.active {
+  background: linear-gradient(135deg, #ffe6f3, #fbe6fb);
+  color: #d6499b;
+  box-shadow: inset 3px 0 0 #f472ad;
+}
+@media (max-width: 900px) {
+  .learn-sidenav-item.active { box-shadow: inset 0 -3px 0 #f472ad; }
+}
+.learn-back-blog:hover { background: #fbeef5; color: #8a6a80; }
+
+/* ── 残っていた色アクセントをパステルへ ── */
+.learn-page .learn-progress-value,
+.learn-page .notes-course-fill { background: linear-gradient(90deg, #f77db8, #c9a6f5); }
+.learn-page .quiz-progress-fill { background: #f77db8; }
+.learn-page .notes-review-count { color: #e05c9e; }
+.learn-page .notes-word-read { color: #c94f92; }
+.learn-page .pack-word-read { color: #c94f92; }
+.learn-page .pack-word-num { background: #fdeaf4; color: #d6499b; }
+
+/* ── コンパクトな統計・バッジ（従来の約半分） ── */
+.learn-page .learn-stats { padding: 14px 18px; border-radius: 18px; }
+.learn-stats-top { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-bottom: 12px; }
+.learn-page .learn-stats-numbers { gap: 22px; margin-bottom: 0; }
+.learn-page .learn-stat-value { font-size: 1.4rem; }
+.learn-page .learn-stat-value span { font-size: 0.72rem; }
+.learn-page .learn-stat-label { font-size: 0.68rem; margin-top: 2px; }
+.learn-page .learn-badges { gap: 7px; }
+.learn-page .learn-badge { width: 62px; padding: 8px 4px; border-radius: 12px; gap: 3px; }
+.learn-page .learn-badge-emoji { font-size: 1.15rem; }
+.learn-page .learn-badge-label { font-size: 0.6rem; }
+.learn-notes-btn {
+  display: inline-flex; align-items: center; gap: 6px; flex-shrink: 0;
+  background: #fff; color: #e05c9e; text-decoration: none;
+  font-size: 0.8rem; font-weight: 700;
+  padding: 8px 16px; border-radius: 20px; border: 1.5px solid #ffcfe6;
+  transition: background 0.18s, transform 0.18s;
+}
+.learn-notes-btn:hover { background: #fff2f8; transform: translateY(-1px); }
+
+/* ── セクション見出し ── */
+.learn-section { margin-bottom: 40px; }
+.learn-section-title {
+  display: flex; align-items: center; gap: 9px;
+  font-family: 'Zen Maru Gothic', 'Noto Sans JP', sans-serif;
+  font-size: 1.25rem; font-weight: 900; color: #4a3f52; margin-bottom: 18px;
+}
+.learn-section-title i { color: #f472ad; }
+.learn-subsection-title {
+  display: flex; align-items: center; gap: 7px;
+  font-family: 'Zen Maru Gothic', 'Noto Sans JP', sans-serif;
+  font-size: 1rem; font-weight: 700; color: #6a5a6c; margin: 22px 0 14px;
+}
+.learn-subsection-title i { color: #c9a6f5; }
+
+/* ── 単語復習エントリ（横長） ── */
+.learn-page .learn-review-entry.review-wide {
+  width: 100%; margin-bottom: 6px;
+  background: linear-gradient(135deg, #fdf0f8 0%, #f3ecfd 100%);
+  border: 1px solid #f4dcee;
+}
+.learn-page .review-wide .learn-review-emoji { color: #c9a6f5; }
+.learn-page .review-wide .learn-review-arrow { color: #c9a6f5; }
+
+/* ══════════ プレミアムカード（レッスン & 単語パック共通）══════════ */
+.premium-grid {
+  display: grid; grid-template-columns: repeat(auto-fill, minmax(258px, 1fr)); gap: 18px;
+}
+.premium-card {
+  position: relative; display: flex; flex-direction: column;
+  background: linear-gradient(180deg, #ffffff 0%, #fffafd 100%);
+  border: 1px solid #f6e5f0; border-radius: 22px;
+  padding: 26px 22px 18px;
+  text-decoration: none; color: inherit;
+  box-shadow: 0 6px 20px rgba(214, 73, 155, 0.08);
+  overflow: hidden;
+  transition: transform 0.22s cubic-bezier(0.22,1,0.36,1), box-shadow 0.22s, border-color 0.22s;
+}
+.premium-card::after {
+  content: ''; position: absolute; inset: 0 0 auto 0; height: 5px;
+  background: linear-gradient(90deg, #ffb3d6, #d9b8f5, #b8e0f0);
+  opacity: 0; transition: opacity 0.25s;
+}
+.premium-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 20px 40px rgba(214, 73, 155, 0.16);
+  border-color: #f6cbe4;
+}
+.premium-card:hover::after { opacity: 1; }
+.premium-card-ribbon {
+  position: absolute; top: 15px; right: -32px;
+  background: linear-gradient(135deg, #ffb3d6, #f472ad);
+  color: #fff; font-size: 0.64rem; font-weight: 800; letter-spacing: 0.04em;
+  padding: 4px 36px; transform: rotate(45deg);
+  box-shadow: 0 2px 6px rgba(244, 114, 173, 0.3);
+}
+.premium-card-icon {
+  width: 62px; height: 62px; border-radius: 18px;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 2rem; color: #f472ad; margin-bottom: 14px;
+  background: linear-gradient(135deg, #ffeaf5, #f3e9fd);
+}
+.premium-card-title {
+  font-family: 'Zen Maru Gothic', 'Noto Sans JP', sans-serif;
+  font-size: 1.12rem; font-weight: 900; color: #4a3f52; margin-bottom: 8px;
+}
+.premium-card-desc { font-size: 0.84rem; color: #7a6a7c; line-height: 1.65; flex: 1; margin-bottom: 16px; }
+.premium-card-foot {
+  display: flex; align-items: center; justify-content: space-between;
+  border-top: 1px solid #f6e5f0; padding-top: 13px;
+}
+.premium-card-count { font-size: 0.76rem; color: #a897a6; font-weight: 600; }
+.premium-card-cta { font-size: 0.84rem; color: #e05c9e; font-weight: 800; display: inline-flex; align-items: center; gap: 4px; }
+
+/* ── パック詳細 & クイズ等のアクセントをパステルへ ── */
+.pack-add-box { background: linear-gradient(135deg, #fdf0f8, #f4ecfd); border-color: #f4dcee; }
+.pack-add-box.added { background: linear-gradient(135deg, #eef9f2, #e4f5ec); border-color: #c3e8d1; }
+.pack-add-box.added .pack-add-check i { color: #35c08a; }
+.learn-cta { background: linear-gradient(135deg, #fdeff7 0%, #f3ecfd 100%); border-color: #f4d7ea; }
+.learn-cta-emoji { color: #f472ad; }
+.learn-cta-btn { background: linear-gradient(135deg, #ffa6d2, #e05c9e); box-shadow: 0 6px 18px rgba(224,92,158,0.26); }
+.learn-cta-btn:hover { box-shadow: 0 10px 24px rgba(224,92,158,0.34); }
+
+/* ── ログイン ── */
+.login-page { background: radial-gradient(900px 400px at 50% -150px, rgba(255,190,225,0.24), transparent 70%), #fff8fc; }
+.login-btn { background: linear-gradient(135deg, #ffa6d2, #e05c9e); }
+.login-input:focus { border-color: #f472ad; }
+.login-sent-icon i { color: #f472ad; }
+
+/* ── アイコンのコンテキストカラー（かわいいパステルの色変化） ── */
+.learn-page .learn-stat-label i { color: #f0a53c; }
+.learn-page .notes-heading i { color: #c9a6f5; }
+.learn-page .review-msg-emoji i { color: #f472ad; }
+.learn-page .learn-badge.earned .learn-badge-emoji { color: #eab04c; }
+.quiz-intro-icon i { color: #f472ad; }
+.quiz-result-emoji i { color: #eab04c; }
+
+@media (max-width: 560px) {
+  .learn-stats-top { flex-direction: column; align-items: stretch; gap: 10px; }
+  .learn-notes-btn { justify-content: center; }
+  .learn-page .learn-stats-numbers { justify-content: center; }
+}
