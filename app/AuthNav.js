@@ -13,6 +13,7 @@ export default function AuthNav() {
   const router = useRouter();
 
   useEffect(() => {
+    if (!supabase) { setReady(true); return; }
     supabase.auth.getUser().then(({ data }) => {
       setUser(data.user);
       setReady(true);
