@@ -79,7 +79,7 @@ export default function Quiz({ courseId, lessonId, questions, nextLesson }) {
     return (
       <div className="quiz-box">
         <div className="quiz-intro">
-          <div className="quiz-intro-icon">✏️</div>
+          <div className="quiz-intro-icon"><i className="ph ph-pencil-line" /></div>
           <h3>理解度チェック（全{questions.length}問）</h3>
           <p>学んだ内容をクイズで確認しましょう！</p>
           <button className="quiz-btn-primary" onClick={() => setStarted(true)}>
@@ -96,7 +96,9 @@ export default function Quiz({ courseId, lessonId, questions, nextLesson }) {
     return (
       <div className="quiz-box">
         <div className="quiz-result">
-          <div className="quiz-result-emoji">{score === 100 ? '🎉' : score >= 60 ? '😊' : '💪'}</div>
+          <div className="quiz-result-emoji">
+            <i className={`ph-fill ph-${score === 100 ? 'confetti' : score >= 60 ? 'smiley' : 'barbell'}`} />
+          </div>
           <h3>クイズ完了！</h3>
           <div className="quiz-score">{questions.length}問中 <strong>{correctCount}問</strong>正解</div>
           <div className="quiz-score-pct">{score}点</div>
@@ -163,12 +165,12 @@ function CompleteFooter({ user, saveState, onComplete, finished, nextLesson, cou
           {user ? (
             <div className="quiz-save-msg">
               {saveState === 'saving' && '進捗を保存中…'}
-              {saveState === 'saved' && '✅ 進捗を保存しました'}
-              {saveState === 'error' && '⚠️ 保存に失敗しました（テーブル未作成かも）'}
+              {saveState === 'saved' && <><i className="ph-fill ph-check-circle" /> 進捗を保存しました</>}
+              {saveState === 'error' && <><i className="ph-fill ph-warning-circle" /> 保存に失敗しました（テーブル未作成かも）</>}
             </div>
           ) : (
             <div className="quiz-login-prompt">
-              <p>ログインすると進捗が保存され、次回続きから学習できます 📌</p>
+              <p>ログインすると進捗が保存され、次回続きから学習できます</p>
               <Link href="/login" className="quiz-btn-primary">ログインして保存</Link>
             </div>
           )}

@@ -50,7 +50,7 @@ export default function StudyNotes({ courses, allWords }) {
       const courseProgress = courses.map(c => {
         const total = (c.lessons || []).length;
         const done = (c.lessons || []).filter(lid => doneSet.has(`${c.id}/${lid}`)).length;
-        return { id: c.id, title: c.title, emoji: c.emoji, done, total, pct: total ? Math.round((done / total) * 100) : 0 };
+        return { id: c.id, title: c.title, icon: c.icon, done, total, pct: total ? Math.round((done / total) * 100) : 0 };
       });
 
       // 学んだ単語 = 完了レッスンの単語 ∪ 復習カード（単語パック含む）
@@ -83,7 +83,7 @@ export default function StudyNotes({ courses, allWords }) {
   if (status === 'guest') {
     return (
       <div className="review-msg">
-        <div className="review-msg-emoji">📓</div>
+        <div className="review-msg-emoji"><i className="ph ph-notebook" /></div>
         <h2>ログインして学習ノートを作ろう</h2>
         <p>完了した教材や覚えた単語が、ここに記録されていきます。</p>
         <Link href="/login" className="quiz-btn-primary">ログイン</Link>
@@ -110,15 +110,15 @@ export default function StudyNotes({ courses, allWords }) {
 
       {/* 教材の進捗 */}
       <section className="notes-section">
-        <h2 className="notes-heading">📚 教材の進捗</h2>
+        <h2 className="notes-heading"><i className="ph ph-books" /> 教材の進捗</h2>
         <div className="notes-courses">
           {courseProgress.map(c => (
             <Link key={c.id} href={`/learn/${c.id}`} className="notes-course">
-              <span className="notes-course-emoji">{c.emoji || '📖'}</span>
+              <span className="notes-course-emoji"><i className={`ph-fill ph-${c.icon || 'book-open'}`} /></span>
               <span className="notes-course-info">
                 <span className="notes-course-title">
                   {c.title}
-                  {c.pct === 100 && <span className="notes-course-done">修了 🏆</span>}
+                  {c.pct === 100 && <span className="notes-course-done"><i className="ph-fill ph-trophy" /> 修了</span>}
                 </span>
                 <span className="notes-course-track">
                   <span className="notes-course-fill" style={{ width: `${c.pct}%` }} />
@@ -132,7 +132,7 @@ export default function StudyNotes({ courses, allWords }) {
 
       {/* 私の単語帳 */}
       <section className="notes-section">
-        <h2 className="notes-heading">📝 私の単語帳（{learnedWords.length}語）</h2>
+        <h2 className="notes-heading"><i className="ph ph-cards" /> 私の単語帳（{learnedWords.length}語）</h2>
         {learnedWords.length === 0 ? (
           <p className="notes-empty">レッスンを完了すると、覚えた単語がここに追加されます。</p>
         ) : (

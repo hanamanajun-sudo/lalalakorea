@@ -14,7 +14,7 @@ export default function LearnHome() {
   return (
     <div className="learn-page">
       <div className="learn-hero">
-        <h1>📚 韓国語を学ぼう</h1>
+        <h1><i className="ph-fill ph-graduation-cap" /> 韓国語を学ぼう</h1>
         <p>K-POP・ドラマが好きなあなたへ。クイズ付きで楽しく、自分のペースで。</p>
       </div>
 
@@ -23,40 +23,40 @@ export default function LearnHome() {
 
         <div className="learn-entry-row">
           <Link href="/learn/review" className="learn-review-entry">
-            <span className="learn-review-emoji">🔁</span>
+            <span className="learn-review-emoji"><i className="ph ph-arrows-clockwise" /></span>
             <span className="learn-review-text">
               <strong>単語復習</strong>
               忘れそうなタイミングで復習
             </span>
-            <span className="learn-review-arrow">→</span>
+            <span className="learn-review-arrow"><i className="ph ph-arrow-right" /></span>
           </Link>
 
           <Link href="/learn/notes" className="learn-review-entry notes-entry">
-            <span className="learn-review-emoji">📓</span>
+            <span className="learn-review-emoji"><i className="ph ph-notebook" /></span>
             <span className="learn-review-text">
               <strong>学習ノート</strong>
               進捗・単語帳をまとめて確認
             </span>
-            <span className="learn-review-arrow">→</span>
+            <span className="learn-review-arrow"><i className="ph ph-arrow-right" /></span>
           </Link>
 
           <Link href="/learn/packs" className="learn-review-entry packs-entry">
-            <span className="learn-review-emoji">🧩</span>
+            <span className="learn-review-emoji"><i className="ph ph-puzzle-piece" /></span>
             <span className="learn-review-text">
               <strong>単語パック</strong>
               テーマ別の単語を追加
             </span>
-            <span className="learn-review-arrow">→</span>
+            <span className="learn-review-arrow"><i className="ph ph-arrow-right" /></span>
           </Link>
         </div>
 
         {courses.length === 0 ? (
-          <p className="learn-empty">教材を準備中です。もう少しお待ちください 🙏</p>
+          <p className="learn-empty">教材を準備中です。もう少しお待ちください</p>
         ) : (
           <div className="learn-course-grid">
             {courses.map(course => (
               <Link key={course.id} href={`/learn/${course.id}`} className="learn-course-card">
-                <div className="learn-course-emoji">{course.emoji || '📖'}</div>
+                <div className="learn-course-emoji"><i className={`ph-fill ph-${course.icon || 'book-open'}`} /></div>
                 <div className="learn-course-body">
                   <span className="learn-course-level">{course.level || '入門'}</span>
                   <h2>{course.title}</h2>

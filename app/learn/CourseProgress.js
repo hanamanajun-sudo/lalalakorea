@@ -51,7 +51,7 @@ export default function CourseProgress({ courseId, lessons }) {
           return (
             <li key={lesson.id}>
               <Link href={`/learn/${courseId}/${lesson.id}`} className={`learn-lesson-item${done ? ' done' : ''}`}>
-                <span className="learn-lesson-num">{done ? '✓' : i + 1}</span>
+                <span className="learn-lesson-num">{done ? <i className="ph ph-check" /> : i + 1}</span>
                 <span className="learn-lesson-title">{lesson.title}</span>
               </Link>
             </li>

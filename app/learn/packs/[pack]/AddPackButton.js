@@ -75,7 +75,7 @@ export default function AddPackButton({ packId, words }) {
   if (status === 'done' || allAdded) {
     return (
       <div className="pack-add-box added">
-        <div className="pack-add-check">✅</div>
+        <div className="pack-add-check"><i className="ph-fill ph-check-circle" /></div>
         <p>{allAdded ? 'このパックはすべて追加済みです' : `${addedCount}語を単語帳に追加しました！`}</p>
         <div className="pack-add-links">
           <Link href="/learn/review" className="quiz-btn-primary">さっそく復習する</Link>
@@ -89,7 +89,7 @@ export default function AddPackButton({ packId, words }) {
     <div className="pack-add-box">
       {addedCount > 0 && <p className="pack-add-note">{addedCount}語は追加済み。残りを追加できます。</p>}
       <button className="quiz-btn-primary pack-add-btn" onClick={handleAdd} disabled={status === 'adding'}>
-        {status === 'adding' ? '追加中…' : `📥 このパックを単語帳に追加（全${words.length}語）`}
+        {status === 'adding' ? '追加中…' : <><i className="ph ph-tray-arrow-down" /> このパックを単語帳に追加（全{words.length}語）</>}
       </button>
     </div>
   );

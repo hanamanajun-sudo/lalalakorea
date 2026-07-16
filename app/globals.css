@@ -1565,3 +1565,104 @@ body {
   .pack-word { flex-wrap: wrap; }
   .pack-word-mean { margin-left: 0; width: 100%; text-align: left; padding-left: 36px; }
 }
+
+/* ══════════════════════════════════════════════════════════════
+   RECOLOR — ローズ・ベージュ（赤の主張を抑え、目に優しく）
+   + Phosphor Icons のスタイル調整
+   末尾に置き、これまでの赤系を上書きする
+   ══════════════════════════════════════════════════════════════ */
+
+.learn-page {
+  --lk-red: #d65a6a;
+  --lk-red-deep: #b84557;
+  --lk-coral: #e79aa4;
+  --lk-gold: #c2913f;
+  --lk-gold-soft: #e4c079;
+  --lk-ink: #3a2e30;
+  --lk-line: #ece0d9;
+  --lk-cream: #fbf7f3;
+  background:
+    radial-gradient(1200px 500px at 50% -200px, rgba(224, 150, 165, 0.10), transparent 70%),
+    radial-gradient(900px 600px at 100% 0, rgba(194, 145, 63, 0.05), transparent 60%),
+    #fbf7f3;
+}
+
+/* ── HERO：くすみローズ（彩度を落として目に優しく） ── */
+.learn-page .learn-hero {
+  background:
+    radial-gradient(120% 140% at 15% 0%, rgba(230, 150, 165, 0.5) 0%, transparent 55%),
+    radial-gradient(130% 130% at 100% 100%, rgba(120, 55, 70, 0.55) 0%, transparent 60%),
+    linear-gradient(135deg, #c15d6d 0%, #ab4a5b 55%, #934656 100%);
+}
+
+/* ── シェル・サイドバー ── */
+.learn-shell { background: #fbf7f3; }
+.learn-sidebar { background: linear-gradient(180deg, #fffdfb 0%, #f9f2ec 100%); border-color: #ece0d9; }
+.learn-brand {
+  background: linear-gradient(135deg, #c15d6d 0%, #a2495a 100%);
+  box-shadow: 0 8px 20px rgba(150, 60, 75, 0.22);
+}
+.learn-brand:hover { box-shadow: 0 12px 26px rgba(150, 60, 75, 0.30); }
+.learn-sidenav-item:hover { background: #f6ece9; color: #a2495a; }
+.learn-sidenav-item.active {
+  background: linear-gradient(135deg, #f6e7e7, #f1ded9);
+  color: #a2495a;
+  box-shadow: inset 3px 0 0 #d65a6a;
+}
+@media (max-width: 900px) {
+  .learn-sidenav-item.active { box-shadow: inset 0 -3px 0 #d65a6a; }
+}
+
+/* ── 残っていた赤アクセントをローズへ ── */
+.learn-page .learn-progress-value { background: linear-gradient(90deg, #d65a6a, #e79aa4); }
+.learn-page .quiz-progress-fill { background: #d65a6a; }
+.learn-page .notes-review-count { color: #c15d6d; }
+.learn-page .notes-word-read { color: #c15d6d; }
+.learn-page .pack-card-cta,
+.learn-page .pack-word-read { color: #c15d6d; }
+.learn-page .pack-word-num { background: #f7ebe9; color: #a2495a; }
+
+/* 記事下部CTA（.learn-page 外） */
+.learn-cta { background: linear-gradient(135deg, #fbeef0 0%, #f6e2e5 100%); border-color: #eecdd2; }
+.learn-cta-emoji { color: #c15d6d; }
+.learn-cta-btn { background: linear-gradient(135deg, #c15d6d, #a2495a); box-shadow: 0 6px 18px rgba(150,60,75,0.24); }
+.learn-cta-btn:hover { box-shadow: 0 10px 24px rgba(150,60,75,0.32); }
+
+/* ログイン */
+.login-page { background: radial-gradient(900px 400px at 50% -150px, rgba(224,150,165,0.12), transparent 70%), #fbf7f3; }
+.login-btn { background: linear-gradient(135deg, #c15d6d, #a2495a); }
+.login-input:focus { border-color: #d65a6a; }
+
+/* ══════════════ Phosphor Icons ══════════════ */
+.learn-page i[class*="ph-"],
+.learn-shell i[class*="ph-"],
+.learn-cta i[class*="ph-"],
+.login-page i[class*="ph-"] {
+  vertical-align: -0.08em;
+  line-height: 1;
+}
+
+/* 見出しやボタン内アイコンの余白 */
+.learn-page .learn-hero h1 i,
+.learn-page .notes-heading i,
+.learn-page .learn-stat-label i,
+.learn-cta-btn i,
+.learn-page .pack-card-cta i,
+.learn-back-blog i { margin-right: 0.12em; }
+
+/* コンテキスト別カラー（赤の連続を避け、色に変化を） */
+.learn-page .learn-course-emoji { color: #c15d6d; }
+.learn-page .pack-card-emoji { color: #c15d6d; }
+.learn-page .learn-review-entry .learn-review-emoji { color: #6b82c8; }
+.learn-page .notes-entry .learn-review-emoji { color: #d38b52; }
+.learn-page .packs-entry .learn-review-emoji { color: #8b7bd0; }
+.learn-page .learn-stat-label i { color: #c2913f; }
+.learn-page .notes-heading i { color: #c2913f; }
+.learn-page .notes-course-done i { color: var(--lk-gold); }
+.learn-page .review-msg-emoji i { color: #c15d6d; }
+.learn-page .learn-badge-emoji { color: #b8a8ab; }
+.learn-page .learn-badge.earned .learn-badge-emoji { color: var(--lk-gold); }
+.learn-page .pack-add-box.added .pack-add-check i { color: #22a06b; }
+.quiz-intro-icon i { color: #c15d6d; }
+.quiz-result-emoji i { color: #c2913f; }
+.login-sent-icon i { color: #c15d6d; }

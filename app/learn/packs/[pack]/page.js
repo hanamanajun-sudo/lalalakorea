@@ -24,7 +24,7 @@ export default function PackDetailPage({ params }) {
   return (
     <div className="learn-page">
       <div className="learn-hero learn-hero-course">
-        <div className="learn-course-emoji-lg">{pack.emoji}</div>
+        <div className="learn-course-emoji-lg"><i className={`ph-fill ph-${pack.icon || 'stack'}`} /></div>
         <span className="learn-course-level">{pack.level}</span>
         <h1>{pack.title}</h1>
         <p>{pack.description}</p>

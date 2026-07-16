@@ -26,11 +26,11 @@ function calcStreak(rows) {
 }
 
 const BADGES = [
-  { id: 'first',   emoji: '🌱', label: 'はじめの一歩', desc: '最初のレッスンを完了', earned: s => s.total >= 1 },
-  { id: 'streak3', emoji: '🔥', label: '3日連続',      desc: '3日連続で学習',       earned: s => s.streak >= 3 },
-  { id: 'five',    emoji: '⭐', label: '5レッスン',    desc: '5レッスン完了',       earned: s => s.total >= 5 },
-  { id: 'perfect', emoji: '💯', label: '満点',          desc: 'クイズで満点を獲得',   earned: s => s.hasPerfect },
-  { id: 'hangul',  emoji: '🏆', label: 'ハングル修了', desc: 'ハングル基礎を全て完了', earned: s => s.hangulDone >= 10 },
+  { id: 'first',   icon: 'plant',        label: 'はじめの一歩', desc: '最初のレッスンを完了', earned: s => s.total >= 1 },
+  { id: 'streak3', icon: 'fire',         label: '3日連続',      desc: '3日連続で学習',       earned: s => s.streak >= 3 },
+  { id: 'five',    icon: 'star',         label: '5レッスン',    desc: '5レッスン完了',       earned: s => s.total >= 5 },
+  { id: 'perfect', icon: 'seal-check',   label: '満点',          desc: 'クイズで満点を獲得',   earned: s => s.hasPerfect },
+  { id: 'hangul',  icon: 'trophy',       label: 'ハングル修了', desc: 'ハングル基礎を全て完了', earned: s => s.hangulDone >= 10 },
 ];
 
 export default function LearnStats() {
@@ -65,7 +65,7 @@ export default function LearnStats() {
   if (status === 'guest') {
     return (
       <div className="learn-stats-guest">
-        <span>🔥 ログインすると、連続学習日数やバッジが記録されます</span>
+        <span><i className="ph-fill ph-fire" /> ログインすると、連続学習日数やバッジが記録されます</span>
         <Link href="/login" className="learn-stats-login">ログイン</Link>
       </div>
     );
@@ -76,11 +76,11 @@ export default function LearnStats() {
       <div className="learn-stats-numbers">
         <div className="learn-stat">
           <div className="learn-stat-value">{stats.streak}<span>日</span></div>
-          <div className="learn-stat-label">🔥 連続学習</div>
+          <div className="learn-stat-label"><i className="ph-fill ph-fire" /> 連続学習</div>
         </div>
         <div className="learn-stat">
           <div className="learn-stat-value">{stats.total}<span>個</span></div>
-          <div className="learn-stat-label">✅ 完了レッスン</div>
+          <div className="learn-stat-label"><i className="ph-fill ph-check-circle" /> 完了レッスン</div>
         </div>
       </div>
       <div className="learn-badges">
@@ -88,7 +88,7 @@ export default function LearnStats() {
           const earned = b.earned(stats);
           return (
             <div key={b.id} className={`learn-badge${earned ? ' earned' : ''}`} title={b.desc}>
-              <span className="learn-badge-emoji">{b.emoji}</span>
+              <span className="learn-badge-emoji"><i className={`${earned ? 'ph-fill' : 'ph'} ph-${b.icon}`} /></span>
               <span className="learn-badge-label">{b.label}</span>
             </div>
           );

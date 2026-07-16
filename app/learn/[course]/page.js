@@ -24,7 +24,7 @@ export default function CoursePage({ params }) {
   return (
     <div className="learn-page">
       <div className="learn-hero learn-hero-course">
-        <div className="learn-course-emoji-lg">{course.emoji || '📖'}</div>
+        <div className="learn-course-emoji-lg"><i className={`ph-fill ph-${course.icon || 'book-open'}`} /></div>
         <span className="learn-course-level">{course.level || '入門'}</span>
         <h1>{course.title}</h1>
         <p>{course.description}</p>

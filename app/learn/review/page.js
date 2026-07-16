@@ -14,7 +14,7 @@ export default function ReviewPage() {
   return (
     <div className="learn-page">
       <div className="learn-hero learn-hero-course">
-        <div className="learn-course-emoji-lg">🔁</div>
+        <div className="learn-course-emoji-lg"><i className="ph ph-arrows-clockwise" /></div>
         <h1>単語復習</h1>
         <p>覚えた単語を、忘れそうなタイミングで復習します</p>
       </div>

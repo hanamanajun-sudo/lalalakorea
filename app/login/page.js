@@ -13,7 +13,7 @@ export default function LoginPage() {
         <h1>ログイン / 新規登録</h1>
         <p className="login-desc">
           メールアドレスを入力すると、ログイン用リンクが届きます。<br />
-          パスワードは不要です 📧
+          パスワードは不要です
         </p>
         <LoginForm />
       </div>

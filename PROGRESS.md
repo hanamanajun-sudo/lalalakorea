@@ -60,9 +60,15 @@
 - [x] 로그인(매직링크) + auth 콜백 + 헤더 「学習」 메뉴 & 로그인 버튼
 - [x] `npm run build` 통과 + 로컬 동작 확인 (모든 라우트 200)
 - [ ] **Supabase 테이블 생성** — `supabase-setup.sql`을 SQL Editor에 붙여넣고 Run (사용자 작업)
-- [ ] **Supabase 이메일 인증 리다이렉트 URL 설정** — Authentication → URL Configuration에 사이트 URL 등록
-- [ ] 나머지 7레슨 콘텐츠 채우기 (자음·조합·격음/농음·받침·종합퀴즈)
-- [ ] 블로그 한국어 카테고리 기사 하단에 `/learn` CTA
+- [x] Supabase 이메일 인증 리다이렉트 URL 설정 (URL Configuration)
+- [x] 구글 OAuth 로그인 추가 (Google Cloud Console + Supabase Provider 설정 완료, 동작 확인)
+- [x] 구글 로그인 + 진도 저장 실제 동작 확인 ✅
+- [ ] **가입 축하 메일** — 신규 가입 시 간단한 환영 메일 발송
+  - 방법 후보 ①: Supabase Auth 이메일 템플릿 커스터마이즈 (매직링크 메일 문구를 환영조로)
+  - 방법 후보 ②: Supabase Auth Hook (Send Email Hook) or DB Webhook → Resend/메일 서비스로 환영 메일
+  - 무료 범위: Resend 무료 티어(월 3,000통) + `auth.users` insert 트리거 조합이 깔끔
+- [x] 한글 기초 교재 10레슨 완결 (자음·조합·격음/농음·받침·K-POP이름·수료테스트)
+- [x] 블로그 한국어 카테고리 기사 하단에 `/learn` CTA 배너 추가
 
 ### 우선순위 높음
 - [ ] **`/store` 페이지 추가** — note.com PDF 판매 랜딩 페이지 (Phase 3 수익화)

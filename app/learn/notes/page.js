@@ -15,7 +15,7 @@ export default function NotesPage() {
   return (
     <div className="learn-page">
       <div className="learn-hero learn-hero-course">
-        <div className="learn-course-emoji-lg">📓</div>
+        <div className="learn-course-emoji-lg"><i className="ph ph-notebook" /></div>
         <h1>学習ノート</h1>
         <p>あなたの学びの記録</p>
       </div>

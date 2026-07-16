@@ -45,7 +45,7 @@ export default function LoginForm() {
   if (state === 'sent') {
     return (
       <div className="login-sent">
-        <div className="login-sent-icon">📬</div>
+        <div className="login-sent-icon"><i className="ph ph-envelope-simple-open" /></div>
         <h2>メールを送信しました！</h2>
         <p>
           <strong>{email}</strong> にログイン用のリンクを送りました。<br />

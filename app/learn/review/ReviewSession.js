@@ -115,7 +115,7 @@ export default function ReviewSession({ allWords }) {
   if (status === 'guest') {
     return (
       <div className="review-msg">
-        <div className="review-msg-emoji">🔒</div>
+        <div className="review-msg-emoji"><i className="ph ph-lock-key" /></div>
         <h2>ログインが必要です</h2>
         <p>単語の復習には、進捗の記録が必要です。</p>
         <Link href="/login" className="quiz-btn-primary">ログイン</Link>
@@ -126,7 +126,7 @@ export default function ReviewSession({ allWords }) {
   if (status === 'empty') {
     return (
       <div className="review-msg">
-        <div className="review-msg-emoji">✨</div>
+        <div className="review-msg-emoji"><i className="ph ph-sparkle" /></div>
         <h2>今日の復習はありません</h2>
         <p>レッスンを進めると、覚えた単語がここに復習カードとして追加されます。</p>
         <Link href="/learn" className="quiz-btn-primary">教材に戻る</Link>
@@ -137,7 +137,7 @@ export default function ReviewSession({ allWords }) {
   if (status === 'done') {
     return (
       <div className="review-msg">
-        <div className="review-msg-emoji">🎉</div>
+        <div className="review-msg-emoji"><i className="ph-fill ph-confetti" /></div>
         <h2>復習完了！</h2>
         <p>{reviewedCount}個の単語を復習しました。またあとで戻ってきてね。</p>
         <Link href="/learn" className="quiz-btn-primary">教材に戻る</Link>

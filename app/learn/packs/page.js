@@ -13,7 +13,7 @@ export default function PacksPage() {
   return (
     <div className="learn-page">
       <div className="learn-hero learn-hero-course">
-        <div className="learn-course-emoji-lg">🧩</div>
+        <div className="learn-course-emoji-lg"><i className="ph ph-puzzle-piece" /></div>
         <h1>単語パック</h1>
         <p>テーマ別の単語セットを選んで、単語帳に追加しよう</p>
       </div>
@@ -27,12 +27,12 @@ export default function PacksPage() {
           {packs.map(pack => (
             <Link key={pack.id} href={`/learn/packs/${pack.id}`} className="pack-card">
               <div className="pack-card-ribbon">{pack.level}</div>
-              <div className="pack-card-emoji">{pack.emoji}</div>
+              <div className="pack-card-emoji"><i className={`ph-fill ph-${pack.icon || 'stack'}`} /></div>
               <h2 className="pack-card-title">{pack.title}</h2>
               <p className="pack-card-desc">{pack.description}</p>
               <div className="pack-card-foot">
                 <span className="pack-card-count">全{pack.words.length}語</span>
-                <span className="pack-card-cta">追加する →</span>
+                <span className="pack-card-cta">追加する <i className="ph ph-arrow-right" /></span>
               </div>
             </Link>
           ))}

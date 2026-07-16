@@ -4,7 +4,7 @@ import Link from 'next/link';
 export default function LearnCTA() {
   return (
     <div className="learn-cta">
-      <div className="learn-cta-emoji">🇰🇷</div>
+      <div className="learn-cta-emoji"><i className="ph-fill ph-translate" /></div>
       <div className="learn-cta-body">
         <h3>ハングル、読めるようになりたい？</h3>
         <p>
@@ -12,7 +12,7 @@ export default function LearnCTA() {
           クイズ付きの無料レッスンで、あなたのペースで学べます。
         </p>
         <Link href="/learn/hangul-basic" className="learn-cta-btn">
-          無料でハングルを学ぶ →
+          無料でハングルを学ぶ <i className="ph ph-arrow-right" />
         </Link>
       </div>
     </div>
