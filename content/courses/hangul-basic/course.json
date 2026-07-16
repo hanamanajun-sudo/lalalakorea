@@ -1,0 +1,13 @@
+{
+  "id": "hangul-basic",
+  "title": "ハングル基礎",
+  "emoji": "🇰🇷",
+  "description": "母音・子音・パッチムを、K-POPアイドルの名前を読みながら楽しくマスター！ハングルは実はローマ字と同じしくみなので、コツをつかめば数時間で読めるようになります。",
+  "level": "入門",
+  "order": 1,
+  "lessons": [
+    "01-intro",
+    "02-vowels-basic",
+    "03-vowels-quiz"
+  ]
+}
