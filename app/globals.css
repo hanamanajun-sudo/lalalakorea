@@ -1377,3 +1377,191 @@ body {
 @media (prefers-reduced-motion: reduce) {
   .learn-page *, .login-page * { animation: none !important; }
 }
+
+/* ══════════════════════════════════════════════════════════════
+   学習セクション共通シェル（サイドメニュー付き）
+   ══════════════════════════════════════════════════════════════ */
+.learn-shell {
+  display: flex;
+  align-items: flex-start;
+  background: #fbf6f2;
+  min-height: calc(100vh - 64px);
+}
+.learn-shell-main { flex: 1; min-width: 0; }
+
+.learn-sidebar {
+  position: sticky;
+  top: 64px;
+  flex-shrink: 0;
+  width: 234px;
+  height: calc(100vh - 64px);
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding: 24px 16px;
+  background: linear-gradient(180deg, #fffdfb 0%, #fbf4ef 100%);
+  border-right: 1px solid #efe4dd;
+}
+
+/* 韓国語を学ぼう（メインへ戻る・目立たせる） */
+.learn-brand {
+  display: flex; align-items: center; gap: 10px;
+  text-decoration: none; color: #fff;
+  background: linear-gradient(135deg, #e4293f 0%, #b81b30 100%);
+  border-radius: 16px; padding: 16px 16px;
+  margin-bottom: 14px;
+  box-shadow: 0 8px 20px rgba(184, 27, 48, 0.26);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+.learn-brand:hover { transform: translateY(-2px); box-shadow: 0 12px 26px rgba(184,27,48,0.34); }
+.learn-brand-emoji { font-size: 1.5rem; }
+.learn-brand-text {
+  font-family: 'Zen Maru Gothic', 'Noto Sans JP', sans-serif;
+  font-weight: 900; font-size: 1rem; line-height: 1.25;
+}
+
+.learn-sidenav { display: flex; flex-direction: column; gap: 4px; }
+.learn-sidenav-item {
+  display: flex; align-items: center; gap: 11px;
+  text-decoration: none; color: #6a5b5e;
+  font-size: 0.9rem; font-weight: 600;
+  padding: 12px 14px; border-radius: 12px;
+  transition: background 0.18s, color 0.18s, transform 0.18s;
+}
+.learn-sidenav-item:hover { background: #fdeee9; color: #b81b30; transform: translateX(2px); }
+.learn-sidenav-item.active {
+  background: linear-gradient(135deg, #fde8ec, #fce0d9);
+  color: #b81b30;
+  box-shadow: inset 3px 0 0 #e4293f;
+}
+.learn-sidenav-emoji { font-size: 1.15rem; }
+
+.learn-back-blog {
+  margin-top: auto;
+  text-decoration: none; color: #a5989a;
+  font-size: 0.82rem; font-weight: 600;
+  padding: 12px 14px; border-radius: 10px;
+  transition: background 0.18s, color 0.18s;
+}
+.learn-back-blog:hover { background: #f3ebe6; color: #6a5b5e; }
+
+/* シェル内では各ページの .learn-page 背景を透過に（シェル側で背景を持つ） */
+.learn-shell .learn-page { background: transparent; min-height: auto; }
+
+/* ── モバイル：サイドバーを上部の横並びバーに ── */
+@media (max-width: 900px) {
+  .learn-shell { flex-direction: column; }
+  .learn-sidebar {
+    flex-direction: row; align-items: center;
+    width: 100%; height: auto;
+    padding: 10px 12px; gap: 8px;
+    overflow-x: auto; white-space: nowrap;
+    border-right: none; border-bottom: 1px solid #efe4dd;
+    top: 64px; z-index: 90;
+  }
+  .learn-brand {
+    margin-bottom: 0; padding: 10px 14px; flex-shrink: 0;
+    border-radius: 12px;
+  }
+  .learn-brand-text { font-size: 0.86rem; white-space: normal; max-width: 90px; }
+  .learn-sidenav { flex-direction: row; gap: 4px; }
+  .learn-sidenav-item { padding: 10px 12px; flex-shrink: 0; }
+  .learn-sidenav-item.active { box-shadow: inset 0 -3px 0 #e4293f; }
+  .learn-sidenav-label { font-size: 0.84rem; }
+  .learn-back-blog { margin-top: 0; margin-left: auto; flex-shrink: 0; }
+}
+@media (max-width: 560px) {
+  .learn-sidenav-label { display: none; }
+  .learn-sidenav-emoji { font-size: 1.3rem; }
+  .learn-back-blog { display: none; }
+}
+
+/* ══════════════════════════════════════════════════════════════
+   単語パック（テーマ別単語セット）
+   ══════════════════════════════════════════════════════════════ */
+.learn-page .learn-entry-row { grid-template-columns: repeat(3, 1fr); }
+.learn-page .learn-review-entry.packs-entry {
+  background: linear-gradient(135deg, #f3f0ff 0%, #e9e2ff 100%);
+  border-color: #ddd3f5;
+}
+.learn-page .packs-entry .learn-review-arrow { color: #8b7bd0; }
+@media (max-width: 720px) {
+  .learn-page .learn-entry-row { grid-template-columns: 1fr; }
+}
+
+/* ── パック一覧：陳列棚のような上質カード ── */
+.pack-grid {
+  display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 20px;
+}
+.pack-card {
+  position: relative;
+  display: flex; flex-direction: column;
+  background: linear-gradient(180deg, #fff 0%, #fffaf7 100%);
+  border: 1px solid #efe4dd; border-radius: 20px;
+  padding: 26px 24px 20px;
+  text-decoration: none; color: inherit;
+  box-shadow: 0 4px 16px rgba(120, 30, 45, 0.07);
+  overflow: hidden;
+  transition: transform 0.22s, box-shadow 0.22s, border-color 0.22s;
+}
+.pack-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 20px 42px rgba(120, 30, 45, 0.16);
+  border-color: #f0d5cf;
+}
+.pack-card-ribbon {
+  position: absolute; top: 16px; right: -30px;
+  background: linear-gradient(135deg, #c99a4b, #a87e35);
+  color: #fff; font-size: 0.66rem; font-weight: 800; letter-spacing: 0.05em;
+  padding: 4px 34px; transform: rotate(45deg);
+  box-shadow: 0 2px 6px rgba(0,0,0,0.18);
+}
+.pack-card-emoji { font-size: 2.6rem; margin-bottom: 12px; filter: drop-shadow(0 4px 8px rgba(120,30,45,0.14)); }
+.pack-card-title {
+  font-family: 'Zen Maru Gothic', 'Noto Sans JP', sans-serif;
+  font-size: 1.15rem; font-weight: 900; margin-bottom: 8px;
+}
+.pack-card-desc { font-size: 0.84rem; color: #6a5b5e; line-height: 1.6; flex: 1; margin-bottom: 16px; }
+.pack-card-foot { display: flex; align-items: center; justify-content: space-between; border-top: 1px solid #f2e9e3; padding-top: 14px; }
+.pack-card-count { font-size: 0.78rem; color: #999; font-weight: 600; }
+.pack-card-cta { font-size: 0.84rem; color: #e4293f; font-weight: 800; }
+
+/* ── パック詳細：追加ボックス ── */
+.pack-add-box {
+  background: linear-gradient(135deg, #fff2f4, #ffe6ea);
+  border: 1px solid #f8cdd4; border-radius: 18px;
+  padding: 24px; margin-bottom: 26px; text-align: center;
+  box-shadow: 0 8px 24px rgba(228, 41, 63, 0.08);
+}
+.pack-add-box.added { background: linear-gradient(135deg, #f0f9f3, #e3f5ea); border-color: #bfe6cd; }
+.pack-add-box p { font-size: 0.88rem; color: #5a4a4d; margin-bottom: 14px; }
+.pack-add-note { font-size: 0.8rem !important; color: #8a7a7d !important; }
+.pack-add-check { font-size: 2.2rem; margin-bottom: 8px; }
+.pack-add-btn { width: 100%; }
+.pack-add-links { display: flex; align-items: center; justify-content: center; gap: 16px; flex-wrap: wrap; }
+.pack-add-sub { font-size: 0.84rem; font-weight: 700; color: #22a06b; text-decoration: none; }
+.pack-add-sub:hover { text-decoration: underline; }
+
+/* ── パックの単語リスト ── */
+.pack-word-list { display: flex; flex-direction: column; gap: 8px; }
+.pack-word {
+  display: flex; align-items: baseline; gap: 12px;
+  background: #fff; border: 1px solid #efe4dd; border-radius: 12px;
+  padding: 13px 18px; box-shadow: 0 4px 16px rgba(120, 30, 45, 0.05);
+}
+.pack-word-num {
+  flex-shrink: 0; width: 24px; height: 24px; align-self: center;
+  display: flex; align-items: center; justify-content: center;
+  background: #fbeef0; color: #c8203a; border-radius: 50%;
+  font-size: 0.72rem; font-weight: 800;
+}
+.pack-word-ko {
+  font-family: 'Zen Maru Gothic', 'Noto Sans JP', sans-serif;
+  font-size: 1.2rem; font-weight: 800; min-width: 96px;
+}
+.pack-word-read { font-size: 0.82rem; color: #e4293f; font-weight: 700; }
+.pack-word-mean { font-size: 0.84rem; color: #6a5b5e; margin-left: auto; text-align: right; }
+@media (max-width: 480px) {
+  .pack-word { flex-wrap: wrap; }
+  .pack-word-mean { margin-left: 0; width: 100%; text-align: left; padding-left: 36px; }
+}

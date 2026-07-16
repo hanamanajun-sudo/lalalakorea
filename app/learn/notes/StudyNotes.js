@@ -53,17 +53,24 @@ export default function StudyNotes({ courses, allWords }) {
         return { id: c.id, title: c.title, emoji: c.emoji, done, total, pct: total ? Math.round((done / total) * 100) : 0 };
       });
 
-      // 学んだ単語（完了レッスンの単語）
-      const learnedWords = allWords
-        .filter(w => doneSet.has(`${w.courseId}/${w.lessonId}`))
-        .map(w => {
-          const card = cardMap.get(`${w.courseId}/${w.ko}`);
-          return { ...w, card, status: wordStatus(card) };
-        });
+      // 学んだ単語 = 完了レッスンの単語 ∪ 復習カード（単語パック含む）
+      const wordMap = new Map();
+      // ① 完了レッスンの単語
+      for (const w of allWords) {
+        if (!doneSet.has(`${w.courseId}/${w.lessonId}`)) continue;
+        const key = `${w.courseId}/${w.ko}`;
+        wordMap.set(key, { ko: w.ko, read: w.read, mean: w.mean, card: cardMap.get(key) });
+      }
+      // ② 復習カード（レッスン外＝単語パックなども取り込む）
+      for (const [key, row] of cardMap) {
+        if (!wordMap.has(key)) {
+          wordMap.set(key, { ko: row.word_ko, read: row.word_read || '', mean: row.word_mean || '', card: row });
+        }
+      }
+      const learnedWords = Array.from(wordMap.values()).map(w => ({ ...w, status: wordStatus(w.card) }));
 
       const now = new Date();
-      const dueCount = learnedWords.filter(w => w.card && isDue(rowToCard(w.card), now)).length
-        + learnedWords.filter(w => !w.card).length; // 未復習も「今日やる対象」
+      const dueCount = learnedWords.filter(w => (w.card ? isDue(rowToCard(w.card), now) : true)).length;
 
       setData({ courseProgress, learnedWords, dueCount, now });
       setStatus('ready');

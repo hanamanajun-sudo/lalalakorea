@@ -39,6 +39,15 @@ export default function LearnHome() {
             </span>
             <span className="learn-review-arrow">→</span>
           </Link>
+
+          <Link href="/learn/packs" className="learn-review-entry packs-entry">
+            <span className="learn-review-emoji">🧩</span>
+            <span className="learn-review-text">
+              <strong>単語パック</strong>
+              テーマ別の単語を追加
+            </span>
+            <span className="learn-review-arrow">→</span>
+          </Link>
         </div>
 
         {courses.length === 0 ? (

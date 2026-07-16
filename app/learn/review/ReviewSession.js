@@ -42,18 +42,35 @@ export default function ReviewSession({ allWords }) {
         .eq('user_id', user.id);
       const cardMap = new Map((cardRows || []).map(r => [`${r.course_id}/${r.word_ko}`, r]));
 
-      // 完了レッスンの単語のみ対象。期限切れ or 未学習のカードをキューに
+      // 完了レッスンの単語 + 単語パックの単語を対象に、期限切れ/未学習のカードをキューに
       const now = new Date();
       const due = [];
+      const queued = new Set();
+
+      // ① 完了レッスンの単語
       for (const w of allWords) {
         if (!doneSet.has(`${w.courseId}/${w.lessonId}`)) continue;
         const key = `${w.courseId}/${w.ko}`;
         const existing = cardMap.get(key);
         if (existing) {
           const card = rowToCard(existing);
-          if (isDue(card, now)) due.push({ word: w, card });
+          if (isDue(card, now)) { due.push({ word: w, card }); queued.add(key); }
         } else {
-          due.push({ word: w, card: newCard() });
+          due.push({ word: w, card: newCard() }); queued.add(key);
+        }
+      }
+
+      // ② 既存カードのうち、まだキューに無い期限切れカード（単語パックなど）
+      for (const row of cardRows || []) {
+        const key = `${row.course_id}/${row.word_ko}`;
+        if (queued.has(key)) continue;
+        const card = rowToCard(row);
+        if (isDue(card, now)) {
+          due.push({
+            word: { courseId: row.course_id, lessonId: null, ko: row.word_ko, read: row.word_read || '', mean: row.word_mean || '' },
+            card,
+          });
+          queued.add(key);
         }
       }
 
