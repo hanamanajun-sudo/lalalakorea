@@ -4,10 +4,16 @@ import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 
 const ITEMS = [
-  { href: '/learn', label: '学習トップ', icon: 'house', match: p => p === '/learn' || (p.startsWith('/learn/') && !/^\/learn\/(review|notes|packs)/.test(p)) },
-  { href: '/learn/review', label: '単語復習', icon: 'arrows-clockwise', match: p => p.startsWith('/learn/review') },
-  { href: '/learn/notes', label: '学習ノート', icon: 'notebook', match: p => p.startsWith('/learn/notes') },
-  { href: '/learn/packs', label: '単語パック', icon: 'puzzle-piece', match: p => p.startsWith('/learn/packs') },
+  { href: '/learn', label: '学習トップ', icon: 'house',
+    match: p => p === '/learn' },
+  { href: '/learn/notes', label: '学習ノート', icon: 'notebook', sub: true,
+    match: p => p.startsWith('/learn/notes') },
+  { href: '/learn/lessons', label: 'ハングルレッスン', icon: 'book-open-text',
+    match: p => p.startsWith('/learn/lessons') || (/^\/learn\/[^/]+/.test(p) && !/^\/learn\/(review|notes|packs|lessons)/.test(p)) },
+  { href: '/learn/review', label: '単語復習', icon: 'arrows-clockwise',
+    match: p => p.startsWith('/learn/review') },
+  { href: '/learn/packs', label: '単語パック', icon: 'puzzle-piece', sub: true,
+    match: p => p.startsWith('/learn/packs') },
 ];
 
 export default function LearnNav() {
@@ -23,7 +29,7 @@ export default function LearnNav() {
           <Link
             key={it.href}
             href={it.href}
-            className={`learn-sidenav-item${it.match(pathname) ? ' active' : ''}`}
+            className={`learn-sidenav-item${it.sub ? ' sub' : ''}${it.match(pathname) ? ' active' : ''}`}
           >
             <span className="learn-sidenav-emoji"><i className={`ph ph-${it.icon}`} /></span>
             <span className="learn-sidenav-label">{it.label}</span>
