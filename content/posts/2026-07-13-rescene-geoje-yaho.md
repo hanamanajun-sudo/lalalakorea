@@ -132,3 +132,4 @@ RESCENEはまだ日本では知名度が限られていますが、日本のK-PO
 - **LOVE ATTACK MV** → YouTubeで「RESCENE LOVE ATTACK」で検索
 
 > 📌 本記事の情報は2026年7月時点のものです。最新の活動情報はRESCENE公式SNSでご確認ください。
+<!-- deploy -->
