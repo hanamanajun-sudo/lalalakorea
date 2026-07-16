@@ -1074,3 +1074,306 @@ body {
   .quiz-box { padding: 20px; }
   .quiz-question { font-size: 1.05rem; }
 }
+
+/* ══════════════════════════════════════════════════════════════
+   PREMIUM LAYER — 学習セクションを「上質な製品」の質感へ
+   .learn-page にスコープして既存ブログには影響させない
+   ══════════════════════════════════════════════════════════════ */
+
+.learn-page {
+  --lk-red: #e4293f;
+  --lk-red-deep: #b81b30;
+  --lk-coral: #ff7a89;
+  --lk-gold: #c99a4b;
+  --lk-gold-soft: #e9c986;
+  --lk-ink: #2a1d20;
+  --lk-muted: #8a7a7d;
+  --lk-cream: #fbf6f2;
+  --lk-line: #efe4dd;
+  --lk-shadow-sm: 0 4px 16px rgba(120, 30, 45, 0.07);
+  --lk-font-display: 'Zen Maru Gothic', 'Noto Sans JP', sans-serif;
+  background:
+    radial-gradient(1200px 500px at 50% -200px, rgba(255, 122, 137, 0.10), transparent 70%),
+    radial-gradient(900px 600px at 100% 0, rgba(201, 154, 75, 0.06), transparent 60%),
+    var(--lk-cream);
+  min-height: 100vh;
+}
+
+.learn-page h1,
+.learn-page h2,
+.learn-page h3,
+.learn-page .learn-course-body h2,
+.learn-page .notes-heading,
+.learn-page .learn-review-text strong {
+  font-family: var(--lk-font-display);
+  letter-spacing: 0.01em;
+}
+
+/* ── HERO：奥行きと質感 ── */
+.learn-page .learn-hero {
+  background:
+    radial-gradient(120% 140% at 15% 0%, #ff8493 0%, transparent 55%),
+    radial-gradient(130% 130% at 100% 100%, #b81b30 0%, transparent 60%),
+    linear-gradient(135deg, #e4293f 0%, #c8203a 55%, #a5182c 100%);
+  position: relative;
+  overflow: hidden;
+  padding: 72px 20px 78px;
+  box-shadow: inset 0 -1px 0 rgba(255,255,255,0.08);
+}
+.learn-page .learn-hero::before {
+  content: '';
+  position: absolute; inset: 0;
+  background-image: radial-gradient(rgba(255,255,255,0.14) 1px, transparent 1.4px);
+  background-size: 22px 22px;
+  -webkit-mask-image: radial-gradient(120% 90% at 50% 0%, #000 30%, transparent 75%);
+  mask-image: radial-gradient(120% 90% at 50% 0%, #000 30%, transparent 75%);
+  opacity: 0.5;
+}
+.learn-page .learn-hero > * { position: relative; z-index: 1; }
+.learn-page .learn-hero h1 {
+  font-weight: 900;
+  font-size: 2.35rem;
+  text-shadow: 0 2px 20px rgba(90, 10, 25, 0.3);
+  animation: lkRise 0.7s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+.learn-page .learn-hero p {
+  animation: lkRise 0.7s cubic-bezier(0.22, 1, 0.36, 1) 0.08s both;
+}
+.learn-page .learn-course-emoji-lg {
+  filter: drop-shadow(0 6px 14px rgba(90,10,25,0.35));
+  animation: lkPop 0.6s cubic-bezier(0.34, 1.56, 0.64, 1) both;
+}
+.learn-page .learn-hero .learn-course-level {
+  background: rgba(255,255,255,0.16);
+  color: #fff;
+  -webkit-backdrop-filter: blur(4px);
+  backdrop-filter: blur(4px);
+  border: 1px solid rgba(255,255,255,0.25);
+}
+
+/* ── 本文コンテナの登場 ── */
+.learn-page .learn-container > * {
+  animation: lkRise 0.6s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+.learn-page .learn-container > *:nth-child(2) { animation-delay: 0.05s; }
+.learn-page .learn-container > *:nth-child(3) { animation-delay: 0.10s; }
+.learn-page .learn-container > *:nth-child(4) { animation-delay: 0.15s; }
+
+/* ── 教材カード：厚みのある上質なカード ── */
+.learn-page .learn-course-card {
+  border: 1px solid var(--lk-line);
+  border-radius: 20px;
+  box-shadow: var(--lk-shadow-sm);
+  background: linear-gradient(180deg, #fff 0%, #fffaf7 100%);
+  position: relative;
+  overflow: hidden;
+}
+.learn-page .learn-course-card::after {
+  content: '';
+  position: absolute; left: 0; top: 0; bottom: 0; width: 4px;
+  background: linear-gradient(180deg, var(--lk-red), var(--lk-coral));
+  opacity: 0; transition: opacity 0.25s;
+}
+.learn-page .learn-course-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 18px 38px rgba(120, 30, 45, 0.15);
+  border-color: #f3d2cf;
+}
+.learn-page .learn-course-card:hover::after { opacity: 1; }
+.learn-page .learn-course-level {
+  background: linear-gradient(135deg, #fde8ec, #fce0d9);
+  color: var(--lk-red-deep);
+  letter-spacing: 0.04em;
+}
+.learn-page .learn-course-emoji { filter: drop-shadow(0 4px 8px rgba(120,30,45,0.14)); }
+
+/* ── エントリー2枚（復習・ノート） ── */
+.learn-page .learn-review-entry {
+  border-radius: 18px;
+  box-shadow: var(--lk-shadow-sm);
+  border: 1px solid rgba(120,30,45,0.06);
+  position: relative;
+  overflow: hidden;
+}
+.learn-page .learn-review-entry::before {
+  content: '';
+  position: absolute; inset: 0;
+  background: radial-gradient(120% 120% at 100% 0%, rgba(255,255,255,0.5), transparent 60%);
+  pointer-events: none;
+}
+.learn-page .learn-review-entry:hover { transform: translateY(-3px); }
+
+/* ── 統計・バッジ：ゴールドの質感 ── */
+.learn-page .learn-stats {
+  border: 1px solid var(--lk-line);
+  border-radius: 20px;
+  box-shadow: var(--lk-shadow-sm);
+  background: linear-gradient(180deg, #fff, #fffaf7);
+}
+.learn-page .learn-stat-value {
+  font-family: var(--lk-font-display);
+  background: linear-gradient(135deg, var(--lk-red), var(--lk-coral));
+  -webkit-background-clip: text; background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.learn-page .learn-badge { border-radius: 14px; transition: transform 0.2s, box-shadow 0.2s, opacity 0.2s; }
+.learn-page .learn-badge.earned {
+  background: linear-gradient(160deg, #fff8ee, #fdeede);
+  box-shadow: 0 4px 14px rgba(201, 154, 75, 0.22);
+  border: 1px solid var(--lk-gold-soft);
+}
+.learn-page .learn-badge.earned:hover { transform: translateY(-3px) scale(1.03); }
+.learn-page .learn-badge.earned .learn-badge-emoji { filter: drop-shadow(0 3px 6px rgba(201,154,75,0.4)); }
+.learn-page .learn-badge.earned .learn-badge-label { color: var(--lk-gold); }
+
+/* ── クイズ：カード感を強調 ── */
+.learn-page .quiz-box {
+  border: 1px solid var(--lk-line);
+  border-radius: 22px;
+  box-shadow: 0 10px 30px rgba(120, 30, 45, 0.08);
+  background: linear-gradient(180deg, #fff, #fffaf7);
+}
+.learn-page .quiz-option {
+  border-radius: 14px; border-width: 2px; transition: all 0.18s cubic-bezier(0.22,1,0.36,1);
+}
+.learn-page .quiz-option:hover:not(:disabled) {
+  transform: translateX(4px);
+  box-shadow: -4px 4px 0 rgba(228, 41, 63, 0.12);
+}
+.learn-page .quiz-btn-primary {
+  background: linear-gradient(135deg, var(--lk-red), var(--lk-red-deep));
+  box-shadow: 0 6px 18px rgba(184, 27, 48, 0.28);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+.learn-page .quiz-btn-primary:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 24px rgba(184, 27, 48, 0.36);
+}
+.learn-page .quiz-score-pct { font-family: var(--lk-font-display); }
+
+/* ── フラッシュカード：主役。3D の質感 ── */
+.learn-page .review-card {
+  border: 1px solid var(--lk-line);
+  border-radius: 24px;
+  background: radial-gradient(130% 100% at 50% 0%, #fff 0%, #fdf4ef 100%);
+  box-shadow: 0 20px 50px rgba(120, 30, 45, 0.12), inset 0 1px 0 #fff;
+  perspective: 1000px;
+  transition: transform 0.25s, box-shadow 0.25s;
+}
+.learn-page .review-card:not(.flipped):hover {
+  transform: translateY(-4px) rotateX(2deg);
+  box-shadow: 0 28px 60px rgba(120, 30, 45, 0.18);
+}
+.learn-page .review-card.flipped {
+  border-color: var(--lk-gold-soft);
+  background: radial-gradient(130% 100% at 50% 0%, #fffdf8 0%, #fdf3e6 100%);
+}
+.learn-page .review-card-ko {
+  font-family: var(--lk-font-display);
+  font-size: 3rem;
+  color: var(--lk-ink);
+  text-shadow: 0 2px 12px rgba(120, 30, 45, 0.08);
+}
+.learn-page .review-card.flipped .review-card-read,
+.learn-page .review-card.flipped .review-card-mean {
+  animation: lkRise 0.4s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+.learn-page .review-card.flipped .review-card-mean { animation-delay: 0.06s; }
+.learn-page .review-card-read { color: var(--lk-red); font-weight: 700; }
+.learn-page .review-rate-btn {
+  border-radius: 14px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.10);
+  transition: transform 0.15s, box-shadow 0.15s, opacity 0.15s;
+}
+.learn-page .review-rate-btn:hover { transform: translateY(-2px); box-shadow: 0 7px 16px rgba(0,0,0,0.16); }
+
+/* ── 学習ノート：上質なリスト ── */
+.learn-page .notes-review-banner {
+  border-radius: 20px;
+  box-shadow: 0 8px 24px rgba(228, 41, 63, 0.10);
+  background: linear-gradient(135deg, #fff2f4 0%, #ffe6ea 55%, #ffeede 100%);
+  border: 1px solid #f8cdd4;
+}
+.learn-page .notes-review-count { font-family: var(--lk-font-display); }
+.learn-page .notes-course,
+.learn-page .notes-word {
+  border: 1px solid var(--lk-line);
+  border-radius: 14px;
+  box-shadow: var(--lk-shadow-sm);
+  transition: transform 0.18s, box-shadow 0.18s, border-color 0.18s;
+}
+.learn-page .notes-course:hover { transform: translateX(4px); border-color: #f3d2cf; }
+.learn-page .notes-word:hover { transform: translateY(-2px); box-shadow: 0 8px 20px rgba(120,30,45,0.10); }
+.learn-page .notes-word-ko { font-family: var(--lk-font-display); }
+.learn-page .notes-course-fill { background: linear-gradient(90deg, var(--lk-red), var(--lk-coral)); }
+.learn-page .notes-word-status.mastered {
+  background: linear-gradient(135deg, #fbf0d8, #f6e3bd);
+  color: #9a6f24;
+  border: 1px solid var(--lk-gold-soft);
+}
+.learn-page .notes-course-done { color: var(--lk-gold); }
+
+/* ── レッスン一覧・進捗 ── */
+.learn-page .learn-progress-summary {
+  border: 1px solid var(--lk-line);
+  border-radius: 20px;
+  box-shadow: var(--lk-shadow-sm);
+  background: linear-gradient(180deg, #fff, #fffaf7);
+}
+.learn-page .learn-continue-btn {
+  background: linear-gradient(135deg, var(--lk-red), var(--lk-red-deep));
+  box-shadow: 0 8px 20px rgba(184, 27, 48, 0.28);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+.learn-page .learn-continue-btn:hover { transform: translateY(-2px); box-shadow: 0 12px 26px rgba(184,27,48,0.36); }
+.learn-page .learn-lesson-item {
+  border: 1px solid var(--lk-line);
+  border-radius: 14px;
+  box-shadow: var(--lk-shadow-sm);
+}
+.learn-page .learn-lesson-item.done .learn-lesson-num {
+  background: linear-gradient(135deg, var(--lk-red), var(--lk-coral));
+  box-shadow: 0 3px 8px rgba(228,41,63,0.3);
+}
+.learn-page .learn-lesson-heading { font-family: var(--lk-font-display); font-weight: 900; }
+
+/* ── 記事下部CTAも上質に ── */
+.learn-cta {
+  box-shadow: 0 10px 30px rgba(228, 41, 63, 0.10);
+  border-radius: 20px;
+}
+.learn-cta h3 { font-family: 'Zen Maru Gothic', 'Noto Sans JP', sans-serif; }
+.learn-cta-btn {
+  background: linear-gradient(135deg, #e4293f, #b81b30);
+  box-shadow: 0 6px 18px rgba(184, 27, 48, 0.26);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+.learn-cta-btn:hover { transform: translateY(-2px); box-shadow: 0 10px 24px rgba(184,27,48,0.34); }
+
+/* ── ログインページも同じ質感に ── */
+.login-page {
+  background:
+    radial-gradient(900px 400px at 50% -150px, rgba(255, 122, 137, 0.12), transparent 70%),
+    #fbf6f2;
+}
+.login-card {
+  border-radius: 24px;
+  box-shadow: 0 20px 50px rgba(120, 30, 45, 0.12);
+  border: 1px solid #efe4dd;
+}
+.login-card h1 { font-family: 'Zen Maru Gothic', 'Noto Sans JP', sans-serif; }
+.login-btn:hover:not(:disabled) { transform: translateY(-2px); }
+
+/* ── キーフレーム ── */
+@keyframes lkRise {
+  from { opacity: 0; transform: translateY(16px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+@keyframes lkPop {
+  from { opacity: 0; transform: scale(0.7); }
+  to   { opacity: 1; transform: scale(1); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .learn-page *, .login-page * { animation: none !important; }
+}
