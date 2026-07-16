@@ -758,6 +758,38 @@ body {
 .learn-container-narrow { max-width: 720px; }
 .learn-empty { text-align: center; color: #888; padding: 40px 0; }
 
+/* ── 学習ダッシュボードの統計・バッジ ── */
+.learn-stats {
+  background: #fff; border: 1px solid #eee; border-radius: 16px;
+  padding: 22px 24px; margin-bottom: 28px;
+}
+.learn-stats-numbers { display: flex; gap: 32px; justify-content: center; margin-bottom: 20px; }
+.learn-stat { text-align: center; }
+.learn-stat-value { font-size: 2rem; font-weight: 900; color: #e8324a; line-height: 1; }
+.learn-stat-value span { font-size: 0.9rem; font-weight: 700; margin-left: 2px; }
+.learn-stat-label { font-size: 0.76rem; color: #888; margin-top: 6px; }
+
+.learn-badges { display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; }
+.learn-badge {
+  display: flex; flex-direction: column; align-items: center; gap: 4px;
+  width: 84px; padding: 12px 6px; border-radius: 12px;
+  background: #f7f7f8; opacity: 0.4; filter: grayscale(1); transition: all 0.2s;
+}
+.learn-badge.earned { opacity: 1; filter: none; background: #fff0f3; }
+.learn-badge-emoji { font-size: 1.6rem; }
+.learn-badge-label { font-size: 0.68rem; font-weight: 700; color: #555; text-align: center; }
+
+.learn-stats-guest {
+  display: flex; align-items: center; justify-content: center; gap: 14px; flex-wrap: wrap;
+  background: #fff8f9; border: 1px dashed #f3b6c2; border-radius: 12px;
+  padding: 14px 20px; margin-bottom: 28px; font-size: 0.84rem; color: #666;
+}
+.learn-stats-login {
+  background: #e8324a; color: #fff; text-decoration: none; font-weight: 700;
+  font-size: 0.8rem; padding: 7px 18px; border-radius: 18px; white-space: nowrap;
+}
+.learn-stats-login:hover { background: #c8203a; }
+
 /* ── 教材カード一覧 ── */
 .learn-course-grid {
   display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 20px;

@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import { getAllCourses } from '../../lib/courses';
+import LearnStats from './LearnStats';
 
 export const metadata = {
   title: 'ハングル学習 | LaLaLaKorea',
@@ -18,6 +19,7 @@ export default function LearnHome() {
       </div>
 
       <div className="learn-container">
+        <LearnStats />
         {courses.length === 0 ? (
           <p className="learn-empty">教材を準備中です。もう少しお待ちください 🙏</p>
         ) : (
