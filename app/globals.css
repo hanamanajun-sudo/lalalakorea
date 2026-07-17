@@ -12,7 +12,7 @@ body {
 /* ── 헤더 ── */
 .site-header {
   background: #fff;
-  border-bottom: 3px solid #e8324a;
+  border-bottom: 3px solid #f472ad;
   position: sticky; top: 0; z-index: 100;
   box-shadow: 0 2px 12px rgba(0,0,0,0.07);
 }
@@ -21,7 +21,7 @@ body {
   height: 64px;
 }
 .logo { text-decoration: none; display: flex; align-items: baseline; gap: 2px; }
-.logo-lala { font-size: 1.1rem; font-weight: 700; color: #e8324a; }
+.logo-lala { font-size: 1.1rem; font-weight: 700; color: #f472ad; }
 .logo-korea { font-size: 1.3rem; font-weight: 900; color: #1a1a1a; letter-spacing: -0.5px; }
 
 .nav { display: flex; gap: 24px; }
@@ -31,10 +31,10 @@ body {
 }
 .nav a::after {
   content: ''; position: absolute; bottom: -2px; left: 0; right: 0;
-  height: 2px; background: #e8324a; transform: scaleX(0);
+  height: 2px; background: #f472ad; transform: scaleX(0);
   transition: transform 0.2s;
 }
-.nav a:hover { color: #e8324a; }
+.nav a:hover { color: #f472ad; }
 .nav a:hover::after { transform: scaleX(1); }
 
 /* ── 헤더 검색 버튼 ── */
@@ -46,7 +46,7 @@ body {
   text-decoration: none;
   transition: background 0.2s, color 0.2s;
 }
-.search-btn:hover { background: #fde8ec; color: #e8324a; }
+.search-btn:hover { background: #fde8ec; color: #f472ad; }
 
 /* ── 검색 페이지 ── */
 .search-page-title {
@@ -63,8 +63,8 @@ body {
   transition: border-color 0.2s, box-shadow 0.2s;
 }
 .search-bar:focus-within {
-  border-color: #e8324a;
-  box-shadow: 0 0 0 3px rgba(232,50,74,0.1);
+  border-color: #f472ad;
+  box-shadow: 0 0 0 3px rgba(224,92,158,0.1);
 }
 .search-icon { color: #999; flex-shrink: 0; }
 .search-input {
@@ -78,7 +78,7 @@ body {
   color: #bbb; font-size: 0.85rem; padding: 2px 4px;
   transition: color 0.2s;
 }
-.search-clear:hover { color: #e8324a; }
+.search-clear:hover { color: #f472ad; }
 .search-hint {
   color: #999; font-size: 0.9rem;
   text-align: center; padding: 40px 0;
@@ -95,16 +95,27 @@ body {
 
 /* ── 히어로 ── */
 .hero {
-  background: linear-gradient(135deg, #c8203a 0%, #e8324a 50%, #ff6b81 100%);
-  color: white; text-align: center; padding: 72px 20px;
+  background:
+    radial-gradient(120% 140% at 12% 0%, #ffdcee 0%, transparent 55%),
+    radial-gradient(120% 130% at 100% 100%, #e2d5fb 0%, transparent 60%),
+    linear-gradient(135deg, #ffe3f1 0%, #f1e2fb 50%, #e1e8fd 100%);
+  color: #4a3f52; text-align: center; padding: 72px 20px;
   position: relative; overflow: hidden;
 }
 .hero::before {
   content: ''; position: absolute; inset: 0;
-  background: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='0.04'%3E%3Ccircle cx='30' cy='30' r='20'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+  background-image: radial-gradient(rgba(247, 125, 184, 0.18) 1px, transparent 1.4px);
+  background-size: 22px 22px;
+  -webkit-mask-image: radial-gradient(120% 90% at 50% 0%, #000 30%, transparent 75%);
+  mask-image: radial-gradient(120% 90% at 50% 0%, #000 30%, transparent 75%);
+  opacity: 0.6;
 }
-.hero h1 { font-size: 2.2rem; font-weight: 900; margin-bottom: 12px; position: relative; }
-.hero p { font-size: 1rem; opacity: 0.88; position: relative; }
+.hero h1 {
+  font-family: 'Zen Maru Gothic', 'Noto Sans JP', sans-serif;
+  font-size: 2.2rem; font-weight: 900; margin-bottom: 12px; position: relative;
+  color: #4a3f52; text-shadow: 0 1px 6px rgba(255, 255, 255, 0.5);
+}
+.hero p { font-size: 1rem; color: #7a6a7c; opacity: 1; position: relative; }
 
 /* ── 카테고리 필터 ── */
 .category-filter {
@@ -117,8 +128,8 @@ body {
   cursor: pointer; text-decoration: none; transition: all 0.2s;
 }
 .cat-btn:hover, .cat-btn.active {
-  background: #e8324a; border-color: #e8324a; color: #fff;
-  box-shadow: 0 2px 8px rgba(232,50,74,0.25);
+  background: #f472ad; border-color: #f472ad; color: #fff;
+  box-shadow: 0 2px 8px rgba(224,92,158,0.25);
 }
 
 /* ── 포스트 그리드 ── */
@@ -161,7 +172,7 @@ body {
 .post-cats { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 10px; }
 .post-cat-tag {
   font-size: 0.7rem; font-weight: 700; padding: 2px 10px;
-  border-radius: 10px; background: #fff0f2; color: #e8324a;
+  border-radius: 10px; background: #fff0f2; color: #f472ad;
   letter-spacing: 0.3px;
 }
 .post-title {
@@ -184,14 +195,14 @@ body {
 /* ── 대화 말풍선 ── */
 .chat-question {
   background: linear-gradient(135deg, #fff5f6, #ffe8eb);
-  border-left: 4px solid #e8324a;
+  border-left: 4px solid #f472ad;
   border-radius: 0 16px 16px 16px;
   padding: 18px 22px;
   margin: 24px 0;
   font-size: 0.95rem;
   line-height: 1.75;
   color: #333;
-  box-shadow: 0 2px 12px rgba(232,50,74,0.08);
+  box-shadow: 0 2px 12px rgba(224,92,158,0.08);
 }
 .chat-question p { margin: 0; }
 
@@ -232,7 +243,7 @@ body {
 .chat-bubble p:last-child { margin-bottom: 0; }
 .chat-bubble strong { color: #1a1a1a; font-weight: 700; }
 .chat-right .chat-bubble {
-  background: linear-gradient(135deg, #e8324a, #ff5567);
+  background: linear-gradient(135deg, #f472ad, #f78fc0);
   color: #fff;
   border-radius: 18px 4px 18px 18px;
 }
@@ -278,7 +289,7 @@ body {
 .related-img-placeholder { font-size: 2rem; display: flex; align-items: center; justify-content: center; }
 .related-body { padding: 14px; }
 .related-cat {
-  font-size: 0.68rem; font-weight: 700; color: #e8324a;
+  font-size: 0.68rem; font-weight: 700; color: #f472ad;
   background: #fff0f2; padding: 2px 8px; border-radius: 8px;
   display: inline-block; margin-bottom: 8px;
 }
@@ -293,18 +304,18 @@ body {
 .scroll-top-btn {
   position: fixed; bottom: 32px; right: 32px;
   width: 48px; height: 48px;
-  background: #e8324a; color: #fff;
+  background: #f472ad; color: #fff;
   border: none; border-radius: 50%;
   font-size: 1.2rem; font-weight: 700;
   cursor: pointer;
-  box-shadow: 0 4px 16px rgba(232,50,74,0.35);
+  box-shadow: 0 4px 16px rgba(224,92,158,0.35);
   transition: all 0.2s; z-index: 99;
   display: flex; align-items: center; justify-content: center;
 }
 .scroll-top-btn:hover {
-  background: #c8203a;
+  background: #e05c9e;
   transform: translateY(-3px);
-  box-shadow: 0 8px 24px rgba(232,50,74,0.45);
+  box-shadow: 0 8px 24px rgba(224,92,158,0.45);
 }
 
 /* ── 개별 포스트 ── */
@@ -313,10 +324,10 @@ body {
 .post-header .cats { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 14px; }
 .post-header .cat {
   font-size: 0.75rem; font-weight: 700; padding: 4px 14px;
-  border-radius: 20px; background: #e8324a; color: #fff;
+  border-radius: 20px; background: #f472ad; color: #fff;
   text-decoration: none; transition: background 0.2s;
 }
-.post-header .cat:hover { background: #c8203a; }
+.post-header .cat:hover { background: #e05c9e; }
 .post-header h1 { font-size: 1.8rem; font-weight: 900; line-height: 1.42; margin-bottom: 14px; }
 .post-header .meta { font-size: 0.82rem; color: #bbb; display: flex; align-items: center; gap: 6px; }
 .post-header .meta::before { content: '📅'; font-size: 0.78rem; }
@@ -324,7 +335,7 @@ body {
 .post-content { font-size: 1rem; line-height: 1.95; color: #333; }
 .post-content h2 {
   font-size: 1.35rem; font-weight: 800; margin: 40px 0 18px; color: #1a1a1a;
-  border-left: 4px solid #e8324a;
+  border-left: 4px solid #f472ad;
   background: linear-gradient(90deg, #fff5f6 0%, transparent 100%);
   padding: 10px 14px; border-radius: 0 8px 8px 0;
 }
@@ -334,17 +345,17 @@ body {
 }
 .post-content p { margin-bottom: 18px; }
 .post-content img { max-width: 100%; border-radius: 12px; margin: 20px 0; box-shadow: 0 4px 16px rgba(0,0,0,0.08); }
-.post-content a { color: #e8324a; text-decoration: underline; text-underline-offset: 2px; }
+.post-content a { color: #f472ad; text-decoration: underline; text-underline-offset: 2px; }
 .post-content ul, .post-content ol { padding-left: 24px; margin-bottom: 20px; }
 .post-content li { margin-bottom: 7px; }
 .post-content strong { font-weight: 700; color: #1a1a1a; }
 .post-content blockquote {
-  border-left: 4px solid #e8324a; padding: 14px 20px;
+  border-left: 4px solid #f472ad; padding: 14px 20px;
   background: #fff5f6; margin: 24px 0; border-radius: 0 10px 10px 0;
   font-style: italic; color: #555;
 }
 .post-content code {
-  background: #fff0f2; color: #e8324a;
+  background: #fff0f2; color: #f472ad;
   padding: 2px 7px; border-radius: 5px;
   font-size: 0.9em; font-family: 'Monaco', 'Menlo', monospace;
 }
@@ -364,7 +375,7 @@ body {
   box-shadow: 0 2px 8px rgba(0,0,0,0.06);
 }
 .post-content th {
-  background: #e8324a; color: white;
+  background: #f472ad; color: white;
   padding: 11px 16px; text-align: left; font-weight: 700;
 }
 .post-content td {
@@ -386,13 +397,13 @@ body {
   color: #999; text-decoration: none; font-size: 0.82rem;
   transition: color 0.2s;
 }
-.footer-nav a:hover { color: #e8324a; }
+.footer-nav a:hover { color: #f472ad; }
 .site-footer p { line-height: 1.8; }
 
 /* ── 읽기 진행률 바 ── */
 .reading-progress-bar {
   position: fixed; top: 0; left: 0; height: 3px;
-  background: linear-gradient(90deg, #e8324a, #ff6b81);
+  background: linear-gradient(90deg, #f472ad, #ffc4e0);
   z-index: 200; transition: width 0.1s;
   border-radius: 0 2px 2px 0;
 }
@@ -435,7 +446,7 @@ body {
   border-bottom: 1px solid #f5f5f5;
   transition: background 0.15s, color 0.15s;
 }
-.mobile-nav-link:hover { background: #fff5f6; color: #e8324a; }
+.mobile-nav-link:hover { background: #fff5f6; color: #f472ad; }
 
 /* ── About 페이지 ── */
 .about-page { background: #fff; }
@@ -463,7 +474,7 @@ body {
 .about-card p:last-of-type { margin-bottom: 0; }
 .about-tags { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 20px; }
 .about-tag {
-  background: #fff0f2; color: #e8324a; border-radius: 20px;
+  background: #fff0f2; color: #f472ad; border-radius: 20px;
   padding: 5px 14px; font-size: 0.82rem; font-weight: 600; border: 1px solid #fde8ec;
 }
 .about-author-card { display: flex; gap: 20px; align-items: flex-start; }
@@ -482,13 +493,13 @@ body {
 .character-avatar-img { width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-bottom: 10px; border: 3px solid #fde8ec; }
 .character-name { font-size: 1.05rem; font-weight: 800; color: #1a1a1a; margin-bottom: 4px; }
 .character-role {
-  font-size: 0.75rem; color: #e8324a; font-weight: 700;
+  font-size: 0.75rem; color: #f472ad; font-weight: 700;
   background: #fff0f2; border-radius: 20px; padding: 2px 10px;
   display: inline-block; margin-bottom: 12px;
 }
 .character-desc { font-size: 0.83rem; color: #666; line-height: 1.6; }
 .about-contact-btn {
-  display: inline-block; margin-top: 16px; background: #e8324a; color: #fff;
+  display: inline-block; margin-top: 16px; background: #f472ad; color: #fff;
   padding: 12px 28px; border-radius: 30px; font-size: 0.9rem; font-weight: 700;
   text-decoration: none; transition: background 0.2s, transform 0.2s;
 }
@@ -576,7 +587,7 @@ body {
   transition: border-color 0.2s;
 }
 .toc-item.toc-active {
-  border-left-color: #e8324a;
+  border-left-color: #f472ad;
 }
 .toc-level-2 { padding-left: 12px; }
 .toc-level-3 { padding-left: 28px; font-size: 0.87rem; }
@@ -588,9 +599,9 @@ body {
   line-height: 1.5;
   transition: color 0.2s;
 }
-.toc-link:hover { color: #e8324a; }
+.toc-link:hover { color: #f472ad; }
 .toc-item.toc-active .toc-link {
-  color: #e8324a;
+  color: #f472ad;
   font-weight: 600;
 }
 
@@ -609,8 +620,8 @@ body {
   align-items: center;
   padding: 10px 20px;
   background: #fff;
-  border: 2px solid #e8324a;
-  color: #e8324a;
+  border: 2px solid #f472ad;
+  color: #f472ad;
   border-radius: 30px;
   font-size: 0.9rem;
   font-weight: 700;
@@ -618,7 +629,7 @@ body {
   transition: all 0.2s;
 }
 .pagination-btn:hover {
-  background: #e8324a;
+  background: #f472ad;
   color: #fff;
 }
 .pagination-numbers {
@@ -640,13 +651,13 @@ body {
   border: 2px solid transparent;
 }
 .pagination-num:hover {
-  border-color: #e8324a;
-  color: #e8324a;
+  border-color: #f472ad;
+  color: #f472ad;
 }
 .pagination-num.active {
-  background: #e8324a;
+  background: #f472ad;
   color: #fff;
-  border-color: #e8324a;
+  border-color: #f472ad;
 }
 
 /* ── 인스타그램 링크 카드 ── */
@@ -724,29 +735,29 @@ body {
 .learn-cta-body h3 { font-size: 1.15rem; font-weight: 800; margin-bottom: 8px; color: #1a1a1a; }
 .learn-cta-body p { font-size: 0.88rem; color: #666; line-height: 1.6; margin-bottom: 14px; }
 .learn-cta-btn {
-  display: inline-block; background: #e8324a; color: #fff; text-decoration: none;
+  display: inline-block; background: #f472ad; color: #fff; text-decoration: none;
   font-weight: 700; font-size: 0.9rem; padding: 11px 24px; border-radius: 24px;
   transition: background 0.2s;
 }
-.learn-cta-btn:hover { background: #c8203a; }
+.learn-cta-btn:hover { background: #e05c9e; }
 @media (max-width: 600px) {
   .learn-cta { flex-direction: column; text-align: center; padding: 22px 18px; }
 }
 
 /* ── ヘッダー：学習リンク & ログインボタン ── */
-.nav-learn { font-weight: 700 !important; color: #e8324a !important; }
+.nav-learn { font-weight: 700 !important; color: #f472ad !important; }
 .auth-nav-btn {
-  background: none; border: 1.5px solid #e8324a; color: #e8324a;
+  background: none; border: 1.5px solid #f472ad; color: #f472ad;
   font-size: 0.8rem; font-weight: 600; font-family: inherit;
   padding: 6px 14px; border-radius: 20px; cursor: pointer;
   text-decoration: none; white-space: nowrap; transition: all 0.2s;
 }
-.auth-nav-btn:hover { background: #e8324a; color: #fff; }
+.auth-nav-btn:hover { background: #f472ad; color: #fff; }
 
 /* ── 学習トップ / 教材ページ 共通 ── */
 .learn-page { min-height: 60vh; }
 .learn-hero {
-  background: linear-gradient(135deg, #c8203a 0%, #e8324a 50%, #ff6b81 100%);
+  background: linear-gradient(135deg, #e05c9e 0%, #f472ad 50%, #ffc4e0 100%);
   color: #fff; text-align: center; padding: 56px 20px;
 }
 .learn-hero h1 { font-size: 2rem; font-weight: 900; margin-bottom: 10px; }
@@ -765,7 +776,7 @@ body {
 }
 .learn-stats-numbers { display: flex; gap: 32px; justify-content: center; margin-bottom: 20px; }
 .learn-stat { text-align: center; }
-.learn-stat-value { font-size: 2rem; font-weight: 900; color: #e8324a; line-height: 1; }
+.learn-stat-value { font-size: 2rem; font-weight: 900; color: #f472ad; line-height: 1; }
 .learn-stat-value span { font-size: 0.9rem; font-weight: 700; margin-left: 2px; }
 .learn-stat-label { font-size: 0.76rem; color: #888; margin-top: 6px; }
 
@@ -785,10 +796,10 @@ body {
   padding: 14px 20px; margin-bottom: 28px; font-size: 0.84rem; color: #666;
 }
 .learn-stats-login {
-  background: #e8324a; color: #fff; text-decoration: none; font-weight: 700;
+  background: #f472ad; color: #fff; text-decoration: none; font-weight: 700;
   font-size: 0.8rem; padding: 7px 18px; border-radius: 18px; white-space: nowrap;
 }
-.learn-stats-login:hover { background: #c8203a; }
+.learn-stats-login:hover { background: #e05c9e; }
 
 /* ── 教材カード一覧 ── */
 .learn-course-grid {
@@ -799,12 +810,12 @@ body {
   text-decoration: none; color: inherit; border: 1px solid #eee;
   box-shadow: 0 2px 10px rgba(0,0,0,0.05); transition: transform 0.2s, box-shadow 0.2s;
 }
-.learn-course-card:hover { transform: translateY(-3px); box-shadow: 0 8px 24px rgba(232,50,74,0.14); }
+.learn-course-card:hover { transform: translateY(-3px); box-shadow: 0 8px 24px rgba(224,92,158,0.14); }
 .learn-course-emoji { font-size: 2.4rem; flex-shrink: 0; }
 .learn-course-body h2 { font-size: 1.15rem; font-weight: 800; margin: 6px 0 8px; }
 .learn-course-body p { font-size: 0.86rem; color: #666; line-height: 1.6; }
 .learn-course-level {
-  display: inline-block; background: #fde8ec; color: #e8324a;
+  display: inline-block; background: #fde8ec; color: #f472ad;
   font-size: 0.72rem; font-weight: 700; padding: 3px 10px; border-radius: 12px;
 }
 .learn-course-meta { display: block; margin-top: 10px; font-size: 0.78rem; color: #999; }
@@ -838,7 +849,7 @@ body {
   background: linear-gradient(135deg, #fff0f3 0%, #ffe4ea 100%);
   border: 2px solid #f8c6d1; border-radius: 16px; padding: 20px 24px;
 }
-.notes-review-count { font-size: 2.2rem; font-weight: 900; color: #e8324a; line-height: 1; }
+.notes-review-count { font-size: 2.2rem; font-weight: 900; color: #f472ad; line-height: 1; }
 .notes-review-count span { font-size: 1rem; margin-left: 3px; }
 .notes-review-label { font-size: 0.8rem; color: #888; margin-top: 4px; }
 
@@ -848,13 +859,13 @@ body {
   background: #fff; border: 1px solid #eee; border-radius: 12px; padding: 14px 18px;
   transition: border-color 0.2s;
 }
-.notes-course:hover { border-color: #e8324a; }
+.notes-course:hover { border-color: #f472ad; }
 .notes-course-emoji { font-size: 1.8rem; flex-shrink: 0; }
 .notes-course-info { display: flex; flex-direction: column; flex: 1; gap: 6px; }
 .notes-course-title { font-size: 0.92rem; font-weight: 700; display: flex; align-items: center; gap: 8px; }
-.notes-course-done { font-size: 0.74rem; color: #e8324a; font-weight: 700; }
+.notes-course-done { font-size: 0.74rem; color: #f472ad; font-weight: 700; }
 .notes-course-track { height: 7px; background: #f0f0f0; border-radius: 4px; overflow: hidden; }
-.notes-course-fill { display: block; height: 100%; background: linear-gradient(90deg, #e8324a, #ff6b81); }
+.notes-course-fill { display: block; height: 100%; background: linear-gradient(90deg, #f472ad, #ffc4e0); }
 .notes-course-meta { font-size: 0.74rem; color: #999; }
 
 .notes-empty { color: #999; font-size: 0.86rem; text-align: center; padding: 20px 0; }
@@ -865,7 +876,7 @@ body {
 }
 .notes-word-main { display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap; }
 .notes-word-ko { font-size: 1.15rem; font-weight: 800; }
-.notes-word-read { font-size: 0.82rem; color: #e8324a; }
+.notes-word-read { font-size: 0.82rem; color: #f472ad; }
 .notes-word-mean { font-size: 0.82rem; color: #666; }
 .notes-word-meta { display: flex; align-items: center; gap: 12px; }
 .notes-word-status { font-size: 0.7rem; font-weight: 700; padding: 3px 10px; border-radius: 12px; }
@@ -888,7 +899,7 @@ body {
 }
 .review-card.flipped { cursor: default; border-color: #f8c6d1; }
 .review-card-ko { font-size: 2.6rem; font-weight: 900; color: #1a1a1a; }
-.review-card-read { font-size: 1.2rem; color: #e8324a; font-weight: 700; }
+.review-card-read { font-size: 1.2rem; color: #f472ad; font-weight: 700; }
 .review-card-mean { font-size: 1rem; color: #666; }
 .review-card-hint { font-size: 0.8rem; color: #bbb; margin-top: 8px; }
 .review-flip-btn { width: 100%; }
@@ -899,7 +910,7 @@ body {
   font-size: 0.82rem; font-weight: 700; color: #fff; cursor: pointer; transition: opacity 0.2s;
 }
 .review-rate-btn:hover { opacity: 0.85; }
-.review-rate-btn.again { background: #e8324a; }
+.review-rate-btn.again { background: #f472ad; }
 .review-rate-btn.hard  { background: #f0932b; }
 .review-rate-btn.good  { background: #22a06b; }
 .review-rate-btn.easy  { background: #4a7fe8; }
@@ -916,7 +927,7 @@ body {
 
 /* ── パンくず ── */
 .learn-breadcrumb { font-size: 0.82rem; color: #999; margin-bottom: 20px; }
-.learn-breadcrumb a { color: #e8324a; text-decoration: none; }
+.learn-breadcrumb a { color: #f472ad; text-decoration: none; }
 .learn-breadcrumb a:hover { text-decoration: underline; }
 
 /* ── 進捗サマリー + 続きから ── */
@@ -928,16 +939,16 @@ body {
   height: 10px; background: #f0f0f0; border-radius: 6px; overflow: hidden; margin-bottom: 10px;
 }
 .learn-progress-value {
-  height: 100%; background: linear-gradient(90deg, #e8324a, #ff6b81);
+  height: 100%; background: linear-gradient(90deg, #f472ad, #ffc4e0);
   border-radius: 6px; transition: width 0.5s;
 }
 .learn-progress-text { font-size: 0.85rem; color: #666; margin-bottom: 16px; }
 .learn-continue-btn {
-  display: inline-block; background: #e8324a; color: #fff; text-decoration: none;
+  display: inline-block; background: #f472ad; color: #fff; text-decoration: none;
   font-weight: 700; font-size: 0.92rem; padding: 12px 28px; border-radius: 26px;
   transition: background 0.2s;
 }
-.learn-continue-btn:hover { background: #c8203a; }
+.learn-continue-btn:hover { background: #e05c9e; }
 
 /* ── レッスン一覧 ── */
 .learn-lesson-list { list-style: none; display: flex; flex-direction: column; gap: 10px; }
@@ -946,13 +957,13 @@ body {
   border: 1px solid #eee; border-radius: 12px; padding: 16px 18px;
   text-decoration: none; color: inherit; transition: border-color 0.2s, transform 0.15s;
 }
-.learn-lesson-item:hover { border-color: #e8324a; transform: translateX(3px); }
+.learn-lesson-item:hover { border-color: #f472ad; transform: translateX(3px); }
 .learn-lesson-num {
   display: flex; align-items: center; justify-content: center;
   width: 30px; height: 30px; border-radius: 50%; flex-shrink: 0;
   background: #f0f0f0; color: #888; font-weight: 700; font-size: 0.85rem;
 }
-.learn-lesson-item.done .learn-lesson-num { background: #e8324a; color: #fff; }
+.learn-lesson-item.done .learn-lesson-num { background: #f472ad; color: #fff; }
 .learn-lesson-title { font-size: 0.92rem; font-weight: 600; }
 
 /* ── レッスン本文 ── */
@@ -964,7 +975,7 @@ body {
   border-top: 1px solid #eee; padding-top: 20px;
 }
 .learn-lesson-nav a {
-  font-size: 0.85rem; color: #e8324a; text-decoration: none; font-weight: 600; max-width: 45%;
+  font-size: 0.85rem; color: #f472ad; text-decoration: none; font-weight: 600; max-width: 45%;
 }
 .learn-lesson-nav a:hover { text-decoration: underline; }
 .learn-nav-next { text-align: right; margin-left: auto; }
@@ -979,14 +990,14 @@ body {
 .quiz-intro h3, .quiz-result h3 { font-size: 1.2rem; font-weight: 800; margin-bottom: 8px; }
 .quiz-intro p { color: #666; font-size: 0.9rem; margin-bottom: 20px; }
 .quiz-btn-primary {
-  display: inline-block; background: #e8324a; color: #fff; border: none;
+  display: inline-block; background: #f472ad; color: #fff; border: none;
   font-family: inherit; font-size: 0.92rem; font-weight: 700; cursor: pointer;
   padding: 12px 32px; border-radius: 26px; text-decoration: none; transition: background 0.2s;
 }
-.quiz-btn-primary:hover { background: #c8203a; }
+.quiz-btn-primary:hover { background: #e05c9e; }
 
 .quiz-progress-bar { height: 6px; background: #f0f0f0; border-radius: 4px; overflow: hidden; margin-bottom: 14px; }
-.quiz-progress-fill { height: 100%; background: #e8324a; transition: width 0.3s; }
+.quiz-progress-fill { height: 100%; background: #f472ad; transition: width 0.3s; }
 .quiz-count { font-size: 0.78rem; color: #999; margin-bottom: 10px; }
 .quiz-question { font-size: 1.15rem; font-weight: 800; margin-bottom: 20px; line-height: 1.5; }
 .quiz-options { display: flex; flex-direction: column; gap: 10px; margin-bottom: 16px; }
@@ -995,17 +1006,17 @@ body {
   padding: 14px 18px; font-family: inherit; font-size: 0.95rem; text-align: left;
   cursor: pointer; transition: all 0.15s;
 }
-.quiz-option:hover:not(:disabled) { border-color: #e8324a; background: #fff; }
+.quiz-option:hover:not(:disabled) { border-color: #f472ad; background: #fff; }
 .quiz-option:disabled { cursor: default; }
 .quiz-option.correct { border-color: #22a06b; background: #e6f7ef; color: #1a7a4f; font-weight: 700; }
-.quiz-option.wrong { border-color: #e8324a; background: #fdeaed; color: #c8203a; }
+.quiz-option.wrong { border-color: #f472ad; background: #fdeaed; color: #e05c9e; }
 .quiz-explain {
   font-size: 0.86rem; line-height: 1.6; padding: 14px 16px; border-radius: 10px; margin-bottom: 16px;
 }
 .quiz-explain.ok { background: #e6f7ef; color: #1a7a4f; }
 .quiz-explain.ng { background: #fff5e6; color: #a76a12; }
 .quiz-score { font-size: 1.05rem; margin: 8px 0; }
-.quiz-score-pct { font-size: 2rem; font-weight: 900; color: #e8324a; margin-bottom: 16px; }
+.quiz-score-pct { font-size: 2rem; font-weight: 900; color: #f472ad; margin-bottom: 16px; }
 
 .quiz-footer { margin-top: 8px; }
 .quiz-save-msg { font-size: 0.88rem; color: #666; margin-bottom: 16px; }
@@ -1016,7 +1027,7 @@ body {
 .quiz-login-prompt p { font-size: 0.86rem; color: #666; margin-bottom: 12px; }
 .quiz-nav-links { margin-top: 12px; }
 .quiz-btn-next {
-  display: inline-block; color: #e8324a; text-decoration: none; font-weight: 700; font-size: 0.9rem;
+  display: inline-block; color: #f472ad; text-decoration: none; font-weight: 700; font-size: 0.9rem;
 }
 .quiz-btn-next:hover { text-decoration: underline; }
 
@@ -1052,15 +1063,15 @@ body {
   border: 2px solid #eee; border-radius: 12px; padding: 14px 16px;
   font-family: inherit; font-size: 0.95rem; transition: border-color 0.2s;
 }
-.login-input:focus { outline: none; border-color: #e8324a; }
+.login-input:focus { outline: none; border-color: #f472ad; }
 .login-btn {
-  background: #e8324a; color: #fff; border: none; font-family: inherit;
+  background: #f472ad; color: #fff; border: none; font-family: inherit;
   font-size: 0.95rem; font-weight: 700; padding: 14px; border-radius: 12px; cursor: pointer;
   transition: background 0.2s;
 }
-.login-btn:hover:not(:disabled) { background: #c8203a; }
+.login-btn:hover:not(:disabled) { background: #e05c9e; }
 .login-btn:disabled { opacity: 0.6; cursor: default; }
-.login-error { font-size: 0.82rem; color: #c8203a; }
+.login-error { font-size: 0.82rem; color: #e05c9e; }
 .login-sent { text-align: center; }
 .login-sent-icon { font-size: 3rem; margin-bottom: 12px; }
 .login-sent h2 { font-size: 1.2rem; font-weight: 800; margin-bottom: 12px; }
@@ -1114,7 +1125,7 @@ body {
   background:
     radial-gradient(120% 140% at 15% 0%, #ff8493 0%, transparent 55%),
     radial-gradient(130% 130% at 100% 100%, #b81b30 0%, transparent 60%),
-    linear-gradient(135deg, #e4293f 0%, #c8203a 55%, #a5182c 100%);
+    linear-gradient(135deg, #e4293f 0%, #e05c9e 55%, #a5182c 100%);
   position: relative;
   overflow: hidden;
   padding: 72px 20px 78px;
@@ -1552,7 +1563,7 @@ body {
 .pack-word-num {
   flex-shrink: 0; width: 24px; height: 24px; align-self: center;
   display: flex; align-items: center; justify-content: center;
-  background: #fbeef0; color: #c8203a; border-radius: 50%;
+  background: #fbeef0; color: #e05c9e; border-radius: 50%;
   font-size: 0.72rem; font-weight: 800;
 }
 .pack-word-ko {
