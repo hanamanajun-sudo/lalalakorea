@@ -6,7 +6,7 @@ date: 2026-07-13
 categories:
   - 韓国エンタメ
 excerpt: "「コジェ・ヤッホー」がK-POPを変えた。中小事務所RESCENEが口コミだけで夏のシーンに殴り込んだ奇跡の全記録。ウォニの個人YouTubeチャンネルからPretty Girlカムバックまで。"
-thumbnail: /images/rescene/rescene-story-thumbnail.jpg
+thumbnail: /images/rescene/rescene-official-thumbnail.jpg
 lang: ja
 ---
 
@@ -14,7 +14,9 @@ lang: ja
 
 ジュン：それがね、K-POPの教科書には載ってない方法で人気を掴んだグループなんだよ。一言で説明するのが難しいくらい面白い経緯があってさ。最初から話すね。
 
-![K-POPコンサートのステージと観客の様子。RESCENEが活躍するK-POPシーンの熱気を感じさせる一枚。](/images/rescene/rescene-story.jpg)
+![RESCENE（리센느）公式プロモーションイメージ。5人のメンバーが並ぶグループ写真。](/images/rescene/rescene-official.jpg)
+
+*출처: RESCENE 공식 홈페이지*
 
 ## RESCENEってどんなグループ？
 
