@@ -6,6 +6,7 @@ import RelatedPosts from './RelatedPosts';
 import TableOfContents from './TableOfContents';
 import ShareButtons from './ShareButtons';
 import LearnCTA from './LearnCTA';
+import LearnBanner from './LearnBanner';
 
 export async function generateStaticParams() {
   const posts = getAllPosts();
@@ -100,6 +101,7 @@ export default async function PostPage({ params }) {
         <h1>{post.title}</h1>
         <div className="meta">{post.date}　・　約{post.readingTime}分で読めます</div>
       </div>
+      <LearnBanner />
       <ShareButtons title={post.title} url={postUrl} />
       <TableOfContents headings={post.headings} />
       <div
