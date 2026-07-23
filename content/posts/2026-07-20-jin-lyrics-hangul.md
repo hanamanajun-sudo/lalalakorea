@@ -7,7 +7,7 @@ categories:
   - 韓国語
   - 韓国エンタメ
 excerpt: "BTSジンのソロ曲の歌詞で韓国語を学ぼう！Epiphanyの「私を愛する」からSuper Tunaの愉快なフレーズまで、歌詞と一緒に使える表現を5つ厳選。"
-thumbnail: /images/jin/jin-lyrics-thumbnail.jpg
+thumbnail: /images/jin/jin-piano-thumbnail.jpg
 lang: ja
 ---
 
@@ -17,7 +17,7 @@ lang: ja
 
 きなこ「それなら今日は、ジンの歌詞に出てくる韓国語表現をピックアップしてみたよ。歌を覚えながら自然にフレーズが身につくから、一石二鳥！」
 
-![音楽を聴きながら韓国語を学ぶイメージ。BTSジンの楽曲と一緒にハングル表現を習得しよう。](/images/jin/jin-lyrics.jpg)
+![ピアノと楽譜。BTSジンの歌詞をイメージさせる音楽と韓国語学習のコラボレーション。](/images/jin/jin-piano.jpg)
 
 BTS（防弾少年団）のメンバーとして世界中にファンを持つジン（Jin／本名：キム・ソクジン）。2022年に「The Astronaut」でソロアーティストとしての活動をスタートさせ、2024年の1stミニアルバム「Happy」、2025年の2ndミニアルバム「Echo」と精力的に作品を発表し続けています。どの曲も美しいメロディと心に響く歌詞が魅力ですが、じつはジンの歌詞、韓国語学習にもぴったりなんです。
 
