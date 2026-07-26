@@ -6,7 +6,7 @@ import RelatedPosts from './RelatedPosts';
 import TableOfContents from './TableOfContents';
 import ShareButtons from './ShareButtons';
 import LearnCTA from './LearnCTA';
-import LearnBanner from './LearnBanner';
+import LearnBanner from '../LearnBanner';
 
 export async function generateStaticParams() {
   const posts = getAllPosts();

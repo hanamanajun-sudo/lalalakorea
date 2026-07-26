@@ -2,6 +2,7 @@ import { getAllPosts, getAllCategories } from '../lib/posts';
 import Link from 'next/link';
 import Image from 'next/image';
 import { getCategoryIcon } from '../lib/categoryIcons';
+import LearnBanner from './LearnBanner';
 
 export async function generateMetadata({ searchParams }) {
   const page = Number(searchParams?.page) || 1;
@@ -40,6 +41,10 @@ export default function Home({ searchParams }) {
             </Link>
           ))}
         </div>
+      </div>
+
+      <div className="container">
+        <LearnBanner />
       </div>
 
       <section className="posts-section">
