@@ -1,7 +1,7 @@
 export const metadata = {
   title: 'プライバシーポリシー – LaLaLaKorea',
   description: 'LaLaLaKoreaのプライバシーポリシーです。個人情報の取り扱い、Cookieの使用、広告配信についてご確認ください。',
-  alternates: { canonical: 'https://lalalakorea.com/privacy/' },
+  alternates: { canonical: 'https://lalalakorea.com/privacy' },
 };
 
 export default function PrivacyPage() {

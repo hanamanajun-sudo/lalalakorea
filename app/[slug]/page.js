@@ -31,7 +31,7 @@ export async function generateMetadata({ params }) {
     openGraph: {
       title: post.title,
       description,
-      url: `${siteUrl}/${post.slug}/`,
+      url: `${siteUrl}/${post.slug}`,
       siteName: 'LaLaLaKorea',
       images: [ogImage],
       type: 'article',
@@ -45,7 +45,7 @@ export async function generateMetadata({ params }) {
       images: [ogImage.url],
     },
     alternates: {
-      canonical: `${siteUrl}/${post.slug}/`,
+      canonical: `${siteUrl}/${post.slug}`,
     },
   };
 }
@@ -58,7 +58,7 @@ export default async function PostPage({ params }) {
   if (!post) notFound();
 
   const siteUrl = 'https://lalalakorea.com';
-  const postUrl = `${siteUrl}/${post.slug}/`;
+  const postUrl = `${siteUrl}/${post.slug}`;
   const hasInstagram = post.content.includes('instagram-media');
 
   const jsonLd = {
@@ -72,14 +72,14 @@ export default async function PostPage({ params }) {
     author: {
       '@type': 'Person',
       name: 'ジュン（주논）',
-      url: 'https://lalalakorea.com/about/',
+      url: 'https://lalalakorea.com/about',
     },
     publisher: {
       '@type': 'Organization',
       name: 'LaLaLaKorea',
       logo: { '@type': 'ImageObject', url: 'https://lalalakorea.com/og-default.png' },
     },
-    mainEntityOfPage: { '@type': 'WebPage', '@id': `https://lalalakorea.com/${post.slug}/` },
+    mainEntityOfPage: { '@type': 'WebPage', '@id': `https://lalalakorea.com/${post.slug}` },
     inLanguage: 'ja',
     keywords: post.categories.join(', '),
   };

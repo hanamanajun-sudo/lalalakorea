@@ -6,7 +6,7 @@ import LearnStats from './LearnStats';
 export const metadata = {
   title: 'ハングル学習 | LaLaLaKorea',
   description: 'K-POP・韓国ドラマが好きなあなたへ。ハングルの読み方から、実際に使える韓国語まで、クイズ付きで楽しく学べる無料オンライン学習。',
-  alternates: { canonical: 'https://lalalakorea.com/learn/' },
+  alternates: { canonical: 'https://lalalakorea.com/learn' },
 };
 
 export default function LearnHome() {

@@ -5,14 +5,14 @@ export default function sitemap() {
   const categories = getAllCategories();
 
   const postUrls = posts.map(post => ({
-    url: `https://lalalakorea.com/${post.slug}/`,
+    url: `https://lalalakorea.com/${post.slug}`,
     lastModified: post.date ? new Date(post.date).toISOString() : new Date().toISOString(),
     changeFrequency: 'monthly',
     priority: 0.8,
   }));
 
   const categoryUrls = categories.map(cat => ({
-    url: `https://lalalakorea.com/category/${encodeURIComponent(cat)}/`,
+    url: `https://lalalakorea.com/category/${encodeURIComponent(cat)}`,
     lastModified: new Date().toISOString(),
     changeFrequency: 'weekly',
     priority: 0.6,
@@ -26,19 +26,19 @@ export default function sitemap() {
       priority: 1,
     },
     {
-      url: 'https://lalalakorea.com/about/',
+      url: 'https://lalalakorea.com/about',
       lastModified: new Date().toISOString(),
       changeFrequency: 'monthly',
       priority: 0.7,
     },
     {
-      url: 'https://lalalakorea.com/contact/',
+      url: 'https://lalalakorea.com/contact',
       lastModified: new Date().toISOString(),
       changeFrequency: 'yearly',
       priority: 0.3,
     },
     {
-      url: 'https://lalalakorea.com/privacy/',
+      url: 'https://lalalakorea.com/privacy',
       lastModified: new Date().toISOString(),
       changeFrequency: 'yearly',
       priority: 0.3,

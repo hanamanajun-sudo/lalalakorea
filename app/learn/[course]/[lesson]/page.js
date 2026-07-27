@@ -19,7 +19,7 @@ export async function generateMetadata({ params }) {
   return {
     title: `${lesson.title} | ${lesson.courseTitle} | LaLaLaKorea`,
     description: `${lesson.courseTitle}のレッスン「${lesson.title}」。クイズ付きで韓国語を楽しく学べます。`,
-    alternates: { canonical: `https://lalalakorea.com/learn/${params.course}/${params.lesson}/` },
+    alternates: { canonical: `https://lalalakorea.com/learn/${params.course}/${params.lesson}` },
   };
 }
 

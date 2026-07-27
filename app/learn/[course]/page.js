@@ -13,7 +13,7 @@ export function generateMetadata({ params }) {
   return {
     title: `${course.title} | LaLaLaKorea`,
     description: course.description,
-    alternates: { canonical: `https://lalalakorea.com/learn/${course.id}/` },
+    alternates: { canonical: `https://lalalakorea.com/learn/${course.id}` },
   };
 }
 

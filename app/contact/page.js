@@ -3,14 +3,14 @@ import ContactButton from '../about/ContactButton';
 export const metadata = {
   title: 'お問い合わせ – LaLaLaKorea',
   description: 'LaLaLaKoreaへのお問い合わせはこちらから。ご質問・ご感想・お仕事のご依頼など、お気軽にどうぞ。',
-  alternates: { canonical: 'https://lalalakorea.com/contact/' },
+  alternates: { canonical: 'https://lalalakorea.com/contact' },
 };
 
 const contactJsonLd = {
   '@context': 'https://schema.org',
   '@type': 'ContactPage',
   name: 'お問い合わせ – LaLaLaKorea',
-  url: 'https://lalalakorea.com/contact/',
+  url: 'https://lalalakorea.com/contact',
   description: 'LaLaLaKoreaへのお問い合わせページ',
 };
 

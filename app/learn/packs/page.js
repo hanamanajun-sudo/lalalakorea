@@ -4,7 +4,7 @@ import { getAllWordPacks } from '../../../lib/wordpacks';
 export const metadata = {
   title: '単語パック | LaLaLaKorea',
   description: 'テーマ別の韓国語単語セット。好きなパックを選んで、復習リストに追加しよう。',
-  alternates: { canonical: 'https://lalalakorea.com/learn/packs/' },
+  alternates: { canonical: 'https://lalalakorea.com/learn/packs' },
 };
 
 export default function PacksPage() {

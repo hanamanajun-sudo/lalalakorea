@@ -3,14 +3,14 @@ import ContactButton from './ContactButton';
 export const metadata = {
   title: 'About – LaLaLaKorea',
   description: '韓国出身・日本在住10年のジュンが運営するLaLaLaKoreaについて。韓日夫婦の日常から韓国語・韓国文化・Kpopを発信しています。',
-  alternates: { canonical: 'https://lalalakorea.com/about/' },
+  alternates: { canonical: 'https://lalalakorea.com/about' },
 };
 
 const personJsonLd = {
   '@context': 'https://schema.org',
   '@type': 'Person',
   name: 'ジュン（주논）',
-  url: 'https://lalalakorea.com/about/',
+  url: 'https://lalalakorea.com/about',
   description: '韓国出身、日本在住10年。日本人夫ハルと韓日夫婦として生活しながら、韓国文化・韓国語・Kpopを日本語で発信中。',
   knowsLanguage: ['ko', 'ja'],
   sameAs: ['https://lalalakorea.com'],

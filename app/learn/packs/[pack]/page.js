@@ -13,7 +13,7 @@ export function generateMetadata({ params }) {
   return {
     title: `${pack.title} | 単語パック | LaLaLaKorea`,
     description: pack.description,
-    alternates: { canonical: `https://lalalakorea.com/learn/packs/${pack.id}/` },
+    alternates: { canonical: `https://lalalakorea.com/learn/packs/${pack.id}` },
   };
 }
 

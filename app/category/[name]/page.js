@@ -9,7 +9,7 @@ const POSTS_PER_PAGE = 12;
 export async function generateMetadata({ params, searchParams }) {
   const name = decodeURIComponent(params.name);
   const description = `韓国の${name}に関する記事一覧。韓国在住10年のジュンが、リアルな体験をもとに日本語で発信しています。`;
-  const baseUrl = `https://lalalakorea.com/category/${encodeURIComponent(name)}/`;
+  const baseUrl = `https://lalalakorea.com/category/${encodeURIComponent(name)}`;
   const page = Number(searchParams?.page) || 1;
   const url = page === 1 ? baseUrl : `${baseUrl}?page=${page}`;
   return {

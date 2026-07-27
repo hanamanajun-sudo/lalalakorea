@@ -4,7 +4,7 @@ import { getAllCourses } from '../../../lib/courses';
 export const metadata = {
   title: 'ハングルレッスン | LaLaLaKorea',
   description: 'ハングルの読み方から使える韓国語まで、クイズ付きで学べるレッスン一覧。',
-  alternates: { canonical: 'https://lalalakorea.com/learn/lessons/' },
+  alternates: { canonical: 'https://lalalakorea.com/learn/lessons' },
 };
 
 export default function LessonsPage() {
