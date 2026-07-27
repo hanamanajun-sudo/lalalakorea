@@ -11,12 +11,19 @@ export default function sitemap() {
     priority: 0.8,
   }));
 
-  const categoryUrls = categories.map(cat => ({
-    url: `https://lalalakorea.com/category/${encodeURIComponent(cat)}`,
-    lastModified: new Date().toISOString(),
-    changeFrequency: 'weekly',
-    priority: 0.6,
-  }));
+  const categoryUrls = categories.map(cat => {
+    const postsInCategory = posts.filter(p => p.categories.includes(cat));
+    const latestDate = postsInCategory.reduce((latest, p) => {
+      const d = p.date ? new Date(p.date) : null;
+      return d && (!latest || d > latest) ? d : latest;
+    }, null);
+    return {
+      url: `https://lalalakorea.com/category/${encodeURIComponent(cat)}`,
+      lastModified: (latestDate || new Date()).toISOString(),
+      changeFrequency: 'weekly',
+      priority: 0.6,
+    };
+  });
 
   return [
     {
