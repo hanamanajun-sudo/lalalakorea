@@ -178,3 +178,11 @@ related_posts:
 - **건배！（コンベ）**：乾杯！
 
 韓国旅行でもドラマでも、맥주（メクチュ）という一言が聞こえたら、ぜひ反応できるように耳を鍛えておきましょう！
+
+## 韓国グルメの関連記事はコチラ
+
+- [韓国のパッピンス（빙수）完全ガイド](https://lalalakorea.com/bingsu-guide)
+- [韓国コンビニで絶対に買いたいおすすめグルメ](https://lalalakorea.com/konbini-gourmet-8)
+- [韓国語の「おいしい」は何種類ある？](https://lalalakorea.com/korean-delicious-expressions)
+- [韓国冷麺（ネンミョン）のすべて](https://lalalakorea.com/naengmyeon-guide)
+- [韓国カフェ文化のすべて！ソウルで絶対行きたいおしゃれカフェと定番メニュー](https://lalalakorea.com/kankoku-cafe)
