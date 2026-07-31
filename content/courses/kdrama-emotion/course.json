@@ -1,0 +1,17 @@
+{
+  "id": "kdrama-emotion",
+  "title": "ドラマで身につく感情表現",
+  "emoji": "🎭",
+  "icon": "chat-teardrop-text",
+  "level": "初級",
+  "order": 4,
+  "description": "대박・진짜・헐のように、ドラマやSNSで韓国人がリアルに使う感情表現を全20語。ブログでは紹介しきれなかったボーナス単語や実践ミニ会話つきで、一歩踏み込んで身につけるコースです。",
+  "lessons": [
+    "01-shock-surprise",
+    "02-comfort-cheer",
+    "03-sorry-love",
+    "04-worry-annoyed",
+    "05-drama-review-slang",
+    "06-final"
+  ]
+}
