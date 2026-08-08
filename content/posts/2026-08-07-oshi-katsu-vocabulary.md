@@ -5,6 +5,8 @@ description: "推し活をしながら韓国語を覚えたい初心者向けに
 date: 2026-08-07
 categories:
   - 韓国語
+thumbnail: /images/blog/oshi-katsu-vocabulary.jpg
+thumbnailAlt: コンサート会場でスマホを構えるファンの手元 — 推し活で韓国語を学ぶ単語帳
 lang: ja
 excerpt: "推し活しながら韓国語を学べる単語帳！좋아해요・최고・덕후・입덕など、ファンが実際に使う表現を例文つきで紹介。ハングル初心者でも今日から使えます。"
 ---
@@ -123,7 +125,8 @@ excerpt: "推し活しながら韓国語を学べる単語帳！좋아해요・�
 
 ---
 
+> この記事で紹介した単語は、[ハングル学習レッスン「推し活で使える韓国語」](/learn/oshikatsu-korean)でクイズと実践フレーズつきで練習できます。ぜひ挑戦してみてください。
+
 **参考リンク:**
-- [K-POP新曲で覚える！2026年最新韓国語スラング10選](https://lalalakorea.com/kpop-korean-slang-2026)（関連記事）
+- [推し活で使える！今も使われる韓国語スラング9選](https://lalalakorea.com/kpop-korean-slang-2026)（関連記事）
 - [2026年最新版！韓国語学習アプリおすすめランキング](https://lalalakorea.com/korean-learning-apps-2026)（関連記事）
-- [韓国観光公社 公式サイト](https://www.visitkorea.or.jp/)（韓国語学習のモチベーションに）
