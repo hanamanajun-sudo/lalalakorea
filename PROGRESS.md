@@ -242,6 +242,7 @@
 12. **머지 전 이중 검증** — 브랜치(`cloudflare-migration-prep`) push → Vercel 프리뷰 배포 성공 확인(사용자 육안 확인) → main으로 ff-merge & push → 프로덕션 Vercel 재배포도 정상 확인 후 브랜치 정리
 13. **실제 DNS 이전 실행** — Cloudflare Workers 커스텀 도메인은 Pages와 달리 zone 전체가 Cloudflare 네임서버여야 함을 확인 → 기존 레코드 조사(등록기관이 애초 추정한 お名前.com이 아니라 **무무도메인**임을 사용자가 직접 확인) → Cloudflare "도메인 연결"에서 DNS 자동 스캔 시 `trip.lalalakorea.com` CNAME이 누락됨을 발견해 수동 추가(DNS 전용) → 무무도메인에서 네임서버를 Cloudflare(`bjorn`/`kristina`)로 변경 → Active 전환(예상보다 빠르게 완료) → Worker 커스텀 도메인 추가 시 기존 apex A레코드 충돌 에러 → 충돌 레코드 2개만 정확히 삭제 후 재시도로 연결 성공
 14. **최종 검증 + 안전성 설명** — `lalalakorea.com`·`trip.lalalakorea.com` 둘 다 200, SSL(Let's Encrypt) 정상 확인. Vercel을 그대로 둬도 canonical 태그 때문에 중복 콘텐츠 문제 없음을 설명, 오히려 즉시 롤백 안전망으로 당분간 유지하기로 결정
+15. **Cloudflare 이전이 안드로이드 앱(RN/Expo) 계획에 미치는 영향 검토** — 오늘 fs→JSON 리팩터링 덕분에 앱용 API를 나중에 추가할 때 Cloudflare에서도 안전하게 동작할 것으로 확인(예전 fs 기반이었다면 앱 API 라우트 추가 시 동일하게 크래시 났을 것). 다만 코스/레슨 데이터를 앱이 fetch할 수 있는 JSON API 엔드포인트는 아직 없음(미착수). Cloudflare Workers 무료 플랜은 공식 문서상 Vercel Hobby와 달리 "비상업적 사용 전용" 제약이 없음을 확인(광고/결제 앱 확장에 유리)
 
 ### 완료된 항목
 
@@ -260,6 +261,7 @@
 - [x] `trip.lalalakorea.com` 무영향 확인 (CNAME 수동 보존), TXT(서치콘솔 인증) 레코드 보존 확인
 - [x] SSL 인증서 정상 발급 확인, 중복 콘텐츠 SEO 리스크 없음을 canonical 태그 근거로 설명
 - [x] Vercel 배포는 롤백 안전망으로 당분간 유지하기로 결정 (코드 작업 아님, 방침 결정)
+- [x] Cloudflare 이전이 안드로이드 앱(RN/Expo) 계획을 방해하지 않음을 확인 (오히려 데이터 접근이 쉬워짐), Cloudflare 무료 플랜에 Vercel 같은 비상업적 사용 제약 없음을 공식 문서로 확인
 
 ### 다음에 할 일
 
@@ -269,6 +271,12 @@
 - [ ] **AdSense 정상 노출 확인** — 새 호스팅(Cloudflare)에서도 광고가 정상적으로 게재되는지 확인
 - [ ] **(선택) `www.lalalakorea.com`도 Cloudflare Worker 커스텀 도메인으로 추가** — 현재는 Vercel에 남아있고 앱 자체 리디렉션으로 apex까지는 정상 도달하나, 완전히 일원화하려면 www도 추가 가능
 - [ ] **(선택) Vercel Pro 플랜 전환** — AdSense가 이미 붙어있어 Hobby 플랜 약관(비상업적 사용 전용) 위반 상태. Vercel을 계속 유지하기로 한 만큼 언젠가 처리 필요 (단, lalalakorea 자체를 곧 Cloudflare 전용으로 정리할 계획이면 우선순위 낮음)
+
+### 안드로이드 앱(RN/Expo) 계획 — 아직 착수 전, 방향만 논의됨
+- [ ] **앱용 JSON API 엔드포인트 신설** — 코스/레슨/단어팩 데이터를 앱이 fetch할 수 있도록 `app/api/courses/route.js` 등 신설 (기반이 되는 `lib/courses.js` 등은 오늘 이미 fs-free로 정리 완료라 안전하게 추가 가능)
+- [ ] API 라우트 추가 시 CORS 헤더 설정 (앱에서의 요청 허용)
+- [ ] API 라우트 추가 시 Cloudflare 봇 방지(Security) 설정이 앱 요청을 오탐지로 막지 않는지 확인
+- [ ] RN/Expo 프로젝트 뼈대 세팅 자체는 미착수 — 다음 세션에서 실제 착수 여부 결정
 
 ---
 
