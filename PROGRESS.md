@@ -224,4 +224,52 @@
 
 ---
 
+## 2026-08-08 / 09 の作業内容 — 게시글 수정 + Cloudflare Workers 이전 완료
+
+### 오늘 한 일
+
+1. **`oshi-katsu-vocabulary` 게시글 수정** — 韓国観光公社 참고링크 삭제, kpop-korean-slang-2026 참고링크의 잘못된 제목(실제와 다른 가짜 제목) 정정, Unsplash 썸네일 추가, `/learn/oshikatsu-korean` 학습 레슨 링크 추가 (`5dd2a36`)
+2. **`korean-learning-apps-2026` 팩트체크 반영** — LingoDeer 프리미엄 가격을 2020년 기준 옛 수치(月額1,200円)에서 2026년 실제 가격($14.99〜)으로 갱신, "스피킹 연습 기회 적음" 서술을 최근 업데이트 반영해 수정, TTMIK "10段階" 근거 불명확한 구체 수치를 순화된 표현으로 변경 (`00ee209`)
+3. **네이티브 앱(RN/Expo) 전환 가능성 상담** — 학습 탭을 안드로이드 앱으로 만드는 방안 논의. Capacitor/TWA/RN·Expo 비교, EAS 무료 티어 한도(빌드 15회/월, Update 1,000 MAU/월)와 로컬 빌드로 우회 가능함을 확인, Expo의 비즈니스 모델(SDK 오픈소스 무료+EAS 유료, Vercel과 동일 구조)을 설명 — **결론은 다음 세션 이후로 보류**, 코드 작업은 없음
+4. **Vercel Hobby 플랜 상업적 사용 정책 확인** — 공식 fair-use 문서에서 "AdSense 포함 광고 게재는 명시적으로 상업적 사용"이라는 조항 확인 → lalalakorea에 AdSense가 이미 붙어있어 **Pro 플랜 전환이 약관상 필요**하다고 안내 (실행은 사용자 판단으로 보류)
+5. **Cloudflare 이전 사전 점검** — 코드베이스 감사로 두 가지 확정 리스크 발견: ①`public/wp-content/uploads/wp-statistics/`의 57MB GeoLite2 DB가 Cloudflare 25MiB 파일 제한 초과, ②홈/카테고리 페이지네이션이 `searchParams` 사용으로 매 요청마다 동적 렌더링되며 그때마다 `fs`로 마크다운 재읽기
+6. **페이지네이션 정적 라우트 전환 + 미사용 파일 제거** — `?page=N` 쿼리스트링 → `/page/N`·`/category/[name]/page/N` 정적 라우트로 전환(빌드 시점에만 fs 읽도록), 구 URL은 308 리디렉션 처리, wp-statistics 폴더 삭제 (`f07c940`)
+7. **Cloudflare Workers 실배포 준비** — `@opennextjs/cloudflare` 설치 시 최신 버전(1.20.x)이 Next.js 15+ 요구함을 발견 → Next 14.2.35와 호환되는 `1.15.1`로 특정 설치. `wrangler.jsonc`, `open-next.config.ts`, `cf:preview`/`cf:deploy` 스크립트 추가
+8. **Windows 빌드 크래시 우회** — `opennextjs-cloudflare build`가 Git Bash(exit 127)·PowerShell(네이티브 크래시) 양쪽에서 실패 확인(공식적으로 알려진 Windows 비호환 이슈) → WSL(Ubuntu)에 프로젝트 복사 후 그쪽에서 빌드, 결과물만 Windows로 복사해오는 방식으로 우회
+9. **런타임 `fs` 의존성 완전 제거 (핵심 작업)** — Cloudflare Workers 배포 후 `readdir '/bundle/content/posts'` 에러 발생 확인. `lib/posts.js`뿐 아니라 `lib/courses.js`·`lib/wordpacks.js`도 동일하게 런타임 fs를 쓰고 있었음을 발견 → 3개 파일 전부 빌드 시점 JSON 생성(`scripts/generate-{posts,courses,wordpacks}-data.mjs`, `prebuild`/`predev` 훅으로 자동 실행) + 런타임엔 JSON import만 하는 구조로 리팩터링. 리팩터링 도중 `getAllCourses()`의 `lessons` 필드 타입 회귀(문자열 배열 → 객체 배열로 잘못 변경)를 로컬 빌드 에러로 조기 발견·수정 (`77c6a5b`)
+10. **OpenNext Cloudflare 라우팅 버그 발견·회피** — `/page/[num]` 라우트 추가 후 전체 사이트가 `Expected "page" to match...` 에러로 500 발생 → 원인이 `next.config.mjs`의 `destination: '/page/:page'` 리디렉션(경로 세그먼트명 "page"가 어댑터 내부와 충돌)임을 격리 테스트로 특정, 해당 리디렉션 2건 제거로 해결 (`/page/N` 라우트 자체는 정상 동작, 구 `?page=` URL 리디렉션만 사라짐)
+11. **Cloudflare Workers에 실배포 + 전체 라우트 검증** — `lalalakorea.hanamanajun.workers.dev`에 배포, 홈/포스트/카테고리/학습 코스·레슨·단어팩/검색/사이트맵/robots/CMS OAuth 리디렉션까지 curl로 전수 점검. 시크릿 5종(GitHub OAuth, Supabase) 등록 시 `.dev.vars`의 값에 따옴표가 그대로 포함되던 버그 발견·재등록
+12. **머지 전 이중 검증** — 브랜치(`cloudflare-migration-prep`) push → Vercel 프리뷰 배포 성공 확인(사용자 육안 확인) → main으로 ff-merge & push → 프로덕션 Vercel 재배포도 정상 확인 후 브랜치 정리
+13. **실제 DNS 이전 실행** — Cloudflare Workers 커스텀 도메인은 Pages와 달리 zone 전체가 Cloudflare 네임서버여야 함을 확인 → 기존 레코드 조사(등록기관이 애초 추정한 お名前.com이 아니라 **무무도메인**임을 사용자가 직접 확인) → Cloudflare "도메인 연결"에서 DNS 자동 스캔 시 `trip.lalalakorea.com` CNAME이 누락됨을 발견해 수동 추가(DNS 전용) → 무무도메인에서 네임서버를 Cloudflare(`bjorn`/`kristina`)로 변경 → Active 전환(예상보다 빠르게 완료) → Worker 커스텀 도메인 추가 시 기존 apex A레코드 충돌 에러 → 충돌 레코드 2개만 정확히 삭제 후 재시도로 연결 성공
+14. **최종 검증 + 안전성 설명** — `lalalakorea.com`·`trip.lalalakorea.com` 둘 다 200, SSL(Let's Encrypt) 정상 확인. Vercel을 그대로 둬도 canonical 태그 때문에 중복 콘텐츠 문제 없음을 설명, 오히려 즉시 롤백 안전망으로 당분간 유지하기로 결정
+
+### 완료된 항목
+
+- [x] `oshi-katsu-vocabulary` 게시글 오류 수정 + 썸네일·학습링크 추가
+- [x] `korean-learning-apps-2026` 팩트체크 3건 반영
+- [x] 57MB `wp-statistics` 미사용 파일 제거 (git 추적 해제 + 로컬 파일 삭제)
+- [x] 홈·카테고리 페이지네이션을 `/page/N` 정적 라우트로 전환 (구 URL 308 리디렉션)
+- [x] `@opennextjs/cloudflare@1.15.1`(Next 14 호환) + `wrangler` 설치, `wrangler.jsonc`/`open-next.config.ts` 구성
+- [x] `lib/posts.js`·`lib/courses.js`·`lib/wordpacks.js` 런타임 fs 의존성 완전 제거 (빌드 시점 JSON 생성 방식으로 전환)
+- [x] OpenNext Cloudflare "page" 라우팅 충돌 버그 발견·해결 (`?page=` 리디렉션 제거)
+- [x] WSL 경유 Cloudflare 빌드 파이프라인 확립 (Windows 네이티브 빌드 크래시 우회)
+- [x] Cloudflare Workers 실배포 (`lalalakorea.hanamanajun.workers.dev`) + 전체 라우트 검증
+- [x] Cloudflare Worker 시크릿 5종 등록 (따옴표 버그 수정 포함)
+- [x] Vercel 프리뷰 배포로 사전 검증 후 main 머지·push (프로덕션 무중단 확인)
+- [x] **실제 도메인 이전 완료** — 네임서버를 무무도메인 → Cloudflare로 전환, `lalalakorea.com`을 Worker 커스텀 도메인으로 연결
+- [x] `trip.lalalakorea.com` 무영향 확인 (CNAME 수동 보존), TXT(서치콘솔 인증) 레코드 보존 확인
+- [x] SSL 인증서 정상 발급 확인, 중복 콘텐츠 SEO 리스크 없음을 canonical 태그 근거로 설명
+- [x] Vercel 배포는 롤백 안전망으로 당분간 유지하기로 결정 (코드 작업 아님, 방침 결정)
+
+### 다음에 할 일
+
+- [ ] **Vercel 프로젝트(lalalakorea) 삭제 검토** — 2주 정도 Cloudflare 안정성 지켜본 뒤, 문제없으면 Vercel 쪽 lalalakorea 프로젝트 정지/삭제 (목표 시점: 2026-08-23 전후)
+- [ ] **trip.lalalakorea.com 이전** — 별도 코드베이스라 오늘과 동일한 사전 검증(런타임 fs 의존성 등 확인) 필요. DNS 존은 이미 Cloudflare에 있으므로 네임서버 재변경 없이 Worker 커스텀 도메인 추가만으로 가능
+- [ ] **서치콘솔 모니터링** — 도메인 이전 후 1~2주간 크롤 오류·색인 상태 이상 없는지 확인 (TXT 인증은 유지됐으나 호스팅 변경 자체는 처음이라 한 번은 눈으로 확인 권장)
+- [ ] **AdSense 정상 노출 확인** — 새 호스팅(Cloudflare)에서도 광고가 정상적으로 게재되는지 확인
+- [ ] **(선택) `www.lalalakorea.com`도 Cloudflare Worker 커스텀 도메인으로 추가** — 현재는 Vercel에 남아있고 앱 자체 리디렉션으로 apex까지는 정상 도달하나, 완전히 일원화하려면 www도 추가 가능
+- [ ] **(선택) Vercel Pro 플랜 전환** — AdSense가 이미 붙어있어 Hobby 플랜 약관(비상업적 사용 전용) 위반 상태. Vercel을 계속 유지하기로 한 만큼 언젠가 처리 필요 (단, lalalakorea 자체를 곧 Cloudflare 전용으로 정리할 계획이면 우선순위 낮음)
+
+---
+
 *最終更新: 2026-07-31*
