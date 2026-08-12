@@ -14,7 +14,7 @@ export async function GET(request, { params }) {
   return Response.json(course, {
     headers: {
       ...CORS_HEADERS,
-      'Cache-Control': 'public, max-age=300, stale-while-revalidate=3600',
+      'Cache-Control': 'private, max-age=300',
     },
   });
 }
