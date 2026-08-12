@@ -5,6 +5,7 @@ description: "韓国語の場所の助詞「에（エ）」と「에서（エソ
 date: 2026-08-12
 categories:
   - 韓国語
+thumbnail: /images/study/location-particles-thumbnail.jpg
 lang: ja
 excerpt: "韓国語の場所の助詞에と에서の使い分けを完全解説。存在は에、動作は에서が基本。日本人が間違えやすいポイントを例文つきで紹介します。"
 ---
@@ -18,9 +19,9 @@ excerpt: "韓国語の場所の助詞에と에서の使い分けを完全解説�
 </div>
 
 <div class="chat-msg chat-right">
-<svg class="chat-avatar" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="50" fill="#06D6A0"/><text x="50" y="62" text-anchor="middle" font-size="40" fill="white" font-family="sans-serif">ロ</text></svg>
+<svg class="chat-avatar" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="50" fill="#06D6A0"/><text x="50" y="62" text-anchor="middle" font-size="40" fill="white" font-family="sans-serif">ジ</text></svg>
 <div class="chat-bubble-wrap">
-<div class="chat-name">ログ</div>
+<div class="chat-name">ジュン</div>
 <div class="chat-bubble">実は日本語とちょっと違って、韓国語は「存在」と「動作」で使い分けるんだよ。そこさえ押さえれば迷わなくなる。</div>
 </div>
 </div>
@@ -34,6 +35,8 @@ excerpt: "韓国語の場所の助詞에と에서の使い分けを完全解説�
 </div>
 
 韓国語を勉強していると、必ずぶつかるのが場所の助詞「에（エ）」と「에서（エソ）」の問題です。日本語の「に」と「で」に似ているので、「どっちでも通じるんじゃない？」と思いがちですが、実は使い分けに明確なルールがあります。ここでは、日本人が特に間違えやすいポイントを中心に、例文つきでわかりやすく整理しました。
+
+![ノートとペンで韓国語を勉強するイメージ。場所の助詞에と에서を例文で学ぼう。](/images/study/location-particles.jpg)
 
 ## 基本ルールは「存在はエ、動作はエソ」
 
@@ -131,4 +134,3 @@ excerpt: "韓国語の場所の助詞에と에서の使い分けを完全解説�
 **参考リンク:**
 - [韓国旅行前に覚えたい！カタコト韓国語フレーズ10選](https://lalalakorea.com/korea-travel-phrases)（旅行で使える実践フレーズ）
 - [韓国語の敬語（존댓말）完全攻略ガイド](https://lalalakorea.com/jondetmal-complete-guide)（丁寧な言い方もあわせて）
-- [韓国観光公社 公式サイト](https://www.visitkorea.or.jp/)（韓国旅行の情報収集に）

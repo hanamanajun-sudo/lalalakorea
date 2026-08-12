@@ -20,9 +20,9 @@ excerpt: "推し活しながら韓国語を学べる単語帳！좋아해요・�
 </div>
 
 <div class="chat-msg chat-right">
-<svg class="chat-avatar" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="50" fill="#06D6A0"/><text x="50" y="62" text-anchor="middle" font-size="40" fill="white" font-family="sans-serif">ロ</text></svg>
+<svg class="chat-avatar" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="50" fill="#06D6A0"/><text x="50" y="62" text-anchor="middle" font-size="40" fill="white" font-family="sans-serif">ジ</text></svg>
 <div class="chat-bubble-wrap">
-<div class="chat-name">ログ</div>
+<div class="chat-name">ジュン</div>
 <div class="chat-bubble">それ、推し活を韓国語学習に活かす絶好のチャンスだよ。ファンがよく使う単語から覚えれば、コメント欄がそのまま教材になるんだ。</div>
 </div>
 </div>

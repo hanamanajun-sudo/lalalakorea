@@ -20,9 +20,9 @@ thumbnail: "/images/bts-hangul-expressions/thumbnail.jpg"
 </div>
 
 <div class="chat-msg chat-right">
-<svg class="chat-avatar" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="50" fill="#06D6A0"/><text x="50" y="62" text-anchor="middle" font-size="40" fill="white" font-family="sans-serif">ロ</text></svg>
+<svg class="chat-avatar" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="50" fill="#06D6A0"/><text x="50" y="62" text-anchor="middle" font-size="40" fill="white" font-family="sans-serif">ジ</text></svg>
 <div class="chat-bubble-wrap">
-<div class="chat-name">ログ</div>
+<div class="chat-name">ジュン</div>
 <div class="chat-bubble">それなら歌詞に出てくるフレーズから覚えるのが一番効率的だよ。今日はARIRANGの楽曲を題材に5つ厳選したから紹介するね。</div>
 </div>
 </div>
@@ -139,9 +139,9 @@ ARIRANGワールドツアーはまだまだ続いていて、7月19日にはニ�
 ---
 
 <div class="chat-msg chat-right">
-<svg class="chat-avatar" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="50" fill="#06D6A0"/><text x="50" y="62" text-anchor="middle" font-size="40" fill="white" font-family="sans-serif">ロ</text></svg>
+<svg class="chat-avatar" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="50" fill="#06D6A0"/><text x="50" y="62" text-anchor="middle" font-size="40" fill="white" font-family="sans-serif">ジ</text></svg>
 <div class="chat-bubble-wrap">
-<div class="chat-name">ログ</div>
+<div class="chat-name">ジュン</div>
 <div class="chat-bubble">今回の5つを覚えたら、他のBTSの曲でも知ってる単語がどんどん見つかるようになるよ</div>
 </div>
 </div>
