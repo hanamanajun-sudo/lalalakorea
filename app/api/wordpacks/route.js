@@ -1,11 +1,9 @@
 import { getAllWordPacks } from '../../../lib/wordpacks';
+import { CORS_HEADERS, checkApiKey, unauthorizedResponse } from '../../../lib/apiAuth';
 
-const CORS_HEADERS = {
-  'Access-Control-Allow-Origin': '*',
-  'Access-Control-Allow-Methods': 'GET, OPTIONS',
-};
+export async function GET(request) {
+  if (!checkApiKey(request)) return unauthorizedResponse();
 
-export async function GET() {
   const packs = getAllWordPacks();
   return Response.json(packs, {
     headers: {

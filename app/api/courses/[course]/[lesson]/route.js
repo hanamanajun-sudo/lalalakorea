@@ -1,11 +1,9 @@
 import { getLesson } from '../../../../../lib/courses';
-
-const CORS_HEADERS = {
-  'Access-Control-Allow-Origin': '*',
-  'Access-Control-Allow-Methods': 'GET, OPTIONS',
-};
+import { CORS_HEADERS, checkApiKey, unauthorizedResponse } from '../../../../../lib/apiAuth';
 
 export async function GET(request, { params }) {
+  if (!checkApiKey(request)) return unauthorizedResponse();
+
   const { course: courseId, lesson: lessonId } = await params;
   const lesson = await getLesson(courseId, lessonId);
 
