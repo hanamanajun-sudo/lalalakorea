@@ -108,4 +108,4 @@ lang: ja
 
 合わせて読みたい：[韓国語の「ありがとう」完全ガイド — シーン別に使い分ける3つの表現](https://lalalakorea.com/korean-thankyou-guide)
 
-参考：韓国観光公社公式サイト「[韓国グルメ情報](https://www.visitkorea.or.jp/spot/food/)」
+参考：韓国観光公社公式サイト「[韓国グルメ情報](https://japanese.visitkorea.or.kr/)」

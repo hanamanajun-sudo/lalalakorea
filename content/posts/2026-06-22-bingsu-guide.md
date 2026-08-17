@@ -154,6 +154,6 @@ lang: ja
 
 暑い夏、ふわふわの氷と甘いトッピングが溶け合うあの幸せ。韓国に行ったらぜひカフェで、家にいるなら牛乳氷で試してみてください。きっとやめられなくなりますよ。
 
-> 📖 参考リンク：[ソルビン公式サイト](https://www.sulbing.com/) | [VisitKorea 韓国観光公社](https://www.visitkorea.or.jp/)
+> 📖 参考リンク：[ソルビン公式サイト](https://www.sulbing.com/) | [VisitKorea 韓国観光公社](https://japanese.visitkorea.or.kr/)
 > 
 > あわせて読みたい：[韓国コンビニで絶対に買いたいおすすめグルメ8選！](/konbini-gourmet-8)
