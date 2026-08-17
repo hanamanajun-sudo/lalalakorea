@@ -140,3 +140,6 @@ excerpt: "韓国語の数字は2種類！固有語（하나・둘）と漢数詞
 **参考リンク:**
 - [「에」と「에서」、もう迷わない！場所の助詞の使い分け完全ガイド](https://lalalakorea.com/korean-location-particles)（間違えやすい韓国語シリーズ）
 - [韓国旅行前に覚えたい！カタコト韓国語フレーズ10選](https://lalalakorea.com/korea-travel-phrases)（旅行で使える実践フレーズ）
+
+> 🔢 **もっと練習したい人へ**
+> この記事の内容を、例文とクイズで体に定着させる無料レッスン「[固有語・漢数詞の数字を使いこなす](https://lalalakorea.com/learn/korean-numbers)」を用意しました。全6レッスン、クイズ付きで自分のペースで学べます。
