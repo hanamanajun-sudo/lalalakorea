@@ -134,3 +134,6 @@ excerpt: "韓国語の場所の助詞에と에서の使い分けを完全解説�
 **参考リンク:**
 - [韓国旅行前に覚えたい！カタコト韓国語フレーズ10選](https://lalalakorea.com/korea-travel-phrases)（旅行で使える実践フレーズ）
 - [韓国語の敬語（존댓말）完全攻略ガイド](https://lalalakorea.com/jondetmal-complete-guide)（丁寧な言い方もあわせて）
+
+> 📍 **もっと練習したい人へ**
+> この記事の内容を、例文とクイズで体に定着させる無料レッスン「[場所の助詞「에・에서」を使いこなす](https://lalalakorea.com/learn/location-particles)」を用意しました。全5レッスン、クイズ付きで自分のペースで学べます。

@@ -1,0 +1,16 @@
+{
+  "id": "location-particles",
+  "title": "場所の助詞「에・에서」を使いこなす",
+  "emoji": "📍",
+  "icon": "map-pin",
+  "level": "初級",
+  "order": 5,
+  "description": "「学校に行きます」と「学校で勉強します」、韓国語ではどちらも에？迷いやすい場所の助詞에と에서を、ブログ記事をベースに例文とクイズでしっかり体に定着させる実践コースです。",
+  "lessons": [
+    "01-intro",
+    "02-e-existence",
+    "03-eseo-action",
+    "04-trap-cases",
+    "05-final"
+  ]
+}
