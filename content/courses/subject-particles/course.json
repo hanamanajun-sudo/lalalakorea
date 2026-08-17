@@ -1,0 +1,17 @@
+{
+  "id": "subject-particles",
+  "title": "主語の助詞「은/는・이/가」を使いこなす",
+  "emoji": "🗣️",
+  "icon": "chats-circle",
+  "level": "初級",
+  "order": 7,
+  "description": "「私は」なのに「韓国語が好き」？日本語の「は」「が」に似ているようで役割が違う은/는と이/가を、ブログ記事をベースに例文とクイズで体に定着させる実践コースです。",
+  "lessons": [
+    "01-intro",
+    "02-form-change",
+    "03-liking-trap",
+    "04-question-existence",
+    "05-double-subject",
+    "06-final"
+  ]
+}
