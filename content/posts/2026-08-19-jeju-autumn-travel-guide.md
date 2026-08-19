@@ -112,5 +112,6 @@ description: 秋の済州島旅行で外せないおすすめスポットを7つ
 **あわせて読みたい：**
 - [2026年夏の韓国旅行！ぜひ行きたいおすすめスポット7選](https://lalalakorea.com/summer-korea-travel-2026)（夏の済州島スポットも紹介）
 - [韓国旅行前に覚えたい！カタコト韓国語フレーズ10選](https://lalalakorea.com/korea-travel-phrases)（旅行でそのまま使えるフレーズ集）
+- [済州島旅行ワード10選（単語パック）](https://lalalakorea.com/learn/packs/jeju-travel)（レンタカー・黒豚・한라산など旅行で使うご当地単語）
 
 参考リンク：[韓国観光公社 公式サイト](https://japanese.visitkorea.or.kr/)／[Visit Jeju（済州特別自治道観光案内）](https://www.visitjeju.net/jp)
