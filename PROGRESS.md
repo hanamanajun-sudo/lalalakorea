@@ -348,4 +348,31 @@
 
 ---
 
-*最終更新: 2026-08-20*
+## 2026-08-21 の作業内容 — 신조어 기사 신설·팩트수정 + 단어팩 신설 + RESCENE 내부링크 + CMS 초안 재발견
+
+### 오늘 한 일
+
+1. **`korean-neologisms-2026` 신규 글 작성·공개** — 2026年韓国語の新造語・若者言葉10選(아자스·야르·밤티·샤갈·난리자베스·갓생·폼미쳤다·중꺾마·킹받는다·잼민이) (`2e7837d`)
+2. **위 글 팩트/표현 수정 2건** — 중꺾마·갓생·폼미쳤다 유행 연도 정정, 잼민이=초등학생 지칭 정정, 익명 인용 완화, RESCENE 오이데/맛떼루요 언급 추가, 잼얘→킹받는다 교체 (`f3aa08f`, `19cdd24`)
+3. **CMS editorial_workflow 초안 브랜치 재발견·머지** — 사용자가 CMS에서 썸네일을 올렸다고 알려왔으나 main엔 반영 안 됨 → `cms/posts/2026-08-21-korean-neologisms-2026` 브랜치에 썸네일(`korean-neologisms-2026-thumbnail.webp`) + 밤티 섹션 관련 스크린샷(`178730719717.jpg`) + frontmatter 정리분이 초안(미발행)으로 남아있던 것을 확인 → main에 fast-forward 머지 (`908349b`)
+4. **`korean-neologisms-2026` 단어팩 신설** — `/learn/packs`에 아자스·야르·밤티·샤갈·난리자베스·갓생·폼미쳤다·중꺾마·킹받는다·잼민이 10어 추가, 원문 글 하단 참고링크에 연결 (`e2af411`)
+5. **RESCENE 문단에 내부링크 추가** — 오이데/맛떼루요 언급 문단 바로 아래에 `rescene-geoje-yaho-miracle`(RESCENE 전체 기록 기사) 링크 삽입 (같은 커밋 `e2af411`)
+6. **배포 누락 재발생 → WSL 경유 재배포로 해결** — GitHub push까지만 하고 실제 Cloudflare 배포를 빠뜨려 "썸네일도 단어팩도 반영 안 됨" 피드백을 받음 → `~/lalalakorea-cf-build` rsync 동기화 → `npm run cf:deploy` → curl로 `og:image`·`/learn/packs/korean-neologisms-2026`(200)·본문 내 두 링크(rescene, wordpack) 모두 라이브 반영 확인
+
+### 완료된 항목
+
+- [x] `korean-neologisms-2026` 신규 글 작성·공개, 팩트 수정 2건
+- [x] CMS 초안으로 남아있던 썸네일+이미지 커밋 발견 → main 머지
+- [x] `/learn/packs/korean-neologisms-2026` 단어팩(전 10어) 신설 + 원문 글에 링크 연결
+- [x] RESCENE 관련 문단에 `rescene-geoje-yaho-miracle` 내부링크 추가
+- [x] WSL 경유 Cloudflare 실배포 + curl 라이브 검증 (썸네일 og:image·단어팩 200·본문 링크 2건 모두 확인)
+
+### 다음에 할 일
+
+- [ ] **CI/CD 자동배포 파이프라인 구축 검토** — 오늘도 "push했는데 왜 반영 안 되냐" 문제가 재발함. GitHub push 시 자동으로 WSL/Linux 빌드 + `wrangler deploy`까지 이어지는 워크플로 구성이 계속 이월 중 ([[project_lalalakorea_cloudflare_migration]] 참고)
+- [ ] **CMS 초안(`cms/posts/*`) 브랜치 정리** — `cms/posts/2026-08-21-korean-neologisms-2026`는 머지 완료돼 원격에서 삭제해도 안전, `cms/posts/2026-08-19-jeju-autumn-travel-guide`도 상태 확인 후 정리 필요
+- [ ] 이전 세션(08-19/20)에서 보류된 항목 이월 — Vercel 프로젝트 삭제 여부, Supabase 권한 정리, 조사 시리즈 다음 편("敬語とパンマルの切り替え"), 안드로이드 앱 계획 등
+
+---
+
+*最終更新: 2026-08-21*
