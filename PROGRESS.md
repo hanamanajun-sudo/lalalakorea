@@ -280,4 +280,72 @@
 
 ---
 
-*最終更新: 2026-07-31*
+## 2026-08-17 の作業内容 — 조사 시리즈 학습 코스 3종 신설 + CMS 버그 수정 + Supabase 점검
+
+### 오늘 한 일
+
+1. **`korean-subject-particles` 죽은 링크 삭제** — 본문 마지막 참고링크였던 「韓国観光公社 公式サイト」가 잘못된 링크라 삭제 (`d5d906c`)
+2. **`/learn/location-particles` 학습 코스 신설** — `korean-location-particles` 글(에/에서 장소 조사) 기반, 예문+퀴즈 전 5레슨(기본룰·존재/에·동작출발점/에서·오다가다 함정·종합퀴즈) 제작, 원문 글에 코스 링크 추가 (`8cc4f1d`)
+3. **`/learn/korean-numbers` 학습 코스 신설** — `korean-numbers-guide` 글(고유어·한자어 숫자) 기반, 예문+퀴즈 전 6레슨(개요·고유어·한자어·장면별 사용구분·세는말 변화형·종합퀴즈) 제작, 원문 글에 코스 링크 추가 (`78ae8ad`)
+4. **`/learn/subject-particles` 학습 코스 신설** — `korean-subject-particles` 글(은/는·이/가 주어 조사) 기반, 예문+퀴즈 전 6레슨(기본룰·형태변화·좋아요 함정·누가+있다·은는이가 이중구조·종합퀴즈) 제작, 원문 글에 코스 링크 추가 (`c079ab6`)
+5. **배포가 자동이 아님을 재확인 + 실제 배포 3회 수행** — GitHub push만으로는 Cloudflare에 반영 안 됨(CI/CD 파이프라인 부재)을 사용자가 재차 질문해서 재확인, 매번 WSL(`~/lalalakorea-cf-build`)로 최신 코드 rsync 동기화 → `npm run cf:deploy` 빌드·배포 → curl로 라이브 검증까지 3세트 모두 수행
+6. **Cloudflare wrangler 인증 만료 대응** — 첫 배포 시도에서 OAuth 토큰 만료로 실패(`Not logged in... environment is non-interactive`) → 사용자가 직접 터미널에서 `wrangler login` 재인증 → 배포 재개
+7. **Decap CMS "collections names must be unique" 오류 진단·수정** — `public/admin/index.html`의 인라인 `CMS.init({config})`와 `public/admin/config.yml`이 둘 다 `posts` 컬렉션을 정의하고 있고, Decap이 기본값으로 `config.yml`까지 추가로 불러와 병합하면서 컬렉션이 중복 등록되는 게 원인임을 특정 → 인라인 config에 `load_config_file: false` 추가로 자동 로드 차단 (`1d941bc`)
+8. **위 수정의 회귀를 자동 보안 리뷰로 발견·수정** — `load_config_file: false`로 `config.yml` 로드를 막으면서 그 안에 있던 `publish_mode: editorial_workflow`도 함께 유실 → CMS 저장이 바로 main에 커밋되는 simple 모드로 바뀌는 회귀였음. 인라인 config에 `publish_mode: 'editorial_workflow'`를 명시해 복원 (`6d8df01`)
+9. **CMS 초안(draft)으로 남아있던 썸네일 2건 발견·배포** — 사용자가 "썸네일 올렸어"라고 했으나 main엔 반영 안 됨 → `editorial_workflow` 모드라 `cms/posts/2026-08-14-korean-numbers-guide`·`cms/posts/2026-08-17-korean-subject-particles` 브랜치에 초안으로만 저장(“Publish” 미클릭)되어 있던 것을 확인 → 두 브랜치 모두 main에 머지, 원격 브랜치 정리, 배포까지 완료 (`141408c`)
+10. **Supabase Security Advisor 경고 3건 점검** — `public.rls_auto_enable()` SECURITY DEFINER 함수의 public/authenticated 실행권한 경고 2건(코드베이스 어디서도 호출 안 함을 grep으로 확인, 수정 SQL 제시)과 leaked password protection 비활성화 경고 1건(Free 플랜에선 토글 자체가 비활성화되어 있어 Pro 플랜 필요함을 확인) 원인 분석·설명 — **사용자가 현재는 그대로 두기로 결정, 코드/설정 변경 없음**
+
+### 완료된 항목
+
+- [x] `korean-subject-particles` 잘못된 참고링크(韓国観光公社) 삭제
+- [x] `/learn/location-particles` 코스 신설 (전 5레슨) + 원문 글 코스 링크 추가
+- [x] `/learn/korean-numbers` 코스 신설 (전 6레슨) + 원문 글 코스 링크 추가
+- [x] `/learn/subject-particles` 코스 신설 (전 6레슨) + 원문 글 코스 링크 추가
+- [x] 학습 코스 3건 모두 로컬 dev 서버로 전 레슨 200 확인 후 커밋
+- [x] 학습 코스 3건 모두 WSL 경유 Cloudflare 실배포 + 라이브 URL curl 검증 완료
+- [x] Cloudflare wrangler 인증 만료 → 재로그인 후 배포 재개
+- [x] Decap CMS 컬렉션 중복 등록("collections names must be unique") 버그 원인 특정·수정
+- [x] 위 수정으로 인한 `editorial_workflow` 유실 회귀를 자동 보안 리뷰로 발견·즉시 수정
+- [x] CMS 초안 상태로 미발행돼 있던 썸네일 2건(numbers-guide, subject-particles) 발견 → main 머지·배포
+- [x] Supabase Security Advisor 경고 3건 원인 분석 및 조치 방안 안내 (사용자 판단으로 보류)
+
+### 다음에 할 일
+
+- [ ] **CI/CD 자동배포 파이프라인 구축 검토** — 현재 GitHub push와 실제 Cloudflare 배포가 분리돼 있어 "왜 반영이 안 되냐"는 혼란이 반복됨. GitHub Actions로 main push 시 자동 WSL/Linux 빌드·`wrangler deploy`까지 이어지는 워크플로 구성 검토
+- [ ] **Supabase `rls_auto_enable()` 함수 실행권한 정리** — `revoke execute on function public.rls_auto_enable() from public, authenticated, anon;` (사용자가 보류 결정, 필요시 재논의)
+- [ ] **Supabase 최소 비밀번호 길이 6→8 상향** — 무료로 가능한 부분 보완책, 보류 중
+- [ ] **Leaked password protection 재검토 시점** — 현재 Free 플랜이라 불가, 결제 기능 등 실제 수익화로 계정 가치가 올라가는 시점에 Pro 플랜 전환과 함께 재검토
+- [ ] **조사 시리즈 다음 편** — `korean-subject-particles` 글 말미에 예고된 "敬語とパンマルの切り替え" 글 + 대응 학습 코스
+- [ ] 이전 세션(08-08/09)에서 보류된 항목 이월 — Vercel 프로젝트 정리, `trip.lalalakorea.com` 이전, 서치콘솔 모니터링, AdSense 노출 확인 등 (상세는 위 섹션 참고)
+
+---
+
+## 2026-08-19/20 の作業内容 — 済州秋旅行記事 신설 + 팩트 수정 + 済州島단어팩 신설 + Vercel 자동배포 차단 + CMS 썸네일 PR 반영
+
+### 오늘 한 일
+
+1. **`jeju-autumn-travel-guide` 신규 글 작성·공개** — 산굼부리·한라산·みかん狩り·牛島·비자림·東門市場·카멜리아힐 7선 구성 (`87864e2`)
+2. **위 글 팩트 수정 2건** — 산굼부리 화산 연대·희귀성 표현("약 10만년 전/유일한 타입" → "약 7만3천년 전/드문 타입"), 비자림 소재지("朝天邑" → "旧左邑") 수정 (`4d297a7`)
+3. **`済州島旅行ワード` 단어팩 신설** — `/learn/packs`에 렌트카·흑돼지·감귤·한라산·우도·해녀·올레길·성산일출봉·협재·돌하르방 등 제주 특화 단어 10개 추가 (`d2cad9b`), `content/wordpacks/*.json` → 빌드 시 `lib/wordpacks-data.generated.json` 생성 구조 확인
+4. **WSL 경유 Cloudflare 실배포 2회** — 위 2·3번 반영분, 이후 CMS 썸네일 반영분까지 매번 `~/lalalakorea-cf-build` rsync 동기화 → `npm run cf:deploy` → curl 라이브 검증
+5. **Vercel이 push마다 몰래 자동 재배포되고 있던 것을 발견·차단** — 사용자가 "Vercel도 업데이트했냐"고 질문해서 확인해보니 Vercel 프로젝트의 GitHub 연동이 살아있어 매 push마다 Vercel Production도 같이 재배포되고 있었음(Cloudflare 이전 사유였던 Hobby 플랜 상업적 사용 ToS 리스크가 계속 재발 중이었던 셈) → `vercel git disconnect`로 연동 차단. 프로젝트 자체는 롤백 안전망으로 유지
+6. **Decap CMS editorial_workflow PR 발견·반영** — 사용자가 제주 글에 썸네일을 업로드했다고 알려와 GitHub 확인 → `cms/posts/2026-08-19-jeju-autumn-travel-guide` 브랜치의 PR #3(썸네일 `jeju_autumn_thumbnail_web.webp` + frontmatter)을 main에 머지 → pull → WSL 재동기화 → Cloudflare 재배포 → `og:image` 태그로 라이브 반영 확인
+
+### 완료된 항목
+
+- [x] `jeju-autumn-travel-guide` 글 신규 작성·공개, 팩트 오류 2건 수정
+- [x] `/learn/packs`에 `jeju-travel` 단어팩(전 10어) 신설
+- [x] WSL 경유 Cloudflare 실배포 2세트 + curl 라이브 검증
+- [x] Vercel GitHub 연동이 push마다 자동 재배포하고 있던 문제 발견 → `vercel git disconnect`로 차단 (프로젝트는 롤백용으로 유지)
+- [x] CMS 초안 상태로 남아있던 제주 글 썸네일 PR(#3) 발견 → 머지·배포·라이브 검증 완료
+
+### 다음에 할 일
+
+- [ ] **CI/CD 자동배포 파이프라인 구축 검토** — GitHub push와 실제 Cloudflare 배포가 여전히 분리돼 있음 (이월, [[project_lalalakorea_cloudflare_migration]] 참고)
+- [ ] **Vercel 프로젝트 완전 삭제 여부 재검토** — GitHub 연동은 끊었으니 급한 리스크는 아니지만, 롤백 안전망이 더 이상 필요 없다고 판단되면 프로젝트 자체 삭제 검토
+- [ ] **CMS editorial_workflow PR 처리 습관화** — 앞으로도 CMS에서 저장한 초안은 PR로만 쌓이고 자동 머지되지 않으므로, 저장 후 "반영해줘"라고 알려주면 PR 확인→머지→배포까지 처리
+- [ ] 이전 세션(08-17)에서 보류된 항목 이월 — Supabase 권한 정리, 조사 시리즈 다음 편("敬語とパンマルの切り替え"), 안드로이드 앱 계획 등 (상세는 위 섹션 참고)
+
+---
+
+*最終更新: 2026-08-20*
