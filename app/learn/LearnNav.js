@@ -44,40 +44,63 @@ export default function LearnNav({ totalLessons = 0 }) {
     return () => { active = false; };
   }, [supabase]);
 
+  const withBadges = ITEMS.map(it => {
+    let badge = null;
+    let title;
+    if (it.badge === 'lessons' && doneLessons > 0) {
+      badge = <span className="learn-sidenav-badge">{doneLessons > 99 ? '99+' : doneLessons}</span>;
+      title = `${doneLessons} / ${totalLessons} レッスン完了`;
+    } else if (it.badge === 'review' && dueWords > 0) {
+      badge = <span className="learn-sidenav-badge alert">{dueWords > 99 ? '99+' : dueWords}</span>;
+      title = `復習待ちの単語 ${dueWords}個`;
+    }
+    return { ...it, badge, title };
+  });
+
   return (
-    <aside className="learn-sidebar">
-      <Link href="/learn" className="learn-brand">
-        <span className="learn-brand-emoji"><i className="ph-fill ph-graduation-cap" /></span>
-        <span className="learn-brand-text">韓国語を学ぼう</span>
-      </Link>
-      <nav className="learn-sidenav">
-        {ITEMS.map(it => {
-          let badge = null;
-          let title;
-          if (it.badge === 'lessons' && doneLessons > 0) {
-            badge = <span className="learn-sidenav-badge">{doneLessons > 99 ? '99+' : doneLessons}</span>;
-            title = `${doneLessons} / ${totalLessons} レッスン完了`;
-          } else if (it.badge === 'review' && dueWords > 0) {
-            badge = <span className="learn-sidenav-badge alert">{dueWords > 99 ? '99+' : dueWords}</span>;
-            title = `復習待ちの単語 ${dueWords}個`;
-          }
-          return (
+    <>
+      {/* デスクトップ：縦サイドバー */}
+      <aside className="learn-sidebar">
+        <Link href="/learn" className="learn-brand">
+          <span className="learn-brand-emoji"><i className="ph-fill ph-graduation-cap" /></span>
+          <span className="learn-brand-text">韓国語を学ぼう</span>
+        </Link>
+        <nav className="learn-sidenav">
+          {withBadges.map(it => (
             <Link
               key={it.href}
               href={it.href}
-              title={title}
+              title={it.title}
               className={`learn-sidenav-item${it.sub ? ' sub' : ''}${it.match(pathname) ? ' active' : ''}`}
             >
               <span className="learn-sidenav-emoji">
                 <i className={`ph ph-${it.icon}`} />
-                {badge}
+                {it.badge}
               </span>
               <span className="learn-sidenav-label">{it.label}</span>
             </Link>
-          );
-        })}
+          ))}
+        </nav>
+        <Link href="/" className="learn-back-blog"><i className="ph ph-arrow-left" /> ブログにもどる</Link>
+      </aside>
+
+      {/* モバイル：下部固定タブバー */}
+      <nav className="learn-tabbar">
+        {withBadges.map(it => (
+          <Link
+            key={it.href}
+            href={it.href}
+            title={it.title}
+            className={`learn-tabbar-item${it.match(pathname) ? ' active' : ''}`}
+          >
+            <span className="learn-tabbar-icon">
+              <i className={`ph ph-${it.icon}`} />
+              {it.badge}
+            </span>
+            <span className="learn-tabbar-label">{it.label}</span>
+          </Link>
+        ))}
       </nav>
-      <Link href="/" className="learn-back-blog"><i className="ph ph-arrow-left" /> ブログにもどる</Link>
-    </aside>
+    </>
   );
 }

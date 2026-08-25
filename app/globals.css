@@ -1508,32 +1508,31 @@ body {
 /* シェル内では各ページの .learn-page 背景を透過に（シェル側で背景を持つ） */
 .learn-shell .learn-page { background: transparent; min-height: auto; }
 
-/* ── モバイル：サイドバーを上部の横並びバーに ── */
+/* ── モバイル下部タブバー（デスクトップでは非表示） ── */
+.learn-tabbar { display: none; }
+.learn-tabbar-item {
+  flex: 1; display: flex; flex-direction: column; align-items: center; gap: 4px;
+  text-decoration: none; color: #8a7a86;
+  padding: 6px 2px; border-radius: 12px;
+  font-size: 0.66rem; font-weight: 700;
+  transition: color 0.18s;
+}
+.learn-tabbar-icon { font-size: 1.25rem; position: relative; display: inline-flex; }
+.learn-tabbar-item.active { color: #b81b30; }
+.learn-tabbar-item.active .learn-tabbar-icon { transform: scale(1.06); }
+
+/* ── モバイル：サイドバーを隠して下部タブバーへ ── */
 @media (max-width: 900px) {
   .learn-shell { flex-direction: column; }
-  .learn-sidebar {
-    flex-direction: row; align-items: center;
-    width: 100%; height: auto;
-    padding: 10px 12px; gap: 8px;
-    overflow-x: auto; white-space: nowrap;
-    border-right: none; border-bottom: 1px solid #efe4dd;
-    top: 64px; z-index: 90;
+  .learn-sidebar { display: none; }
+  .learn-shell-main { padding-bottom: 78px; }
+  .learn-tabbar {
+    display: flex;
+    position: fixed; left: 0; right: 0; bottom: 0; z-index: 90;
+    background: linear-gradient(180deg, #fffdfb 0%, #fbf4ef 100%);
+    border-top: 1px solid #efe4dd;
+    padding: 8px 4px calc(8px + env(safe-area-inset-bottom, 0px));
   }
-  .learn-brand {
-    margin-bottom: 0; padding: 10px 14px; flex-shrink: 0;
-    border-radius: 12px;
-  }
-  .learn-brand-text { font-size: 0.86rem; white-space: normal; max-width: 90px; }
-  .learn-sidenav { flex-direction: row; gap: 4px; }
-  .learn-sidenav-item { padding: 10px 12px; flex-shrink: 0; }
-  .learn-sidenav-item.active { box-shadow: inset 0 -3px 0 #e4293f; }
-  .learn-sidenav-label { font-size: 0.84rem; }
-  .learn-back-blog { margin-top: 0; margin-left: auto; flex-shrink: 0; }
-}
-@media (max-width: 560px) {
-  .learn-sidenav-label { display: none; }
-  .learn-sidenav-emoji { font-size: 1.3rem; }
-  .learn-back-blog { display: none; }
 }
 
 /* ══════════════════════════════════════════════════════════════
@@ -1658,6 +1657,8 @@ body {
 /* ── シェル・サイドバー ── */
 .learn-shell { background: #fbf7f3; }
 .learn-sidebar { background: linear-gradient(180deg, #fffdfb 0%, #f9f2ec 100%); border-color: #ece0d9; }
+.learn-tabbar { background: linear-gradient(180deg, #fffdfb 0%, #f9f2ec 100%); border-color: #ece0d9; }
+.learn-tabbar-item.active { color: #a2495a; }
 .learn-brand {
   background: linear-gradient(135deg, #c15d6d 0%, #a2495a 100%);
   box-shadow: 0 8px 20px rgba(150, 60, 75, 0.22);
@@ -1774,6 +1775,8 @@ body {
 /* ── シェル・サイドバー：やさしいピンク ── */
 .learn-shell { background: #fff8fc; }
 .learn-sidebar { background: linear-gradient(180deg, #fffdfe 0%, #fdf1f8 100%); border-color: #f6e5f0; }
+.learn-tabbar { background: linear-gradient(180deg, #fffdfe 0%, #fdf1f8 100%); border-color: #f6e5f0; }
+.learn-tabbar-item.active { color: #d6499b; }
 .learn-brand {
   background: linear-gradient(135deg, #ffa6d2 0%, #f472ad 100%);
   box-shadow: 0 8px 20px rgba(244, 114, 173, 0.28);
