@@ -5,6 +5,7 @@
   "icon": "translate",
   "description": "母音・子音・パッチムを、K-POPアイドルの名前を読みながら楽しくマスター！ハングルは実はローマ字と同じしくみなので、コツをつかめば数時間で読めるようになります。",
   "level": "入門",
+  "category": "basic",
   "order": 1,
   "lessons": [
     "01-intro",

@@ -7,8 +7,17 @@ export const metadata = {
   alternates: { canonical: 'https://lalalakorea.com/learn/lessons' },
 };
 
-export default function LessonsPage() {
+const CATEGORIES = [
+  { id: 'all', label: 'すべて' },
+  { id: 'basic', label: '基礎' },
+  { id: 'grammar', label: '文法' },
+  { id: 'vocab', label: '表現・単語' },
+];
+
+export default function LessonsPage({ searchParams }) {
   const courses = getAllCourses();
+  const activeCategory = CATEGORIES.some(c => c.id === searchParams?.category) ? searchParams.category : 'all';
+  const filtered = activeCategory === 'all' ? courses : courses.filter(c => c.category === activeCategory);
 
   return (
     <div className="learn-page">
@@ -26,20 +35,38 @@ export default function LessonsPage() {
         {courses.length === 0 ? (
           <p className="learn-empty">レッスンを準備中です。</p>
         ) : (
-          <div className="premium-grid">
-            {courses.map(course => (
-              <Link key={course.id} href={`/learn/${course.id}`} className="premium-card">
-                <div className="premium-card-ribbon">{course.level || '入門'}</div>
-                <div className="premium-card-icon"><i className={`ph-fill ph-${course.icon || 'book-open'}`} /></div>
-                <h2 className="premium-card-title">{course.title}</h2>
-                <p className="premium-card-desc">{course.description}</p>
-                <div className="premium-card-foot">
-                  <span className="premium-card-count">全{(course.lessons || []).length}レッスン</span>
-                  <span className="premium-card-cta">はじめる <i className="ph ph-arrow-right" /></span>
-                </div>
-              </Link>
-            ))}
-          </div>
+          <>
+            <div className="learn-filter-tabs">
+              {CATEGORIES.map(cat => (
+                <Link
+                  key={cat.id}
+                  href={cat.id === 'all' ? '/learn/lessons' : `/learn/lessons?category=${cat.id}`}
+                  className={`learn-filter-tab${activeCategory === cat.id ? ' active' : ''}`}
+                >
+                  {cat.label}
+                </Link>
+              ))}
+            </div>
+
+            {filtered.length === 0 ? (
+              <p className="learn-empty">この分野のレッスンは準備中です。</p>
+            ) : (
+              <div className="premium-grid">
+                {filtered.map(course => (
+                  <Link key={course.id} href={`/learn/${course.id}`} className="premium-card">
+                    <div className="premium-card-ribbon">{course.level || '入門'}</div>
+                    <div className="premium-card-icon"><i className={`ph-fill ph-${course.icon || 'book-open'}`} /></div>
+                    <h2 className="premium-card-title">{course.title}</h2>
+                    <p className="premium-card-desc">{course.description}</p>
+                    <div className="premium-card-foot">
+                      <span className="premium-card-count">全{(course.lessons || []).length}レッスン</span>
+                      <span className="premium-card-cta">はじめる <i className="ph ph-arrow-right" /></span>
+                    </div>
+                  </Link>
+                ))}
+              </div>
+            )}
+          </>
         )}
       </div>
     </div>

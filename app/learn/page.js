@@ -2,6 +2,7 @@ import Link from 'next/link';
 import { getAllCourses } from '../../lib/courses';
 import { getAllWordPacks } from '../../lib/wordpacks';
 import LearnStats from './LearnStats';
+import ContinueLearning from './ContinueLearning';
 
 export const metadata = {
   title: 'ハングル学習 | LaLaLaKorea',
@@ -26,6 +27,7 @@ export default function LearnHome() {
       </div>
 
       <div className="learn-container">
+        <ContinueLearning courses={courses} />
         <LearnStats />
 
         {/* ハングル学習レッスン */}
