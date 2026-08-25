@@ -1844,6 +1844,22 @@ body {
 .premium-card-count { font-size: 0.76rem; color: #a897a6; font-weight: 600; }
 .premium-card-cta { font-size: 0.84rem; color: #e05c9e; font-weight: 800; display: inline-flex; align-items: center; gap: 4px; }
 
+/* ── もっと見るカード ── */
+.premium-card-more {
+  align-items: center; justify-content: center; text-align: center;
+  background: linear-gradient(180deg, #fffafd 0%, #fdf3f9 100%);
+  border: 1.5px dashed #f3c7e0;
+  box-shadow: none;
+}
+.premium-card-more:hover {
+  border-color: #f472ad;
+  background: linear-gradient(180deg, #fffafd 0%, #fdeaf4 100%);
+}
+.premium-card-more-icon { font-size: 1.8rem; color: #f0b6d6; margin-bottom: 10px; }
+.premium-card-more:hover .premium-card-more-icon { color: #f472ad; }
+.premium-card-more-text { font-family: 'Zen Maru Gothic', 'Noto Sans JP', sans-serif; font-size: 1rem; font-weight: 800; color: #e05c9e; margin-bottom: 4px; }
+.premium-card-more-count { font-size: 0.78rem; color: #a897a6; font-weight: 600; }
+
 /* ── パック詳細 & クイズ等のアクセントをパステルへ ── */
 .pack-add-box { background: linear-gradient(135deg, #fdf0f8, #f4ecfd); border-color: #f4dcee; }
 .pack-add-box.added { background: linear-gradient(135deg, #eef9f2, #e4f5ec); border-color: #c3e8d1; }

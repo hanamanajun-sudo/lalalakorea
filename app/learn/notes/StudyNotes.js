@@ -84,7 +84,7 @@ export default function StudyNotes({ courses, allWords }) {
     return (
       <div className="review-msg">
         <div className="review-msg-emoji"><i className="ph ph-notebook" /></div>
-        <h2>ログインして学習ノートを作ろう</h2>
+        <h2>ログインしてマイノートを作ろう</h2>
         <p>完了した教材や覚えた単語が、ここに記録されていきます。</p>
         <Link href="/login" className="quiz-btn-primary">ログイン</Link>
       </div>

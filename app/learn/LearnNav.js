@@ -4,9 +4,7 @@ import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 
 const ITEMS = [
-  { href: '/learn', label: '学習トップ', icon: 'house',
-    match: p => p === '/learn' },
-  { href: '/learn/notes', label: '学習ノート', icon: 'notebook', sub: true,
+  { href: '/learn/notes', label: 'マイノート', icon: 'notebook',
     match: p => p.startsWith('/learn/notes') },
   { href: '/learn/lessons', label: 'ハングルレッスン', icon: 'book-open-text',
     match: p => p.startsWith('/learn/lessons') || (/^\/learn\/[^/]+/.test(p) && !/^\/learn\/(review|notes|packs|lessons)/.test(p)) },

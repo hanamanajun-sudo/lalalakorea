@@ -9,9 +9,14 @@ export const metadata = {
   alternates: { canonical: 'https://lalalakorea.com/learn' },
 };
 
+const COURSE_LIMIT = 6;
+const PACK_LIMIT = 6;
+
 export default function LearnHome() {
   const courses = getAllCourses();
   const packs = getAllWordPacks();
+  const visibleCourses = courses.slice(0, COURSE_LIMIT);
+  const visiblePacks = packs.slice(0, PACK_LIMIT);
 
   return (
     <div className="learn-page">
@@ -32,7 +37,7 @@ export default function LearnHome() {
             <p className="learn-empty">教材を準備中です。</p>
           ) : (
             <div className="premium-grid">
-              {courses.map(course => (
+              {visibleCourses.map(course => (
                 <Link key={course.id} href={`/learn/${course.id}`} className="premium-card">
                   <div className="premium-card-ribbon">{course.level || '入門'}</div>
                   <div className="premium-card-icon"><i className={`ph-fill ph-${course.icon || 'book-open'}`} /></div>
@@ -44,6 +49,13 @@ export default function LearnHome() {
                   </div>
                 </Link>
               ))}
+              {courses.length > COURSE_LIMIT && (
+                <Link href="/learn/lessons" className="premium-card premium-card-more">
+                  <div className="premium-card-more-icon"><i className="ph ph-dots-three-outline-fill" /></div>
+                  <div className="premium-card-more-text">もっと見る</div>
+                  <div className="premium-card-more-count">他{courses.length - COURSE_LIMIT}件のレッスン</div>
+                </Link>
+              )}
             </div>
           )}
         </section>
@@ -67,7 +79,7 @@ export default function LearnHome() {
             <i className="ph-fill ph-puzzle-piece" /> 単語パック
           </h3>
           <div className="premium-grid">
-            {packs.map(pack => (
+            {visiblePacks.map(pack => (
               <Link key={pack.id} href={`/learn/packs/${pack.id}`} className="premium-card">
                 <div className="premium-card-ribbon">{pack.level}</div>
                 <div className="premium-card-icon"><i className={`ph-fill ph-${pack.icon || 'stack'}`} /></div>
@@ -79,6 +91,13 @@ export default function LearnHome() {
                 </div>
               </Link>
             ))}
+            {packs.length > PACK_LIMIT && (
+              <Link href="/learn/packs" className="premium-card premium-card-more">
+                <div className="premium-card-more-icon"><i className="ph ph-dots-three-outline-fill" /></div>
+                <div className="premium-card-more-text">もっと見る</div>
+                <div className="premium-card-more-count">他{packs.length - PACK_LIMIT}件のパック</div>
+              </Link>
+            )}
           </div>
         </section>
       </div>

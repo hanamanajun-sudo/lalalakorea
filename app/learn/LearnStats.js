@@ -85,7 +85,7 @@ export default function LearnStats() {
           </div>
         </div>
         <Link href="/learn/notes" className="learn-notes-btn">
-          <i className="ph ph-notebook" /> 学習ノート
+          <i className="ph ph-notebook" /> マイノート
         </Link>
       </div>
       <div className="learn-badges">
