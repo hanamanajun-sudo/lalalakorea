@@ -53,20 +53,26 @@ export default function LearnNav({ totalLessons = 0 }) {
       <nav className="learn-sidenav">
         {ITEMS.map(it => {
           let badge = null;
+          let title;
           if (it.badge === 'lessons' && doneLessons > 0) {
-            badge = <span className="learn-sidenav-badge">{doneLessons}/{totalLessons}</span>;
+            badge = <span className="learn-sidenav-badge">{doneLessons > 99 ? '99+' : doneLessons}</span>;
+            title = `${doneLessons} / ${totalLessons} レッスン完了`;
           } else if (it.badge === 'review' && dueWords > 0) {
-            badge = <span className="learn-sidenav-badge alert">{dueWords}</span>;
+            badge = <span className="learn-sidenav-badge alert">{dueWords > 99 ? '99+' : dueWords}</span>;
+            title = `復習待ちの単語 ${dueWords}個`;
           }
           return (
             <Link
               key={it.href}
               href={it.href}
+              title={title}
               className={`learn-sidenav-item${it.sub ? ' sub' : ''}${it.match(pathname) ? ' active' : ''}`}
             >
-              <span className="learn-sidenav-emoji"><i className={`ph ph-${it.icon}`} /></span>
+              <span className="learn-sidenav-emoji">
+                <i className={`ph ph-${it.icon}`} />
+                {badge}
+              </span>
               <span className="learn-sidenav-label">{it.label}</span>
-              {badge}
             </Link>
           );
         })}

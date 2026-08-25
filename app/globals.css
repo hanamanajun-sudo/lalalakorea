@@ -430,23 +430,62 @@ body {
 }
 .mobile-nav {
   position: absolute; top: 0; right: 0;
-  width: 72%; max-width: 300px; height: 100%;
-  background: #fff; padding: 24px 0;
-  display: flex; flex-direction: column;
+  width: 80%; max-width: 320px; height: 100%;
+  background: #fff; padding: 20px 18px;
+  display: flex; flex-direction: column; gap: 12px;
+  overflow-y: auto;
   box-shadow: -4px 0 24px rgba(0,0,0,0.15);
 }
 .mobile-nav-close {
-  align-self: flex-end; margin-right: 20px; margin-bottom: 16px;
-  background: none; border: none; font-size: 1.2rem;
-  color: #888; cursor: pointer;
+  align-self: flex-end; background: none; border: none; font-size: 1.15rem;
+  color: #999; cursor: pointer; margin-bottom: -4px;
 }
-.mobile-nav-link {
-  padding: 14px 28px; text-decoration: none;
-  color: #1a1a1a; font-size: 1rem; font-weight: 600;
-  border-bottom: 1px solid #f5f5f5;
-  transition: background 0.15s, color 0.15s;
+
+/* 検索 */
+.mobile-nav-search {
+  display: flex; align-items: center; gap: 9px;
+  background: #f7f2f4; border-radius: 14px; padding: 12px 15px;
+  text-decoration: none; color: #a5989e; font-size: 0.88rem; font-weight: 600;
 }
-.mobile-nav-link:hover { background: #fff5f6; color: #f472ad; }
+.mobile-nav-search svg { flex-shrink: 0; }
+
+/* ログイン／ログアウト（AuthNav をドロワー用に再スタイル） */
+.mobile-nav-auth .auth-nav-btn {
+  display: block; width: 100%; text-align: center;
+  padding: 12px; font-size: 0.88rem; border-radius: 12px;
+}
+
+/* 学習 CTA */
+.mobile-nav-cta {
+  display: flex; align-items: center; gap: 12px;
+  background: linear-gradient(135deg, #e4293f 0%, #b81b30 100%);
+  border-radius: 14px; padding: 14px 15px;
+  text-decoration: none; color: #fff;
+  box-shadow: 0 8px 18px rgba(184, 27, 48, 0.28);
+}
+.mobile-nav-cta i { font-size: 1.5rem; flex-shrink: 0; }
+.mobile-nav-cta-title { display: block; font-family: 'Zen Maru Gothic', 'Noto Sans JP', sans-serif; font-weight: 900; font-size: 0.94rem; }
+.mobile-nav-cta-sub { display: block; font-size: 0.72rem; opacity: 0.92; margin-top: 2px; }
+
+/* カテゴリーグリッド */
+.mobile-nav-grid-label {
+  font-size: 0.72rem; font-weight: 700; color: #a5989e; letter-spacing: 0.04em;
+  margin-bottom: -4px;
+}
+.mobile-nav-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+.mobile-nav-tile {
+  display: flex; flex-direction: column; align-items: center; gap: 7px;
+  background: #fbf7f8; border: 1px solid #f1e9ed; border-radius: 12px;
+  padding: 14px 6px; text-decoration: none; color: #3a3438;
+  transition: background 0.15s, border-color 0.15s;
+}
+.mobile-nav-tile:hover { background: #fdeef4; border-color: #f6cbe4; }
+.mobile-nav-tile i { font-size: 1.3rem; color: #f472ad; }
+.mobile-nav-tile span { font-size: 0.78rem; font-weight: 600; }
+
+/* About など二次リンク */
+.mobile-nav-secondary { margin-top: 2px; padding-top: 10px; border-top: 1px solid #f2ecef; }
+.mobile-nav-secondary a { font-size: 0.82rem; color: #a5989e; text-decoration: none; font-weight: 600; }
 
 /* ── About 페이지 ── */
 .about-page { background: #fff; }
@@ -705,6 +744,8 @@ body {
 @media (max-width: 768px) {
   .nav { display: none; }
   .hamburger { display: flex; }
+  .site-header .auth-nav-btn { display: none; }
+  .site-header .search-btn { display: none; }
   .hero { padding: 48px 20px; }
   .hero h1 { font-size: 1.6rem; }
   .posts-grid { grid-template-columns: 1fr; }
@@ -1445,14 +1486,15 @@ body {
   color: #b81b30;
   box-shadow: inset 3px 0 0 #e4293f;
 }
-.learn-sidenav-emoji { font-size: 1.15rem; }
+.learn-sidenav-emoji { font-size: 1.15rem; position: relative; display: inline-flex; }
 .learn-sidenav-badge {
-  margin-left: auto; flex-shrink: 0;
-  font-size: 0.72rem; font-weight: 800;
-  padding: 2px 8px; border-radius: 999px;
-  background: #f3e4ea; color: #a5898f;
+  position: absolute; top: -7px; right: -10px;
+  min-width: 15px; height: 15px; padding: 0 3px;
+  border-radius: 999px; box-shadow: 0 0 0 2px #fff;
+  font-size: 0.58rem; font-weight: 800; line-height: 15px; text-align: center;
+  background: #e9a8b8; color: #fff;
 }
-.learn-sidenav-badge.alert { background: linear-gradient(135deg, #ffb3d6, #f472ad); color: #fff; }
+.learn-sidenav-badge.alert { background: linear-gradient(135deg, #ffb3d6, #f472ad); }
 
 .learn-back-blog {
   margin-top: auto;
@@ -1491,7 +1533,6 @@ body {
 @media (max-width: 560px) {
   .learn-sidenav-label { display: none; }
   .learn-sidenav-emoji { font-size: 1.3rem; }
-  .learn-sidenav-badge { display: none; }
   .learn-back-blog { display: none; }
 }
 
