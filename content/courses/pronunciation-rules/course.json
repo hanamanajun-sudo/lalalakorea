@@ -1,0 +1,18 @@
+{
+  "id": "pronunciation-rules",
+  "title": "韓国語の発音ルール（連音・濃音化）をマスターする",
+  "emoji": "🔊",
+  "icon": "waveform",
+  "level": "初級",
+  "category": "grammar",
+  "order": 9,
+  "description": "「ハングルは読めるのに聞き取れない…」その原因は発音ルールにあります。連音（연음）・濃音化（된소리되기）・鼻音化・激音化の仕組みを、ブログ記事をベースに例文とクイズで体に定着させる実践コースです。",
+  "lessons": [
+    "01-intro",
+    "02-yeoneum",
+    "03-tensori",
+    "04-bieum-gyeogeum",
+    "05-mistakes",
+    "06-final"
+  ]
+}
