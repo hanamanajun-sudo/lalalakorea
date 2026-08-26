@@ -3,8 +3,8 @@ title: "「ハングルは読めるのに聞き取れない…」を解決！韓
 slug: korean-pronunciation-rules
 description: "ハングルは読めるのに韓国語が聞き取れない…その原因は発音ルールにあります。連音（연음）・濃音化（된소리되기）の仕組みを、日本人向けの例文つきでわかりやすく解説。韓国ドラマのリスニング力アップに役立ちます。"
 date: 2026-08-26
-thumbnail: /wp-content/uploads/korean-pronunciation-rules-thumbnail-1200.webp
-thumbnailAlt: 斜めから見た韓国語の詩集のページ、ハングルの文字が並ぶ紙面のクローズアップ — 表記と発音のズレを学ぶ発音ルール記事
+thumbnail: /wp-content/uploads/korean-pronunciation-rules.png
+thumbnailAlt: 「ハングルは読めるのに聞き取れない…」というタイトルと、連音・濃音化・鼻音化・激音化の4ルールをまとめたアイキャッチ画像
 categories:
   - 韓国語
 lang: ja
