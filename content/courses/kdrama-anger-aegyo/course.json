@@ -1,0 +1,18 @@
+{
+  "id": "kdrama-anger-aegyo",
+  "title": "ドラマの「怒り」と「甘え」を使いこなす",
+  "emoji": "💢",
+  "icon": "smiley-angry",
+  "level": "初級",
+  "category": "vocab",
+  "order": 10,
+  "description": "「화나（ファナ）」から「삐졌어?（ピジョッソ）」まで、韓国ドラマの山場で必ず出てくる怒りと甘えのフレーズ12個。ブログ記事をベースに、同じ言葉でも口調で意味が変わるところまで、例文とクイズで身につける実践コースです。",
+  "lessons": [
+    "01-anger-basic",
+    "02-anger-clash",
+    "03-aegyo-sweet",
+    "04-aegyo-tease",
+    "05-tone-tips",
+    "06-final"
+  ]
+}
