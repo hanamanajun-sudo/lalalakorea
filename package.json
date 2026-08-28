@@ -10,7 +10,8 @@
     "build": "next build",
     "start": "next start",
     "cf:preview": "opennextjs-cloudflare build && opennextjs-cloudflare preview",
-    "cf:deploy": "opennextjs-cloudflare build && opennextjs-cloudflare deploy"
+    "cf:deploy": "opennextjs-cloudflare build && opennextjs-cloudflare deploy",
+    "smoke": "node scripts/smoke-test.mjs"
   },
   "keywords": [],
   "author": "",
