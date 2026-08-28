@@ -18,7 +18,7 @@ function main() {
       const data = JSON.parse(fs.readFileSync(path.join(packsDir, f), 'utf8'));
       return { ...data, id: data.id || f.replace('.json', '') };
     })
-    .sort((a, b) => (a.order ?? 99) - (b.order ?? 99));
+    .sort((a, b) => (b.date || '').localeCompare(a.date || ''));
 
   fs.writeFileSync(outputPath, JSON.stringify(packs), 'utf8');
   console.log(`[generate-wordpacks-data] ${packs.length}件の単語パックを書き出しました -> ${outputPath}`);

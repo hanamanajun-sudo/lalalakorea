@@ -61,7 +61,7 @@ async function main() {
     courses.push({ ...meta, id: courseId, lessons });
   }
 
-  courses.sort((a, b) => (a.order ?? 99) - (b.order ?? 99));
+  courses.sort((a, b) => (b.date || '').localeCompare(a.date || ''));
 
   fs.writeFileSync(outputPath, JSON.stringify(courses), 'utf8');
   console.log(`[generate-courses-data] ${courses.length}件の教材を書き出しました -> ${outputPath}`);
