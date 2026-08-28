@@ -420,4 +420,45 @@
 
 ---
 
-*最終更新: 2026-08-21*
+## 2026-08-28 / 29 の作業内容 — 全記事404障害 복구 + 배포 파이프라인 정비 + kdrama-anger-aegyo 학습코스 신설 + /learn 카드 UX 개선
+
+### 배경
+"블로그 글 클릭하면 404 뜬다"는 보고로 시작. 원인 조사 결과 전날 커밋(`d669eb2`, WordPress 스캐너 대응)이 잠복해 있던 캐시 미설정 문제를 표면화시킨 것으로 확인 — 단순 되돌리기가 아니라 근본 원인(OpenNext incrementalCache 미설정)까지 함께 고쳐야 했던 하루. 이후 배포 실행 권한 자체가 auto mode에 막히는 것을 계기로 배포 스크립트를 저장소로 옮기고 좁은 권한 규칙을 추가, 이어서 신규 글 학습코스 제작과 `/learn` 카드 UX 개선까지 이어감.
+
+### 오늘 한 일
+
+1. **전체 블로그 글 404 원인 진단** — `d669eb2`가 7개 라우트(글·카테고리·페이지네이션·학습 코스/레슨/단어팩)에 넣은 `dynamicParams = false`가 prerender manifest의 `fallback:false`로 이어지고, `open-next.config.ts`에 `incrementalCache`가 없어 캐시가 no-op이던 것과 맞물려 즉시 404로 귀결된 것을 Next 소스(`base-server.js:1551`)까지 추적해 확인. 라이브 `x-nextjs-cache: MISS` 헤더로 "그동안 전 요청이 매번 풀 SSR로 렌더링되고 있었다"는 사실도 함께 발견 — 이게 WordPress 스캐너 대응이 필요했던 CPU 초과의 진짜 원인
+2. **3중 수정**: ① `dynamicParams=false` 7건 전부 제거(장애 이전 상태와 바이트 단위로 동일함을 diff로 확인) ② `open-next.config.ts`에 `staticAssetsIncrementalCache` 설정 — 캐시가 비어도 SSR 폴백으로 200이 나오게 하면서 CPU 초과의 근본 원인도 해소 ③ 스캐너 차단(`/wp-login.php` 등)을 라우팅 이전 `middleware.js`로 이전, SSG를 깨지 않으면서 방어 유지. 작업 중 `public/wp-content/uploads/`(61개 글이 참조하는 레거시 이미지 5,928개)를 차단 규칙이 덮칠 뻔한 것을 사전에 발견해 예외 처리 (`555d8de`)
+3. **배포 후 라이브 검증 스모크 테스트 스크립트 신설** — 로컬 빌드가 성공해도 Cloudflare 런타임에서만 드러나는 장애(이번 건)를 배포 직후 자동으로 잡기 위해 `scripts/smoke-test.mjs` 작성. 캐시 적중(`x-nextjs-cache: HIT`) 여부까지 200 판정에 포함시켜, "200은 나오는데 사실 전부 SSR" 상태를 실패로 잡아내도록 설계. 일부러 잘못된 URL을 물려 실패 검출도 검증 (`3f5c7ed`)
+4. **위 수정사항 WSL 경유 실배포 + 전수 라이브 검증** — 이번엔 Bash 권한 자체가 auto mode 분류기에 막혀 사용자가 직접 배포 명령을 실행, 이후 결과를 curl로 전수 검증(글·카테고리·페이지네이션·학습 코스 전부 200 + `x-nextjs-cache: HIT`, 스캐너 경로 403/404, 레거시 이미지 200)
+5. **CMS 초안 브랜치 2건 발견·머지** — `kdrama-anger-aegyo-phrases`(신규 글) 썸네일과 `2026h2-kdrama-lineup`(기존 글) 썸네일 교체가 Decap CMS 초안 브랜치로만 남아있던 것을 `git branch -r`로 발견해 각각 머지 (`f9d7de7`, `dcd90c3`). 오래돼 main보다 뒤처진 초안 브랜치 4건은 머지하면 최신 코드가 되돌아가므로 손대지 않고 보류
+6. **학습 코스 `kdrama-anger-aegyo` 신설(전 6과)** — `kdrama-anger-aegyo-phrases` 글(怒り・甘えフレーズ12選)을 기반으로 기존 코스와 동일한 구성(きなこ・ジュン 대화 → 어휘표 → 예문 → 실전 미니회화 → 豆知識)으로 제작. 01~04과는 12프레이즈를 怒り/甘え 각 6개씩 3개씩 배치 + 보너스 단어 4개, 05과는 글의 마무리 3줄("怒りは短く強く" 등)을 어조 대비 회화로 확장한 독립 레슨, 06과는 8문항 수료 퀴즈. 원문 글에도 まとめ 직후 CTA + 関連記事 목록 2곳에 코스 링크 연결, 앵커 텍스트 없이 깨져 있던 빈 링크(`[](...)`)도 함께 수정 (`7414408`)
+7. **배포 스크립트를 저장소로 이관 + 권한 정비** — 그때그때 재작성되던 `c:\tmp` 임시 스크립트를 `scripts/deploy-cloudflare.sh`(rsync → cf:deploy → smoke 자동 실행, `--dry-run` 지원)로 정착. `.claude/settings.json`에 이 스크립트 실행 **한 줄만** 허용하는 권한 규칙 추가(와일드카드 아님) — 사용자가 "허용하되 매번 확인"을 선택해, 이후 배포는 Claude가 준비하되 실행 직전엔 항상 승인받는 방식으로 합의 (`574b912`)
+8. **레슨·단어팩 정렬을 최근 추가순으로 변경** — 수동 `order` 필드는 새 코스를 만들 때마다 기존 값을 다시 매겨야 해 최신 코스가 톱페이지 6개 안에 든다는 보장이 없었음. `order` → `date` 필드로 교체(값은 git 최초 커밋일로 백필), 생성 스크립트 정렬 기준을 `order` 오름차순에서 `date` 내림차순으로 변경 (`fb13de2`)
+9. **레슨·단어팩 목록 카드에서 설명 문단 제거** — "제목 밑에 긴 설명이 있으면 읽다가 고민하게 돼서 오히려 클릭률이 떨어진다"는 지적에 따라 `/learn`·`/learn/lessons`·`/learn/packs` 세 목록 화면 카드에서 설명 문단 제거(상세 페이지엔 그대로 존재 확인). 사용 안 하는 CSS(`.premium-card-desc`) 삭제, 여러 줄 제목에서도 카드 하단이 정렬되도록 `flex:1`을 타이틀로 이동 (`f2078e1`)
+10. **위 6~9번 변경사항 재배포 + 전수 라이브 검증** — 이번엔 승인받은 배포 스크립트로 Claude가 직접 배포(스모크 테스트 자동 포함, 전부 통과). 신규 코스 8개 라우트 200/HIT, 썸네일 2건 OG 메타 반영, `/learn` 첫 6개 카드에 신규 코스가 최상단에 노출되는 것까지 curl로 확인
+
+### 완료된 항목
+
+- [x] 전체 블로그 글 404 장애 원인 진단(`dynamicParams=false` + `incrementalCache` 미설정의 조합) 및 3중 수정
+- [x] `staticAssetsIncrementalCache` 설정으로 CPU 초과 근본 원인(전 요청 SSR) 해소 — 라이브 `x-nextjs-cache: HIT` 확인
+- [x] 스캐너 차단을 middleware로 이전, `wp-content/uploads` 레거시 이미지 5,928개 예외 처리
+- [x] 배포 후 라이브 검증용 `scripts/smoke-test.mjs` 신설(캐시 적중까지 판정에 포함)
+- [x] CMS 썸네일 초안 2건(`kdrama-anger-aegyo-phrases`, `2026h2-kdrama-lineup`) 발견·머지
+- [x] `/learn/kdrama-anger-aegyo` 학습 코스 신설(전 6과, 단어 20·퀴즈 28) + 원문 글에 코스 링크 2곳 연결 + 빈 링크 수정
+- [x] 배포 스크립트를 `scripts/deploy-cloudflare.sh`로 저장소 이관 + `.claude/settings.json`에 좁은 권한 규칙 추가
+- [x] 레슨·단어팩 정렬을 수동 `order` → `date` 기반 최근순으로 변경
+- [x] `/learn`·`/learn/lessons`·`/learn/packs` 목록 카드에서 설명 문단 제거(상세 페이지는 유지)
+- [x] 위 모든 변경사항 WSL 경유 Cloudflare 실배포 2회 + 매회 스모크 테스트/curl 전수 검증
+
+### 다음에 할 일
+
+- [ ] **CMS 초안 브랜치 4건 정리 여부 확인** — `jeju-autumn-travel-guide`·`korean-neologisms-2026`·`korean-polite-switching`·`korean-pronunciation-rules` 초안이 main보다 뒤처진 상태로 원격에 남아있음. Decap 화면에서 걸리적거리면 삭제 필요
+- [ ] **신규 코스 `/learn` 노출 방식 재검토** — 현재 `COURSE_LIMIT=6` 그대로라 코스가 7개 넘어가면 다시 "もっと見る" 뒤로 밀림. limit 상향 여부는 코스 수가 더 늘었을 때 판단
+- [ ] **실기기 브라우저에서 새 코스·카드 UX 육안 확인** — 이번 세션은 curl/컴파일된 HTML 레벨로만 검증함(스크린샷 도구 없음)
+- [ ] **CI/CD 자동배포 파이프라인 구축 검토** — 이번에도 배포 실행 자체가 권한에 막혀 사용자가 처음엔 직접 명령을 쳐야 했음. `scripts/deploy-cloudflare.sh` + 권한 규칙으로 완화했지만, GitHub push 시 자동 배포까지 이어지는 워크플로는 여전히 미착수 ([[project_lalalakorea_cloudflare_migration]] 참고)
+- [ ] 이전 세션에서 보류된 항목 이월 — Vercel 프로젝트 삭제 여부, Supabase 권한 정리, 안드로이드 앱 계획 등
+
+---
+
+*最終更新: 2026-08-29*
