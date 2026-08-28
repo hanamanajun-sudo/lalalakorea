@@ -8,10 +8,6 @@ import ShareButtons from './ShareButtons';
 import LearnCTA from './LearnCTA';
 import LearnBanner from '../LearnBanner';
 
-// generateStaticParams에 없는 slug는 SSR 렌더링 없이 즉시 404 처리
-// (등록되지 않은 경로에 대한 무거운 렌더링을 방지해 CPU 사용량을 낮춤)
-export const dynamicParams = false;
-
 export async function generateStaticParams() {
   const posts = getAllPosts();
   return posts.map(p => ({ slug: p.slug }));

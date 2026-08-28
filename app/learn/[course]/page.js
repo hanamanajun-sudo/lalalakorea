@@ -3,9 +3,6 @@ import { notFound } from 'next/navigation';
 import { getAllCourses, getCourse } from '../../../lib/courses';
 import CourseProgress from '../CourseProgress';
 
-// generateStaticParams에 없는 course는 SSR 렌더링 없이 즉시 404 처리
-export const dynamicParams = false;
-
 export function generateStaticParams() {
   return getAllCourses().map(c => ({ course: c.id }));
 }

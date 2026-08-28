@@ -2,9 +2,6 @@ import { notFound } from 'next/navigation';
 import { getAllCategories } from '../../../../../lib/posts';
 import CategoryGrid, { getCategoryTotalPages } from '../../CategoryGrid';
 
-// generateStaticParams에 없는 (카테고리, 페이지) 조합은 SSR 없이 즉시 404 처리
-export const dynamicParams = false;
-
 export async function generateStaticParams() {
   const cats = getAllCategories();
   const params = [];

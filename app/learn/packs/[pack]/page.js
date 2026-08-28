@@ -3,9 +3,6 @@ import { notFound } from 'next/navigation';
 import { getAllWordPacks, getWordPack } from '../../../../lib/wordpacks';
 import AddPackButton from './AddPackButton';
 
-// generateStaticParams에 없는 pack은 SSR 렌더링 없이 즉시 404 처리
-export const dynamicParams = false;
-
 export function generateStaticParams() {
   return getAllWordPacks().map(p => ({ pack: p.id }));
 }

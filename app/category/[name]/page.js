@@ -2,9 +2,6 @@ import { notFound } from 'next/navigation';
 import { getAllCategories } from '../../../lib/posts';
 import CategoryGrid, { getCategoryPosts } from './CategoryGrid';
 
-// generateStaticParams에 없는 카테고리는 SSR 렌더링 없이 즉시 404 처리
-export const dynamicParams = false;
-
 export async function generateMetadata({ params }) {
   const name = decodeURIComponent(params.name);
   const description = `韓国の${name}に関する記事一覧。韓国在住10年のジュンが、リアルな体験をもとに日本語で発信しています。`;

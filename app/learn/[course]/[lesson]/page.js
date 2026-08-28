@@ -3,9 +3,6 @@ import { notFound } from 'next/navigation';
 import { getAllCourses, getCourse, getLesson } from '../../../../lib/courses';
 import Quiz from '../../Quiz';
 
-// generateStaticParams에 없는 (course, lesson) 조합은 SSR 없이 즉시 404 처리
-export const dynamicParams = false;
-
 export function generateStaticParams() {
   const params = [];
   for (const course of getAllCourses()) {
