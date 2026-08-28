@@ -57,7 +57,6 @@ export default function LessonsPage({ searchParams }) {
                     <div className="premium-card-ribbon">{course.level || '入門'}</div>
                     <div className="premium-card-icon"><i className={`ph-fill ph-${course.icon || 'book-open'}`} /></div>
                     <h2 className="premium-card-title">{course.title}</h2>
-                    <p className="premium-card-desc">{course.description}</p>
                     <div className="premium-card-foot">
                       <span className="premium-card-count">全{(course.lessons || []).length}レッスン</span>
                       <span className="premium-card-cta">はじめる <i className="ph ph-arrow-right" /></span>

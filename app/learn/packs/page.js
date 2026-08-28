@@ -29,7 +29,6 @@ export default function PacksPage() {
               <div className="premium-card-ribbon">{pack.level}</div>
               <div className="premium-card-icon"><i className={`ph-fill ph-${pack.icon || 'stack'}`} /></div>
               <h2 className="premium-card-title">{pack.title}</h2>
-              <p className="premium-card-desc">{pack.description}</p>
               <div className="premium-card-foot">
                 <span className="premium-card-count">全{pack.words.length}語</span>
                 <span className="premium-card-cta">追加する <i className="ph ph-arrow-right" /></span>

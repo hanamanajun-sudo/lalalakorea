@@ -44,7 +44,6 @@ export default function LearnHome() {
                   <div className="premium-card-ribbon">{course.level || '入門'}</div>
                   <div className="premium-card-icon"><i className={`ph-fill ph-${course.icon || 'book-open'}`} /></div>
                   <h3 className="premium-card-title">{course.title}</h3>
-                  <p className="premium-card-desc">{course.description}</p>
                   <div className="premium-card-foot">
                     <span className="premium-card-count">全{(course.lessons || []).length}レッスン</span>
                     <span className="premium-card-cta">はじめる <i className="ph ph-arrow-right" /></span>
@@ -86,7 +85,6 @@ export default function LearnHome() {
                 <div className="premium-card-ribbon">{pack.level}</div>
                 <div className="premium-card-icon"><i className={`ph-fill ph-${pack.icon || 'stack'}`} /></div>
                 <h3 className="premium-card-title">{pack.title}</h3>
-                <p className="premium-card-desc">{pack.description}</p>
                 <div className="premium-card-foot">
                   <span className="premium-card-count">全{pack.words.length}語</span>
                   <span className="premium-card-cta">追加する <i className="ph ph-arrow-right" /></span>

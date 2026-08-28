@@ -1938,9 +1938,8 @@ body {
 }
 .premium-card-title {
   font-family: 'Zen Maru Gothic', 'Noto Sans JP', sans-serif;
-  font-size: 1.12rem; font-weight: 900; color: #4a3f52; margin-bottom: 8px;
+  font-size: 1.12rem; font-weight: 900; color: #4a3f52; flex: 1; margin-bottom: 16px;
 }
-.premium-card-desc { font-size: 0.84rem; color: #7a6a7c; line-height: 1.65; flex: 1; margin-bottom: 16px; }
 .premium-card-foot {
   display: flex; align-items: center; justify-content: space-between;
   border-top: 1px solid #f6e5f0; padding-top: 13px;
