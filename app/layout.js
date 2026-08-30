@@ -32,7 +32,6 @@ export default function RootLayout({ children }) {
         <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Zen+Maru+Gothic:wght@500;700;900&display=swap" rel="stylesheet" />
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@phosphor-icons/web@2.1.1/src/regular/style.css" />
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@phosphor-icons/web@2.1.1/src/fill/style.css" />
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6443201130119317" crossOrigin="anonymous"></script>
       </head>
       <body>
         <ReadingProgress />
@@ -61,6 +60,15 @@ export default function RootLayout({ children }) {
             <MobileMenu />
           </div>
         </header>
+        {/* AdSense 自動広告。head に async で置くとハイドレーション前に
+            <ins> を注入してしまい、React が mismatch (#418/#423) を起こして
+            ルートごと再描画 → 挿入された広告枠が消える。
+            afterInteractive でハイドレーション完了後に読み込ませる。 */}
+        <Script
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6443201130119317"
+          strategy="afterInteractive"
+          crossOrigin="anonymous"
+        />
         <Script src="https://www.googletagmanager.com/gtag/js?id=G-7F4G21MPYL" strategy="afterInteractive" />
         <Script id="ga4-init" strategy="afterInteractive">{`
           window.dataLayer = window.dataLayer || [];
