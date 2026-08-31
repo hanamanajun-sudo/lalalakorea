@@ -528,4 +528,108 @@
 
 ---
 
-*最終更新: 2026-08-30*
+## 2026-08-31 の作業内容 — 依頼表現レッスン新規作成・sitemap拡張・CMS初稿ブランチ整理
+
+### 배경
+
+사용자가 `/admin`(Decap CMS)에서 기사 **「「주세요」と「주실래요」、どっちを使う？韓国語の依頼表現を徹底解説」**(`content/posts/2026-08-31-korean-request-levels.md`, 間違えやすい韓国語シリーズ 第5回)의 썸네일과 본문을 수정한 뒤, 같은 주제의 학습 레슨 제작과 기사→레슨 링크 연결을 요청. 작업 중 CMS 워크플로 구조상의 문제와 sitemap 누락을 함께 발견해 처리함.
+
+### 1. CMS 편집분 main 반영 (에디토리얼 워크플로 함정)
+
+`public/admin/config.yml`의 `publish_mode: editorial_workflow` 때문에, `/admin`에서 저장한 내용은 `cms/posts/<슬러그>` 브랜치에만 커밋되고 **CMS에서 「公開」를 눌러야 비로소 main에 머지**된다. 사용자는 저장만 하고 발행을 누르지 않는 습관이 있어, 요청받은 "수정한 본문"이 로컬 main에 존재하지 않았음.
+
+- `git fetch` → `cms/posts/2026-08-31-korean-request-levels` 발견 → main에 머지 (`0074b73`)
+- 반영된 내용: 썸네일 `public/wp-content/uploads/korean-request-levels.png` 추가, frontmatter 재정렬
+
+**머지 diff 검토 중 발견한 CMS 편집기 부작용 2건:**
+
+| 문제 | 내용 |
+|---|---|
+| 빈 링크 | 참고링크의 「韓国旅行前に覚えるカタコト韓国語フレーズ」가 링크 텍스트만 삭제되어 `[](https://lalalakorea.com/korea-travel-phrases)` 로 남아 있었음 → 복구 |
+| 마크다운 재포맷 | `---`→`- - -`, `-`→`*`, frontmatter 키 순서 변경, 테이블 정렬 재구성 (렌더 결과는 동일, 무해) |
+
+추가로 `사진 찍어 주세요`의 카타카나 표기 오류(`チッコ` → `チゴ`)를 수정. 연음 규칙상 찍어=찌거이며, 바로 앞 4편(발음 규칙) 레슨에서 가르치는 내용과 모순되고 있었음.
+
+### 2. 학습 레슨 신규 제작 — `/learn/request-levels`
+
+`content/courses/request-levels/` 에 전 6레슨 코스 생성. 기존 코스와 동일한 스키마(`course.json` + 레슨별 frontmatter `words`/`quiz` + きなこ/ジュン 대화 HTML)를 따름.
+
+| 레슨 | 제목 | 퀴즈 |
+|---|---|---|
+| 01-intro | 「ください」は1つじゃない | 3 |
+| 02-juseyo | 依頼の基本は「動詞＋ジュセヨ」 | 3 |
+| 03-jusillaeyo | 주실래요・주시겠어요｜やわらかく頼む | 3 |
+| 04-levels | 丁寧さの5レベル | 3 |
+| 05-travel | 旅行フレーズ｜そのまま使える依頼10選 | 3 |
+| 06-final | 総合クイズ・修了 | 8 |
+
+- 총 퀴즈 23문항, 복습 단어 20개 (코스 내 중복 없음)
+- 기사에 없는 보너스: 03과에 依頼를 부드럽게 만드는 **「좀」**, 05과에 **「저기요」** 조합 활용법 추가
+- 코스 메타: `emoji: 🙏`, `icon: hands-praying`(Phosphor 2.1.1), `level: 初級`, `category: grammar`
+- 코스 데이터는 `scripts/generate-courses-data.mjs`가 디렉터리를 자동 스캔하므로 별도 등록 불필요 (교재 10 → 11개)
+
+### 3. 기사 → 레슨 도선 연결
+
+- 본문 하단(まとめ 뒤, 「次回は」 앞)에 CTA 블록 삽입 — 4편(발음 규칙) 기사와 동일 포맷
+- 참고링크 최상단에 `/learn/request-levels` 추가
+- 커밋 `58d11e7`
+
+### 4. sitemap에 학습 콘텐츠 추가 (`96d8f98`)
+
+`app/sitemap.js`가 포스트·카테고리만 포함하고 있어 **교재 11개 · 레슨 72개 · 단어팩 5개가 통째로 색인 대상에서 빠져 있던** 문제를 수정. 이번 코스만의 문제가 아니라 `/learn` 도입 이후 계속된 누락이었음.
+
+- 추가: `/learn`, `/learn/packs`, `/learn/{course}`, `/learn/{course}/{lesson}`, `/learn/packs/{pack}`
+- 제외: 로그인 필요 페이지(`/learn/notes`, `/learn/review`, `/learn/lessons`)
+- `lastmod`는 `course.json` / 팩 json의 `date`를 사용 — 하드코딩된 동일 날짜가 아니라 실제 제작일로 분산 (전체 lastmod 고유값 80개)
+- **URL 100 → 187개**
+
+### 5. CMS 초안 브랜치 7건 전량 정리
+
+이전 세션에서 "4건 정리"로 이월돼 있던 항목. 실제로는 7건까지 늘어나 있었음.
+
+삭제 전 안전성 검증:
+
+- 6건은 main의 조상 커밋(`git merge-base --is-ancestor`) → 내용이 정의상 main에 포함됨
+- 1건(`cms/posts/2026-08-26-korean-pronunciation-rules`)만 미병합이라 현재 main과 직접 대조 → **브랜치 쪽이 더 오래된 버전**임을 확인:
+
+| 항목 | main(현재) | 삭제한 브랜치 |
+|---|---|---|
+| `thumbnailAlt` | 있음 | 없음 |
+| 학습 레슨 CTA 블록 | 있음 | 없음 |
+| 국밥 표기 | `クッパプ`(수정됨) | `ククッパプ`(오타) |
+| 썸네일 이미지 | 동일 blob `eecb421` | 동일 blob `eecb421` |
+
+유실 없음을 확인하고 7건 전량 `git push origin --delete` → 원격에 `main`만 남음. 사용자에게 "되살릴 필요 없다"는 확인을 받음.
+
+### 6. 검증·배포
+
+- `npm run build` 통과 — 신규 6레슨 전부 SSG 프리렌더 확인, 정적 페이지 214개
+- `next start` 로컬 기동 후 `/sitemap.xml` 실제 출력 검증 (187 URL, learn 87건)
+- WSL 경유 `scripts/deploy-cloudflare.sh` 로 Cloudflare 실배포 2회
+- 스모크 테스트 전부 통과 (배포 직후 1회차 캐시 MISS는 콜드 캐시 — 재실행 시 전부 HIT)
+- 라이브 curl 확인: `/learn/request-levels`, `/01-intro`, `/06-final`, 썸네일 PNG, `/sitemap.xml`(200, `application/xml`) 전부 정상
+
+### 완료된 항목
+
+- [x] CMS 드래프트 브랜치에서 기사 편집분 main 반영 (`0074b73`)
+- [x] CMS 편집기가 만든 빈 링크 복구 + 연음 표기 오류(`チッコ`→`チゴ`) 수정
+- [x] `/learn/request-levels` 코스 신규 제작 — 6레슨 / 퀴즈 23 / 단어 20 (`58d11e7`)
+- [x] 기사 본문 CTA + 참고링크에서 레슨 연결
+- [x] `app/sitemap.js`에 학습 콘텐츠 87개 URL 추가 (`96d8f98`)
+- [x] CMS 초안 브랜치 7건 전량 삭제 (이전 세션 이월 항목 해소)
+- [x] 빌드·로컬 sitemap 출력·Cloudflare 배포·스모크·라이브 curl 검증
+- [x] 프로젝트 메모리에 Decap 에디토리얼 워크플로 함정 기록
+
+### 다음에 할 일
+
+- [ ] **Search Console에 sitemap 재제출** — 새로 들어간 87개 학습 URL의 색인을 앞당기기 위함
+- [ ] **간행 습관 정착** — `/admin`에서 저장 후 반드시 「公開」까지 누를 것. 저장만 하면 사이트에 반영되지 않고 `cms/*` 브랜치가 다시 쌓임
+- [ ] **시리즈 6편 집필** — 「授受表現（주다・받다・드리다）」. 5편 본문에서 이미 예고했음. 집필 시 같은 패턴으로 `/learn/give-receive` 코스도 세트로 제작
+- [ ] **애드센스 효과 측정 (2026-08-30 작업분)** — PV당 광고 노출 1.73 → 3.5~4, GA4 대비 애드센스 PV 43% → 70~85% 회복 여부 확인. 시점상 이번 주 중
+- [ ] **신규 코스 `/learn` 노출 방식 재검토** — 코스가 11개가 되어 `COURSE_LIMIT=6` 뒤로 밀리는 코스가 5개. limit 상향 또는 카테고리 분류 필요
+- [ ] **실기기 브라우저에서 신규 레슨 육안 확인** — 이번 세션도 curl/빌드 산출물 레벨 검증만 함
+- [ ] 이전 세션 이월 — CI/CD 자동배포 파이프라인, Vercel 프로젝트 삭제 여부, Supabase 권한 정리, 안드로이드 앱 계획
+
+---
+
+*最終更新: 2026-08-31*
