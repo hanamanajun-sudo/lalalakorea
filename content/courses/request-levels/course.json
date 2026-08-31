@@ -1,0 +1,18 @@
+{
+  "id": "request-levels",
+  "title": "韓国語の依頼表現（주세요・주실래요）を使いこなす",
+  "emoji": "🙏",
+  "icon": "hands-praying",
+  "level": "初級",
+  "category": "grammar",
+  "date": "2026-08-31",
+  "description": "「ください」は주세요だけではありません。주실래요・주시겠어요との丁寧さの違いと、相手との距離感に合わせた使い分けを、ブログ記事をベースに例文とクイズで定着させる実践コースです。旅行でそのまま使える依頼フレーズも収録。",
+  "lessons": [
+    "01-intro",
+    "02-juseyo",
+    "03-jusillaeyo",
+    "04-levels",
+    "05-travel",
+    "06-final"
+  ]
+}
