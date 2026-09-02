@@ -1,13 +1,14 @@
 ---
-title: "韓国の秋の大イベント！チュソク（추석）の挨拶とマナー豆知識"
+excerpt: 韓国の秋の大型連休チュソク（추석）を完全解説！旧暦8月15日に行われるお盆のような行事の過ごし方、挨拶の韓国語、チャレ・ソンピョン・カウィベッキなど伝統文化も紹介。
 slug: korean-chuseok-manners
-description: "韓国の秋の大型連休「チュソク（추석）」の過ごし方と挨拶を解説。「즐거운 한가위 보내세요」など使える韓国語フレーズ、チャレ（차례）・ソンピョン（송편）など伝統文化も紹介します。"
+title: 韓国の秋の大イベント！チュソク（추석）の挨拶とマナー豆知識
 date: 2026-08-21
+thumbnail: /wp-content/uploads/korean-chuseok-manners.png
+lang: ja
 categories:
   - 韓国の文化
-excerpt: "韓国の秋の大型連休チュソク（추석）を完全解説！旧暦8月15日に行われるお盆のような行事の過ごし方、挨拶の韓国語、チャレ・ソンピョン・カウィベッキなど伝統文化も紹介。"
-thumbnail: /images/culture/chuseok-manners-thumbnail.jpg
-lang: ja
+description: 韓国の秋の大型連休「チュソク（추석）」の過ごし方と挨拶を解説。「즐거운 한가위
+  보내세요」など使える韓国語フレーズ、チャレ（차례）・ソンピョン（송편）など伝統文化も紹介します。
 ---
 
 <div class="chat-msg">
