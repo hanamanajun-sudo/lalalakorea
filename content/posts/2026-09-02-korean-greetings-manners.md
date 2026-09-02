@@ -1,12 +1,13 @@
 ---
-title: "韓国の「あけましておめでとう」はこう言う！ソルラルの挨拶とマナー豆知識"
+excerpt: 韓国の新年の挨拶とマナーを日本と比べながら解説。ソルラルの過ごし方、セベ・セベットン、時間帯を選ばないアンニョンハセヨの文化まで。
 slug: korean-greetings-manners
-description: "韓国の新年の挨拶「새해 복 많이 받으세요」の意味や、ソルラル（旧正月）の過ごし方、日常の挨拶と目上へのマナーまで、日本との違いを交えて解説します。"
+title: 韓国の「あけましておめでとう」はこう言う！ソルラルの挨拶とマナー豆知識
 date: 2026-09-02
+thumbnail: /wp-content/uploads/httpslalalakorea.comkorean-greetings-manners.png
+lang: ja
 categories:
   - 韓国の文化
-lang: ja
-excerpt: "韓国の新年の挨拶とマナーを日本と比べながら解説。ソルラルの過ごし方、セベ・セベットン、時間帯を選ばないアンニョンハセヨの文化まで。"
+description: 韓国の新年の挨拶「새해 복 많이 받으세요」の意味や、ソルラル（旧正月）の過ごし方、日常の挨拶と目上へのマナーまで、日本との違いを交えて解説します。
 ---
 
 <div class="chat-msg">
