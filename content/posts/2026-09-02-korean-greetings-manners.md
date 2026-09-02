@@ -113,6 +113,7 @@ description: 韓国の新年の挨拶「새해 복 많이 받으세요」の意�
 
 **参考リンク:**
 
+* [ソルラル挨拶ワード10選（単語パック）](https://lalalakorea.com/learn/packs/seollal)（새해 복 많이 받으세요・세뱃돈・안녕히 가세요など今回の挨拶をまとめて復習）
 * [韓国語の敬語（존댓말）完全攻略ガイド](https://lalalakorea.com/jondetmal-complete-guide)（目上の人との会話の基本をまとめて学べます）
 * [「急にタメ口になった!?」韓国語の敬語とパンマルの切り替え](https://lalalakorea.com/korean-polite-switching)（間違えやすい韓国語シリーズ 第3回）
 * [韓国旅行前に覚えるカタコト韓国語フレーズ](https://lalalakorea.com/korea-travel-phrases)（旅先で使える挨拶・フレーズをもっと知りたい人に）

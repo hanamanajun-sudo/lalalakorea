@@ -98,6 +98,7 @@ description: 韓国の秋の大型連休「チュソク（추석）」の過ご�
 韓国語の基本表現をもっと学びたい方は、[韓国語の敬語（존댓말）完全攻略ガイド](https://lalalakorea.com/jondetmal-complete-guide)や[ハングル学習カリキュラム](https://lalalakorea.com/learn)もあわせてご覧ください。
 
 **参考リンク:**
+- [チュソク挨拶ワード10選（単語パック）](https://lalalakorea.com/learn/packs/chuseok)（즐거운 한가위 보내세요・송편・차례など今回のことばをまとめて復習）
 - [韓国のお正月ソルラル！挨拶とマナー豆知識（文化豆知識シリーズ第1回）](https://lalalakorea.com/korean-greetings-manners)（前回記事）
 - [韓国観光公社 公式サイト](https://japanese.visitkorea.or.kr/)（韓国旅行の基本情報）
 - [NAVER辞典](https://dict.naver.com/)（単語の意味を調べられます）
