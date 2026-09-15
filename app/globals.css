@@ -781,6 +781,8 @@ body {
   transition: background 0.2s;
 }
 .learn-cta-btn:hover { background: #e05c9e; }
+/* .post-content a の色指定より詳細度を上げて、CTAボタンの文字色を確実に白にする */
+.post-content .learn-cta-btn { color: #fff; text-decoration: none; }
 @media (max-width: 600px) {
   .learn-cta { flex-direction: column; text-align: center; padding: 22px 18px; }
 }
