@@ -709,4 +709,42 @@
 
 ---
 
-*最終更新: 2026-09-02*
+## 2026-09-15 の作業内容 — 韓服/정 기사 보완 + 학습코스 2종・단어팩 1종 신설 + CTA 버튼 가독성 버그 수정
+
+### 오늘 한 일
+
+1. **`korean-hanbok-culture-guide` 본문 수정** — 경복궁 기준 한복 대여 요금표(2시간/4시간/종일) 신규 삽입, 성년의 날(성년의 날) 섹션을 "일본처럼 한복 입는 문화는 사실상 없음"으로 정정
+2. **`/learn/hanbok-shop-korean` 학습 코스 신설** — 한복점 회화를 소재로 입점 인사→사이즈/색상 고르기→시간·요금 확인(블로그 요금표 재사용)→사진 부탁·반납 확인→오염/파손 트러블 대응→총정리 전 6레슨 제작
+3. **배포 재확인 필요성 재발** — 사용자가 "썸네일도 학습레슨도 반영 안 됨"이라고 지적 → git push만 하고 `scripts/deploy-cloudflare.sh` 실행을 빠뜨렸던 것으로 확인, dry-run 확인 후 실배포·스모크 테스트까지 완료 (반복 재발 패턴, [[project_lalalakorea_cloudflare_migration]] 참고)
+4. **`korean-jeong-culture` 인용문 교체** — "정이 많다" 섹션의 Kpedia 인용 예문을 인용 표시 없는 독자적 예문(할머니가 이웃에게 반찬을 나눠주는 이야기)으로 교체 (뒤쪽 속담 관련 Kpedia 언급은 요청 범위 밖이라 유지)
+5. **`/learn/jeong-culture-korean` 학습 코스 신설** — "정"을 실생활 장면(정이 많다·정들다·정 때문에·정을 나누다)으로 연습하는 전 6레슨 제작
+6. **`korean-ceremony-money-manners`에 단어팩 연동** — 결혼식·장례식·경사 관련 12어(축의금・조의금・부조・청첩장・신랑신부・빈소・문상・상주・명복 표현・돌잔치・환갑) `wedding-funeral-korean` 단어팩 신규 제작, 기존 사이트 관례대로 참고링크 최상단에 연결(별도 CTA 없이 다른 단어팩들과 동일 패턴)
+7. **본문 하단 CTA를 참고링크와 시각적으로 차별화** — 정/한복 두 글의 본문 말미에 `.learn-cta` 스타일(핑크 그라데이션 박스+아이콘+버튼)을 마크다운 raw HTML로 직접 삽입해, 단순 텍스트 링크 목록인 참고링크와 구분되게 강조 배치
+8. **CTA 제목이 목차(TOC)에 오염되는 버그 발견·수정** — 마크다운 내 CTA 박스에 `<h3>`를 쓰면 `generate-posts-data.mjs`의 헤딩 추출 로직이 이를 그대로 주워 글의 목차 항목으로 노출시키는 문제 발견 → `<h3>` 대신 `.learn-cta-title` 클래스를 신설해 시각적 스타일은 유지하면서 목차에서 제외
+9. **CTA 버튼 가독성 버그 발견·수정** — 사용자가 스크린샷으로 "버튼과 글자색이 비슷해 안 보인다"고 지적 → 원인은 `.post-content a { color:#f472ad }`가 CSS 명시도(0,1,1)상 `.learn-cta-btn`의 흰 글자 지정(0,1,0)을 이겨서 핑크 배경에 핑크 글자가 겹쳐 보이던 것 → `.post-content .learn-cta-btn { color:#fff; text-decoration:none; }`로 명시도를 올려 해결
+10. **CMS 초안 브랜치 rebase 흡수 2회** — 세션 도중 사용자가 `/admin`에서 한복・정 두 글에 썸네일을 추가 → 각각 PR(`cms/posts/2026-09-09-korean-hanbok-culture-guide`, `cms/posts/2026-09-14-korean-jeong-culture`)로 머지된 걸 push 시점에 발견, 그때마다 `git fetch`→본문/frontmatter 충돌 없음 확인→`git rebase origin/main`으로 흡수 후 재푸시
+11. **검증·배포** — 매 변경마다 `npm run build` 통과 확인(신규 코스·단어팩 라우트 SSG 생성 확인), 이번 세션 총 3회 WSL 경유 `scripts/deploy-cloudflare.sh` 실배포 + 스모크 테스트 전부 통과 + curl로 요금표·CTA 박스·신규 코스/단어팩 라이브 200 및 CSS 수정분 직접 확인
+
+### 완료된 항목
+
+- [x] `korean-hanbok-culture-guide` 대여 요금표 추가 + 성년의 날 문화 차이 정정
+- [x] `/learn/hanbok-shop-korean` 코스 신설 (전 6레슨) — 한복점 회화 소재
+- [x] `korean-jeong-culture` Kpedia 인용 예문 → 독자적 예문으로 교체
+- [x] `/learn/jeong-culture-korean` 코스 신설 (전 6레슨) — 정 실생활 표현
+- [x] `wedding-funeral-korean` 단어팩 신설 (전 12어) + `korean-ceremony-money-manners` 참고링크 연동
+- [x] 두 글 본문 하단에 참고링크와 차별화된 CTA 박스 삽입 (`.learn-cta` raw HTML 재사용)
+- [x] CTA 제목이 글 목차(TOC)에 잘못 노출되던 버그 수정 (`.learn-cta-title` 클래스 신설)
+- [x] CTA 버튼 글자색이 배경과 겹쳐 안 보이던 가독성 버그 원인 특정·수정 (CSS 명시도 문제)
+- [x] CMS 초안 브랜치(썸네일 2건) rebase로 흡수
+- [x] 빌드 검증 + WSL 경유 Cloudflare 실배포 3회 + 스모크 테스트 + 라이브 curl 검증 전부 완료
+
+### 다음에 할 일
+
+- [ ] **실기기 브라우저에서 CTA 버튼 가독성 수정 결과 육안 재확인** — 이번 세션은 curl로 컴파일된 CSS 값만 확인, 실제 렌더링 화면 확인은 아직 안 함
+- [ ] **신규 학습 코스 2개(hanbok-shop-korean, jeong-culture-korean) `/learn` 노출 방식 확인** — 코스 총 13개로 늘어나 `COURSE_LIMIT` 관련 노출 제한에 걸리는지 재점검 필요 (2026-08-30 세션에서 이미 지적된 이슈, 코스가 계속 늘고 있어 재검토 시점)
+- [ ] **`.learn-cta` raw HTML 삽입 패턴 정리 검토** — 이번에 두 글에서 마크다운에 직접 CTA HTML을 박아 넣는 방식을 썼는데, 앞으로도 특정 코스를 짚어 연결하는 CTA가 늘어나면 `LearnCTA.js`처럼 재사용 컴포넌트화(예: props로 코스 slug/문구를 받는 범용 컴포넌트)하는 편이 유지보수에 유리할 수 있음
+- [ ] 이전 세션 이월 — A그룹 잔여 이미지 복원, 오리지널 미사용 이미지 재검토, Search Console sitemap 재제출, 시리즈 6편(授受表現) 집필, 애드센스 효과 측정, CI/CD 자동배포, Vercel 프로젝트 정리, Supabase 권한 정리, 안드로이드 앱 계획
+
+---
+
+*最終更新: 2026-09-15*
