@@ -1,0 +1,18 @@
+{
+  "id": "jeong-culture-korean",
+  "title": "「정（情）」を実生活で使いこなす",
+  "emoji": "💛",
+  "icon": "heart",
+  "level": "初級〜中級",
+  "category": "vocab",
+  "date": "2026-09-15",
+  "description": "정이 많다・정들다・정 때문에…韓国ドラマで頻出の「정（チョン・情）」を、実生活の会話シーンとクイズで身につける実践コースです。近所付き合い、職場、友人関係など、日常でそのまま使える言い回しを紹介します。",
+  "lessons": [
+    "01-intro",
+    "02-jeong-manta",
+    "03-jeong-deulda",
+    "04-jeong-ttaemune",
+    "05-jeong-nanuda",
+    "06-final"
+  ]
+}

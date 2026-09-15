@@ -140,6 +140,15 @@ description: 韓国の民族衣装「韓服（한복）」について、伝統�
 
 次回の韓国文化豆知識では、韓国ならではの「정（チョン・情）」の文化について紹介する予定です。日本人にもなじみ深い「おもてなし」との違いを考えてみたいと思います。
 
+<div class="learn-cta">
+<div class="learn-cta-emoji"><i class="ph-fill ph-t-shirt"></i></div>
+<div class="learn-cta-body">
+<div class="learn-cta-title">韓服レンタル店の会話、練習してみませんか？</div>
+<p>入店のあいさつからサイズ選び、料金確認、写真のお願いまで。景福宮で実際に使えるフレーズをクイズ付きレッスンで練習できます。</p>
+<a href="/learn/hanbok-shop-korean" class="learn-cta-btn">無料でレッスンを受ける <i class="ph ph-arrow-right"></i></a>
+</div>
+</div>
+
 - - -
 
 **参考リンク:**

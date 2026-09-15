@@ -105,6 +105,7 @@ description: 韓国の冠婚葬祭で欠かせない「부조（プジョ）」�
 
 **参考リンク:**
 
+* [冠婚葬祭のことば10選（単語パック）](https://lalalakorea.com/learn/packs/wedding-funeral-korean)（축의금・조의금・삼가 고인의 명복을 빕니다など今回の言葉をまとめて復習）
 * [韓国の「あけましておめでとう」はこう言う！ソルラルの挨拶とマナー豆知識](https://lalalakorea.com/korean-greetings-manners)（韓国文化豆知識シリーズ前回記事。目上への物の渡し方も解説）
 * [韓国の秋の大イベント！チュソク（추석）の挨拶とマナー豆知識](https://lalalakorea.com/korean-chuseok-manners)（韓国文化豆知識シリーズ。秋の大型連休の過ごし方）
 * [韓国語の敬語（존댓말）完全攻略ガイド](https://lalalakorea.com/jondetmal-complete-guide)（目上の人との会話の基本）
