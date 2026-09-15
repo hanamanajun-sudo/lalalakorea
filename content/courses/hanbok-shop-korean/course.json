@@ -1,0 +1,18 @@
+{
+  "id": "hanbok-shop-korean",
+  "title": "韓服レンタル店で使える韓国語会話",
+  "emoji": "👘",
+  "icon": "t-shirt",
+  "level": "初級〜中級",
+  "category": "vocab",
+  "date": "2026-09-15",
+  "description": "景福宮そばの韓服レンタル店をイメージした会話コース。サイズ・色選び、レンタル時間と料金の確認、写真のお願い、返却時のトラブル対応まで、旅行ですぐ使えるフレーズを例文とクイズで身につけます。",
+  "lessons": [
+    "01-intro",
+    "02-choosing",
+    "03-price-time",
+    "04-photo-return",
+    "05-trouble",
+    "06-final"
+  ]
+}
