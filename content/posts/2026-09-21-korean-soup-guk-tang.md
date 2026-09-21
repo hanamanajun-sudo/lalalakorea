@@ -110,10 +110,11 @@ excerpt: 韓国料理店のメニューに並ぶクク、タン、チゲ。ど�
 次回の韓国文化豆知識では、食卓に欠かせない**ご飯そのもの**、雑穀を混ぜた五穀ご飯とお粥の習慣を取り上げる予定です。
 
 <div class="learn-cta">
-<div class="learn-cta-emoji"><i class="ph-fill ph-bowl-food"></i></div>
+<div class="learn-cta-emoji"><i class="ph-fill ph-cooking-pot"></i></div>
 <div class="learn-cta-body">
-<div class="learn-cta-title">食卓でそのまま使える韓国語を、単語で覚えてみませんか</div>
-<a href="/learn/packs/korean-table-manners" class="learn-cta-btn">単語パックを見る <i class="ph ph-arrow-right"></i></a>
+<div class="learn-cta-title">スープの名前を、韓国語で覚えてみませんか</div>
+<p>국・탕・찌개・전골から미역국、설렁탕まで、メニューによく出るスープの呼び名を発音付きの単語パックでまとめました。</p>
+<a href="/learn/packs/korean-soup" class="learn-cta-btn">単語パックを見る <i class="ph ph-arrow-right"></i></a>
 </div>
 </div>
 
