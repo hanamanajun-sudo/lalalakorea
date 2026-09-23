@@ -126,9 +126,9 @@ description: 韓国の食卓の主食であるご飯を深掘り。正月テボ�
 <div class="learn-cta">
 <div class="learn-cta-emoji"><i class="ph-fill ph-bowl-food"></i></div>
 <div class="learn-cta-body">
-<div class="learn-cta-title">ご飯とスープの名前を、韓国語で覚えてみませんか</div>
-<p>밥（ご飯）、죽（お粥）、국（スープ）からオゴクパプ（오곡밥）まで、食卓によく出る主食の言葉を発音付きの単語パックでまとめました。</p>
-<a href="/learn/packs/korean-soup" class="learn-cta-btn">単語パックを見る <i class="ph ph-arrow-right"></i></a>
+<div class="learn-cta-title">ご飯とお粥の名前を、韓国語で覚えてみませんか</div>
+<p>밥（ご飯）、죽（お粥）、오곡밥（五穀ご飯）から冬至の팥죽（小豆粥）、夏の닭죽（鶏粥）まで、この記事に出てきた言葉を発音付きの単語パックでまとめました。</p>
+<a href="/learn/packs/korean-rice" class="learn-cta-btn">単語パックを見る <i class="ph ph-arrow-right"></i></a>
 </div>
 </div>
 
