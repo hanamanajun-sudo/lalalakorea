@@ -136,9 +136,6 @@ description: 韓国の食卓の主食であるご飯を深掘り。正月テボ�
 
 **参考リンク:**
 
-* [韓国料理の特徴](https://www.atcenter.or.jp/koreanfoodcharacteristics)（韓国農水産食品流通公社 日本事務所。主食はご飯、雑穀を混ぜる習慣、お粥の頻度を公式解説）
-* [オゴクパプ（五穀ご飯）（오곡밥）](https://japanese.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=206470)（韓国観光公社。テボルムの風習と五穀の内訳）
-* [お粥](http://www.seoulnavi.com/food/menu_detail.php?menu_seq=78&article_id=1010432)（ソウルナビ。韓国のお粥の種類と、冬至・夏の粥の習慣）
 * [韓国のおかず（パンチャン）文化](https://lalalakorea.com/korean-banchan-culture)（ご飯と一緒に並ぶ小皿の習慣）
 * [韓国のスープの呼び分け（クク・タン・チゲ・チョンゴル）](https://lalalakorea.com/korean-soup-guk-tang)（汁の多い料理の分類と、クッパプの考え方）
 * [韓国観光公社公式サイト（日本語）](https://japanese.visitkorea.or.kr/)（韓国の食文化・旅行情報）
