@@ -747,4 +747,42 @@
 
 ---
 
-*最終更新: 2026-09-15*
+## 2026-09-25 の作業内容 — 飲み物記事 CMS 修正反映 + 味表現コース(korean-taste-expressions) 신설
+
+### 오늘 한 일
+
+1. **`korean-tea-and-drinks-culture` CMS 수정 반영** — 사용자가 `/admin`에서 썸네일 추가 + 본문 수정 → PR #20(`cms/posts/2026-09-25-korean-tea-and-drinks-culture`)로 main에 머지되어 있었음. 로컬 main이 origin보다 2커밋 뒤처진 상태여서 `git pull --ff-only`로 먼저 흡수한 뒤 작업 (CMS 초안 브랜치 함정 재확인)
+2. **기존 코스와 맛 표현 중복 조사** — 13개 코스의 `맵/쓰/달/짜/고소/느끼` 등을 grep. 맛 표현 레슨은 없음(`진짜`, `짜증나`만 오검출) → 신규 코스로 진행
+3. **`/learn/korean-taste-expressions` 신설 (전 7레슨)** — 목표: "맛있다"밖에 모르는 일본인 학습자가 자기 감상을 다양하게 말하기 (존댓말/반말 모두)
+
+| 레슨 | 내용 |
+|---|---|
+| 01-intro | 코스 소개, 맛/맛있다/입에 맞다 |
+| 02-basic-tastes | 달다·짜다·맵다·시다·쓰다·싱겁다 + ㅂ불규칙(매워요·싱거워요), 시어요→셔요, 쓰다 동음이의어 |
+| 03-texture-richness | 고소하다·담백하다·느끼하다·구수하다, 식감(바삭·아삭·쫄깃·촉촉·부드럽다), 매콤·칼칼·얼큰 |
+| 04-combine | 〜ㄴ데/〜지만/〜고로 조합("좀 매운데 맛있어요"), 좀/약간/은근히, 중독성·자꾸 생각나요 |
+| 05-polite-table | 존댓말 식탁: 잘 먹겠습니다, 입에 맞으세요?, 맛있네요, "제 입에는〜것 같아요"로 부드럽게 취향 전달, 친척 식탁 미니 대화 |
+| 06-casual-talk | 반말 식탁: 완전 맛있어·꿀맛·단짠단짠, 취향 말하기, 가족 떡볶이 미니 대화 |
+| 07-final | 종합 퀴즈 8문항 |
+
+4. **기사 하단 CTA 교체** — 단어팩(`/learn/packs/korean-drinks`) 링크 → 새 코스(`/learn/korean-taste-expressions`) CTA로 교체 (`.learn-cta` raw HTML 패턴 재사용). 기사에서 음료 단어팩 링크는 사라짐
+5. **검증·배포** — `generate-courses-data.mjs`로 7레슨·퀴즈 answer 범위·표 렌더링 확인 → 커밋 `8dbd1b4` push → WSL 경유 `scripts/deploy-cloudflare.sh` 실배포. 라이브 curl로 og:image/썸네일 200, CTA 링크, 코스·1과·7과 200 확인. 스모크 FAIL 2건(`/`, `/page/2` 캐시 MISS)은 배포 직후 CDN 워밍업으로 정상
+
+### 완료된 항목
+
+- [x] `korean-tea-and-drinks-culture` 썸네일·본문 수정 라이브 반영
+- [x] 맛 표현 중복 레슨 조사 (없음)
+- [x] `/learn/korean-taste-expressions` 코스 신설 (전 7레슨)
+- [x] 기사 하단 CTA를 새 코스로 교체
+- [x] 빌드 데이터 생성 검증 + Cloudflare 실배포 + 라이브 확인
+
+### 다음에 할 일
+
+- [ ] **준님의 한국어 감수** — 신규 코스의 한국어 예문·미니 대화(특히 05·06과)는 Claude가 작성. 어색한 표현 확인 필요
+- [ ] 기사에서 빠진 `korean-drinks` 단어팩 링크를 참고링크 등에 복원할지 결정
+- [ ] 스모크 FAIL 2건(`/`, `/page/2`)이 재실행에서 HIT로 바뀌었는지 재확인
+- [ ] 이전 세션 이월 — CTA 버튼 실기기 육안 확인, `/learn`의 `COURSE_LIMIT` 노출 점검(코스 14개로 증가), `.learn-cta` 컴포넌트화 검토, 시리즈 6편(授受表現) 집필, Search Console sitemap 재제출, 애드센스 효과 측정
+
+---
+
+*最終更新: 2026-09-25*
