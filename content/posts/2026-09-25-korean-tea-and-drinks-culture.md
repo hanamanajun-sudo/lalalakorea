@@ -135,9 +135,9 @@ description: 韓国の食卓で飲まれる飲み物を紹介。ご飯の後に�
 <div class="learn-cta">
 <div class="learn-cta-emoji"><i class="ph-fill ph-bowl-food"></i></div>
 <div class="learn-cta-body">
-<div class="learn-cta-title">飲み物の名前を、韓国語で覚えてみませんか</div>
-<p>차（お茶）、숭늉（スンニュン）、유자차（柚子茶）、인삼차（人参茶）、막걸리（マッコリ）、소주（焼酎）まで、この記事に出てきた飲み物の言葉を発音付きの単語パックでまとめました。</p>
-<a href="/learn/packs/korean-drinks" class="learn-cta-btn">単語パックを見る <i class="ph ph-arrow-right"></i></a>
+<div class="learn-cta-title">「맛있어요」の次の一言を、言えるようになりませんか</div>
+<p>スンニュンの淡さ、柚子茶の甘さ、マッコリのほのかな酸味。食卓で感じた味を、좀 매운데 맛있어요（少し辛いけどおいしい）のように自分の言葉で伝えるための、味表現と会話のレッスンです。존댓말とタメ口の両方で練習できます。</p>
+<a href="/learn/korean-taste-expressions" class="learn-cta-btn">無料でレッスンを受ける <i class="ph ph-arrow-right"></i></a>
 </div>
 </div>
 

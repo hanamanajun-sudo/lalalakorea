@@ -1,0 +1,19 @@
+{
+  "id": "korean-taste-expressions",
+  "title": "「맛있다」だけじゃもったいない！味の表現と食卓の会話",
+  "emoji": "😋",
+  "icon": "fork-knife",
+  "level": "初級〜中級",
+  "category": "vocab",
+  "date": "2026-09-25",
+  "description": "「맛있어요」の一言から卒業！甘い・辛い・苦い・しょっぱいといった基本の味から、香ばしい・あっさり・くどいといった繊細な表現、「少し辛いけど美味しい」のような組み合わせ方まで。食事の席や、自分が食べたものの感想を、존댓말（敬語）と반말（タメ口）の両方で言えるようになる実践コースです。",
+  "lessons": [
+    "01-intro",
+    "02-basic-tastes",
+    "03-texture-richness",
+    "04-combine",
+    "05-polite-table",
+    "06-casual-talk",
+    "07-final"
+  ]
+}
