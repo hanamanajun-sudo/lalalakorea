@@ -1,12 +1,13 @@
 ---
-title: 韓国の台所の話：トゥッペギとキムチ冷蔵庫、保存の知恵
-slug: korean-kitchen-cooking-tools
-description: 韓国の家庭料理を支える台所の道具を紹介。素焼きの土鍋トゥッペギ、鋳鉄のかま、そしてキムチ専用の冷蔵庫まで。日本とは違うキッチンの道具立てと、作り置きを前提にした保存の知恵を解説します。
 excerpt: 韓国の台所には、日本では見かけない道具が並びます。トゥッペギという素焼きの鍋、かま、そしてキムチのための冷蔵庫。保存を前提に組み立てられた韓国の台所を覗いてみます。
+slug: korean-kitchen-cooking-tools
+title: 韓国の台所の話：トゥッペギとキムチ冷蔵庫、保存の知恵
 date: 2026-09-28
+thumbnail: /wp-content/uploads/korean-kitchen-cooking-tools.jpg
+lang: ja
 categories:
   - 韓国の文化
-lang: ja
+description: 韓国の家庭料理を支える台所の道具を紹介。素焼きの土鍋トゥッペギ、鋳鉄のかま、そしてキムチ専用の冷蔵庫まで。日本とは違うキッチンの道具立てと、作り置きを前提にした保存の知恵を解説します。
 ---
 
 <div class="chat-msg">
