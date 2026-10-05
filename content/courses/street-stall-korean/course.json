@@ -1,0 +1,18 @@
+{
+  "id": "street-stall-korean",
+  "title": "屋台・お店で使える韓国語の注文会話",
+  "emoji": "🥘",
+  "icon": "bowl-food",
+  "level": "初級",
+  "category": "vocab",
+  "date": "2026-10-06",
+  "description": "トッポギ、キンパなど屋台の注文を題材にした会話コース。料理名・数・食べ方の三点セット、人前や本などの数え方、辛さや具の調整、持ち帰り、会計まで、屋台だけでなく食堂やテイクアウトの店でも使えるフレーズを例文とクイズで身につけます。",
+  "lessons": [
+    "01-intro",
+    "02-counting",
+    "03-adjust",
+    "04-eat-or-takeout",
+    "05-payment",
+    "06-final"
+  ]
+}
