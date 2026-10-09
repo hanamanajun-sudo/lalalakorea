@@ -783,6 +783,53 @@
 - [ ] 스모크 FAIL 2건(`/`, `/page/2`)이 재실행에서 HIT로 바뀌었는지 재확인
 - [ ] 이전 세션 이월 — CTA 버튼 실기기 육안 확인, `/learn`의 `COURSE_LIMIT` 노출 점검(코스 14개로 증가), `.learn-cta` 컴포넌트화 검토, 시리즈 6편(授受表現) 집필, Search Console sitemap 재제출, 애드센스 효과 측정
 
+## 2026-10-09 の作業内容 — 粉食記事 全面改稿 + 助数詞コース + マイノート/レッスン一覧 UX 改善 + いいね・ご意見・管理画面
+
+### 오늘 한 일
+
+1. **粉食(プンシク) 기사 전면 재작성** (`2026-10-09-korean-bunsik-kimbap-ramyeon.md`) — 필자 지시 14항목 반영: 제목을 「…を全部教えます！」로 확정(「最強」 제거), オムク→オデン(오뎅) + 한일 오뎅 차이 설명, 치즈 추가 표현 교체(라면에 치즈 추가요), すいとん에 수제비 병기, 떡튀순 20년 전 종각~종로3가 노점 추억 추가, 수 세기 단락에 "모르면 일단 개" 필자 의견, 김밥 온도 설명, 「キンパは冷たくて」 삭제(열/냉 대비 → 진한 국물 vs 부드러운 밥), 라면=인스턴트라면 명시, 최상급 완화, 표기 통일(ラッポッキ・ジュル), 粉食의 成り立ち 압축 리라이트, 내부 링크·참고링크 추가. 次回予告 없음.
+2. **썸네일 추가** — Unsplash 김밥 사진 1200×630(76KB), `public/wp-content/uploads/korean-bunsik-kimbap-ramyeon.jpg`
+3. **신규 학습 코스 `korean-counters`**(韓国語の数え方〈助数詞〉入門, 4레슨) — 개·명·마리·잔·그릇·줄·병·권·장·대. 기존 `korean-numbers`(固有語/漢数詞)·`street-stall-korean`과 내용 겹치지 않게 구성. 기사 하단에 CTA 배너.
+4. **마이노트 개편** — 교재 목록이 전 레슨 노출 → "학습을 시작한 교재만" 표시. `user_courses` 테이블 신설, 코스 페이지의 「学習を始める」/레슨 선택/퀴즈 완료 시 자동 추가(기존 진도 있는 교재는 자동 유지). 빈 상태 안내 문구, 교재별 삭제 버튼 + 확인창(진도 삭제 안내, 단어 복습 카드는 유지).
+5. **레슨 목록(`/learn/lessons`)** — 정렬 4종(추가일 신/구, 쉬운 순/어려운 순) + 카드/리스트 보기 전환(localStorage 유지). 페이지를 정적화(searchParams 의존 제거).
+6. **난이도 정리** — 基礎/入門/中級/上級 4단계로 통일(`lib/levels.js`). 基礎 1(hangul-basic) / 入門 10 / 中級 5(polite-switching, request-levels, hanbok-shop-korean, jeong-culture-korean, korean-taste-expressions) / 上級 0. 애매한 kdrama-anger-aegyo·pronunciation-rules는 入門.
+7. **좋아요**(`lesson_likes`) — 레슨 하단, 로그인 사용자만, 개수 비공개(내부 데이터).
+8. **의견·요청 창구** `/learn/feedback`(`lesson_feedback`, 비로그인도 전송 가능) — 왼쪽 메뉴 하단 + 페이지 하단 링크.
+9. **관리자 화면** `/learn/admin` — 좋아요 레슨별 순위, 의견 목록(종류 필터·삭제). 관리자 = 로그인 이메일 `hanamanajun@gmail.com`, RLS로 보호(메뉴에는 관리자에게만 표시).
+10. **히어로(상단 제목 띠) 높이 축소** — `/learn` 하위 전 페이지 공통. PC 패딩 72/78→26/28px, 모바일 16/18px, 제목·아이콘·설명 크기도 축소. 본문 상단 여백도 축소 (`app/learn/learn-extra.css`).
+11. **배포 사고 2건 (내 실수)** — ① "Vercel 자동 배포"로 잘못 안내(실제는 Cloudflare Workers 수동 배포) ② 수동 rsync가 `.env.local`을 제외해 Supabase 키가 번들에 인라인되지 않아 `/learn/notes`가 「読み込み中…」에서 멈춤 → `scripts/deploy-cloudflare.sh`로 재배포해 복구. 메모리에 절차 저장.
+
+### 배포 절차 (재확인)
+
+- git push만으로는 배포되지 않음. 반드시 `scripts/deploy-cloudflare.sh`를 WSL에서 실행 (Vercel 아님).
+- 체크아웃이 CRLF라 직접 실행하면 `set: pipefail` 오류 → `tr -d '\r'`로 LF 임시 복사본을 `scripts/`에 만들어 실행 후 삭제. 끝의 smoke-test 전체 통과 확인.
+- 로컬 저장소가 origin보다 뒤처져 있을 수 있으니 작업 시작 시 `git pull` 먼저.
+
+### Supabase SQL (실행 완료·확인됨)
+
+- `supabase-setup.sql` 하단 추가분(`user_courses`, `lesson_likes`, `lesson_feedback` + RLS)을 SQL Editor에서 실행 완료. 좋아요·의견 정상 동작 확인.
+
+### 완료된 항목
+
+- [x] 粉食 기사 전면 개고 + 썸네일 + 배포
+- [x] `korean-counters` 코스 4레슨 신설
+- [x] 마이노트: 시작한 교재만 표시 / 자동 추가 / 삭제 / 빈 상태 안내
+- [x] 레슨 목록 정렬·보기 전환, 난이도 4단계 정리
+- [x] 좋아요·의견 창구·관리자 화면
+- [x] 학습 페이지 히어로 높이 축소(PC·모바일)
+
+### 다음에 할 일
+
+- [ ] **히어로 축소 실기기 육안 확인** — 이번 세션은 브라우저 확장 미연결로 화면 확인 못 함. PC·모바일에서 `/learn/notes`, `/learn/lessons`, 교재 페이지 확인 (마이노트만 따로 줄이길 원하면 범위 조정)
+- [ ] 마이노트·레슨 목록(카드/리스트)·삭제 확인창의 실제 화면 동작 육안 확인
+- [ ] 의견 폼 스팸 대책 검토(비로그인 전송 가능) — 필요 시 Cloudflare Turnstile
+- [ ] 좋아요 데이터 쌓이면 인기순 정렬·좋아요 표시 공개 검토
+- [ ] 단어팩(`wordpacks`)의 레벨 표기를 4단계 체계에 맞출지 결정 (이번엔 미변경)
+- [ ] 난이도 경계 교재 재검토 (kdrama-anger-aegyo, pronunciation-rules) / 上級 교재 기획
+- [ ] 이월: Vercel 프로젝트 정리 검토(롤백 안전망), AdSense 정상 노출 확인
+
 ---
 
-*最終更新: 2026-09-25*
+---
+
+*最終更新: 2026-10-09*
