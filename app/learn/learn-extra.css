@@ -1,0 +1,121 @@
+/* ══════════ レッスン一覧：並び替え・表示切替 ══════════ */
+button.learn-filter-tab { cursor: pointer; font-family: inherit; }
+.lessons-toolbar {
+  display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;
+  gap: 12px; margin-bottom: 20px;
+}
+.lessons-sort { display: inline-flex; align-items: center; gap: 8px; font-size: 0.82rem; font-weight: 700; color: #7a6a7c; }
+.lessons-sort select {
+  font: inherit; font-weight: 600; color: #4a3f52;
+  padding: 8px 12px; border-radius: 10px; border: 1.5px solid #f0dcea; background: #fff; cursor: pointer;
+}
+.lessons-view-toggle { display: inline-flex; border: 1.5px solid #f0dcea; border-radius: 999px; overflow: hidden; background: #fff; }
+.lessons-view-toggle button {
+  display: inline-flex; align-items: center; gap: 6px; border: 0; background: transparent; cursor: pointer;
+  font: inherit; font-size: 0.82rem; font-weight: 700; color: #7a6a7c; padding: 8px 16px;
+}
+.lessons-view-toggle button.active { background: linear-gradient(135deg, #ffa6d2, #e05c9e); color: #fff; }
+
+.lessons-list { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 8px; }
+.lessons-list-item {
+  display: flex; align-items: center; gap: 14px; text-decoration: none; color: inherit;
+  background: #fff; border: 1px solid #f6e5f0; border-radius: 14px; padding: 12px 16px;
+  transition: border-color 0.18s, transform 0.18s, box-shadow 0.18s;
+}
+.lessons-list-item:hover { border-color: #f4b8d6; transform: translateX(3px); box-shadow: 0 6px 16px rgba(214, 73, 155, 0.10); }
+.lessons-list-icon {
+  width: 42px; height: 42px; border-radius: 12px; flex-shrink: 0;
+  display: flex; align-items: center; justify-content: center; font-size: 1.4rem; color: #f472ad;
+  background: linear-gradient(135deg, #ffeaf5, #f3e9fd);
+}
+.lessons-list-main { flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 3px; }
+.lessons-list-title { font-weight: 800; font-size: 0.95rem; color: #4a3f52; }
+.lessons-list-meta { font-size: 0.74rem; color: #a897a6; font-weight: 600; }
+.lessons-list-level {
+  flex-shrink: 0; font-size: 0.7rem; font-weight: 800; color: #e05c9e;
+  background: #fdeaf4; border-radius: 999px; padding: 4px 11px;
+}
+.lessons-list-arrow { color: #d9bccb; flex-shrink: 0; }
+
+/* ══════════ マイノート：教材の削除・空の案内 ══════════ */
+.notes-course-row { display: flex; align-items: stretch; gap: 8px; }
+.notes-course-row .notes-course { flex: 1; min-width: 0; }
+.notes-course-remove {
+  flex-shrink: 0; width: 44px; border: 1px solid #eee; border-radius: 12px; background: #fff;
+  color: #b9a7ac; cursor: pointer; font-size: 1.1rem; transition: color 0.18s, border-color 0.18s, background 0.18s;
+}
+.notes-course-remove:hover { color: #c0283c; border-color: #f0b8c0; background: #fff5f6; }
+.notes-empty-guide {
+  text-align: center; background: #fff; border: 1.5px dashed #f0d5da; border-radius: 14px;
+  padding: 26px 18px; color: #7a6a6e; font-size: 0.9rem; line-height: 1.8;
+}
+.notes-empty-guide p { margin: 0 0 6px; }
+.notes-empty-guide a:not(.quiz-btn-primary) { color: #c0283c; font-weight: 700; }
+.notes-empty-guide .quiz-btn-primary { display: inline-block; margin-top: 10px; }
+.learn-notes-status { margin-top: 12px; font-size: 0.8rem; color: #8a7a7d; display: flex; align-items: center; gap: 6px; }
+.learn-notes-status i { color: #e4293f; }
+
+/* ══════════ いいね ══════════ */
+.lesson-like { text-align: center; margin: 32px 0 8px; padding: 22px 16px; background: #fff; border: 1px solid #efe4dd; border-radius: 16px; }
+.lesson-like-text { font-weight: 700; color: #5a4a4e; margin: 0 0 12px; font-size: 0.95rem; }
+.lesson-like-sub { font-size: 0.78rem; color: #a5989a; margin: 10px 0 0; }
+.lesson-like-sub a { color: #c0283c; font-weight: 700; }
+.lesson-like-btn {
+  display: inline-flex; align-items: center; gap: 8px; cursor: pointer; font: inherit; font-weight: 800; font-size: 0.95rem;
+  padding: 11px 26px; border-radius: 999px; border: 1.5px solid #f0b8c0; background: #fff; color: #c0283c;
+  transition: transform 0.15s, background 0.18s, color 0.18s;
+}
+.lesson-like-btn:hover { transform: scale(1.04); background: #fff5f6; }
+.lesson-like-btn.liked { background: linear-gradient(135deg, #e4293f, #ff7a89); border-color: transparent; color: #fff; }
+.lesson-like-btn:disabled { opacity: 0.6; cursor: default; }
+
+/* ══════════ ご意見フォーム／管理画面 ══════════ */
+.learn-feedback-link {
+  margin-top: auto; display: flex; align-items: flex-start; gap: 10px; text-decoration: none;
+  color: #6a5b5e; font-size: 0.86rem; font-weight: 700; line-height: 1.35;
+  padding: 12px 14px; border-radius: 12px; background: #fff6f3; border: 1px solid #f3e1dc;
+  transition: background 0.18s, color 0.18s;
+}
+.learn-feedback-link i { font-size: 1.2rem; margin-top: 1px; color: #e4293f; }
+.learn-feedback-link small { display: block; margin-top: 3px; font-size: 0.68rem; font-weight: 500; color: #a5989a; line-height: 1.4; }
+.learn-feedback-link:hover, .learn-feedback-link.active { background: #fde8ec; color: #b81b30; }
+.learn-feedback-link ~ .learn-back-blog { margin-top: 0; }
+.learn-footer-feedback { text-align: center; padding: 8px 16px 28px; font-size: 0.82rem; }
+.learn-footer-feedback a { color: #a5989a; text-decoration: none; font-weight: 600; }
+.learn-footer-feedback a:hover { color: #b81b30; }
+
+.feedback-form { background: #fff; border: 1px solid #efe4dd; border-radius: 16px; padding: 22px 20px; display: flex; flex-direction: column; gap: 10px; }
+.feedback-lead { font-size: 0.88rem; color: #6a5b5e; line-height: 1.8; margin: 0 0 6px; }
+.feedback-kinds { border: 0; padding: 0; margin: 0 0 6px; display: flex; flex-wrap: wrap; gap: 8px; }
+.feedback-kinds legend { font-size: 0.8rem; font-weight: 700; color: #8a7a7d; margin-bottom: 8px; padding: 0; }
+.feedback-kind {
+  position: relative; display: inline-flex; align-items: center; cursor: pointer; font-size: 0.84rem; font-weight: 700; color: #7a6a6e;
+  padding: 8px 14px; border: 1.5px solid #efe4dd; border-radius: 999px; background: #fff;
+}
+.feedback-kind input { position: absolute; opacity: 0; pointer-events: none; }
+.feedback-kind.active { background: #fde8ec; border-color: #f0b8c0; color: #b81b30; }
+.feedback-label { font-size: 0.8rem; font-weight: 700; color: #8a7a7d; }
+.feedback-textarea {
+  width: 100%; box-sizing: border-box; font: inherit; line-height: 1.7; resize: vertical;
+  padding: 12px 14px; border: 1.5px solid #efe4dd; border-radius: 12px; background: #fffdfb; color: #3a2e30;
+}
+.feedback-textarea:focus { outline: none; border-color: #f0a0ac; }
+.feedback-count { text-align: right; font-size: 0.72rem; color: #b5a8aa; }
+.feedback-error { color: #c0283c; font-size: 0.84rem; margin: 0; }
+.feedback-done { text-align: center; background: #fff; border: 1px solid #efe4dd; border-radius: 16px; padding: 34px 20px; }
+.feedback-done-icon { font-size: 2.6rem; color: #e4293f; }
+.feedback-done h2 { font-size: 1.1rem; margin: 8px 0; }
+.feedback-done p { color: #7a6a6e; font-size: 0.88rem; margin: 0 0 16px; }
+
+.admin-table { width: 100%; border-collapse: collapse; background: #fff; border-radius: 12px; overflow: hidden; font-size: 0.88rem; }
+.admin-table th, .admin-table td { padding: 10px 14px; text-align: left; border-bottom: 1px solid #f3ebe6; }
+.admin-table th { background: #fbf4ef; font-size: 0.76rem; color: #8a7a7d; }
+.admin-table a { color: #b81b30; font-weight: 700; text-decoration: none; }
+.admin-sub { font-size: 0.74rem; color: #a5989a; }
+.admin-feedback-list { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 10px; }
+.admin-feedback-item { background: #fff; border: 1px solid #efe4dd; border-radius: 12px; padding: 14px 16px; }
+.admin-feedback-head { display: flex; align-items: center; gap: 10px; margin-bottom: 8px; }
+.admin-feedback-kind { font-size: 0.72rem; font-weight: 800; color: #b81b30; background: #fde8ec; border-radius: 999px; padding: 3px 10px; }
+.admin-feedback-del { margin-left: auto; border: 0; background: transparent; color: #b9a7ac; cursor: pointer; font-size: 1.05rem; }
+.admin-feedback-del:hover { color: #c0283c; }
+.admin-feedback-msg { margin: 0; white-space: pre-wrap; line-height: 1.8; font-size: 0.9rem; color: #3a2e30; }

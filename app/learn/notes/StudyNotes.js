@@ -29,7 +29,27 @@ function formatDue(cardRow, now) {
 export default function StudyNotes({ courses, allWords }) {
   const [status, setStatus] = useState('loading'); // loading | guest | ready
   const [data, setData] = useState(null);
+  const [userId, setUserId] = useState(null);
   const supabase = createClient();
+
+  // 教材をマイノートから削除（進捗も削除）
+  async function handleRemoveCourse(course) {
+    const ok = window.confirm(
+      `「${course.title}」をマイノートから削除しますか？
+
+この教材の学習の進捗（完了したレッスンの記録）も消えます。この操作は元に戻せません。
+（単語帳の復習カードは残ります）`
+    );
+    if (!ok || !userId) return;
+    const [{ error: e1 }, { error: e2 }] = await Promise.all([
+      supabase.from('user_progress').delete().eq('user_id', userId).eq('course_id', course.id),
+      supabase.from('user_courses').delete().eq('user_id', userId).eq('course_id', course.id),
+    ]);
+    if (e1) { window.alert('削除に失敗しました。時間をおいてもう一度お試しください。'); return; }
+    // user_courses テーブル未作成のときの e2 は無視（進捗が消えていれば一覧からも消える）
+    void e2;
+    setData(d => d && ({ ...d, courseProgress: d.courseProgress.filter(c => c.id !== course.id) }));
+  }
 
   useEffect(() => {
     let active = true;
@@ -37,17 +57,23 @@ export default function StudyNotes({ courses, allWords }) {
       const { data: { user } } = await supabase.auth.getUser();
       if (!user) { if (active) setStatus('guest'); return; }
 
-      const [{ data: progress }, { data: cards }] = await Promise.all([
+      const [{ data: progress }, { data: cards }, { data: addedRows }] = await Promise.all([
         supabase.from('user_progress').select('course_id, lesson_id').eq('user_id', user.id),
         supabase.from('review_cards').select('*').eq('user_id', user.id),
+        supabase.from('user_courses').select('course_id').eq('user_id', user.id),
       ]);
       if (!active) return;
+      setUserId(user.id);
 
       const doneSet = new Set((progress || []).map(p => `${p.course_id}/${p.lesson_id}`));
       const cardMap = new Map((cards || []).map(c => [`${c.course_id}/${c.word_ko}`, c]));
 
+      // マイノートに追加済みの教材 = 「学習を始めた」教材 ∪ 進捗のある教材（user_courses 導入前の人も維持）
+      const addedSet = new Set((addedRows || []).map(r => r.course_id));
+      for (const p of progress || []) addedSet.add(p.course_id);
+
       // 教材ごとの進捗
-      const courseProgress = courses.map(c => {
+      const courseProgress = courses.filter(c => addedSet.has(c.id)).map(c => {
         const total = (c.lessons || []).length;
         const done = (c.lessons || []).filter(lid => doneSet.has(`${c.id}/${lid}`)).length;
         return { id: c.id, title: c.title, icon: c.icon, done, total, pct: total ? Math.round((done / total) * 100) : 0 };
@@ -111,23 +137,45 @@ export default function StudyNotes({ courses, allWords }) {
       {/* 教材の進捗 */}
       <section className="notes-section">
         <h2 className="notes-heading"><i className="ph ph-books" /> 教材の進捗</h2>
-        <div className="notes-courses">
-          {courseProgress.map(c => (
-            <Link key={c.id} href={`/learn/${c.id}`} className="notes-course">
-              <span className="notes-course-emoji"><i className={`ph-fill ph-${c.icon || 'book-open'}`} /></span>
-              <span className="notes-course-info">
-                <span className="notes-course-title">
-                  {c.title}
-                  {c.pct === 100 && <span className="notes-course-done"><i className="ph-fill ph-trophy" /> 修了</span>}
-                </span>
-                <span className="notes-course-track">
-                  <span className="notes-course-fill" style={{ width: `${c.pct}%` }} />
-                </span>
-                <span className="notes-course-meta">{c.done} / {c.total} レッスン（{c.pct}%）</span>
-              </span>
-            </Link>
-          ))}
-        </div>
+        {courseProgress.length === 0 ? (
+          <div className="notes-empty-guide">
+            <p>まだ教材がありません。</p>
+            <p>
+              <Link href="/learn/lessons">ハングルレッスン</Link>で教材を開いて「学習を始める」を押すと、
+              自動でここに追加されます。
+            </p>
+            <Link href="/learn/lessons" className="quiz-btn-primary">レッスンを探す →</Link>
+          </div>
+        ) : (
+          <div className="notes-courses">
+            {courseProgress.map(c => (
+              <div key={c.id} className="notes-course-row">
+                <Link href={`/learn/${c.id}`} className="notes-course">
+                  <span className="notes-course-emoji"><i className={`ph-fill ph-${c.icon || 'book-open'}`} /></span>
+                  <span className="notes-course-info">
+                    <span className="notes-course-title">
+                      {c.title}
+                      {c.pct === 100 && <span className="notes-course-done"><i className="ph-fill ph-trophy" /> 修了</span>}
+                    </span>
+                    <span className="notes-course-track">
+                      <span className="notes-course-fill" style={{ width: `${c.pct}%` }} />
+                    </span>
+                    <span className="notes-course-meta">{c.done} / {c.total} レッスン（{c.pct}%）</span>
+                  </span>
+                </Link>
+                <button
+                  type="button"
+                  className="notes-course-remove"
+                  onClick={() => handleRemoveCourse(c)}
+                  aria-label={`${c.title}をマイノートから削除`}
+                  title="マイノートから削除"
+                >
+                  <i className="ph ph-trash" />
+                </button>
+              </div>
+            ))}
+          </div>
+        )}
       </section>
 
       {/* 私の単語帳 */}

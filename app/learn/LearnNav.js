@@ -9,7 +9,7 @@ const ITEMS = [
   { href: '/learn/notes', label: 'マイノート', icon: 'notebook',
     match: p => p.startsWith('/learn/notes') },
   { href: '/learn/lessons', label: 'ハングルレッスン', icon: 'book-open-text', badge: 'lessons',
-    match: p => p.startsWith('/learn/lessons') || (/^\/learn\/[^/]+/.test(p) && !/^\/learn\/(review|notes|packs|lessons)/.test(p)) },
+    match: p => p.startsWith('/learn/lessons') || (/^\/learn\/[^/]+/.test(p) && !/^\/learn\/(review|notes|packs|lessons|feedback|admin)/.test(p)) },
   { href: '/learn/review', label: '単語復習', icon: 'arrows-clockwise', badge: 'review',
     match: p => p.startsWith('/learn/review') },
   { href: '/learn/packs', label: '単語パック', icon: 'puzzle-piece', sub: true,
@@ -20,6 +20,7 @@ export default function LearnNav({ totalLessons = 0 }) {
   const pathname = usePathname();
   const [doneLessons, setDoneLessons] = useState(null);
   const [dueWords, setDueWords] = useState(null);
+  const [isAdmin, setIsAdmin] = useState(false);
   const supabase = createClient();
 
   useEffect(() => {
@@ -27,6 +28,7 @@ export default function LearnNav({ totalLessons = 0 }) {
     (async () => {
       const { data: { user } } = await supabase.auth.getUser();
       if (!user) return;
+      if (active && user.email === 'hanamanajun@gmail.com') setIsAdmin(true);
 
       const { count: lessonCount } = await supabase
         .from('user_progress')
@@ -81,6 +83,25 @@ export default function LearnNav({ totalLessons = 0 }) {
             </Link>
           ))}
         </nav>
+        <Link
+          href="/learn/feedback"
+          className={`learn-feedback-link${pathname.startsWith('/learn/feedback') ? ' active' : ''}`}
+        >
+          <i className="ph ph-chat-circle-text" />
+          <span>
+            ご意見・ご要望
+            <small>レッスンへの感想や、読みたいレッスンを教えてください</small>
+          </span>
+        </Link>
+        {isAdmin && (
+          <Link
+            href="/learn/admin"
+            className={`learn-sidenav-item sub${pathname.startsWith('/learn/admin') ? ' active' : ''}`}
+          >
+            <span className="learn-sidenav-emoji"><i className="ph ph-gauge" /></span>
+            <span className="learn-sidenav-label">学習管理</span>
+          </Link>
+        )}
         <Link href="/" className="learn-back-blog"><i className="ph ph-arrow-left" /> ブログにもどる</Link>
       </aside>
 

@@ -3,6 +3,7 @@
 import { useState, useEffect } from 'react';
 import Link from 'next/link';
 import { createClient } from '../../lib/supabase/client';
+import { addCourseToNotes } from '../../lib/userCourses';
 
 export default function Quiz({ courseId, lessonId, questions, nextLesson }) {
   const [started, setStarted] = useState(false);
@@ -37,6 +38,7 @@ export default function Quiz({ courseId, lessonId, questions, nextLesson }) {
       { onConflict: 'user_id,course_id,lesson_id' }
     );
     setSaveState(error ? 'error' : 'saved');
+    if (!error) addCourseToNotes(supabase, user.id, courseId);
   }
 
   function handleSelect(i) {

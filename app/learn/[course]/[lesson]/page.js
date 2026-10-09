@@ -2,6 +2,7 @@ import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { getAllCourses, getCourse, getLesson } from '../../../../lib/courses';
 import Quiz from '../../Quiz';
+import LessonLike from '../../LessonLike';
 
 export function generateStaticParams() {
   const params = [];
@@ -48,6 +49,8 @@ export default async function LessonPage({ params }) {
           questions={lesson.quiz}
           nextLesson={lesson.next}
         />
+
+        <LessonLike courseId={params.course} lessonId={params.lesson} />
 
         <nav className="learn-lesson-nav">
           {lesson.prev ? (
