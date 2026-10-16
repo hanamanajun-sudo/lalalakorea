@@ -1,0 +1,17 @@
+{
+  "id": "backchannel-reactions",
+  "title": "韓国語の相づち・リアクション表現を使いこなす",
+  "emoji": "💬",
+  "icon": "chat-circle-dots",
+  "level": "基礎",
+  "category": "vocab",
+  "date": "2026-10-16",
+  "description": "「へえ」「そうなんだ」は韓国語で何て言う？네・응・맞아요から、그렇구나・정말?・헐・대박・아이고・어머まで、相づち（맞장구）を距離感と場面別に、ブログ記事をベースに例文とクイズで定着させる実践コースです。",
+  "lessons": [
+    "01-intro",
+    "02-agree",
+    "03-nodding",
+    "04-emotion",
+    "05-final"
+  ]
+}
