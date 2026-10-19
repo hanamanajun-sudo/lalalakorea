@@ -108,6 +108,7 @@ async function main() {
       categories: data.categories || [],
       excerpt: data.excerpt || '',
       thumbnail: data.thumbnail || '',
+      course: data.course || '',
       content: processed,
       headings,
       relatedPosts,

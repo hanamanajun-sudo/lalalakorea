@@ -8,6 +8,7 @@ lang: ja
 categories:
   - 韓国語
 description: 韓国語の主語の助詞「은/는（ウン/ヌン）」と「이/가（イ/ガ）」の使い分けを例文つきで徹底解説。テーマと主語の違い、日本人が間違えやすいポイントをわかりやすく紹介します。
+course: subject-particles
 ---
 
 <div class="chat-msg">
@@ -128,6 +129,3 @@ description: 韓国語の主語の助詞「은/는（ウン/ヌン）」と「�
 **参考リンク:**
 - [「에」と「에서」、もう迷わない！場所の助詞の使い分け完全ガイド](https://lalalakorea.com/korean-location-particles)（間違えやすい韓国語シリーズ 第1回）
 - [韓国旅行前に覚えたい！カタコト韓国語フレーズ10選](https://lalalakorea.com/korea-travel-phrases)（旅行で使える実践フレーズ）
-
-> 🗣️ **もっと練習したい人へ**
-> この記事の内容を、例文とクイズで体に定着させる無料レッスン「[主語の助詞「은/는・이/가」を使いこなす](https://lalalakorea.com/learn/subject-particles)」を用意しました。全6レッスン、クイズ付きで自分のペースで学べます。

@@ -8,6 +8,7 @@ lang: ja
 categories:
   - 韓国語
 description: 韓国語の依頼表現「주세요（ジュセヨ）」と「주실래요（ジュシルレヨ）」の違いを例文つきで解説。丁寧さのレベル別の使い分けと、旅行ですぐ使えるフレーズも紹介します。
+course: request-levels
 ---
 <div class="chat-msg">
 <svg class="chat-avatar" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="50" fill="#FF6B9D"/><text x="50" y="62" text-anchor="middle" font-size="40" fill="white" font-family="sans-serif">き</text></svg>
@@ -117,9 +118,6 @@ description: 韓国語の依頼表現「주세요（ジュセヨ）」と「주�
 5. タメ口の「줘」は親しい相手専用
 
 依頼表現は、韓国語の人間関係の距離感がそのまま表れる部分です。まずは주세요をしっかり使いこなして、慣れてきたら주실래요にもチャレンジしてみてください。
-
-> 📘 **この記事の内容は、クイズ付きの学習レッスンでも練習できます。**
-> ➡️ **[韓国語の依頼表現（주세요・주실래요）を使いこなす（学習レッスン）](https://lalalakorea.com/learn/request-levels)**
 
 次回は、日本人生徒が間違えやすい韓国語シリーズ第6回として「授受表現（주다・받다・드리다）」を解説する予定です。「もらう・くれる・あげる」の方向を表す表現を、日常会話の例文つきで紹介します。
 

@@ -109,7 +109,7 @@ export default async function PostPage({ params }) {
         dangerouslySetInnerHTML={{ __html: post.content }}
       />
       {hasInstagram && <InstagramEmbed />}
-      {post.categories.includes('韓国語') && <LearnCTA />}
+      {post.categories.includes('韓国語') && <LearnCTA courseId={post.course} />}
       <ShareButtons title={post.title} url={postUrl} />
       <RelatedPosts posts={post.relatedPosts} />
     </article>
