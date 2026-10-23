@@ -3,8 +3,8 @@ title: 안と못の地図｜「しない」と「できない」は日本語と�
 words:
   - { ko: 안, read: アン, mean: 〜しない（意思・選択） }
   - { ko: 못, read: モッ, mean: 〜できない（能力・事情） }
-  - { ko: 못하다, read: モタダ, mean: 苦手だ・水準に達しない }
-  - { ko: 아니다, read: アニダ, mean: 〜ではない（입니다の否定） }
+  - { ko: 못하다, read: モタダ, mean: 下手だ・能力がない }
+  - { ko: 아니다, read: アニダ, mean: 〜ではない（이다の否定） }
 quiz:
   - type: choice
     question: "「今日は行けません（事情があって）」に当たる韓国語は？"
@@ -40,7 +40,7 @@ quiz:
 <svg class="chat-avatar" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="50" fill="#06D6A0"/><text x="50" y="62" text-anchor="middle" font-size="35" fill="white" font-family="sans-serif">ジ</text></svg>
 <div class="chat-bubble-wrap">
 <div class="chat-name">ジュン</div>
-<div class="chat-bubble">区別そのものは同じだよ。「しない」が안、「できない」が못。ただ、못は動詞にしか付けられないとか、書くときにスペースが要る場面があるとか、日本語にはない細かいルールが乗ってくるんだ。</div>
+<div class="chat-bubble">区別そのものは同じだよ。「しない」が안、「できない」が못。ただ、못は動詞にしか付けられないとか、書くときにスペースの使い分けがあるとか、日本語にはない細かいルールが乗ってくるんだ。</div>
 </div>
 </div>
 
@@ -71,4 +71,4 @@ quiz:
 
 안も못も、過去形になっても形はそのままです。
 
-次のレッスンでは、この回の中心である못하다と못 하다のスペースの話に入ります。
+次のレッスンでは、안と못の使い分けを詳しく見ます。

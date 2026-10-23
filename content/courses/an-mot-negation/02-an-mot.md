@@ -4,7 +4,7 @@ words:
   - { ko: 안 가요, read: アン カヨ, mean: 行きません }
   - { ko: 못 가요, read: モッ カヨ, mean: 行けません }
   - { ko: 안 추워요, read: アン チュウォヨ, mean: 寒くありません }
-  - { ko: 못 했어요, read: モッ ヘッソヨ, mean: できませんでした }
+  - { ko: 못 했어요, read: モテッソヨ, mean: できませんでした }
 quiz:
   - type: choice
     question: "「私の意思で行かない」を表すのは？"
