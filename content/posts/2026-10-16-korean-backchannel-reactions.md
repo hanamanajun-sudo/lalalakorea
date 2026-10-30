@@ -214,8 +214,5 @@ course: backchannel-reactions
 
 * [国立国語院 標準国語大辞典](https://stdict.korean.go.kr/)（네・응・아이고・어머・맞장구の語義を確認）
 * [「ホル」から「사이다」まで！韓国人がリアルに使う感情表現14選](https://lalalakorea.com/kdrama-phrases-collection)（헐・대박など、ドラマで聞く感情表現）
-* [「주세요」と「주실래요」、どっちを使う？韓国語の依頼表現を徹底解説](https://lalalakorea.com/korean-request-levels)（間違えやすい韓国語シリーズ 第5回）
 * [「あげる・もらう・くれる」は韓国語でどう言う？주다・받다・드리다の使い分け](https://lalalakorea.com/korean-give-receive-verbs)（間違えやすい韓国語シリーズ 第6回）
-* [「急にタメ口になった!?」韓国語の敬語とパンマルの切り替え](https://lalalakorea.com/korean-polite-switching)
 * 📘 **[韓国語の相づち・リアクション表現を使いこなす（学習レッスン）](https://lalalakorea.com/learn/backchannel-reactions)**（この記事の内容を全5レッスンのクイズで練習）
-* [ハングル学習カリキュラム](https://lalalakorea.com/learn)（基本から体系的に学びたい人に）

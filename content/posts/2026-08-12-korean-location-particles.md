@@ -135,3 +135,4 @@ course: location-particles
 **参考リンク:**
 - [韓国旅行前に覚えたい！カタコト韓国語フレーズ10選](https://lalalakorea.com/korea-travel-phrases)（旅行で使える実践フレーズ）
 - [韓国語の敬語（존댓말）完全攻略ガイド](https://lalalakorea.com/jondetmal-complete-guide)（丁寧な言い方もあわせて）
+- [場所の助詞「에・에서」を使いこなす](https://lalalakorea.com/learn/location-particles)（この記事の学習レッスン）

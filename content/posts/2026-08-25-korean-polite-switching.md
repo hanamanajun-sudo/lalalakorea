@@ -170,12 +170,9 @@ course: polite-switching
 
 **参考リンク:**
 
-- [「은/는」と「이/가」、もう迷わない！主語の助詞の使い分け完全ガイド](https://lalalakorea.com/korean-subject-particles)（間違えやすい韓国語シリーズ 第2回）
-- [「에」と「에서」、もう迷わない！場所の助詞の使い分け完全ガイド](https://lalalakorea.com/korean-location-particles)（間違えやすい韓国語シリーズ 第1回）
-- [韓国語の敬語（존댓말）完全攻略ガイド](https://lalalakorea.com/jondetmal-complete-guide)（丁寧語の基本をまとめて学べます）
-- [韓国ドラマで学ぶ状況別フレーズ集](https://lalalakorea.com/kdrama-phrases-collection)（ドラマで使われる実践フレーズ）
-- [敬語・タメ口の切り替えを使いこなす（学習レッスン）](https://lalalakorea.com/learn/polite-switching)（この記事の内容をクイズで練習）
-- [ハングル学習カリキュラム](https://lalalakorea.com/learn)（基本から体系的に学びたい人に）
 - [国立国語院（국립국어원）](https://www.korean.go.kr/)（韓国語の公式な文法情報を調べられます）
 - [NAVER辞典](https://dict.naver.com/)（例文つきで意味を調べられます）
-- [우리말샘（ウリマルセム）](https://opendict.korean.go.kr/)（国立国語院の参加型辞書）
+- [韓国語の敬語（존댓말）完全攻略ガイド](https://lalalakorea.com/jondetmal-complete-guide)（丁寧語の基本をまとめて学べます）
+- [韓国ドラマで学ぶ状況別フレーズ集](https://lalalakorea.com/kdrama-phrases-collection)（ドラマで使われる実践フレーズ）
+- [「은/는」と「이/가」、もう迷わない！主語の助詞の使い分け完全ガイド](https://lalalakorea.com/korean-subject-particles)（間違えやすい韓国語シリーズ 第2回）
+- [敬語・タメ口の切り替えを使いこなす（学習レッスン）](https://lalalakorea.com/learn/polite-switching)（この記事の内容をクイズで練習）

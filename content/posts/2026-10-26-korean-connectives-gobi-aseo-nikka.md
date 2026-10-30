@@ -178,13 +178,5 @@ course: connectives-gobi
 
 * [国立国語院 標準国語大辞典](https://stdict.korean.go.kr/)（-아서/-어서・-니까・-고の語義を確認）
 * [国立国語院 韓国語基礎辞典（日本語版）](https://krdict.korean.go.kr/jpn/mainAction)（学習者向けの語義説明と例文）
-* [「에」と「에서」、もう迷わない！場所の助詞の使い分け完全ガイド](https://lalalakorea.com/korean-location-particles)（間違えやすい韓国語シリーズ 第1回）
-* [「은/는」と「이/가」、もう迷わない！主語の助詞の使い分け完全ガイド](https://lalalakorea.com/korean-subject-particles)（間違えやすい韓国語シリーズ 第2回）
-* [「急にタメ口になった!?」韓国語の敬語とパンマル、切り替えのルールを完全解説](https://lalalakorea.com/korean-polite-switching)（間違えやすい韓国語シリーズ 第3回）
-* [「ハングルは読めるのに聞き取れない…」を解決！韓国語の発音ルール（連音・濃音化）を徹底解説](https://lalalakorea.com/korean-pronunciation-rules)（間違えやすい韓国語シリーズ 第4回）
-* [「주세요」と「주실래요」、どっちを使う？韓国語の依頼表現を徹底解説](https://lalalakorea.com/korean-request-levels)（間違えやすい韓国語シリーズ 第5回）
-* [「あげる・もらう・くれる」は韓国語でどう言う？주다・받다・드리다の使い分け](https://lalalakorea.com/korean-give-receive-verbs)（間違えやすい韓国語シリーズ 第6回）
-* [韓国語の相づち・リアクション表現まとめ](https://lalalakorea.com/korean-backchannel-reactions)（間違えやすい韓国語シリーズ 第7回）
-* [「も」「だけ」「しか」は韓国語でどう言う？ — 助詞ド・マン・パッケの使い分け](https://lalalakorea.com/korean-particles-do-man-bakke)（間違えやすい韓国語シリーズ 第8回）
 * [「안」と「못」はどう違う？ — 「しない」と「できない」、スペースひとつの落とし穴](https://lalalakorea.com/korean-an-mot-negation)（間違えやすい韓国語シリーズ 第9回）
-* [ハングル学習カリキュラム](https://lalalakorea.com/learn)（基本から体系的に学びたい人に）
+* [韓国語の接続語尾 고・아서/어서・니까を使い分ける](https://lalalakorea.com/learn/connectives-gobi)（この記事の学習レッスン）

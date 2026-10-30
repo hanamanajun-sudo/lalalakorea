@@ -188,12 +188,7 @@ course: give-receive-verbs
 
 **参考リンク:**
 
-* [「에」と「에서」、もう迷わない！場所の助詞の使い分け完全ガイド](https://lalalakorea.com/korean-location-particles)（間違えやすい韓国語シリーズ 第1回）
-* [「은/는」と「이/가」、もう迷わない！主語の助詞の使い分け完全ガイド](https://lalalakorea.com/korean-subject-particles)（間違えやすい韓国語シリーズ 第2回）
-* [「急にタメ口になった!?」韓国語の敬語とパンマルの切り替え](https://lalalakorea.com/korean-polite-switching)（間違えやすい韓国語シリーズ 第3回）
-* [「ハングルは読めるのに聞き取れない…」を解決！韓国語の発音ルール](https://lalalakorea.com/korean-pronunciation-rules)（間違えやすい韓国語シリーズ 第4回）
-* [「주세요」と「주실래요」、どっちを使う？韓国語の依頼表現を徹底解説](https://lalalakorea.com/korean-request-levels)（間違えやすい韓国語シリーズ 第5回）
-* 📘 **[韓国語の授受表現（주다・받다・드리다）を使いこなす（学習レッスン）](https://lalalakorea.com/learn/give-receive-verbs)**（この記事の内容を全6レッスンのクイズで練習）
-* [ハングル学習カリキュラム](https://lalalakorea.com/learn)（基本から体系的に学びたい人に）
 * [国立国語院 標準国語大辞典](https://stdict.korean.go.kr/)（韓国語の公式な語義を調べられます）
 * [NAVER辞典](https://dict.naver.com/)（例文つきで意味を調べられます）
+* [「주세요」と「주실래요」、どっちを使う？韓国語の依頼表現を徹底解説](https://lalalakorea.com/korean-request-levels)（間違えやすい韓国語シリーズ 第5回）
+* 📘 **[韓国語の授受表現（주다・받다・드리다）を使いこなす（学習レッスン）](https://lalalakorea.com/learn/give-receive-verbs)**（この記事の内容を全6レッスンのクイズで練習）

@@ -184,12 +184,5 @@ course: do-man-bakke
 **参考リンク:**
 
 * [国立国語院 標準国語大辞典](https://stdict.korean.go.kr/)（밖에・도・만の語義を確認）
-* [「에」と「에서」、もう迷わない！場所の助詞の使い分け完全ガイド](https://lalalakorea.com/korean-location-particles)（間違えやすい韓国語シリーズ 第1回）
-* [「은/는」と「이/가」、もう迷わない！主語の助詞の使い分け完全ガイド](https://lalalakorea.com/korean-subject-particles)（間違えやすい韓国語シリーズ 第2回）
-* [「急にタメ口になった!?」韓国語の敬語とパンマル、切り替えのルールを完全解説](https://lalalakorea.com/korean-polite-switching)（間違えやすい韓国語シリーズ 第3回）
-* [「ハングルは読めるのに聞き取れない…」を解決！韓国語の発音ルール（連音・濃音化）を徹底解説](https://lalalakorea.com/korean-pronunciation-rules)（間違えやすい韓国語シリーズ 第4回）
-* [「주세요」と「주실래요」、どっちを使う？韓国語の依頼表現を徹底解説](https://lalalakorea.com/korean-request-levels)（間違えやすい韓国語シリーズ 第5回）
-* [「あげる・もらう・くれる」は韓国語でどう言う？주다・받다・드리다の使い分け](https://lalalakorea.com/korean-give-receive-verbs)（間違えやすい韓国語シリーズ 第6回）
-* [韓国語の相づち・リアクション表現まとめ](https://lalalakorea.com/korean-backchannel-reactions)（間違えやすい韓国語シリーズ 第7回）
+* [韓国語の相づち・リアクション表現まとめ — 「へえ」「そうなんだ」は何て言う？](https://lalalakorea.com/korean-backchannel-reactions)（間違えやすい韓国語シリーズ 第7回）
 * 📘 **[韓国語の助詞「도・만・밖에」を使いこなす（学習レッスン）](https://lalalakorea.com/learn/do-man-bakke)**（この記事の内容を全5レッスンのクイズで練習）
-* [ハングル学習カリキュラム](https://lalalakorea.com/learn)（基本から体系的に学びたい人に）
