@@ -1,0 +1,17 @@
+{
+  "id": "mistake-series-review",
+  "title": "韓国語のつまずき12回分をまとめて確認する",
+  "emoji": "📋",
+  "icon": "list-checks",
+  "level": "初中級",
+  "category": "grammar",
+  "date": "2026-11-04",
+  "description": "「日本人生徒が間違えやすい韓国語シリーズ」全12回の落とし穴を、レッスン単位に圧縮して復習するコースです。助詞・敬語・発音・依頼・授受・否定・接続・助数詞・受け身を5つのレッスンに分け、最後にクイズで仕上げます。",
+  "lessons": [
+    "01-intro",
+    "02-particles",
+    "03-speech-and-sound",
+    "04-verb-forms",
+    "05-final"
+  ]
+}
