@@ -7,6 +7,8 @@ categories:
   - 韓国旅行
 lang: ja
 excerpt: "入国カードは電子申請が必須で、到着3日前からスマホで出せます。両替は空港で全額せず、必要な分だけ。屋台と市場はまだ現金のままの店があります。入国審査のあとに済ませる順番をまとめました。"
+thumbnail: /wp-content/uploads/korean-arrival-immigration-money-guide-thumbnail.webp
+thumbnailAlt: 夕焼けの空港の駐機場に停まる飛行機 — 韓国到着後の入国審査・両替・交通カードの順番
 ---
 
 <div class="chat-msg">
