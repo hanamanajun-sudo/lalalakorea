@@ -143,8 +143,8 @@ thumbnailAlt: 夕焼けの空港の駐機場に停まる飛行機 — 韓国到�
 <div class="learn-cta-emoji"><i class="ph-fill ph-airplane-tilt"></i></div>
 <div class="learn-cta-body">
 <div class="learn-cta-title">空港と両替所で使う韓国語、練習してみませんか？</div>
-<p>「어디서 환전해요?（どこで両替できますか）」「카드 되나요?（カード使えますか）」「현금으로 할게요（現金で払います）」まで、到着直後にそのまま使える18の言葉を、クイズ付きのレッスンで練習できます。</p>
-<a href="/learn/packs/korean-airport-money" class="learn-cta-btn">無料でレッスンを受ける <i class="ph ph-arrow-right"></i></a>
+<p>「어디서 환전해요?（どこで両替できますか）」「카드 되나요?（カード使えますか）」「현금으로 할게요（現金で払います）」など、到着直後にそのまま使える言葉を単語帳で確認できます。復習カードに追加すれば、あとから繰り返し練習できます。</p>
+<a href="/learn/packs/korean-airport-money" class="learn-cta-btn">無料で単語パックを見る <i class="ph ph-arrow-right"></i></a>
 </div>
 </div>
 
